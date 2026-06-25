@@ -4,28 +4,35 @@ interface Props {
 }
 const { lang = 'en' } = Astro.props;
 const base = import.meta.env.BASE_URL;
+const prefix = `${base}${lang}/`;
+const otherLang = lang === 'en' ? 'es' : 'en';
+const otherLangLabel = lang === 'en' ? 'Español' : 'English';
 
 const nav = [
-  { label: 'HOME', slug: 'home' },
-  { label: 'About', slug: 'about' },
-  { label: 'Angels Swing', slug: 'swing' },
-  { label: 'JAPONÉSON', slug: 'japoneson' },
-  { label: 'The Mystery Entertainment', slug: 'mystery' },
-  { label: 'Murakami Mambo!!', slug: 'murakami' },
-  { label: 'Cupie Danny', slug: 'cupie' },
-  { label: 'Blog', slug: 'blog-2' },
+  { label: 'About', slug: 'about', hasChildren: true },
+  { label: 'Angels Swing', slug: 'swing', hasChildren: true },
+  { label: 'JAPONÉSON', slug: 'japoneson', hasChildren: false },
+  { label: 'Mystery', slug: 'mystery', hasChildren: true },
+  { label: '★MURAKAMI MAMBO', slug: 'murakami', hasChildren: true },
+  { label: 'Cupie Danny', slug: 'cupie', hasChildren: true },
+  { label: 'BLOG', slug: 'blog-2', hasChildren: false },
 ];
-
-const prefix = `${base}${lang}/`;
 ---
 
 <header class="site-header">
-  <div class="container">
-    <a class="logo" href={prefix}>Japonéson</a>
-    <nav>
+  <div class="lang-bar">
+    <a href={`${base}${otherLang}/`} class="lang-link">{otherLangLabel}</a>
+  </div>
+  <div class="header-main">
+    <a class="logo" href={prefix}>Shoko "Seina" Shiraishi</a>
+    <nav aria-label="Primary">
       <ul>
         {nav.map((n) => (
-          <li><a href={`${prefix}${n.slug}/`}>{n.label}</a></li>
+          <li>
+            <a href={`${prefix}${n.slug}/`}>
+              {n.label}{n.hasChildren && <span class="caret"> ▾</span>}
+            </a>
+          </li>
         ))}
       </ul>
     </nav>
@@ -34,36 +41,68 @@ const prefix = `${base}${lang}/`;
 
 <style>
   .site-header {
-    border-bottom: 1px solid #eee;
-    padding: 1rem 0;
+    background: var(--color-bg);
+    padding: 0;
   }
-  .container {
+  .lang-bar {
+    text-align: right;
+    padding: 0.5rem 1.5rem 0;
+    max-width: var(--container-max);
+    margin: 0 auto;
+  }
+  .lang-link {
+    font-family: var(--font-nav);
+    font-size: 0.95rem;
+    color: var(--color-muted);
+    text-decoration: none;
+  }
+  .lang-link:hover { color: var(--color-accent); }
+
+  .header-main {
+    max-width: var(--container-max);
+    margin: 0 auto;
+    padding: 0.25rem 1.5rem 1rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 2rem;
+    border-bottom: 1px solid rgba(200, 16, 46, 0.3);
     flex-wrap: wrap;
   }
   .logo {
-    font-weight: 700;
-    font-size: 1.3rem;
+    font-family: var(--font-display-serif);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 2rem;
+    color: var(--color-accent);
     text-decoration: none;
-    color: inherit;
+    letter-spacing: 0.01em;
   }
   nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
-    gap: 1rem;
+    gap: 1.4rem;
     flex-wrap: wrap;
   }
   nav a {
+    font-family: var(--font-nav);
+    font-size: 1.1rem;
+    color: var(--color-text);
     text-decoration: none;
-    color: inherit;
-    font-size: 0.95rem;
+    letter-spacing: 0.02em;
   }
-  nav a:hover {
-    color: var(--color-link);
+  nav a:hover { color: var(--color-accent); }
+  .caret {
+    font-size: 0.8em;
+    color: var(--color-muted);
+  }
+
+  @media (max-width: 720px) {
+    .header-main { justify-content: center; }
+    .logo { font-size: 1.5rem; }
+    nav ul { justify-content: center; gap: 1rem; }
+    nav a { font-size: 0.95rem; }
   }
 </style>

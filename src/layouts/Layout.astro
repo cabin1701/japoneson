@@ -3,8 +3,7 @@ interface Props {
   title?: string;
   lang?: 'en' | 'es';
 }
-const { title = 'Japonéson', lang = 'en' } = Astro.props;
-const base = import.meta.env.BASE_URL;
+const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
 ---
 
 <!doctype html>
@@ -14,6 +13,12 @@ const base = import.meta.env.BASE_URL;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@400;500;600&family=Baumans&family=Changa:wght@400;500;600&family=Cherry+Swash:wght@400;700&family=Cinzel:wght@400;500;600;700&family=Cinzel+Decorative:wght@400;700&family=Gabriela&family=Pathway+Gothic+One&family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap"
+    />
   </head>
   <body>
     <slot />
@@ -22,23 +27,104 @@ const base = import.meta.env.BASE_URL;
 
 <style is:global>
   :root {
-    --color-text: #222;
-    --color-bg: #fff;
-    --color-link: #1a4480;
+    --color-bg: #F0F8FF;            /* AliceBlue */
+    --color-text: #333;
+    --color-accent: #c8102e;        /* crimson red */
+    --color-rule: #c8102e;
+    --color-muted: #666;
+    --font-body: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans JP", sans-serif;
+    --font-nav: "Pathway Gothic One", sans-serif;
+    --font-display-serif: "Simonetta", serif;
+    --font-display-cinzel: "Cinzel", serif;
+    --font-display-cinzel-dec: "Cinzel Decorative", serif;
+    --font-display-cherry: "Cherry Swash", cursive;
+    --font-display-baumans: "Baumans", cursive;
+    --font-italic-quote: "Simonetta", serif;
+    --font-section: "Asap Condensed", sans-serif;
+    --container-max: 1100px;
   }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
   body {
-    margin: 0;
-    font-family: system-ui, -apple-system, "Helvetica Neue", sans-serif;
+    font-family: var(--font-body);
+    font-size: 18px;
+    line-height: 1.6;
     color: var(--color-text);
     background: var(--color-bg);
-    line-height: 1.6;
   }
+
   a {
-    color: var(--color-link);
+    color: var(--color-accent);
+    text-decoration: none;
   }
+  a:hover { text-decoration: underline; }
+
   .container {
-    max-width: 900px;
+    max-width: var(--container-max);
     margin: 0 auto;
     padding: 1rem 1.5rem;
+  }
+
+  /* horizontal red rule (Projects-section style divider) */
+  .rule {
+    border: 0;
+    border-top: 1px solid var(--color-rule);
+    opacity: 0.5;
+    margin: 2.5rem 0;
+  }
+
+  /* section title (large serif uppercase, Cinzel Decorative) */
+  .section-title {
+    font-family: var(--font-display-cinzel-dec);
+    font-weight: 700;
+    font-size: 2.5rem;
+    text-align: center;
+    color: var(--color-text);
+    letter-spacing: 0.05em;
+    margin: 0 0 1rem;
+  }
+
+  /* page H1 (article title) */
+  article h1 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 2.2rem;
+    color: var(--color-accent);
+    margin: 0 0 1.5rem;
+    text-align: center;
+  }
+
+  article h2 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 500;
+    font-size: 1.6rem;
+    margin: 2rem 0 0.75rem;
+  }
+  article h3 {
+    font-family: var(--font-section);
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin: 1.5rem 0 0.5rem;
+  }
+
+  article img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+  }
+
+  article p {
+    margin: 0 0 1.2rem;
+  }
+
+  blockquote {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    color: var(--color-muted);
+    border-left: 3px solid var(--color-rule);
+    padding-left: 1rem;
+    margin: 1.5rem 0;
   }
 </style>

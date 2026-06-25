@@ -5,42 +5,51 @@ interface Props {
 const { lang = 'en' } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const prefix = `${base}${lang}/`;
+
+const t = lang === 'es'
+  ? { contact: 'Contacto', privacy: 'Política de privacidad', terms: 'Términos de uso' }
+  : { contact: 'Contact', privacy: 'Privacy Policy', terms: 'Terms of use' };
 ---
 
 <footer class="site-footer">
+  <hr class="rule" />
   <div class="container">
-    <ul>
-      <li><a href={`${prefix}contact/`}>Contact</a></li>
-      <li><a href={`${prefix}privacy-policy/`}>Privacy</a></li>
-      <li><a href={`${prefix}terms-and-conditions/`}>Terms</a></li>
+    <ul class="footer-nav">
+      <li><a href={`${prefix}contact/`}>{t.contact}</a></li>
+      <li><a href={`${prefix}privacy-policy/`}>{t.privacy}</a></li>
+      <li><a href={`${prefix}terms-and-conditions/`}>{t.terms}</a></li>
     </ul>
-    <p>&copy; {new Date().getFullYear()} Japonéson</p>
+    <p class="footer-copy">&copy; {new Date().getFullYear()} Shoko "Seina" Shiraishi</p>
   </div>
 </footer>
 
 <style>
   .site-footer {
-    border-top: 1px solid #eee;
-    padding: 2rem 0;
     margin-top: 4rem;
-    font-size: 0.9rem;
+    padding-bottom: 2rem;
   }
-  ul {
+  .footer-nav {
     list-style: none;
     padding: 0;
-    margin: 0 0 0.5rem;
+    margin: 1rem 0;
     display: flex;
-    gap: 1rem;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
   }
-  a {
-    color: inherit;
+  .footer-nav a {
+    font-family: var(--font-nav);
+    font-size: 1rem;
+    color: var(--color-text);
     text-decoration: none;
   }
-  a:hover {
-    text-decoration: underline;
-  }
-  p {
+  .footer-nav a:hover { color: var(--color-accent); }
+  .footer-copy {
+    text-align: center;
+    font-family: var(--font-display-serif);
+    font-style: italic;
+    color: var(--color-muted);
+    font-size: 0.9rem;
     margin: 0;
-    color: #888;
   }
 </style>
