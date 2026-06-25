@@ -1,23 +1,14 @@
 ---
-import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
-
-const all = await getCollection('en');
-const home = all.find((e) => e.data.slug === 'home');
-const { Content } = home ? await render(home) : { Content: null };
+import ProjectsGrid from '../../components/ProjectsGrid.astro';
 ---
 
-<Layout title="Japonéson" lang="en">
+<Layout title='Shoko "Seina" Shiraishi' lang="en">
   <Header lang="en" />
-  <main class="container">
-    {home && (
-      <article>
-        <h1>{home.data.title}</h1>
-        <Content />
-      </article>
-    )}
+  <main>
+    <ProjectsGrid />
   </main>
   <Footer lang="en" />
 </Layout>
