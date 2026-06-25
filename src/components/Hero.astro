@@ -5,7 +5,7 @@ const heroImage = 'https://en.japoneson.com/wp-content/uploads/2026/02/IMG_1842_
 
 <section class="hero" style={`background-image: url('${heroImage}');`}>
   <div class="hero-content">
-    <p class="kicker">VOCALIST . CREATOR . HISTORICAL EXPLORER</p>
+    <p class="kicker">VOCALIST<span class="dot">.</span>CREATOR<span class="dot">.</span>HISTORICAL EXPLORER</p>
     <h1 class="hero-title">Shoko "Seina" Shiraishi</h1>
     <div class="hero-cta">
       <a class="btn" href={`${base}en/about/`}>About Seina</a>
@@ -31,12 +31,17 @@ const heroImage = 'https://en.japoneson.com/wp-content/uploads/2026/02/IMG_1842_
     padding: 9rem 1.5rem 4rem;
   }
   .kicker {
-    font-family: var(--font-body);  /* system, matches source */
-    font-size: 25px;
+    font-family: var(--font-display-cinzel);  /* Cinzel — same as buttons */
+    font-size: 22px;
     font-weight: 500;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.08em;
     color: var(--color-bg);  /* AliceBlue */
     margin: 0 0 1.5rem;
+  }
+  .dot {
+    color: var(--color-accent);  /* red */
+    margin: 0 0.4em;
+    font-weight: 700;
   }
   .hero-title {
     font-family: var(--font-display-serif);  /* Simonetta */
