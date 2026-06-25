@@ -1,0 +1,92 @@
+---
+const base = import.meta.env.BASE_URL;
+// background image (sourced from en.japoneson.com; migrate to local later)
+const heroImage = 'https://en.japoneson.com/wp-content/uploads/2026/02/IMG_1842_plus_3-1.jpg';
+---
+
+<section class="hero" style={`background-image: url('${heroImage}');`}>
+  <div class="hero-content">
+    <p class="kicker">VOCALIST <span class="dot">.</span> CREATOR <span class="dot">.</span> HISTORICAL EXPLORER</p>
+    <h1 class="hero-title">Shoko "Seina" Shiraishi</h1>
+    <div class="hero-cta">
+      <a class="btn" href={`${base}en/about/`}>About Seina</a>
+      <a class="btn" href={`${base}en/about/timeline/`}>Timeline</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .hero {
+    width: 100%;
+    min-height: 600px;
+    background-size: cover;
+    background-position: center right;
+    background-color: #000;
+    background-repeat: no-repeat;
+    position: relative;
+    color: white;
+  }
+  .hero-content {
+    max-width: var(--container-max);
+    margin: 0 auto;
+    padding: 7rem 1.5rem 4rem;
+    /* push text to the left, photo dominates right */
+  }
+  .kicker {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: white;
+    margin: 0 0 1.5rem;
+  }
+  .dot {
+    color: var(--color-accent);
+    margin: 0 0.4em;
+    font-weight: 400;
+  }
+  .hero-title {
+    font-family: var(--font-display-serif);  /* Simonetta */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 58px;
+    color: var(--color-accent);
+    margin: 0 0 2rem;
+    line-height: 1.1;
+    text-align: left;
+    letter-spacing: 0.01em;
+  }
+  .hero-cta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    align-items: flex-start;
+  }
+  .btn {
+    display: inline-block;
+    font-family: var(--font-display-cinzel);
+    font-weight: 500;
+    font-size: 18px;
+    color: #000;
+    background: var(--color-bg);
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 10px 28px;
+    text-decoration: none;
+    letter-spacing: 0.05em;
+    text-transform: none;
+    min-width: 160px;
+    text-align: center;
+  }
+  .btn:hover {
+    background: #000;
+    color: var(--color-bg);
+  }
+
+  @media (max-width: 720px) {
+    .hero { min-height: 480px; background-position: center; }
+    .hero-content { padding: 4rem 1.5rem; }
+    .hero-title { font-size: 40px; }
+    .kicker { font-size: 14px; }
+  }
+</style>
