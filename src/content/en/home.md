@@ -7,7 +7,7 @@ date: 2022-10-07 08:48:37
 source_url: https://en.japoneson.com/
 ---
 
-##### VOCALIST . CREATOR . HISTORICAL EXPLORER
+##### Vocalist . Creator . Historical Explore
 
 ## Shoko "Seina" Shiraishi
 
