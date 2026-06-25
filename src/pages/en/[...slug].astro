@@ -4,12 +4,25 @@ import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
+import ProjectHero from '../../components/ProjectHero.astro';
 import { buildPath, buildBreadcrumb } from '../../lib/pageTree';
 
 export async function getStaticPaths() {
+  // URL paths that have their own crafted index.astro page (avoid route collision).
+  // Uses full path (not just slug) so e.g. /en/murakami/kyoko/ (the film hub)
+  // can be crafted while /en/murakami/music/kyoko/ and /en/murakami/tosco/kyoko/
+  // continue to render via the dynamic route.
+  const CRAFTED_PATHS = new Set([
+    'home',
+    'murakami',
+    'murakami/tosco',
+    'murakami/music',
+    'murakami/kyoko',
+    'murakami/books',
+  ]);
   const all = await getCollection('en');
   return all
-    .filter((e) => e.data.slug !== 'home') // home is rendered at /en/ root via index.astro
+    .filter((e) => !CRAFTED_PATHS.has(buildPath(e, all)))
     .map((entry) => ({
       params: { slug: buildPath(entry, all) },
       props: { entry, all },
@@ -23,10 +36,21 @@ const trail = buildBreadcrumb(entry, all);
 
 <Layout title={`${entry.data.title} — Japonéson`} lang="en">
   <Header lang="en" />
+  {entry.data.hero_image && (
+    <ProjectHero
+      kicker={entry.data.hero_kicker}
+      title={entry.data.title}
+      subtitle={entry.data.hero_subtitle}
+      image={entry.data.hero_image}
+      align="center"
+      height={entry.data.hero_height ?? 480}
+      fit={entry.data.hero_fit ?? 'cover'}
+    />
+  )}
   <main class="container">
     <Breadcrumb trail={trail} lang="en" />
     <article>
-      <h1>{entry.data.title}</h1>
+      {!entry.data.hero_image && <h1>{entry.data.title}</h1>}
       <Content />
     </article>
   </main>

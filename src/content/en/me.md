@@ -5,13 +5,15 @@ wp_id: 17287
 wp_parent: 17150
 date: 2024-02-17 17:17:47
 source_url: https://en.japoneson.com/murakami/kyoko/me/
+hero_image: "https://en.japoneson.com/wp-content/uploads/2026/05/IMAGE0078.jpg"
+hero_kicker: "New York, 1990's"
+hero_subtitle: "Cuba, 2014 - 2018. Now, I'm OK."
+hero_height: 920
 ---
 
-![](https://ja.japoneson.com/wp-content/uploads/2026/05/IMAGE0078-1024x686.jpg)
 
-## The “wounded Japanese” inside me
 
-This is my essay that connects to "[The New Other, Cuba](https://ja.japoneson.com/en/ryu/cuba/kyoko/newother)".
+This is my essay that connects to "[The New Other, Cuba](http://localhost:4321/japoneson/en/murakami/kyoko/newother/)".
 
 I was born in Kitakyushu City, Fukuoka Prefecture in 1969, 17 years after Ryu Murakami was born in 1952 and 24 and a half years after the war ended. There were no military bases in the town where I grew up, and World War II seemed like a distant event that had no relation to me.
 
@@ -37,26 +39,6 @@ In Cuba, there were many difficult and unpleasant things. My Cuban friends said,
 
 “Anything is an experience, I am enjoying new experiences,” I said with a smile. Through experience, people gain wisdom and the strength to live.
 
-### Mr. Murakami, [your words](https://japoneson.com/angelsswing/dream/ryu) saved me. Thank you.
 
-Sr. Murakami, sus palabras me salvaron. Gracias.
 
-![](https://ja.japoneson.com/wp-content/uploads/2026/05/IMG_2210-1024x768.jpg)
-[![](https://ja.japoneson.com/wp-content/uploads/2026/05/kyoko01-e1779687767424-600x600.jpg)](https://ja.japoneson.com/murakamikyoko/newother)
-
-### [The New Other, Cuba](https://ja.japoneson.com/murakamikyoko/newother)
-
-We come to know ourselves through our relationships with others, and with another new other, our previous relationships become objective.| Ryu Murakami
-from "KYOKO's trajectory"
-
-[![](https://ja.japoneson.com/wp-content/uploads/2026/05/IMAGE0047-e1779688101635-768x768.jpg)](https://ja.japoneson.com/murakamime)
-
-### [The “wounded Japanese” inside me](https://ja.japoneson.com/murakamime)
-
-The ”wounded Japanese inside me'' was a "Japanese'' who felt a deep sense of guilt over the Pacific War, was unable to feel proud of his country, and was unable to love it. This is an essay that connects to “The New Other, Cuba“.
-
-[![](https://ja.japoneson.com/wp-content/uploads/2026/05/kyoko-dancin-BW-e1779687636421-768x768.jpg)](https://ja.japoneson.com/murakamiboku)
-
-### ["KYOKO" is the story of Ryu Murakami, himself.](https://ja.japoneson.com/murakamiboku)
-
-I felt myself returning to the"spirit" I had when I wrote "Almost Transparent Blue.''| Ryu Murakami
+![](https://en.japoneson.com/wp-content/uploads/2026/05/IMG_2210-1024x768.jpg)

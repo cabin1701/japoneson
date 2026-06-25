@@ -9,7 +9,7 @@ source_url: https://en.japoneson.com/swing/dream/letters/
 
 ## Thanks letters from Nursing Homes
 
-![](https://ja.japoneson.com/wp-content/uploads/2018/04/letters.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2018/04/letters.jpg)
 
 Dear “Seina”
 

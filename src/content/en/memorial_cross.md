@@ -105,8 +105,8 @@ Rest in peace and sing for people in heaven.
 I'll be seeing you in every lovely song that you sing.  
 Angels Swing / Seina
 
-[![](https://ja.japoneson.com/wp-content/uploads/2026/05/monica.jpg)](https://ja.japoneson.com/swing/for-the-boys)
+[![](https://en.japoneson.com/wp-content/uploads/2026/05/monica.jpg)](https://en.japoneson.com/swing/for-the-boys)
 
-### ["For The Boys" Tribute to Ms. Monica Lewis](https://ja.japoneson.com/swing/for-the-boys)
+### ["For The Boys" Tribute to Ms. Monica Lewis](https://en.japoneson.com/swing/for-the-boys)
 
 In 1951, my friend Ms. Monica Lewis (1922-2015) entertained “for the boys” who served in the Korean War with Danny Kaye.

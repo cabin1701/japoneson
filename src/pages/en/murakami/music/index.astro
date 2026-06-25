@@ -1,0 +1,318 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+
+type Record = {
+  image: string;
+  title: string;
+  artist: string;
+  year: string;
+  href?: string; // undefined = display only
+};
+
+const records9200: Record[] = [
+  { image: IMG('2024/01/1992_nueva.jpg'),                title: 'Nueva Generación',                    artist: 'NG La Banda',                                year: '1992', href: '/en/murakami/music/nueva-generacion/' },
+  { image: IMG('2024/02/1993NG.jpg'),                    title: 'Cabaret Panorámico / Échale Limón',   artist: 'NG La Banda',                                year: '1993', href: '/en/murakami/music/cabaret_panoramico/' },
+  { image: IMG('2024/01/1993-live.jpg'),                 title: 'Live in Japan',                       artist: 'NG La Banda',                                year: '1993', href: '/en/murakami/music/1993_live_in-japan/' },
+  { image: IMG('2024/02/1993_Paulo.jpg'),                title: 'No Hace Falta Pensar La Muerte',      artist: 'Paulo y Su Elite',                           year: '1993', href: '/en/murakami/music/1993_no-hace-falta/' },
+  { image: IMG('2024/01/1993-xiomara-laugart_500.jpg'),  title: "You Don't Know What Love Is",         artist: 'Xiomara Laugart',                            year: '1993', href: '/en/murakami/music/you-dont-know-what-love-is/' },
+  { image: IMG('2024/02/1994-los-vanvan.jpg'),           title: 'Los Van Van 1974',                    artist: 'Los Van Van',                                year: '1994', href: '/en/murakami/music/1994-los-van-van-1974/' },
+  { image: IMG('2024/02/1995-bruja.jpg'),                title: 'La Bruja',                            artist: 'NG La Banda',                                year: '1994', href: '/en/murakami/music/1995-la-bruja/' },
+  { image: IMG('2024/01/1994-jose-luis_500.jpg'),        title: '"The Man" who called "TOSCO"',        artist: 'José Luis Cortés',                           year: '1994', href: '/en/murakami/music/the-man-who-called-tosco/' },
+  { image: IMG('2024/02/1995canzone.jpg'),               title: 'Cuban Canzone',                       artist: 'Estrellas de Cuba',                          year: '1995', href: '/en/murakami/music/1995-cuban-canzone/' },
+  { image: IMG('2024/02/1995_NG-House.jpg'),             title: 'Cuban House Music',                   artist: 'NG La Banda',                                year: '1995', href: '/en/murakami/music/1995-cuban-house-music/' },
+  { image: IMG('2024/02/1995NG-rock.jpg'),               title: 'Cuban Rock Spirit',                   artist: 'NG La Banda',                                year: '1995', href: '/en/murakami/music/1995-cuban-rock-sprit/' },
+  { image: IMG('2024/01/1995-KYOKO_500.jpg'),            title: 'KYOKO Original Sound Track',          artist: 'KYOKO OST',                                  year: '1995–1996', href: '/en/murakami/music/kyoko-01/' },
+  { image: IMG('2024/02/1996_javierolmo.jpg'),           title: 'Historia de un Amor',                 artist: 'Javier Olmo',                                year: '1996', href: '/en/murakami/music/1997-historia-de-un-amor/' },
+  { image: IMG('2024/02/1997-los-van-van.jpg'),          title: 'Gentle & Sexy — The Best of Los Van Van', artist: 'Los Van Van',                            year: '1997', href: '/en/murakami/music/1997_gentle_and_sexy/' },
+  { image: IMG('2024/02/1995_NG-best.jpg'),              title: "MURAKAMI's NG La Banda Best",         artist: 'NG La Banda',                                year: '1997', href: '/en/murakami/music/1997-ng-la-banda-best/' },
+  { image: IMG('2024/02/1998_javier_sonalson.jpg'),      title: 'Son al Son',                          artist: 'Javier Olmo',                                year: '1998', href: '/en/murakami/music/son-al-son/' },
+];
+
+
+const records0111: Record[] = [
+  { image: IMG('2024/01/2007_Di-Que-Piensas.jpg'),       title: 'Di Que Piensas',                      artist: 'Tania Pantoja',                              year: '2007' },
+  { image: IMG('2024/01/2007.jpg'),                      title: 'Piano de Solar',                      artist: 'Lázaro Valdés',                              year: '2007' },
+  { image: IMG('2024/01/2008_Bolero.jpg'),               title: 'BOLERO',                              artist: 'Lázaro Valdés',                              year: '2008' },
+  { image: IMG('2024/01/2009_RCN.jpg'),                  title: 'RCN Salsa Best',                      artist: "Ryu's Cuban Night",                          year: '2009' },
+  { image: IMG('2024/01/2009_besame.jpg'),               title: 'Bésame Mucho',                        artist: 'Tania Pantoja',                              year: '2009' },
+  { image: IMG('2024/01/2010_amapola.jpg'),              title: 'AMAPOLA',                             artist: 'Tania Pantoja',                              year: '2010' },
+  { image: IMG('2024/01/2011_tania_Haila.jpg'),          title: 'TANIA vs HAILA',                      artist: 'Tania Pantoja / Haila Mompié',               year: '2011' },
+  { image: IMG('2024/01/2011_como-fue.jpg'),             title: 'Como Fue',                            artist: 'Tania Pantoja',                              year: '2011' },
+];
+
+const final2014: Record = {
+  image: IMG('2024/01/2014_ryus-cuban.jpg'),
+  title: "Ryu's Cuban Night 20th Anniversary",
+  artist: 'Various Artists',
+  year: '2014',
+};
+
+function resolveHref(href: string): string {
+  if (href.startsWith('http')) return href;
+  return base.replace(/\/$/, '') + href;
+}
+
+const trail = [
+  { slug: 'home', title: 'HOME', path: `${base}en/` },
+  { slug: 'murakami', title: 'MURAKAMI MAMBO !!', path: `${base}en/murakami/` },
+  { slug: 'music', title: 'Cuban Music — MURAKAMI Label', path: `${base}en/murakami/music/` },
+];
+---
+
+<Layout title='Cuban Music — MURAKAMI Label — Japonéson' lang="en">
+  <Header lang="en" />
+  <main>
+    <ProjectHero
+      kicker="MURAKAMI LABEL · PERÍODO ESPECIAL"
+      title="Cuban Music"
+      subtitle="The records Ryu Murakami produced and released through the Special Period — and after."
+      image="https://en.japoneson.com/wp-content/uploads/2024/02/1993_Live-in-PHOTO-1.jpg"
+      align="center"
+      height={900}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="en" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <p class="prompt">
+          In the 1990s, during the <em>"Período Especial"</em> — the most severe era
+          following the collapse of the Soviet Union — Ryu Murakami conducted many
+          recordings and filled a void in Cuban music history.
+        </p>
+
+        <blockquote class="ryu-quote">
+          <p>
+            In 1991, I visited Cuba for the first time. As I kept going back, I
+            realized something. Cuban music is not just "folk music" or "Salsa."
+            It is much more complex and deep. It has a long history and diversity,
+            just like Black music in the US.
+          </p>
+          <p>
+            At that time, I was bored with Rock and Jazz, and I only listened to
+            Classical music. But slowly, I became a prisoner of the "magic" of Cuban
+            music.
+          </p>
+          <p>
+            It is impossible to explain its charm in one word. First of all, the
+            people there need music. And the level of the musicians is incredibly
+            high. After the revolution, they receive top-level classical education
+            at art schools. Even violinists or saxophonists must play the piano.
+          </p>
+          <p>
+            When these high-level musicians play, it creates a "catharsis." Most
+            Japanese people don't have this experience, so it is very hard to
+            explain the charm of Cuban music. I can only say one thing:
+            <strong>"Please, just go and see the stage."</strong>
+          </p>
+          <footer>— Ryū Murakami, <em>Life is a Carnival</em> (Single Cut, 1996)</footer>
+        </blockquote>
+      </div>
+    </section>
+
+    <section class="era">
+      <h2 class="era-title">1992 — 2000</h2>
+      <div class="records">
+        {records9200.map((r) => (
+          <a class="record" href={r.href ? resolveHref(r.href) : '#'}>
+            <div class="record-img"><img src={r.image} alt={r.title} loading="lazy" /></div>
+            <h3 class="record-title">{r.title}</h3>
+            <p class="record-meta">{r.artist}<br /><span class="year">({r.year})</span></p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="era">
+      <h2 class="era-title">2001 — 2011</h2>
+      <div class="records">
+        {records0111.map((r) => (
+          <div class="record no-link">
+            <div class="record-img"><img src={r.image} alt={r.title} loading="lazy" /></div>
+            <h3 class="record-title">{r.title}</h3>
+            <p class="record-meta">{r.artist}<br /><span class="year">({r.year})</span></p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="era final">
+      <h2 class="era-title">2014 · The Final</h2>
+      <div class="records final-grid">
+        <div class="record no-link">
+          <div class="record-img"><img src={final2014.image} alt={final2014.title} loading="lazy" /></div>
+          <h3 class="record-title">{final2014.title}</h3>
+          <p class="record-meta">{final2014.artist}<br /><span class="year">({final2014.year})</span></p>
+        </div>
+      </div>
+      <div class="final-quote">
+        <p>
+          This year, to celebrate the 20th anniversary, I have invited the early 90s
+          members of "NG La Banda." They are the reason I fell in love with Cuban
+          music. I wanted to bring back that amazing sound.
+        </p>
+        <p>
+          Of course, Tony Calá, the popular singer from their golden age, is coming.
+          Also, as special guests, we have Mayito Rivera, the No.1 male singer from
+          "Los Van Van," and the famous Tania Pantoja.
+        </p>
+        <p>
+          I wanted to make this a special concert that shows my 20 years of
+          producing Cuban music. That is why I brought these incredible artists
+          together on one stage.
+        </p>
+        
+
+        <iframe width="700" height="450" src="https://www.youtube.com/embed/3q-I8rTm87A?si=Ic2uoOXv_FfDpiu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p class="sig">— Ryū Murakami</p>
+      </div>
+    </section>
+  </main>
+  <Footer lang="en" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 1rem;
+  }
+  .intro-inner {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .prompt {
+    font-family: var(--font-display-cinzel);
+    font-size: 21px;
+    color: var(--color-navy);
+    font-weight: 500;
+    text-align: center;
+    margin: 0 0 2rem;
+    line-height: 1.55;
+  }
+  .ryu-quote {
+    border-left: 3px solid var(--color-rule);
+    padding: 0.5rem 0 0.5rem 1.4rem;
+    margin: 0;
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    color: #444;
+  }
+  .ryu-quote p {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 21px;
+    line-height: 1.7;
+    margin: 0 0 0.9rem;
+  }
+  .ryu-quote footer {
+    font-style: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    color: var(--color-muted);
+    margin-top: 0.8rem;
+  }
+
+  .era {
+    max-width: var(--container-max);
+    margin: 3rem auto 0;
+    padding: 0 1.5rem;
+  }
+  .era-title {
+    font-family: var(--font-display-cinzel-dec);
+    font-weight: 700;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin: 0 0 1.5rem;
+  }
+  .records {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem 1.5rem;
+  }
+  @media (max-width: 900px) {
+    .records { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 720px) {
+    .records { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 480px) {
+    .records { grid-template-columns: 1fr; }
+  }
+
+  .record {
+    text-decoration: none;
+    color: var(--color-text);
+    text-align: center;
+    display: block;
+  }
+  .record:hover .record-title { color: var(--color-accent); }
+  .record.no-link { cursor: default; }
+
+  .record-img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    margin-bottom: 0.8rem;
+    background: #f5f5f5;
+  }
+  .record-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .record-title {
+    font-family: var(--font-nav);
+    font-weight: 500;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0 0 4px;
+    line-height: 1.2;
+    letter-spacing: 0.01em;
+  }
+  .record-meta {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #444;
+    line-height: 1.4;
+    margin: 0;
+  }
+  .year { color: var(--color-muted); font-style: italic; }
+
+  .final-grid {
+    grid-template-columns: minmax(260px, 360px) !important;
+    justify-content: center;
+  }
+  .final-quote {
+    max-width: 900px;
+    margin: 2rem auto 4rem;
+    padding: 0 1.5rem;
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    color: #444;
+    font-size: 21px;
+    line-height: 1.7;
+    text-align: center;
+  }
+  .final-quote p { margin: 0 0 0.9rem; }
+  .final-quote .sig {
+    font-style: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    color: var(--color-muted);
+    margin-top: 1rem;
+  }
+</style>

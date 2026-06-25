@@ -8,15 +8,131 @@ const prefix = `${base}${lang}/`;
 const otherLang = lang === 'en' ? 'es' : 'en';
 const otherLangLabel = lang === 'en' ? 'Español' : 'English';
 
-const nav = [
-  { label: 'About', slug: 'about', hasChildren: true },
-  { label: 'Angels Swing', slug: 'swing', hasChildren: true },
-  { label: 'JAPONÉSON', slug: 'japoneson', hasChildren: false },
-  { label: 'Mystery', slug: 'mystery', hasChildren: true },
-  { label: '★MURAKAMI MAMBO', slug: 'murakami', hasChildren: true },
-  { label: 'Cupie Danny', slug: 'cupie', hasChildren: true },
-  { label: 'BLOG', slug: 'blog-2', hasChildren: false },
+type NavItem = {
+  label: string;
+  path?: string;          // relative to prefix (e.g. 'about/'); omit for header-only items
+  href?: string;          // absolute URL override
+  children?: NavItem[];
+};
+
+const nav: NavItem[] = [
+  {
+    label: 'About',
+    path: 'about/',
+    children: [
+      { label: 'Press', path: 'about/press/' },
+      { label: 'Timeline', path: 'about/timeline/' },
+    ],
+  },
+  {
+    label: 'Angels Swing',
+    path: 'swing/',
+    children: [
+      {
+        label: 'I Have a Dream… Seina',
+        path: 'swing/dream/',
+        children: [
+          { label: 'Thanks letters from Nursing Homes', path: 'swing/dream/letters/' },
+          { label: 'From Ryu Murakami', path: 'swing/dream/ryu/' },
+        ],
+      },
+      { label: "I'll Be Seeing You, Mr. Leonard Gaskin", path: 'swing/leonard-gaskin/' },
+      { label: 'Thanks for the Memory', path: 'swing/memory/' },
+      {
+        label: 'Wartime and Postwar Kitakyushu',
+        path: 'swing/remember/',
+        children: [
+          { label: 'Introduction', path: 'swing/remember/preface/' },
+          { label: 'Kokura Army Arsenal', path: 'swing/remember/kokura/' },
+          { label: 'MOJI | Shipping for Southern Battlefields', path: 'swing/remember/moji/' },
+          { label: 'The Great Yahata Air Raid | August 8, 1945', path: 'swing/remember/yahata/' },
+          { label: 'The Atomic Bomb over Kokura | August 9, 1945', path: 'swing/remember/atomicbomb/' },
+          { label: 'MEMORIAL CROSS | Korean War Fallen', path: 'swing/remember/memorial_cross/' },
+          { label: 'MOJI | The Moji World Peace Pagoda', path: 'swing/remember/pagoda/' },
+          { label: 'Dutch ex-POWs and Mizumaki Town', path: 'swing/remember/mizumaki/' },
+          { label: 'Toward the Future / Seina', path: 'swing/remember/future/' },
+        ],
+      },
+      { label: '"For The Boys" — Tribute to Monica Lewis', path: 'swing/for-the-boys/' },
+    ],
+  },
+  { label: 'JAPONÉSON', path: 'japoneson/' },
+  {
+    label: 'Mystery',
+    path: 'mystery/',
+    children: [
+      { label: 'Ancient', path: 'mystery/ancient/' },
+      { label: 'Heike', path: 'mystery/hieke/' },
+      {
+        label: "The General's Shadow",
+        path: 'mystery/macarthur/',
+        children: [
+          { label: 'The 24th Infantry Division', path: 'mystery/macarthur/korea-24th/' },
+          { label: 'The Black Soldiers', path: 'mystery/macarthur/korea-black-soldiers/' },
+          { label: '— David Valley', path: 'mystery/macarthur/david-valley/' },
+          { label: '— Donald Versaw', path: 'mystery/macarthur/donald-versaw/' },
+        ],
+      },
+      { label: 'Meiji', path: 'mystery/meiji/' },
+      { label: 'Secrets', path: 'mystery/secrets/' },
+    ],
+  },
+  {
+    label: '★MURAKAMI MAMBO',
+    path: 'murakami/',
+    children: [
+      {
+        label: 'Tosco & Murakami',
+        path: 'murakami/tosco/',
+        children: [
+          { label: 'FLUTE', path: 'murakami/tosco/flute/' },
+          { label: 'TOSCO ⊂ MURAKAMI = "KYOKO"', path: 'murakami/tosco/kyoko-02/' },
+        ],
+      },
+      {
+        label: '"KYOKO" | Because of You',
+        path: 'murakami/kyoko/',
+        children: [
+          { label: 'The New Other, Cuba', path: 'murakami/kyoko/newother/' },
+          { label: 'The "wounded Japanese" inside me', path: 'murakami/kyoko/me/' },
+          { label: '"KYOKO" is the story of Ryu Murakami, himself.', path: 'murakami/kyoko/boku/' },
+        ],
+      },
+      {
+        label: 'Cuban Music | MURAKAMI Label',
+        path: 'murakami/music/',
+        children: [
+          { label: 'Nueva Generación (1992)', path: 'murakami/music/nueva-generacion/' },
+          { label: 'Cabaret Panorámico (1993)', path: 'murakami/music/cabaret_panoramico/' },
+          { label: 'Live in Japan (1993)', path: 'murakami/music/1993_live_in-japan/' },
+          { label: "You Don't Know What Love Is (1993)", path: 'murakami/music/you-dont-know-what-love-is/' },
+          { label: 'Los Van Van 1974 (1994)', path: 'murakami/music/1994-los-van-van-1974/' },
+          { label: 'La Bruja (1994)', path: 'murakami/music/1995-la-bruja/' },
+          { label: '"The Man" who called "TOSCO"', path: 'murakami/music/the-man-who-called-tosco/' },
+          { label: 'KYOKO OST (1995-96)', path: 'murakami/music/kyoko-01/' },
+          { label: 'MURAKAMI\'s NG La Banda Best', path: 'murakami/music/1997-ng-la-banda-best/' },
+        ],
+      },
+      { label: "RYU MURAKAMI's BOOKS", path: 'murakami/books/' },
+    ],
+  },
+  {
+    label: 'Cupie Danny',
+    path: 'cupie/',
+    children: [
+      { label: 'Gallery — Musicians & Celebrities', path: 'cupie/gallery-01/' },
+      { label: 'Gallery — Family & Friends', path: 'cupie/gallery-02/' },
+      { label: 'Gallery — Adventure', path: 'cupie/gallery-03/' },
+      { label: 'Theater', path: 'cupie/theater/' },
+    ],
+  },
+  { label: 'BLOG', path: 'blog-2/' },
 ];
+
+function resolve(item: NavItem): string {
+  if (item.href) return item.href;
+  return item.path ? `${prefix}${item.path}` : '#';
+}
 ---
 
 <header class="site-header">
@@ -26,12 +142,30 @@ const nav = [
       <a class="lang-link" href={`${base}${otherLang}/`}>{otherLangLabel}</a>
     </div>
     <nav aria-label="Primary" class="primary-nav">
-      <ul>
+      <ul class="nav-root">
         {nav.map((n) => (
-          <li>
-            <a href={`${prefix}${n.slug}/`}>
-              {n.label}{n.hasChildren && <span class="caret"> ▾</span>}
+          <li class={n.children ? 'has-sub' : ''}>
+            <a href={resolve(n)}>
+              {n.label}{n.children && <span class="caret"> ▾</span>}
             </a>
+            {n.children && (
+              <ul class="sub">
+                {n.children.map((c) => (
+                  <li class={c.children ? 'has-sub' : ''}>
+                    <a href={resolve(c)}>
+                      {c.label}{c.children && <span class="caret-r">›</span>}
+                    </a>
+                    {c.children && (
+                      <ul class="sub sub-2">
+                        {c.children.map((g) => (
+                          <li><a href={resolve(g)}>{g.label}</a></li>
+                        ))}
+                      </ul>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            )}
           </li>
         ))}
       </ul>
@@ -42,6 +176,8 @@ const nav = [
 <style>
   .site-header {
     background: var(--color-bg);
+    position: relative;
+    z-index: 100;
   }
   .header-inner {
     max-width: var(--container-max);
@@ -76,7 +212,8 @@ const nav = [
   }
   .lang-link:hover { text-decoration: underline; }
 
-  .primary-nav ul {
+  /* Root nav */
+  .primary-nav .nav-root {
     list-style: none;
     padding: 0;
     margin: 0;
@@ -84,23 +221,91 @@ const nav = [
     gap: 1.4rem;
     flex-wrap: wrap;
   }
+  .primary-nav .nav-root > li {
+    position: relative;
+  }
   .primary-nav a {
     font-family: var(--font-nav);
     font-size: 19px;
     color: var(--color-text);
     text-decoration: none;
     letter-spacing: 0.02em;
+    display: block;
+    padding: 0.3rem 0;
   }
-  .primary-nav a:hover { color: var(--color-accent); }
+  .primary-nav .nav-root > li > a:hover { color: var(--color-accent); }
   .caret {
     font-size: 0.8em;
     color: var(--color-muted);
   }
+  .caret-r {
+    float: right;
+    margin-left: 0.5rem;
+    color: var(--color-muted);
+    font-size: 1em;
+  }
 
+  /* Dropdown panels */
+  ul.sub {
+    list-style: none;
+    padding: 0.4rem 0;
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 240px;
+    background: #f3c9c9;
+    border: 1px solid rgba(200, 16, 46, 0.3);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    display: none;
+    z-index: 200;
+  }
+  ul.sub li {
+    position: relative;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.45);
+  }
+  ul.sub li:last-child { border-bottom: 0; }
+  ul.sub a {
+    padding: 0.55rem 1rem;
+    font-size: 16px;
+    color: #1a1a1a;
+    white-space: nowrap;
+    line-height: 1.3;
+  }
+  ul.sub li:hover > a {
+    background: #e58b8b;
+    color: #fff;
+  }
+  ul.sub li:hover > a .caret-r { color: rgba(255,255,255,0.85); }
+
+  /* 2nd-level submenu opens to the right */
+  ul.sub-2 {
+    top: -0.4rem;
+    left: 100%;
+    min-width: 260px;
+  }
+
+  /* Hover reveal */
+  .primary-nav .nav-root > li.has-sub:hover > ul.sub,
+  .primary-nav ul.sub li.has-sub:hover > ul.sub-2 {
+    display: block;
+  }
+  /* Keep dropdown open while moving cursor into it */
+  ul.sub:hover { display: block; }
+
+  /* Mobile fallback: tap → show */
   @media (max-width: 720px) {
     .logo { font-size: 1.5rem; }
     .lang-link { font-size: 1.05rem; }
-    .primary-nav ul { justify-content: center; gap: 1rem; }
-    .primary-nav a { font-size: 0.95rem; }
+    .primary-nav .nav-root { justify-content: center; gap: 1rem; }
+    .primary-nav .nav-root > li > a { font-size: 0.95rem; }
+    ul.sub {
+      position: static;
+      min-width: 0;
+      background: rgba(243, 201, 201, 0.4);
+      box-shadow: none;
+      border: 0;
+    }
+    ul.sub-2 { padding-left: 1rem; }
   }
 </style>

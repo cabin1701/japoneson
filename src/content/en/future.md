@@ -9,7 +9,7 @@ source_url: https://en.japoneson.com/swing/remember/future/
 
 ## Toward the Future / Seina
 
-![](https://ja.japoneson.com/wp-content/uploads/2026/05/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9732-768x512.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2026/05/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9732-768x512.jpg)
 
 Through my meeting with Donald Versaw, a former U.S. Marine and Allied prisoner of war, I began to feel a simple yet strong desire: "I want to create a memorial for the Allied POWs in Moji Port." Many of the prisoners who arrived at Moji died in Japan, a foreign land, without ever returning home. Local people were unaware of this history. I heard that even in the United States, the existence of POWs within Japan during the Pacific War went unmentioned for a long time. I thought to myself: what does it mean to be forgotten, despite having risked one's life for their country?
 
@@ -35,4 +35,4 @@ I would like to take this opportunity to express my heartfelt gratitude to those
 
 **Seina**
 
-![](https://ja.japoneson.com/wp-content/uploads/2026/05/Towardto-768x512.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2026/05/Towardto-768x512.jpg)

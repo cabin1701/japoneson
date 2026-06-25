@@ -1,6 +1,6 @@
 ---
 title: "\"KYOKO\" Original Soundtrack"
-slug: kyoko
+slug: kyoko-01
 wp_id: 16301
 wp_parent: 19932
 date: 2024-02-05 00:45:42

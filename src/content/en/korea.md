@@ -45,11 +45,11 @@ In Kokura, there is a dark, unspoken history known as the **"Kokura Riot"** (the
 
 In this chapter, I introduce these three overlooked stories of the Korean War and invite you to walk with me through my journey—and my blog—as we uncover the truth together.
 
-[David Valley](https://ja.japoneson.com/mystery/macarthur/david-valley)
+[David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
 
 Donald Versaw
 
-[Korean War](https://ja.japoneson.com/mystery/macarthur/korea)
+[Korean War](https://en.japoneson.com/mystery/macarthur/korea)
 
 The Pacific War
 
@@ -65,4 +65,4 @@ Practical Tour
 
 ## THE MYSTERY
 
-of THE GENERAL’s SHADOW](https://ja.japoneson.com/mystery/meiji/posts)
+of THE GENERAL’s SHADOW](https://en.japoneson.com/mystery/meiji/posts)

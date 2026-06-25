@@ -30,7 +30,7 @@ Across eras, ages, countries, and backgrounds, we met as if guided by something 
 | **May 12, 2013** | **"The Shadows are Lengthening"**    Quoting MacArthur’s famous words—"The shadows are lengthening for me"—David wrote his final letter to the members, announcing the closing of the Association. Having fulfilled his duty as **the Last Chairman**, he stood as a lone veteran, ready for the next chapter. |
 | **Late May 2013** | **The Meeting in San Diego**    Only weeks after closing the Association, on Memorial Day, David finally met Seina in San Diego. Seeing the same "truth-seeking soul" in her eyes that he and his comrades once shared, he affectionately called her **"Maverick"** and entrusted her with the invisible baton of history. |
 
-![](https://ja.japoneson.com/wp-content/uploads/2026/03/IMG_2041-600x450.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2026/03/IMG_2041-600x450.jpg)
 
 ## Invitation
 
@@ -44,4 +44,4 @@ Practical Tour
 
 ## THE MYSTERY
 
-of THE MEIJI RESTORATION](https://ja.japoneson.com/mystery/meiji/posts)
+of THE MEIJI RESTORATION](https://en.japoneson.com/mystery/meiji/posts)

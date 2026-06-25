@@ -69,16 +69,16 @@ I dedicate this chapter to the victims in Kokura, to **Bob Cranshaw**, and to al
 
 **"In the shadows of the 'Black Soldier Desertion Incident,' there were voices that were never allowed to speak—local women who suffered and soldiers who collapsed under the weight of discrimination and fear. Matsumoto Seicho’s 'Kuroji no e' was a Requiem for these silent witnesses whose pain was ignored by both nations."**
 
-![](https://ja.japoneson.com/wp-content/uploads/2026/03/IMG_1971-768x1024.jpg)
-![](https://ja.japoneson.com/wp-content/uploads/2026/03/IMG_1970-1-768x1024.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2026/03/IMG_1971-768x1024.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2026/03/IMG_1970-1-768x1024.jpg)
 
 These two photographs were taken in 2013 at the MacArthur Memorial in Norfolk, Virginia. Looking at them, a thought crossed my mind... Perhaps the General had not forgotten them after all. Perhaps he held onto the memory of those Black soldiers—the ones he had sent into the harshest, most brutal battlefields of the war. That feeling stayed with me as I captured these images of the exhibition.
 
-[David Valley](https://ja.japoneson.com/mystery/macarthur/david-valley)
+[David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
 
 Donald Versaw
 
-[Korean War](https://ja.japoneson.com/mystery/macarthur/korea)
+[Korean War](https://en.japoneson.com/mystery/macarthur/korea)
 
 The Pacific War
 
@@ -94,6 +94,6 @@ Practical Tour
 
 ## THE MYSTERY
 
-of THE GENERAL’s SHADOW](https://ja.japoneson.com/mystery/meiji/posts)
+of THE GENERAL’s SHADOW](https://en.japoneson.com/mystery/meiji/posts)
 
 吾輩は猫である。名前はまだない。どこで生れたか頓と見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。

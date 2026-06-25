@@ -1,0 +1,315 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+import SubGrid from '../../../../components/SubGrid.astro';
+import type { SubCard } from '../../../../components/SubGrid.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+
+const subCards: SubCard[] = [
+  {
+    title: 'FLUTE',
+    image: IMG('2024/02/03-e1707925750233.jpg'),
+    imageAlt: 'Flute',
+    description:
+      '"Just you go play the flute, I\'ll sell some smack and buy you a good flute with the money." — Almost Transparent Blue (1976)',
+    href: '/en/murakami/tosco/flute/',
+  },
+  {
+    title: '"The Man" who called "TOSCO"',
+    subtitle: 'José Luis Cortés (1994)',
+    image: IMG('2024/01/1994-jose-luis_500.jpg'),
+    imageAlt: 'José Luis Cortés Tosco',
+    description:
+      'The flutist, bandleader, composer — the "New World Beat" that exists nowhere else but inside this one man.',
+    href: '/en/murakami/music/the-man-who-called-tosco/',
+  },
+  {
+    title: 'TOSCO ⊂ MURAKAMI = "KYOKO"',
+    image: IMG('2026/05/kyoko05-1024x697.jpg'),
+    imageAlt: 'KYOKO film scene with Tosco',
+    description:
+      'Tosco, KYOKO, and Ryu Murakami — stories all connected. Tosco lives inside Murakami; Murakami lives inside Tosco\'s music.',
+    href: '/en/murakami/tosco/kyoko-02/',
+  },
+];
+
+const trail = [
+  { slug: 'home', title: 'HOME', path: `${base}en/` },
+  { slug: 'murakami', title: 'MURAKAMI MAMBO !!', path: `${base}en/murakami/` },
+  { slug: 'tosco', title: 'Tosco & Murakami', path: `${base}en/murakami/tosco/` },
+];
+---
+
+<Layout title='Tosco &amp; Murakami — Japonéson' lang="en">
+  <Header lang="en" />
+  <main>
+    <ProjectHero
+      kicker="EARLY 1990S · THE SPECIAL PERIOD"
+      title="Tosco y Murakami"
+      subtitle="A bond born in the Special Period — Ryu Murakami and José Luis Cortés."
+      image="https://en.japoneson.com/wp-content/uploads/2024/01/1994-jose-luis_photo.jpg"
+      align="center"
+      height={950}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="en" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <p class="opener">
+          It began with a single line I found online, in an article published four
+          years before José Luis Cortés (TOSCO) passed away
+          (<a class="src-link" href="https://oncubanews.com/cultura/musica/tosco-y-cortes/" target="_blank" rel="noopener noreferrer">Tosco y Cortés | OnCuba News</a>).
+        </p>
+        <blockquote class="opener-quote">
+          "He has thirteen flutes, but during a tour he lost his favorite one.
+          'Murakami told me I had to have the best flute in the world, and he bought
+          me one made entirely of silver.'"
+        </blockquote>
+        <p class="opener-close">I wanted to know more about the two of them.</p>
+        <p>
+          Early 1990s. It was the "Special Period" in Cuba — a time of great hardship
+          following the collapse of the Soviet Union. In the midst of this era, two
+          men met: <strong>Ryu Murakami</strong> and <strong>José Luis Cortés "Tosco."</strong>
+          Together, they created countless recordings and unforgettable concerts.
+        </p>
+        <p>
+          I feel their meeting was destiny, like two souls pulling together exactly
+          what they needed. Their bond was incredibly strong. Interestingly, a scene
+          from Ryu Murakami's debut novel, <em>Almost Transparent Blue</em>, feels
+          like a "foreshadowing" of their meeting — as if their friendship was
+          written in the stars long before it happened.
+        </p>
+        <p>
+          I believe the friendship and collaboration between these two became a
+          vital piece of Cuban music history in the 1990s. I hope you can feel the
+          deep bond that existed between them.
+        </p>
+      </div>
+    </section>
+
+    <SubGrid cards={subCards} columns={3} />
+
+    <section class="excerpt">
+      <div class="excerpt-inner">
+        <h2>The New World Beat: A Guide to Pleasurable Cuban Music</h2>
+        <p class="excerpt-meta"><em>Excerpt from Ryu Murakami's 1993 essay.</em></p>
+
+        <blockquote>
+          <p>
+            "He is my dear friend; the two of us call each other brothers. José Luis
+            is a bandleader, songwriter, composer, arranger, and flutist (as well
+            as a singer, dancer, and baritone saxophonist). He is world-class in
+            every one of these roles, but as a flutist he is, without question,
+            a genius — the best in the world, beyond anyone's reach.
+          </p>
+          <p>
+            Countless times, while spending time with him, I've thought, 'So this is
+            what true talent looks like.' Because he pays no mind at all to pleasing
+            others, in Cuba he is misunderstood as a cocky upstart — but at his core
+            he is incredibly kind.
+          </p>
+          <p>
+            When the album <em>You Don't Know What Love Is</em> was recorded in
+            Havana with the voice of Xiomara Laugart, he served as music director
+            and did perfect work. I mean 'perfect' in the truest sense of the word.
+            Drilled in the classics, he tosses off jazz as if it were nothing —
+            almost as though sneering at jazz itself — a true child of music.
+          </p>
+          <p>
+            Today, the fusion of the African and the European — that is, the
+            'New World Beat,' the new music that will come after the classical —
+            exists nowhere but inside José Luis Cortés. Whenever I tell him this,
+            he always laughs, embarrassed, but he clearly carries a certain pride
+            within him.
+          </p>
+          <p>
+            I love his favorite saying:
+            <strong>'Don't mess with me — I'm amazing.'</strong>
+          </p>
+          <footer>— Ryu Murakami, 1993</footer>
+        </blockquote>
+
+        <h2>About Tosco</h2>
+        <p>
+          Born on October 5, 1951, in Santa Clara, Cuba, and passed away on April 18,
+          2022, at the age of 70. He was affectionately known as <strong>"Tosco."</strong>
+          His nickname, which means "rough" or "gruff," reflected his blunt and
+          straightforward personality. As the leader of <strong>NG La Banda</strong>,
+          he perfected the musical style known as <strong>"Timba."</strong>
+          Today, José Luis Cortés is revered by the Cuban people as a legendary musician.
+        </p>
+        <p>
+          Two of NG La Banda's masterpieces — <em>Cabaret Panorámico | Échale Limón</em>
+          (1993) and <em>La Bruja</em> — were produced by Ryu Murakami. The track
+          "Murakami Mambo" is featured on the <em>Cabaret Panorámico</em> album.
+        </p>
+
+        <figure class="photo">
+          <img
+            src="https://en.japoneson.com/wp-content/uploads/2024/02/IMG_4314-1-scaled-e1707925954739.jpg"
+            alt="TOSCO & Seina, 2014"
+            loading="lazy"
+          />
+          <figcaption>TOSCO &amp; Seina (2014)</figcaption>
+        </figure>
+      </div>
+    </section>
+  </main>
+  <Footer lang="en" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 1rem;
+  }
+  .intro-inner {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .opener {
+    font-family: var(--font-display-cinzel);
+    font-size: 19px;
+    color: var(--color-text);
+    text-align: center;
+    margin: 0 0 2rem;
+    line-height: 1.55;
+  }
+  .opener .src-link {
+    color: var(--color-accent);
+    border-bottom: 1px solid currentColor;
+    text-decoration: none;
+    padding-bottom: 1px;
+  }
+  .opener .src-link:hover {
+    color: var(--color-navy);
+  }
+  .opener-quote {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-weight: 500;
+    font-size: 28px;
+    color: var(--color-navy);
+    text-align: center;
+    line-height: 1.55;
+    border: 0;
+    padding: 1.5rem 1rem;
+    margin: 2.5rem auto;
+    max-width: 720px;
+    position: relative;
+  }
+  .opener-quote::before,
+  .opener-quote::after {
+    content: '';
+    display: block;
+    width: 80px;
+    height: 1px;
+    background: var(--color-accent);
+    opacity: 0.5;
+    margin: 0 auto;
+  }
+  .opener-quote::before { margin-bottom: 1.5rem; }
+  .opener-quote::after { margin-top: 1.5rem; }
+  .intro-inner p.opener-close {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 26px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 2rem 0 2.5rem;
+    line-height: 1.55;
+    letter-spacing: 0.01em;
+  }
+
+  @media (max-width: 720px) {
+    .opener-quote { font-size: 21px; padding: 1rem 0.5rem; }
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+
+  .excerpt {
+    padding: 3rem 1.5rem 4rem;
+  }
+  .excerpt-inner {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .excerpt-inner h2 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 26px;
+    color: var(--color-accent);
+    margin: 2.5rem 0 1rem;
+  }
+  .excerpt-meta {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: var(--color-muted);
+    margin-bottom: 1.5rem;
+  }
+  .excerpt-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  blockquote {
+    border-left: 3px solid var(--color-rule);
+    padding: 0.5rem 0 0.5rem 1.4rem;
+    margin: 1.5rem 0 2rem;
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    color: #444;
+  }
+  blockquote p {
+    font-family: var(--font-italic-quote) !important;
+    font-style: italic;
+    font-size: 19px !important;
+    line-height: 1.75 !important;
+    margin-bottom: 0.9rem !important;
+  }
+  blockquote footer {
+    font-style: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    color: var(--color-muted);
+    margin-top: 0.8rem;
+  }
+  .photo {
+    margin: 2rem 0 0;
+    text-align: center;
+  }
+  .photo img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+  }
+  .photo figcaption {
+    font-family: var(--font-display-cinzel);
+    font-size: 14px;
+    color: var(--color-muted);
+    margin-top: 0.5rem;
+  }
+
+  @media (max-width: 720px) {
+    .opener { font-size: 16px; }
+    .opener-quote { font-size: 17px; }
+    .excerpt-inner h2 { font-size: 22px; }
+  }
+</style>

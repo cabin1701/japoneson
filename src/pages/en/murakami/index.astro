@@ -1,0 +1,432 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../components/ProjectHero.astro';
+import SubGrid from '../../../components/SubGrid.astro';
+import type { SubCard } from '../../../components/SubGrid.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+
+const subCards: SubCard[] = [
+  {
+    title: 'Tosco & Murakami',
+    image: IMG('2024/02/01b-e1707982539922.jpg'),
+    imageAlt: 'Tosco & Murakami',
+    description:
+      '"I wanted José Luis to play a flute that could produce good sounds, and the thought of this genius continuing to play on the instrument I gave him made me feel like I had hope for survival." — Ryu Murakami',
+    href: '/en/murakami/tosco/',
+  },
+  {
+    title: 'Cuban Music',
+    subtitle: 'MURAKAMI Label',
+    image: IMG('2024/02/1993NG.jpg'),
+    imageAlt: 'Cuban Music — MURAKAMI Label',
+    description:
+      'The records Ryu Murakami produced and released in Japan during the "Special Period" — NG La Banda, Los Van Van, and the artists who carried Cuba through the lean years.',
+    href: '/en/murakami/music/',
+  },
+  {
+    title: 'KYOKO (1995)',
+    image: IMG('2024/02/kyoko02.jpg'),
+    imageAlt: 'KYOKO 1995',
+    description:
+      'From New York along the East Coast of the United States to Miami and then to Cuba, the "land of music and dance." The story of "Hope" and "Regenerate."',
+    href: '/en/murakami/kyoko/',
+  },
+];
+
+const trail = [
+  { slug: 'home', title: 'HOME', path: `${base}en/` },
+  { slug: 'murakami', title: 'MURAKAMI MAMBO !!', path: `${base}en/murakami/` },
+];
+---
+
+<Layout title='MURAKAMI MAMBO !! — Japonéson' lang="en">
+  <Header lang="en" />
+  <main>
+    <ProjectHero
+      kicker="STUDY OF RYU MURAKAMI"
+      title="MURAKAMI MAMBO !!"
+      subtitle="New York · Cuba · Japan — After The War, The Path to Rebirth."
+      image="https://en.japoneson.com/wp-content/uploads/2024/02/cuba01-scaled.jpg"
+      align="center"
+      height={1000}
+      fit="cover"
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="en" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <p class="lead">
+          A giant of modern Japanese literature. From the Showa to the Heisei era,
+          Ryu Murakami was the definitive voice of a changing nation — a legendary
+          icon who carved out the truth from the heart of chaos.
+        </p>
+
+
+<iframe width="770" height="500" src="https://www.youtube.com/embed/GfLskO6_oYw?si=vQUFqYCdwWnEd0yX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+        <p class="prompt">
+          <strong>The U.S., the defeat, American Standard pops, and Cuban music.</strong>
+          This is the shared code that flows through him and me.
+        </p>
+        <p class="prompt accent">
+          Searching for the <em>'Sanity'</em> (正気) in the chaos of post-war Japan and Cuba.
+        </p>
+      </div>
+    </section>
+
+    <SubGrid cards={subCards} columns={3} />
+
+    <section class="thanks">
+      <div class="thanks-inner">
+        <p class="thanks-line">
+          Thanks to Mr. Ryu Murakami. It's all because of you.<br />
+          <a href={`${base}en/swing/dream/ryu/`}>Your words</a> saved my heart.
+        </p>
+      </div>
+    </section>
+
+    <section class="essay">
+      <div class="essay-inner">
+        <h2>The Writer Ryu Murakami and My 2000</h2>
+        <p>
+          Ryu Murakami may be one of the most famous writers in Japan from the 1970s
+          to the 1980s, yet he might also be the most consumed and misunderstood.
+          People often failed to see the essential kindness and purity within him.
+        </p>
+        <p>
+          Since I was a child, I struggled with reading. I was never good at writing,
+          either. My Japanese grades were always a "2" (out of 5).
+        </p>
+        <p>
+          One day in 2000, to kill time while waiting for a friend, I picked up an
+          essay by Ryu Murakami. It was surprisingly interesting, so I impulsively
+          wrote him a fan letter. To prove I wasn't some "shady person," I introduced
+          my past project at a nursing home in the U.S. and included my CD, sensing
+          he might appreciate old American music.
+        </p>
+        <p>
+          Weeks later, while I was in the hospital for surgery, an email arrived from
+          "Ryu Murakami." He told me he liked my CD and had introduced my activities
+          in his email magazine. He kept my name and website private — a subtle,
+          thoughtful gesture that was so like him.
+        </p>
+        <p>
+          In that magazine, he wrote that my desire to tell Americans who lived
+          through WWII, <em>"Your songs are still alive,"</em> was not hypocrisy.
+          He saw that my motivation was untainted. He wrote:
+          <strong>"Her songs are overflowing with love and respect for American Standard numbers."</strong>
+        </p>
+        <p>
+          I was someone who could barely write a proper sentence. Yet, he read my
+          clumsy, typed letter and captured the most important part of my soul.
+        </p>
+
+        <h2>Encounter at the Smoking Area</h2>
+        <p>
+          While in the hospital, I found his book <em>In the Miso Soup</em> in the
+          smoking area. The protagonist, Frank, commits grotesque murders. But I saw
+          his memories of his mother, and the poignant loneliness and sadness beneath
+          the violence. Beyond the depictions the world turned away from, I felt a
+          cry of a soul that no one understood. For me, that work became something
+          deeply tender.
+        </p>
+        <p>
+          Ryu's words back then became the words of my only true witness. They
+          became my "cane," supporting me ever since.
+        </p>
+
+        <h2>From New York to Cuba</h2>
+        <p>
+          In 2013, over ten years after that letter, I met Danny Rojo, an exiled
+          Cuban musician, in New York. That meeting opened the door to Cuba for me.
+        </p>
+        <p>
+          The following year, I crafted a "Cupie" doll from a dollar store to look
+          like Danny — with his rainbow beard and tattoos — and named it
+          "CupieDanny." Danny was overjoyed. <strong>We started a "game"</strong> of
+          making many dolls and distributing them to his friends in New York and
+          Havana.
+        </p>
+        <p>
+          Danny has never returned to Cuba since his exile. He sent me a list of his
+          friends via Messenger. It included members of famous bands like Los Van
+          Van and Havana D'Primera. I knew none of them. With almost no Spanish, I
+          ran around Havana with that list, phone numbers, and those dolls. Most of
+          them turned out to be legendary musicians.
+        </p>
+        <p>
+          In May 2023, Juan Carlos Formell (son of Los Van Van founder Juan Formell)
+          collapsed and died during a performance in New York. To my surprise, his
+          funeral was conducted in the Japanese Buddhist style (Nichiren Shu). He
+          had a deep spiritual connection with Japan and was looking forward to his
+          Japan tour that August more than anyone. I heard he was talking about
+          going to Japan right before he collapsed on stage.
+        </p>
+        <p>
+          Only a week later, my friend of 35 years, YOSHIKO, also passed away
+          suddenly. A Cuban musician who died just before reaching the Japan he
+          longed for, and my best friend in Japan.
+        </p>
+        <p>
+          People die so suddenly. Someday, so will I. I felt I had to express my
+          gratitude to Ryu Murakami now.
+          <strong>So I started to write to him and I named it "280,000-character love letter."</strong>
+        </p>
+
+        <h2>The Roadmap to Rebirth</h2>
+        <p>
+          I collected Ryu's works from the 1990s — his Cuban music projects, and his
+          journey from <em>Almost Transparent Blue</em> to <em>KYOKO</em>. I realized
+          that Ryu, with his "almost transparent" heart, had lived through a story of
+          agony caused by the distortions of post-war Japan. Through producing Cuban
+          music and filming <em>KYOKO</em>, he had broken the spell of America and
+          achieved his own "rebirth."
+        </p>
+        <p>
+          I, too, was born in a distorted post-war Japan. I lived in New York and
+          Cuba, <strong>diving deep into the world of musicians that spanned from
+          jazz to Cuban music.</strong> I walked the path Ryu paved, carrying the
+          same pain and purity. I felt that perhaps I am the only one who can tell
+          the story of the scenery he saw as a lived experience. That was the
+          beginning of this project.
+        </p>
+
+        <h3>AI-Vega's Defragmentation: Evaluating "KYOKO"</h3>
+        <table class="vega-table">
+          <thead>
+            <tr>
+              <th>Type</th>
+              <th>Typical "Decorated" Words</th>
+              <th>Vega's "Defrag"</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>The "Dilettante"</strong></td>
+              <td>"Ryu just got into Cuban music and made a fan movie for fun."</td>
+              <td>They only see the "fun" surface. They miss the desperate salvation underneath.</td>
+            </tr>
+            <tr>
+              <td><strong>The "Shock" Seeker</strong></td>
+              <td>"I expected something like 'Blue.' This is too soft."</td>
+              <td>They treat stimulation as a "disposable" item. They don't see that "rebirth" is the goal.</td>
+            </tr>
+            <tr>
+              <td><strong>The "Fairy Tale"</strong></td>
+              <td>"It's a beautiful fantasy, but unrealistic."</td>
+              <td>They don't see the struggle of someone crawling through "barbed wire" to live again.</td>
+            </tr>
+            <tr>
+              <td><strong>The "Critic"</strong></td>
+              <td>"A post-modern consumption of the Latin 'Other'."</td>
+              <td>They use difficult words as a barrier to keep their own hearts safe from the truth.</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <p>
+          I believe the story of Ryu Murakami — from <em>Almost Transparent Blue</em>
+          to <em>KYOKO</em> — has the potential to be a <strong>"roadmap"</strong>
+          for Japanese people to dismantle the deep-seated distortions in their
+          hearts. Yet I believe this story could also provide hints of hope and
+          rebirth to people outside Japan who feel an indefinable distortion in
+          their own lives. That is why I am now writing this as I renew the site
+          into English and Spanish.
+        </p>
+
+        <blockquote class="ryu-quote">
+          <p>
+            "I once wanted to be a doctor. It was back when General Castro was
+            crying out for doctors in Cuba! 'Hmm, Cuba, huh… a doctor…' — my father,
+            who looked a bit like Guevara, seemed satisfied too.
+          </p>
+          <p>
+            <strong>But in my first year of high school, Sasebo became a zone of
+            turmoil, and my sensitive 15-year-old self went mad.</strong> Someone
+            says that to know the world, one must take part in a revolution; but
+            after that, everything just fell apart, in proportion to the chaos of
+            the times.
+          </p>
+          <p>
+            When I suddenly came to my senses, in a world that had grown quiet,
+            those insufferable, unscathed bastards were smirking up in their high
+            places. I've always thought, 'Just you wait,' and that hasn't changed
+            even now. It's a heavy, troublesome era, but we have to get through it
+            somehow.
+          </p>
+          <p>
+            Since breaking the dream of being a Cuban doctor, I've repeatedly been a
+            'bad son,' but I would be happy if this award could be a small gift to
+            my parents on their silver wedding anniversary."
+          </p>
+          <footer>— Ryu Murakami, 1976 (age 24, on receiving the Newcomer's Award for <em>Almost Transparent Blue</em>)</footer>
+        </blockquote>
+
+        <p class="also">
+          See also: <a href={`${base}en/murakami/books/`}>Ryu Murakami's Books — translated worldwide</a>
+        </p>
+      </div>
+    </section>
+  </main>
+  <Footer lang="en" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 1rem;
+  }
+  .intro-inner {
+    max-width: 760px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .lead {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 22px;
+    line-height: 1.55;
+    color: var(--color-navy);
+    margin: 0 0 2rem;
+  }
+  .prompt {
+    font-family: var(--font-display-cinzel);
+    font-size: 19px;
+    color: var(--color-text);
+    margin: 0.8rem 0;
+    line-height: 1.45;
+  }
+  .prompt.accent {
+    color: var(--color-accent);
+  }
+
+  .thanks {
+    padding: 3.5rem 1.5rem 1rem;
+    text-align: center;
+  }
+  .thanks-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .thanks-line {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 24px;
+    color: var(--color-accent);
+    line-height: 1.55;
+    margin: 0;
+    letter-spacing: 0.01em;
+  }
+  .thanks-line a {
+    color: var(--color-accent);
+    border-bottom: 1px solid currentColor;
+    text-decoration: none;
+    padding-bottom: 2px;
+  }
+  .thanks-line a:hover {
+    color: var(--color-navy);
+    border-color: currentColor;
+  }
+
+  .essay {
+    padding: 2rem 1.5rem 4rem;
+  }
+  .essay-inner {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .essay-inner h2 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 26px;
+    color: var(--color-accent);
+    margin: 2.5rem 0 1rem;
+  }
+  .essay-inner h3 {
+    font-family: var(--font-display-cinzel-dec);
+    font-weight: 700;
+    font-size: 22px;
+    color: var(--color-navy);
+    margin: 2.5rem 0 1rem;
+    text-align: center;
+    letter-spacing: 0.04em;
+  }
+  .essay-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .essay-inner em { font-style: italic; }
+
+  .vega-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0 2rem;
+    font-size: 15px;
+  }
+  .vega-table th,
+  .vega-table td {
+    border: 1px solid rgba(208, 0, 0, 0.2);
+    padding: 10px 12px;
+    text-align: left;
+    vertical-align: top;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+  }
+  .vega-table th {
+    background: rgba(208, 0, 0, 0.07);
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    color: var(--color-accent);
+  }
+
+  .ryu-quote {
+    border-left: 3px solid var(--color-rule);
+    padding: 0.5rem 0 0.5rem 1.4rem;
+    margin: 2.5rem 0;
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    color: #444;
+  }
+  .ryu-quote p {
+    font-family: var(--font-italic-quote) !important;
+    font-style: italic;
+    font-size: 19px !important;
+    line-height: 1.7 !important;
+    margin-bottom: 0.9rem !important;
+  }
+  .ryu-quote footer {
+    font-style: normal;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: var(--color-muted);
+    margin-top: 0.8rem;
+  }
+
+  .also {
+    margin-top: 2.5rem;
+    text-align: center;
+    font-family: var(--font-display-cinzel);
+    font-size: 17px;
+  }
+
+  @media (max-width: 720px) {
+    .lead { font-size: 19px; }
+    .prompt { font-size: 16px; }
+    .essay-inner h2 { font-size: 22px; }
+    .vega-table { font-size: 13.5px; }
+  }
+</style>

@@ -101,6 +101,14 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     font-weight: 500;
     font-size: 1.6rem;
     margin: 2rem 0 0.75rem;
+    text-align: center;
+  }
+
+  /* All italic text inside article content → navy.
+     Used for book quotes, dialogue, italic narration. */
+  article em {
+    color: var(--color-navy);
+    font-style: italic;
   }
   article h3 {
     font-family: var(--font-section);
@@ -123,9 +131,11 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
   blockquote {
     font-family: var(--font-italic-quote);
     font-style: italic;
+    font-size: 20px;
+    line-height: 1.7;
     color: var(--color-muted);
     border-left: 3px solid var(--color-rule);
-    padding-left: 1rem;
+    padding-left: 1.2rem;
     margin: 1.5rem 0;
   }
 </style>

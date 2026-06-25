@@ -1,5 +1,5 @@
 ---
-title: "Tosco &amp; Murakami"
+title: "Tosco & Murakami"
 slug: tosco
 wp_id: 19824
 wp_parent: 19793
@@ -27,23 +27,23 @@ I believe the friendship and collaboration between these two became a vital piec
 
 I hope you can feel the deep bond that existed between them.
 
-[![](https://ja.japoneson.com/wp-content/uploads/2024/02/03-e1707925750233.jpg)](https://ja.japoneson.com/murakami/flute)
+[![](https://en.japoneson.com/wp-content/uploads/2024/02/03-e1707925750233.jpg)](https://en.japoneson.com/murakami/flute)
 
-### [FLUTE](https://ja.japoneson.com/murakami/flute)
+### [FLUTE](https://en.japoneson.com/murakami/flute)
 
 **Almost Transparent Blue (1976)**  
 " just you go play the flute, I’ll sell some smack and buy you a good flute with the money."
 
-[![](https://ja.japoneson.com/wp-content/uploads/2024/01/1994-jose-luis_500.jpg)](https://ja.japoneson.com/murakami/the-man-who-called-tosco)
+[![](https://en.japoneson.com/wp-content/uploads/2024/01/1994-jose-luis_500.jpg)](https://en.japoneson.com/murakami/the-man-who-called-tosco)
 
-### ["The Man" who called "TOSCO"](https://ja.japoneson.com/murakami/the-man-who-called-tosco)
+### ["The Man" who called "TOSCO"](https://en.japoneson.com/murakami/the-man-who-called-tosco)
 
 José Luis Cortés  
 （1994）
 
-[![](https://ja.japoneson.com/wp-content/uploads/2026/05/kyoko05-1024x697.jpg)](https://ja.japoneson.com/murakami/tosco/kyoko)
+[![](https://en.japoneson.com/wp-content/uploads/2026/05/kyoko05-1024x697.jpg)](https://en.japoneson.com/murakami/tosco/kyoko)
 
-### [TOSCO ⊂ MURAKAMI ="KYOKO"](https://ja.japoneson.com/murakami/tosco/kyoko)
+### [TOSCO ⊂ MURAKAMI ="KYOKO"](https://en.japoneson.com/murakami/tosco/kyoko)
 
 "Tosco", "KYOKO", and "Ryu Murakami", stories are all connected.
 Tosco lives inside of Murakami and Murakami lives into Tosco's music.
@@ -70,6 +70,6 @@ Born on October 5, 1951, in Santa Clara, Cuba, and passed away on April 18, 2022
 
 Two of NG La Banda's masterpieces, *Cabaret Panorámico | Échale Limón* (1993) and *La Bruja*, were produced by Ryu Murakami. The track "Murakami Mambo" is featured on the *Cabaret Panorámico* album.
 
-![](https://ja.japoneson.com/wp-content/uploads/2026/03/IMG_4314-scaled-e1772783174410-832x1024.jpg) 
+![](https://en.japoneson.com/wp-content/uploads/2026/03/IMG_4314-scaled-e1772783174410-832x1024.jpg) 
 
 TOSCO & Seina(2014)

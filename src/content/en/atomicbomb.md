@@ -63,4 +63,4 @@ In 1942, the United States launched the Manhattan Project to develop the atomic 
 **■ Visit by the Grandson of President Truman**  
 In 2012, Clifton Truman Daniel, the grandson of President Truman, visited Hiroshima and Nagasaki to attend the peace memorial ceremonies. This marked the first time a descendant of the Truman family participated in these ceremonies since the atomic bombings.
 
-![](https://ja.japoneson.com/wp-content/uploads/2024/04/cb21c53e01edf9fb25f6ab527a681e99-e1713416580285-762x1024.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2024/04/cb21c53e01edf9fb25f6ab527a681e99-e1713416580285-762x1024.jpg)

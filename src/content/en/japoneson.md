@@ -11,8 +11,8 @@ source_url: https://en.japoneson.com/japoneson/
 
 ## Por La Chocolate(2017)
 
-![](https://ja.japoneson.com/wp-content/uploads/2026/05/jk-400.jpg)
-![](https://ja.japoneson.com/wp-content/uploads/2026/05/back400.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2026/05/jk-400.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2026/05/back400.jpg)
 
 #### **"I want to make memories with all of you! That’s why I want to do this recording!"**
 
@@ -28,63 +28,63 @@ https://youtu.be/eyTI3snVV8w
 
 ## Musicians
 
-![Luis Armando Alarcon Rodriguez](https://ja.japoneson.com/wp-content/uploads/2019/06/a_Luis-Armando-Alarcon-Rodriguez.jpg)
+![Luis Armando Alarcon Rodriguez](https://en.japoneson.com/wp-content/uploads/2019/06/a_Luis-Armando-Alarcon-Rodriguez.jpg)
 
 ### Luis Armando Alarcon Rodriguez
 
-![Luisito_Gonzalez](https://ja.japoneson.com/wp-content/uploads/2019/06/a_Luisito_Gonzalez.jpg)
+![Luisito_Gonzalez](https://en.japoneson.com/wp-content/uploads/2019/06/a_Luisito_Gonzalez.jpg)
 
 ### Luis Alberto Gonzalez Perez
 
-![Jesenia Olea](https://ja.japoneson.com/wp-content/uploads/2019/06/a_Jesenia-Olea.jpg)
+![Jesenia Olea](https://en.japoneson.com/wp-content/uploads/2019/06/a_Jesenia-Olea.jpg)
 
 ### Jesenia Olea
 
-![](https://ja.japoneson.com/wp-content/uploads/2019/06/a_Rolando-Salgado-Palacio250.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2019/06/a_Rolando-Salgado-Palacio250.jpg)
 
 ### Rolando Salgado Palacio El Niño Mentira
 
-![](https://ja.japoneson.com/wp-content/uploads/2019/06/a_Econodio-Padilla-Perez.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2019/06/a_Econodio-Padilla-Perez.jpg)
 
 ### Econodio Padilla Pérez
 
-![Orestes Oliva Ríos](https://ja.japoneson.com/wp-content/uploads/2019/06/a_Orestes-Oliva-Rios.jpg)
+![Orestes Oliva Ríos](https://en.japoneson.com/wp-content/uploads/2019/06/a_Orestes-Oliva-Rios.jpg)
 
 ### Orestes Oliva Ríos
 
-![](https://ja.japoneson.com/wp-content/uploads/2019/06/a_Juan-Martin.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2019/06/a_Juan-Martin.jpg)
 
 ### Juan Martín
 
-![](https://ja.japoneson.com/wp-content/uploads/2019/06/b_coto.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2019/06/b_coto.jpg)
 
 ### Juan "Cotó" de la Cruz Antomarchi Padilla
 
-![](https://ja.japoneson.com/wp-content/uploads/2019/06/a_Carlos-Rafael-Urgelles-Lopez.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2019/06/a_Carlos-Rafael-Urgelles-Lopez.jpg)
 
 ### Carlos Rafael Urgellés López
 
-![](https://ja.japoneson.com/wp-content/uploads/2019/06/2261ec31288fed9e8cb2a3aca5101bc7.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2019/06/2261ec31288fed9e8cb2a3aca5101bc7.jpg)
 
 ### Nicolás Sirgado Llanes
 
-![](https://ja.japoneson.com/wp-content/uploads/2019/06/c_Uoalerio-Sanchez.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2019/06/c_Uoalerio-Sanchez.jpg)
 
 ### Uoalerio Sánchez
 
-![](https://ja.japoneson.com/wp-content/uploads/2019/06/c_Abilio-Duguesne.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2019/06/c_Abilio-Duguesne.jpg)
 
 ### Abilio Duquesne
 
-![](https://ja.japoneson.com/wp-content/uploads/2019/06/c_Alberto-Centellez.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2019/06/c_Alberto-Centellez.jpg)
 
 ### Alberto "Kiyoshi" Centellez
 
-![Aristonico "Choko" López](https://ja.japoneson.com/wp-content/uploads/2019/06/c_Aristonico-Lopez.jpg)
+![Aristonico "Choko" López](https://en.japoneson.com/wp-content/uploads/2019/06/c_Aristonico-Lopez.jpg)
 
 ### Aristonico "Choko" López
 
-![Manuel Consuegra](https://ja.japoneson.com/wp-content/uploads/2019/06/c_Manuel-Consuegra.jpg)
+![Manuel Consuegra](https://en.japoneson.com/wp-content/uploads/2019/06/c_Manuel-Consuegra.jpg)
 
 ### Manuel Consuegra
 

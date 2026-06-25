@@ -9,7 +9,7 @@ source_url: https://en.japoneson.com/swing/remember/kokura/
 
 ## Kokura Army Arsenal
 
-![](https://ja.japoneson.com/wp-content/uploads/2024/04/kokura01_-737x1024.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2024/04/kokura01_-737x1024.jpg)
 
 **■ Its Roots**  
 Originally, the Tokyo Army Arsenal in Koishikawa, Tokyo, suffered catastrophic damage during the [Great Kanto Earthquake](https://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake). In the search for a new site, Hiroshima and Kokura remained as the final candidates. Kokura City campaigned vigorously, even appealing to military elders from the region, and successfully attracted the facility. This move was driven by the city’s decline following the 1925 military disarmament, which saw the relocation of the 12th Division Headquarters and its main forces.
@@ -23,7 +23,7 @@ The Kokura Army Arsenal consisted of three manufacturing plants. It produced a w
 **■ The Great War and the Arsenal**  
 During WWII, the No. 2 Manufacturing Plant was hit during a U.S. air raid, claiming the lives of many members of the Women's Volunteer Corps (Joshi Teishintai). In August 1945, near the end of the war, the city center of Kokura—with the arsenal at its heart—became the primary target for the second atomic bomb after Hiroshima. Following the end of the war on August 15, the arsenal ceased operations. Machine tools were removed as war reparations, and part of the U.S. 32nd Infantry Division was stationed there. In 1946, the U.S. 24th Infantry Division took over, establishing its headquarters in the former main building. When the Korean War broke out, this division was immediately deployed to the front lines. Even after WWII ended, peace did not immediately return to this land.
 
-![](https://ja.japoneson.com/wp-content/uploads/2024/04/kokura02_.jpg)
+![](https://en.japoneson.com/wp-content/uploads/2024/04/kokura02_.jpg)
 
 ## Target Information Sheet (From U.S. Military Records)
 
@@ -53,4 +53,4 @@ Damaged machine tools are difficult to replace and could stall production for mo
 
 ---
 
-[caption id="attachment\_17607" align="aligncenter" width="895"]![](https://ja.japoneson.com/wp-content/uploads/2024/04/kokura03-1.jpg) Kokura city area immediately after the war[/caption]
+[caption id="attachment\_17607" align="aligncenter" width="895"]![](https://en.japoneson.com/wp-content/uploads/2024/04/kokura03-1.jpg) Kokura city area immediately after the war[/caption]
