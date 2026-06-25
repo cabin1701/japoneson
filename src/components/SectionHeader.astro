@@ -1,0 +1,69 @@
+---
+interface Props {
+  title: string;
+  variant?: 'plain' | 'mystery';
+  subtitle?: string;
+  showTorii?: boolean;
+  loadingText?: string;
+}
+const { title, variant = 'plain', subtitle, showTorii = false, loadingText } = Astro.props;
+---
+
+<section class={`section-header ${variant}`}>
+  <hr class="rule" />
+  <h2 class="title">{title}</h2>
+  {subtitle && <p class="subtitle">{subtitle}</p>}
+  {showTorii && <div class="torii" aria-hidden="true">⛩</div>}
+  {loadingText && <p class="loading">{loadingText}</p>}
+  <hr class="rule" />
+</section>
+
+<style>
+  .section-header {
+    max-width: 1100px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    text-align: center;
+  }
+  .rule {
+    border: 0;
+    border-top: 1px solid var(--color-rule);
+    opacity: 0.5;
+    margin: 0;
+  }
+  .title {
+    font-family: var(--font-display-cinzel-dec);
+    font-weight: 700;
+    font-size: 42px;
+    color: var(--color-text);
+    letter-spacing: 0.04em;
+    margin: 1.5rem 0;
+  }
+  .mystery .title {
+    font-family: var(--font-display-cinzel-dec);  /* swap from Cherry Swash */
+    font-weight: 700;
+    font-size: 38px;
+    color: var(--color-accent);
+    letter-spacing: 0.03em;
+  }
+  .subtitle {
+    font-family: var(--font-nav);  /* Pathway Gothic One */
+    font-size: 18px;
+    letter-spacing: 0.18em;
+    color: var(--color-text);
+    margin: -0.5rem 0 1rem;
+  }
+  .torii {
+    font-size: 38px;
+    color: var(--color-accent);
+    margin: 0.5rem 0;
+    line-height: 1;
+  }
+  .loading {
+    font-family: var(--font-nav);
+    font-size: 16px;
+    letter-spacing: 0.12em;
+    color: var(--color-text);
+    margin: 0.5rem 0 1.5rem;
+  }
+</style>

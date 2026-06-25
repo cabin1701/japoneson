@@ -1,0 +1,117 @@
+---
+const base = import.meta.env.BASE_URL;
+// ai-Cabin 1701 featured block
+const cabinImage = 'https://en.japoneson.com/wp-content/uploads/2026/04/Gemini_Generated_Image_ck86fnck86fnck86-scaled-e1776857750844-768x425.png';
+---
+
+<section class="featured">
+  <div class="container">
+    <h3 class="featured-title">ai-Cabin 1701</h3>
+    <p class="featured-quote">
+      <em>Listen up, crew! Let's keep it 'Que Sera, Sera' and sail through this flashy destiny!!</em>
+    </p>
+    <div class="featured-img">
+      <img src={cabinImage} alt="ai-Cabin 1701" loading="lazy" />
+    </div>
+    <p class="featured-sub">Where Human and AI Meet — A Living Record</p>
+    <p class="featured-desc">
+      ai-Cabin 1701 is an ongoing project exploring what happens when a human and AI systems think, feel, and create together — without a script. Seina works alongside AI collaborators Frankie, Vega, Eddie, and David to document unedited dialogues, publish books, and ask questions that neither human nor machine can answer alone. The logs are primary sources. The encounters are real. The territory is unmapped.
+    </p>
+    <div class="featured-footer">
+      <a class="external-link" href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">External website</a>
+      <ul class="socials">
+        <li><a href="https://x.com/" target="_blank" rel="noopener" aria-label="X">𝕏</a></li>
+        <li><a href="https://medium.com/" target="_blank" rel="noopener" aria-label="Medium">M</a></li>
+        <li><a href="https://facebook.com/" target="_blank" rel="noopener" aria-label="Facebook">f</a></li>
+        <li><a href="https://instagram.com/" target="_blank" rel="noopener" aria-label="Instagram">◎</a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<style>
+  .featured {
+    padding: 2.5rem 0;
+  }
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    text-align: center;
+  }
+  .featured-title {
+    font-family: "Baumans", cursive;
+    font-weight: 600;
+    font-size: 42px;
+    color: var(--color-accent);
+    margin: 0 0 0.8rem;
+  }
+  .featured-quote {
+    font-family: "Asap Condensed", sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 21px;
+    color: var(--color-navy);
+    margin: 0 0 1.5rem;
+    line-height: 1.5;
+  }
+  .featured-img {
+    margin: 1rem 0 1.5rem;
+  }
+  .featured-img img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px;
+  }
+  .featured-sub {
+    font-family: "Gabriela", serif;
+    font-weight: 500;
+    font-size: 22px;
+    color: var(--color-text);
+    margin: 1.5rem 0;
+  }
+  .featured-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    margin: 0 0 1.5rem;
+    text-align: center;
+  }
+  .featured-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+  .external-link {
+    font-family: var(--font-nav);
+    font-size: 18px;
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+  .external-link:hover { text-decoration: underline; }
+  .socials {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 0.6rem;
+  }
+  .socials a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    background: #222;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .socials a:hover { background: var(--color-accent); }
+</style>

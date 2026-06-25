@@ -2,14 +2,25 @@
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
-import ProjectsGrid from '../../components/ProjectsGrid.astro';
 import Hero from '../../components/Hero.astro';
+import SectionHeader from '../../components/SectionHeader.astro';
+import FeaturedProject from '../../components/FeaturedProject.astro';
+import ProjectsGrid from '../../components/ProjectsGrid.astro';
 ---
 
 <Layout title='Shoko "Seina" Shiraishi' lang="en">
   <Header lang="en" />
   <main>
     <Hero />
+    <SectionHeader title="Projects" />
+    <FeaturedProject />
+    <SectionHeader
+      title="The Mystery Entertainment"
+      variant="mystery"
+      subtitle={'"The dots will connect here, at KANMON."'}
+      showTorii={true}
+      loadingText="Loading the Mystery..."
+    />
     <ProjectsGrid />
   </main>
   <Footer lang="en" />
