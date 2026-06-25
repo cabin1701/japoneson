@@ -1,0 +1,69 @@
+---
+interface Props {
+  lang?: 'en' | 'es';
+}
+const { lang = 'en' } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+const nav = [
+  { label: 'HOME', slug: 'home' },
+  { label: 'About', slug: 'about' },
+  { label: 'Angels Swing', slug: 'swing' },
+  { label: 'JAPONÉSON', slug: 'japoneson' },
+  { label: 'The Mystery Entertainment', slug: 'mystery' },
+  { label: 'Murakami Mambo!!', slug: 'murakami' },
+  { label: 'Cupie Danny', slug: 'cupie' },
+  { label: 'Blog', slug: 'blog-2' },
+];
+
+const prefix = `${base}${lang}/`;
+---
+
+<header class="site-header">
+  <div class="container">
+    <a class="logo" href={prefix}>Japonéson</a>
+    <nav>
+      <ul>
+        {nav.map((n) => (
+          <li><a href={`${prefix}${n.slug}/`}>{n.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    border-bottom: 1px solid #eee;
+    padding: 1rem 0;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  .logo {
+    font-weight: 700;
+    font-size: 1.3rem;
+    text-decoration: none;
+    color: inherit;
+  }
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  nav a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 0.95rem;
+  }
+  nav a:hover {
+    color: var(--color-link);
+  }
+</style>

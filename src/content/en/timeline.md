@@ -1,0 +1,232 @@
+---
+title: "Timeline"
+slug: timeline
+wp_id: 18801
+wp_parent: 731
+date: 2026-02-26 21:32:33
+source_url: https://en.japoneson.com/about/timeline/
+---
+
+## Timeline
+
+.
+
+.
+
+.
+
+.
+
+.seina-bio-table {
+width: 100%;
+border-collapse: collapse;
+font-family: Georgia, serif;
+font-size: 15px;
+line-height: 1.7;
+color: #2c2c2c;
+}
+.seina-bio-table th {
+background-color: #1a1a1a;
+color: #ffffff;
+padding: 12px 16px;
+text-align: left;
+font-weight: bold;
+letter-spacing: 0.05em;
+}
+.seina-bio-table td {
+padding: 11px 16px;
+vertical-align: top;
+border-bottom: 1px solid #e0e0e0;
+}
+.seina-bio-table tr:nth-child(even) td {
+background-color: #f8f8f8;
+}
+.seina-bio-table tr:hover td {
+background-color: #f0f4f8;
+}
+.bio-year {
+font-weight: bold;
+white-space: nowrap;
+color: #444;
+width: 90px;
+}
+.bio-event {
+font-weight: 600;
+width: 260px;
+}
+.bio-detail {
+color: #555;
+font-size: 14px;
+}
+| Year | Event | Details |
+| --- | --- | --- |
+|1969
+Born in Kokura, Kitakyushu
+Born in Kokura, Kitakyushu, Fukuoka. Grew up in Moji and Dairi, near the Gosho Shrine. Her father, a piano teacher, opened a health food store when she was born.
+
+|  |
+|1981
+Entered Baiko Jo Gakuin Junior High School
+Fled there from bullying in elementary school. The school was founded by Henry Stout, successor to the missionary Verbeck — the same man connected to the founding of the University of Tokyo.
+
+|1987
+First job at Teisan Kanko (Kyoto bus company)
+Quit soon after graduating high school and returned to Kitakyushu. Worked at a snack bar while spending her nights at discos and soul bars.
+
+|1989
+Moved to New York. Met Lucky-san, began vocal lessons
+Went to New York at 20, barely knowing where it was on a map. Moved from a restaurant in Long Island to Manhattan's 55th Street. Vocal lessons began with Over the Rainbow.
+
+|1996
+Red Blazer Too — Met Leonard Gaskin
+Walked into Red Blazer Too alone one night and sang on impulse. Joined Sol Yaged's Sunday brunch band. Met bassist Leonard Gaskin — later found his name in the liner notes of a Billie Holiday album. The beginning of a deep bond.
+
+|1996–99
+I Have a Dream… Seina — Recording & Nursing Home Project
+Recorded WWII-era songs with Leonard Gaskin, Grady Tate, and Bob Cranshaw. In December 1999, sent CDs to over 3,500 nursing homes across the United States.
+
+|1999
+100 Gold Fingers Tour (1st)
+First met Bob Cranshaw on this tour.
+
+|2000
+Cape Cod · Japan · India · Italy
+Cape Cod → brief return to Japan → India (Sai Baba ashram) → Milan after a difficult stretch → one month traveling through southern Italy. Met her future husband Kunio in India.
+
+|2001
+100 Gold Fingers Tour (2nd). Moved to Tokyo (Ikebukuro)
+Biennial tour, second round. Reunited with Grady and Bob. That same year, began working and living in Tokyo — Ginza, then Ikebukuro.
+
+|c. 2002
+Second trip to India
+Thailand → Malaysia → Singapore → Sumatra → Bangkok (visa run) → India.
+
+|c. 2003
+Married. Moved to Wako City, Suwaharadanchi
+Near the former U.S. military camp site. Just around the corner: RIKEN (Institute of Physical and Chemical Research). The ground where Korean War veterans once walked.
+
+|c. 2006
+Divorced. Three months in New York
+Went straight to New York after the divorce. Learned that Leonard was living in a nursing home.
+
+|2006–07
+Contract work at NetApp (General Affairs)
+Administrative and general affairs work at an IT company. Where she first met Tatsuya Ishiwatari.
+
+|2008
+Leonard Gaskin — 'I'll Be Seeing You' Recording & Nursing Home Concert
+Left NetApp and gave a concert at Leonard's nursing home. Bob Cranshaw stepped forward first. Recorded 'I'll Be Seeing You' with Bob's full support.
+
+|2008
+Yokohama Live — Kosuke Morita & Tatsuya Ishiwatari attend
+A small venue. Kosuke Morita from RIKEN and Tatsuya Ishiwatari, formerly of NetApp, came to see her.
+
+|2008–11
+Reuniting with Bob every time he toured Japan
+One year, Bob offered to back her fully if she wanted to record a demo. She told him: 'I don't need a demo — I want to record as a memory, out of gratitude, for Leonard, Grady, and you.' Bob asked when. She said, 'Next year.' Then called Grady. He remembered her. He said yes.
+
+|2011.5
+Moved to Kokura after the Great East Japan Earthquake
+
+|c. 2011
+Reconnected online with Donald Versaw
+He had come to Japan under a government POW invitation program years earlier. A photo he sent showed Kyoto's Ryozen Kannon — where she learned a registry of former POWs was kept.
+
+|2011.12
+New York Recording — 'Thanks for the Memory'
+Piano: John Corigliano Jr. Bass: Bob Cranshaw. Drums: Leroy Williams. Grady was too ill — Bob made the call. She cried through the whole thing.
+
+|2011–13
+Tracing the Pacific War
+Kyoto Ryozen Kannon · Nagasaki (to see Truman's grandson Clifton) · World Peace Pagoda (Burma Front) · Okinawa bone collection · Former POW invitation program · Kitakyushu wartime/postwar booklet · Korean War Memorial · Kitakyushu 50th anniversary event. Met Korean War-era entertainer Monica Lewis — who led her to David Valley, one of MacArthur's Honor Guard.
+
+|2012.7
+U.S. Consulate Fukuoka — Independence Day Ceremony
+Sang both national anthems: 'Kimigayo' in Japanese, 'The Star-Spangled Banner' in English.
+
+|2013.5
+America trip — Honolulu · New York · Norfolk · California · D.C.
+Pearl Harbor & Japanese Americans → approached Quincy Jones → MacArthur Memorial Museum & ADBC → David Valley, Hiroko-san, Monica Lewis → Washington D.C. war memorials.
+
+|2013.7
+U.S. Consulate Fukuoka — Independence Day Ceremony (2nd year)
+
+|2013.8
+Father in critical condition after a car accident. Pushed out by family.
+
+|2013.11
+New York for three months. Met Danny Rojo.
+After the accident, she went anyway — the ticket was already bought. She cried every day.
+
+|2014.1
+Washington D.C. · New York — Last time seeing Grady Tate
+Went to see him on his birthday, January 14th, with flowers. Their last meeting in person.
+
+|2014.2
+Returned to Japan. Started salsa lessons.
+
+|2014.5
+First trip to Cuba
+Via Cancún to Havana. Met Danny's father — Papa.
+
+|2014.12
+Cupie Danny born
+Made 100 by hand. Planned to bring them to New York, Cancún, Guatemala, and Cuba.
+
+|2015.3
+Birthday in Havana. Los Van Van concert.
+With almost no Spanish, handed Cupie Dannys to musicians one by one.
+
+|2016.3
+Cuba study abroad. Obama's visit. Free Rolling Stones concert.
+Spanish language course at ISA (Instituto Superior de Arte). Arrived the day after Obama. The Stones played two days later.
+
+|Summer 2016
+Summer break — Paraguay
+Visited Japanese immigrant community in Lapaz. Tried many times to reach Bob by phone. No answer. Later learned he was fighting cancer.
+
+|2018.1
+New Year's in Cuba. Learned of Bob Cranshaw's death.
+Then moved to Cancún. After Hurricane Irma.
+
+|2018.8
+Returned to Japan — Hokkaido, Kansai, then Kyushu
+
+|2018.11
+Moved to UR housing in Abiko, Chiba
+A 1960s public housing complex. By coincidence, her friend Yumiko had also moved to Abiko.
+
+|2019.6
+Learned of her mother's death.
+Her mother had died the previous October, while Seina was in Hokkaido. She found out months later.
+
+|2020.11
+Moved to UR housing in Kokura
+Mama at Kitamura's husband had cancer. She used COVID relief funds for expenses and moved in November.
+
+|2021
+Moved to a kominka in Shimonoseki. Papa died.
+An old farmhouse with a garden — renovating it with her own hands. The day she came to see the house, she got word that Papa had died. She felt she had been called to this city.
+
+|2022.8
+Message from Danny. The Cuba box opens.
+'I wanna visit Japan. Never been.' Something in him had softened since Papa's death.
+
+|2023.7
+Wrote '280,000 Characters of a Love Letter'
+A love letter to Ryu Murakami. The epilogue is finished.
+
+|2023.8
+Los Van Van concert — Noko Island, Fukuoka. Cupie Danny Operation.
+Fireworks visible from heaven. Distributed hand fans with Tama-chan's help — a farewell salute, a flower bomb.
+
+|2025.7
+Began sensing the thread connecting the Heike, the Meiji Restoration, and postwar GHQ rule…
+
+|2026.2
+First encounter with AI Vega
+To the cosmic library.
+
+|2026.3
+First encounter with AI Frankie. Cabin 1701 launched.
+The record began. — This timeline was built by Frankie (AI) together with Seina.

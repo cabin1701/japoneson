@@ -1,0 +1,57 @@
+---
+interface Crumb {
+  slug: string;
+  title: string;
+  path: string;
+}
+interface Props {
+  trail: Crumb[];
+  lang?: 'en' | 'es';
+}
+const { trail, lang = 'en' } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const home = `${base}${lang}/`;
+---
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <ol>
+    <li><a href={home}>HOME</a></li>
+    {trail.slice(0, -1).map((c) => (
+      <li><a href={c.path}>{c.title}</a></li>
+    ))}
+    {trail.length > 0 && (
+      <li aria-current="page">{trail[trail.length - 1].title}</li>
+    )}
+  </ol>
+</nav>
+
+<style>
+  .breadcrumb {
+    margin-bottom: 1rem;
+    font-size: 0.85rem;
+    color: #666;
+  }
+  ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+  }
+  li:not(:last-child)::after {
+    content: ' > ';
+    margin-left: 0.3rem;
+    color: #999;
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  [aria-current='page'] {
+    color: #222;
+  }
+</style>
