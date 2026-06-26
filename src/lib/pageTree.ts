@@ -23,7 +23,7 @@ export function buildPath(entry: Entry, all: Entry[]): string {
   return segments.join('/');
 }
 
-export function buildBreadcrumb(entry: Entry, all: Entry[]): { slug: string; title: string; path: string }[] {
+export function buildBreadcrumb(entry: Entry, all: Entry[], base: string = '/'): { slug: string; title: string; path: string }[] {
   const byId = new Map<string, Entry>();
   for (const e of all) {
     const id = String(e.data.wp_id ?? '');
@@ -41,9 +41,10 @@ export function buildBreadcrumb(entry: Entry, all: Entry[]): { slug: string; tit
     current = byId.get(pid);
   }
 
+  const prefix = base.replace(/\/$/, '');
   return chain.map((e, i) => ({
     slug: e.data.slug,
     title: e.data.title,
-    path: '/en/' + chain.slice(0, i + 1).map((x) => x.data.slug).join('/') + '/',
+    path: `${prefix}/en/` + chain.slice(0, i + 1).map((x) => x.data.slug).join('/') + '/',
   }));
 }

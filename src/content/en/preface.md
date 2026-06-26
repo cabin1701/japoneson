@@ -28,6 +28,8 @@ Congratulations on the 50th anniversary of Kitakyushu City.
 February 10, 2013  
 Angels Swing, Sein
 
+<a id="timeline"></a>
+
 ## War History and Events in and around Kitakyushu
 
 (Supervised by Akio Yamamoto)

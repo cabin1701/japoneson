@@ -1,0 +1,184 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+
+interface Person {
+  name: string;
+  place?: string;
+  image: string;
+  qpd?: string;
+}
+
+const family: Person[] = [
+  { name: 'Papa Danny Rojo',    place: 'New York', image: IMG('2018/04/QPD001Danny.jpg'),                qpd: 'QPD001' },
+  { name: 'Grandpa',            place: 'Cuba',     image: IMG('2018/04/QPD200-e1780188818137-768x768.jpg'), qpd: 'QPD200' },
+  { name: 'Grandma',            place: 'Cuba',     image: IMG('2019/06/QPD120.jpg'),                     qpd: 'QPD120' },
+  { name: 'Aunt',               place: 'Miami',    image: IMG('2019/06/QPDtania-1-768x768.jpg'),         qpd: 'QPD189' },
+  { name: 'Aunt',               place: 'Cuba',     image: IMG('2019/06/QPDdaiela-1-768x768.jpg'),        qpd: 'QPD121' },
+  { name: 'Cousin',             place: 'New York', image: IMG('2019/06/QPD079.jpg'),                     qpd: 'QPD079' },
+  { name: 'Cousin',             place: 'Miami',    image: IMG('2018/04/QPD191.jpg'),                     qpd: 'QPD191' },
+  { name: 'Cousin',             place: 'Miami',    image: IMG('2018/04/QPD192-768x682.jpg'),             qpd: 'QPD192' },
+  { name: 'Cousin',             place: 'Miami',    image: IMG('2018/04/QPD193-768x750.jpg'),             qpd: 'QPD193' },
+  { name: "aunt's mother",      place: 'Miami',    image: IMG('2018/04/QPD190.jpg'),                     qpd: 'QPD190' },
+];
+
+const friends: Person[] = [
+  { name: 'Soko',                place: 'Japan',           image: IMG('2018/04/QPD002.jpg'),                qpd: 'QPD002' },
+  { name: 'Shiho',               place: 'Japan',           image: IMG('2018/04/QPD053.jpg'),                qpd: 'QPD053' },
+  { name: 'Minako',              place: 'Cuba',            image: IMG('2026/05/QPD022minako-768x768.jpg'),  qpd: 'QPD022' },
+  { name: 'Yukari',              place: 'Cuba',            image: IMG('2026/05/QPD023yukari-768x768.jpg'),  qpd: 'QPD023' },
+  { name: 'Todd Bryant Weeks',   place: 'Local 802, NYC',  image: IMG('2018/04/QPD113.jpg'),                qpd: 'QPD113' },
+  { name: 'Delta Apple',         place: 'New York',        image: IMG('2018/04/QPD089.jpg'),                qpd: 'QPD89'  },
+  { name: 'Annia',               place: 'New York',        image: IMG('2026/06/QPD112.jpg'),                qpd: 'QPD112' },
+  { name: 'Akemi',               place: 'New York',        image: IMG('2026/06/QPD117.jpg'),                qpd: 'QPD117' },
+  { name: 'Cousin',              place: 'Miami',           image: IMG('2026/05/QPD119.jpg') },
+  { name: 'Arístides',           place: 'New York',        image: IMG('2026/06/QPD118.jpg'),                qpd: 'QPD118' },
+  { name: 'Ernesto Lago',        place: 'New York',        image: IMG('2026/06/QPD127.jpg'),                qpd: 'QPD127' },
+  { name: 'Maritza',             place: 'New York',        image: IMG('2026/06/QPD128Maritza-e1780294706454.jpg'), qpd: 'QPD128' },
+  { name: 'Rocio',               place: 'Quito, Ecuador',  image: IMG('2026/06/QPD141.jpg'),                qpd: 'QPD141' },
+  { name: 'Sandra',              place: 'Quito, Ecuador',  image: IMG('2026/06/QPD142_143.jpg'),            qpd: 'QPD142' },
+  { name: 'Yvette',              place: 'New York',        image: IMG('2026/05/QPD131_-scaled-e1780188644800-1024x1024.jpg'), qpd: 'QPD131' },
+  { name: 'Vico El Conde',       place: 'New York',        image: IMG('2026/06/QPD137.jpg'),                qpd: 'QPD137' },
+  { name: 'Nelida',              place: 'New York',        image: IMG('2026/06/QPD138.jpg'),                qpd: 'QPD138' },
+  { name: 'Takuro',              place: 'Xela, Guatemala', image: IMG('2026/06/QPD152_.jpg'),               qpd: 'QPD152' },
+  { name: 'Kyohei',              place: 'Xela, Guatemala', image: IMG('2026/06/QPD153.jpg'),                qpd: 'QPD153' },
+  { name: 'María Cano y Ingrid', place: 'Antigua, Guatemala', image: IMG('2026/06/QPD154.jpg'),             qpd: 'QPD154' },
+  { name: 'Tashiro',             place: 'Antigua, Guatemala', image: IMG('2026/06/QPD155.jpg'),             qpd: 'QPD154' },
+  { name: 'Jindra',              place: 'Havana, Cuba',    image: IMG('2026/06/QPD165.jpg') },
+  { name: 'Marta',               place: 'Havana, Cuba',    image: IMG('2026/06/QPD173.jpg') },
+  { name: 'Enrique Padron',      place: 'Havana, Cuba',    image: IMG('2026/06/QPD179.jpg'),                qpd: 'QPD179' },
+  { name: 'Grettel',             place: 'Havana, Cuba',    image: IMG('2018/04/QPD181.jpg'),                qpd: 'QPD181' },
+  { name: 'Jorge & Anita',       place: 'Havana, Cuba',    image: IMG('2026/06/QPD186.jpg'),                qpd: 'QPD186' },
+];
+
+const trail = [
+  { slug: 'cupie', title: 'CUPIE DANNY', path: `${base}en/cupie/` },
+  { slug: 'gallery-02', title: 'FRIENDS & FAMILY', path: `${base}en/cupie/gallery-02/` },
+];
+---
+
+<Layout title="Gallery — Friends & Family — Japonéson" lang="en">
+  <Header lang="en" />
+  <main>
+    <ProjectHero
+      title="Friends & Family"
+      titleFont="'Cherry Swash', cursive"
+      titleWeight={700}
+      titleSize="60px"
+      titleColor="var(--color-accent)"
+      image={IMG('2018/04/QPD001Danny.jpg')}
+      align="center"
+      height={760}
+      fit="cover"
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="en" />
+    </div>
+
+    <section class="gallery-wrap">
+      <h2 class="sect-h">Family</h2>
+      <div class="gallery-grid">
+        {family.map((p) => (
+          <figure class="g-card">
+            <div class="g-image"><img src={p.image} alt={p.name} loading="lazy" /></div>
+            <figcaption>
+              <p class="g-name">{p.name}</p>
+              {p.place && <p class="g-place">- {p.place} -</p>}
+              {p.qpd && <p class="g-qpd">{p.qpd}</p>}
+            </figcaption>
+          </figure>
+        ))}
+      </div>
+
+      <h2 class="sect-h">Friends</h2>
+      <div class="gallery-grid">
+        {friends.map((p) => (
+          <figure class="g-card">
+            <div class="g-image"><img src={p.image} alt={p.name} loading="lazy" /></div>
+            <figcaption>
+              <p class="g-name">{p.name}</p>
+              {p.place && <p class="g-place">- {p.place} -</p>}
+              {p.qpd && <p class="g-qpd">{p.qpd}</p>}
+            </figcaption>
+          </figure>
+        ))}
+      </div>
+    </section>
+  </main>
+  <Footer lang="en" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .gallery-wrap {
+    padding: 3rem 1.5rem 4rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .sect-h {
+    font-family: 'Cherry Swash', cursive;
+    font-weight: 700;
+    font-size: 32px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 2.5rem 0 2rem;
+  }
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2.5rem 2rem;
+  }
+  .g-card {
+    margin: 0;
+    text-align: center;
+  }
+  .g-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+  }
+  .g-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .g-name {
+    font-family: 'Cherry Swash', cursive;
+    font-weight: 400;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0.8rem 0 0.2rem;
+    line-height: 1.25;
+  }
+  .g-place {
+    font-family: 'Cherry Swash', cursive;
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--color-navy);
+    margin: 0;
+    line-height: 1.25;
+  }
+  .g-qpd {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: #888;
+    margin: 0.5rem 0 0;
+  }
+
+  @media (max-width: 1000px) {
+    .gallery-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 720px) {
+    .gallery-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>

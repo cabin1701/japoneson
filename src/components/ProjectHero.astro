@@ -8,15 +8,60 @@ interface Props {
   align?: 'left' | 'center';
   height?: number; // px
   fit?: 'cover' | 'contain'; // 'cover' = crop to fill, 'contain' = show full image
+  titleFont?: string; // CSS font-family value, e.g. '"Cinzel", serif'
+  titleWeight?: number | string; // CSS font-weight
+  titleItalic?: boolean;
+  titleSize?: string; // CSS font-size override
+  titleColor?: string; // CSS color override
+  videoId?: string; // YouTube video ID for muted background video
+  videoStart?: number; // start time in seconds
 }
-const { kicker, title, subtitle, image, align = 'left', height = 560, fit = 'cover' } = Astro.props;
+const {
+  kicker,
+  title,
+  subtitle,
+  image,
+  align = 'left',
+  height = 560,
+  fit = 'cover',
+  titleFont,
+  titleWeight,
+  titleItalic,
+  titleSize,
+  titleColor,
+  videoId,
+  videoStart,
+} = Astro.props;
+
+const videoSrc = videoId
+  ? `https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1&loop=1&playlist=${videoId}&controls=0&showinfo=0&modestbranding=1&playsinline=1&rel=0${videoStart ? `&start=${videoStart}` : ''}`
+  : '';
+
+const titleStyle = [
+  titleFont ? `font-family: ${titleFont};` : '',
+  titleWeight ? `font-weight: ${titleWeight};` : '',
+  titleItalic ? 'font-style: italic;' : '',
+  titleSize ? `font-size: ${titleSize};` : '',
+  titleColor ? `color: ${titleColor};` : '',
+].join(' ');
 ---
 
 <section class="p-hero" data-align={align} data-fit={fit} style={`background-image: url('${image}'); min-height: ${height}px;`}>
+  {videoId && (
+    <div class="video-bg" aria-hidden="true">
+      <iframe
+        src={videoSrc}
+        title=""
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen
+      ></iframe>
+    </div>
+  )}
   <div class="overlay"></div>
   <div class="p-hero-content">
     {kicker && <p class="kicker">{kicker}</p>}
-    <h1 class="p-hero-title">{title}</h1>
+    <h1 class="p-hero-title" style={titleStyle}>{title}</h1>
     {subtitle && <p class="subtitle">{subtitle}</p>}
   </div>
 </section>
@@ -35,6 +80,23 @@ const { kicker, title, subtitle, image, align = 'left', height = 560, fit = 'cov
   }
   .p-hero[data-fit="contain"] {
     background-size: contain;
+  }
+  .video-bg {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    pointer-events: none;
+  }
+  .video-bg iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 177.78vh;
+    min-width: 100%;
+    height: 56.25vw;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    border: 0;
   }
   .overlay {
     position: absolute;
@@ -60,8 +122,8 @@ const { kicker, title, subtitle, image, align = 'left', height = 560, fit = 'cov
     margin: 0 0 1rem;
   }
   .p-hero-title {
-    font-family: var(--font-display-serif);
-    font-weight: 900;
+    font-family: var(--font-display-ysabeau);
+    font-weight: 700;
     font-size: 64px;
     color: var(--color-accent);
     margin: 0 0 1.2rem;

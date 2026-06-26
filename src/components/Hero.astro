@@ -1,15 +1,31 @@
 ---
+interface CTA {
+  label: string;
+  href: string;
+}
+interface Props {
+  ctas?: CTA[];
+  ctaLayout?: 'column' | 'row';
+}
 const base = import.meta.env.BASE_URL;
 const heroImage = 'https://en.japoneson.com/wp-content/uploads/2026/02/IMG_1842_plus_3-1.jpg';
+const {
+  ctas = [
+    { label: 'About Seina', href: `${base}en/about/` },
+    { label: 'Timeline', href: `${base}en/about/timeline/` },
+  ],
+  ctaLayout = 'column',
+} = Astro.props;
 ---
 
 <section class="hero" style={`background-image: url('${heroImage}');`}>
   <div class="hero-content">
     <p class="kicker">VOCALIST<span class="dot">.</span>CREATOR<span class="dot">.</span>HISTORICAL EXPLORER</p>
     <h1 class="hero-title">Shoko "Seina" Shiraishi</h1>
-    <div class="hero-cta">
-      <a class="btn" href={`${base}en/about/`}>About Seina</a>
-      <a class="btn" href={`${base}en/about/timeline/`}>Timeline</a>
+    <div class="hero-cta" data-layout={ctaLayout}>
+      {ctas.map((c) => (
+        <a class="btn" href={c.href}>{c.label}</a>
+      ))}
     </div>
   </div>
 </section>
@@ -47,7 +63,7 @@ const heroImage = 'https://en.japoneson.com/wp-content/uploads/2026/02/IMG_1842_
     font-family: var(--font-display-serif);  /* Simonetta */
     font-style: normal;
     font-weight: 500;
-    font-size: 58px;
+    font-size: 55px;
     color: var(--color-accent);
     margin: 0 0 2rem;
     line-height: 1.1;
@@ -59,6 +75,11 @@ const heroImage = 'https://en.japoneson.com/wp-content/uploads/2026/02/IMG_1842_
     flex-direction: column;
     gap: 0.8rem;
     align-items: flex-start;
+  }
+  .hero-cta[data-layout="row"] {
+    flex-direction: row;
+    gap: 1rem;
+    flex-wrap: wrap;
   }
   .btn {
     display: inline-block;
@@ -77,8 +98,9 @@ const heroImage = 'https://en.japoneson.com/wp-content/uploads/2026/02/IMG_1842_
     text-align: center;
   }
   .btn:hover {
-    background: #000;
+    background: var(--color-accent);
     color: var(--color-bg);
+    border-color: var(--color-accent);
   }
 
   @media (max-width: 720px) {

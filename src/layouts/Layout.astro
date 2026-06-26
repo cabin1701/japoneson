@@ -17,7 +17,7 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@400;500;600&family=Baumans&family=Changa:wght@400;500;600&family=Cherry+Swash:wght@400;700&family=Cinzel:wght@400;500;600;700&family=Cinzel+Decorative:wght@400;700&family=Gabriela&family=Pathway+Gothic+One&family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@400;500;600&family=Baumans&family=Changa:wght@400;500;600&family=Cherry+Swash:wght@400;700&family=Cinzel:wght@400;500;600;700&family=Cinzel+Decorative:wght@400;700&family=Gabriela&family=Pathway+Gothic+One&family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Ysabeau+SC:wght@400;500;600;700&family=Cormorant+Infant:ital,wght@0,400;0,700;1,400;1,700&display=swap"
     />
   </head>
   <body>
@@ -40,6 +40,7 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     --font-display-cinzel-dec: "Cinzel Decorative", serif;
     --font-display-cherry: "Cherry Swash", cursive;
     --font-display-baumans: "Baumans", cursive;
+    --font-display-ysabeau: "Ysabeau SC", serif;
     --font-italic-quote: "Simonetta", serif;
     --font-section: "Asap Condensed", sans-serif;
     --container-max: 1100px;
@@ -111,17 +112,302 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     font-style: italic;
   }
   article h3 {
-    font-family: var(--font-section);
+    font-family: var(--font-display-cinzel);
     font-weight: 500;
-    font-size: 1.3rem;
-    margin: 1.5rem 0 0.5rem;
+    font-size: 1.5rem;
+    color: var(--color-accent);
+    margin: 0.5rem 0 1rem;
+    text-align: center;
   }
 
   article img {
-    max-width: 100%;
+    max-width: 600px;
+    width: 100%;
     height: auto;
     display: block;
-    margin: 1rem auto;
+    margin: 1.5rem auto;
+  }
+
+  article table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+  article table th,
+  article table td {
+    border: 1px solid rgba(208, 0, 0, 0.25);
+    padding: 10px 14px;
+    text-align: left;
+    vertical-align: top;
+  }
+  article table th {
+    background: rgba(208, 0, 0, 0.06);
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    color: var(--color-accent);
+  }
+  article table td:first-child {
+    white-space: nowrap;
+    width: 1%;
+  }
+
+  article .flyer-block {
+    background: rgba(255, 220, 195, 0.35);
+    border: 1px solid var(--color-navy);
+    padding: 2.5rem 2rem 2rem;
+    margin: 2.5rem auto;
+    max-width: 760px;
+    text-align: center;
+  }
+  article .flyer-block h2 {
+    color: var(--color-accent);
+    margin-top: 0;
+  }
+  article .flyer-block h4 {
+    color: #2e7d32;
+    font-weight: 600;
+    margin: 1rem 0 1.5rem;
+    font-size: 1.15rem;
+  }
+  article .flyer-block img {
+    max-width: 480px;
+    margin: 1.5rem auto;
+  }
+  article .flyer-block p {
+    text-align: left;
+    max-width: 620px;
+    margin: 0 auto 1.2rem;
+  }
+  article .flyer-block ol {
+    text-align: left;
+    max-width: 620px;
+    margin: 0 auto 1.2rem;
+  }
+
+  article .cd-jacket-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin: 2rem auto;
+    max-width: 900px;
+  }
+  article .cd-jacket-row img {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+  }
+  @media (max-width: 600px) {
+    article .cd-jacket-row { grid-template-columns: 1fr; }
+  }
+
+  article .musicians-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.5rem 1rem;
+    margin: 2rem auto;
+    max-width: 1100px;
+  }
+  article .musician-card {
+    text-align: center;
+  }
+  article .musician-card img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1;
+    object-fit: cover;
+    margin: 0 0 0.5rem;
+    max-width: 100%;
+    border-radius: 50%;
+  }
+  article .musician-card h3 {
+    font-family: var(--font-display-cinzel);
+    font-size: 0.95rem;
+    color: var(--color-navy);
+    margin: 0 0 1rem;
+    text-align: center;
+    letter-spacing: 0.02em;
+  }
+  @media (max-width: 900px) {
+    article .musicians-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 600px) {
+    article .musicians-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  article .gallery-4col {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    margin: 2rem auto;
+    max-width: 1100px;
+  }
+  article .gallery-4col img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    aspect-ratio: 1;
+    margin: 0;
+    max-width: 100%;
+  }
+  article .gallery-4col p { margin: 0; }
+  @media (max-width: 720px) {
+    article .gallery-4col { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  article .poem-block {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2rem auto;
+    max-width: 1000px;
+    align-items: start;
+  }
+  article .hg-block {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    margin: 2rem auto;
+    max-width: 1000px;
+    align-items: center;
+  }
+  article .poem-text p,
+  article .hg-text p {
+    margin: 0 0 1rem;
+  }
+  article .poem-image img {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+  }
+  article .hg-image img {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+  }
+  article .poem-image em {
+    display: block;
+    text-align: center;
+    color: var(--color-muted);
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+  }
+  @media (max-width: 720px) {
+    article .poem-block,
+    article .hg-block {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  article .video-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin: 2rem auto;
+    max-width: 1000px;
+  }
+  article .video-row iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+  }
+  article .video-row p { margin: 0; }
+  @media (max-width: 720px) {
+    article .video-row { grid-template-columns: 1fr; }
+  }
+
+  article .coming-soon {
+    text-align: center;
+    font-family: var(--font-display-cinzel);
+    font-size: 1.2rem;
+    color: var(--color-muted);
+    margin: 4rem 0;
+    font-style: italic;
+    letter-spacing: 0.08em;
+  }
+
+  article hr.navy-rule {
+    border: 0;
+    border-top: 4px double var(--color-navy);
+    margin: 2.5rem auto;
+    max-width: 760px;
+  }
+
+  article .ozanam-block {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 1.5rem;
+    margin: 2rem auto;
+    max-width: 1000px;
+    align-items: center;
+  }
+  article .ozanam-photo img {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+  }
+  article .ozanam-video iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+  }
+  article .ozanam-credits ul {
+    list-style: disc;
+    padding-left: 1.2rem;
+    margin: 0;
+  }
+  article .ozanam-credits li {
+    font-family: var(--font-display-cinzel);
+    font-size: 16px;
+    line-height: 1.7;
+    color: #2a2a2a;
+  }
+
+  article .transcript-block {
+    max-width: 760px;
+    margin: 2rem auto;
+    padding: 1.5rem 0;
+  }
+  article .transcript-block h4 {
+    text-align: center;
+    color: var(--color-accent);
+    font-family: var(--font-display-cinzel);
+    margin: 0 0 1.5rem;
+    letter-spacing: 0.04em;
+  }
+  article .transcript-block p {
+    font-style: normal;
+    line-height: 1.75;
+    margin: 0 0 1rem;
+  }
+
+  article blockquote.bob-quote {
+    border-left: 3px solid var(--color-navy);
+    padding: 0.5rem 0 0.5rem 1.5rem;
+    margin: 2rem auto;
+    max-width: 760px;
+    color: var(--color-navy);
+    font-weight: 600;
+    font-style: normal;
+  }
+  article blockquote.bob-quote p { margin: 0; }
+
+  article .tribute-block {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2rem auto;
+    max-width: 960px;
+    align-items: start;
+  }
+  article .tribute-image img { max-width: 100%; margin: 0; }
+
+  @media (max-width: 720px) {
+    article .ozanam-block,
+    article .tribute-block {
+      grid-template-columns: 1fr;
+    }
   }
 
   article p {

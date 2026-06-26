@@ -1,31 +1,50 @@
 ---
-title: "\"For The Boys\" - Tribute to Ms.Monica Lewis"
+title: "For The Boys"
 slug: for-the-boys
 wp_id: 18735
 wp_parent: 108
 date: 2026-02-26 19:33:38
 source_url: https://en.japoneson.com/swing/for-the-boys/
+hero_image: "https://en.japoneson.com/wp-content/uploads/2026/05/monica.jpg"
+hero_subtitle: "who served in the Korean War — Tribute to Ms.Monica Lewis"
+hero_height: 1000
+hero_video: "PXMV5bkoq8k"
+hero_title_font: '"Cormorant Infant", serif'
+hero_title_size: "78px"
+hero_title_weight: 600
+hero_title_color: "#ff1b06"
+hero_title_italic: true
 ---
-
-# For The Boys
-
-# who served in the Korean War
-
-# Tribute to Ms.Monica Lewis
 
 I encountered [Ms. Monica Lewis](https://truecompassdesigns.com/monica-lewis/) while researching "The Memorial Cross"—a "forgotten" Korean War monument built in my hometown of Kokura during the conflict.
 
 She had been posting on a Korean War remembrance page on Facebook; her visits to the young soldiers alongside Danny Kaye during the war were a pivotal experience that profoundly reshaped the rest of her life.
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/korea2.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/korea2.jpg) 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/korea1.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/korea1.jpg) 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/monica-lewis-thanks-giving.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/monica-lewis-thanks-giving.jpg) 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/monica_danny03.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/monica_danny03.jpg) 
+<div class="gallery-4col">
+
+[![](https://en.japoneson.com/wp-content/uploads/2026/05/korea2.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/korea2.jpg)
+
+[![](https://en.japoneson.com/wp-content/uploads/2026/05/korea1.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/korea1.jpg)
+
+[![](https://en.japoneson.com/wp-content/uploads/2026/05/monica-lewis-thanks-giving.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/monica-lewis-thanks-giving.jpg)
+
+[![](https://en.japoneson.com/wp-content/uploads/2026/05/monica_danny03.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/monica_danny03.jpg)
+
+</div>
+
+<hr class="navy-rule" />
 
 ## I'll Be Seeing You
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/neverforgotten.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/neverforgotten.jpg) 
-https://youtu.be/PXMV5bkoq8k?si=I9AawIJd4i8RLKe9https://youtu.be/4bYNTIS2QW0?si=dpzAKUILttUoFSAV
+[![](https://en.japoneson.com/wp-content/uploads/2026/05/neverforgotten.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/neverforgotten.jpg)
+
+<div class="video-row">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PXMV5bkoq8k?si=I9AawIJd4i8RLKe9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4bYNTIS2QW0?si=dpzAKUILttUoFSAV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
 
 ## NEVER FORGOTTEN:
 
@@ -33,7 +52,13 @@ https://youtu.be/PXMV5bkoq8k?si=I9AawIJd4i8RLKe9https://youtu.be/4bYNTIS2QW0?si=
 
 Love to you, Seina! oxo, Monica
 
+<hr class="navy-rule" />
+
 ## Korean War Poem
+
+<div class="poem-block">
+
+<div class="poem-text">
 
 We didn’t do much talking,  
 We didn’t raise a fuss.  
@@ -65,15 +90,39 @@ And we still don’t raise a fuss.
 But Korea really happened  
 So please – remember us.
 
+</div>
+
+<div class="poem-image">
+
 ![](https://en.japoneson.com/wp-content/uploads/2026/05/koreanwar.jpg) 
 
-The Korean War Veterans Memorial in Washington, D.C (visited in 2013)
+*The Korean War Veterans Memorial in Washington, D.C (visited in 2013)*
+
+</div>
+
+</div>
+
+<hr class="navy-rule" />
+
+<div class="hg-block">
+
+<div class="hg-text">
 
 This touching poem, written by LCDR Roberto J. Prinselaar, USCG (Ret), is etched in stone at a Korean War Veteran’s Memorial in the Liberty State Park NJ Turnpike, Exit 14-B  Jersey City, NJ
 
 There are several sculptures and other works of art that are well worth a visit.
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/スクリーンショット-2026-05-26-22.15.41-e1779801434468.png)](http://generalmacarthurshonorguard.com/wordpress/the-stories/the-stories-korean-war-poem/) 
+</div>
+
+<div class="hg-image">
+
+[![](https://en.japoneson.com/wp-content/uploads/2026/05/スクリーンショット-2026-05-26-22.15.41-e1779801434468.png)](http://generalmacarthurshonorguard.com/wordpress/the-stories/the-stories-korean-war-poem/)
+
+</div>
+
+</div>
+
+<hr class="navy-rule" />
 
 ## BRIDGING COUNTRIES AND HISTORY WITH MUSIC:
 
@@ -87,4 +136,10 @@ I had a lovely lunch recently with my Facebook friend and fellow vocalist / huma
 
  These two beautifully packaged CDs, titled THANKS FOR THE MEMORY and I HAVE A DREAM, were gifts from one my new Facebook friends -- the lovely Japanese singer and humanitarian Shoko "Seina" Shiraishi. Seina's voice is just lovely, particularly in the way it captures the tone of mid-century American pop and jazz standards like "**A Tree in the Meadow**" and "**I'll Be Seeing You**" that I myself sang. I am so glad Seina reached out to me, and I encourage you to learn more about her at her Facebook page above, her website and at my earlier post about her visit to the Korean War Memorial Cross in her hometown of Kokura, Japan. Thank you for these musical presents, Seina, and for the work you are doing! All Best Wishes in 2013... Love, Monica (Photo by Dean Lamanna)
 
-https://youtu.be/hDiV5r3WOZM?si=2mtaOjkqvHwiRy2bhttps://youtu.be/TvW7G2MOmgs?si=Wd9LDKpesk6QR7qo
+<div class="video-row">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hDiV5r3WOZM?si=2mtaOjkqvHwiRy2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TvW7G2MOmgs?si=Wd9LDKpesk6QR7qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>

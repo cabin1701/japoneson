@@ -1,51 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
 const base = import.meta.env.BASE_URL;
 ---
 
-<Layout title="Japonéson">
-  <main class="landing">
-    <h1>Japonéson</h1>
-    <p>Please choose a language / Por favor elige un idioma</p>
-    <ul>
-      <li><a href={`${base}en/`}>English</a></li>
-      <li><a href={`${base}es/`}>Español</a></li>
-    </ul>
+<Layout title='Japonéson — Shoko "Seina" Shiraishi'>
+  <main>
+    <Hero
+      ctaLayout="row"
+      ctas={[
+        { label: 'English', href: `${base}en/` },
+        { label: 'Español', href: `${base}es/` },
+      ]}
+    />
   </main>
 </Layout>
-
-<style>
-  .landing {
-    max-width: 600px;
-    margin: 6rem auto;
-    padding: 2rem;
-    text-align: center;
-  }
-  h1 {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-  }
-  p {
-    color: #666;
-    margin-bottom: 2rem;
-  }
-  ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    gap: 2rem;
-    justify-content: center;
-  }
-  a {
-    display: inline-block;
-    padding: 0.6rem 1.5rem;
-    border: 1px solid var(--color-link);
-    border-radius: 4px;
-    text-decoration: none;
-    color: var(--color-link);
-  }
-  a:hover {
-    background: var(--color-link);
-    color: white;
-  }
-</style>

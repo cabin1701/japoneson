@@ -16,6 +16,13 @@ const en = defineCollection({
     hero_subtitle: z.string().optional(),
     hero_height: z.number().optional(),
     hero_fit: z.enum(['cover', 'contain']).optional(),
+    hero_video: z.string().optional(), // YouTube video ID for background video
+    hero_video_start: z.number().optional(), // start time in seconds
+    hero_title_font: z.string().optional(), // CSS font-family override
+    hero_title_weight: z.union([z.string(), z.number()]).optional(),
+    hero_title_italic: z.boolean().optional(),
+    hero_title_size: z.string().optional(), // CSS font-size, e.g. "72px" or "4rem"
+    hero_title_color: z.string().optional(), // CSS color, e.g. "#a5c5dd"
   }),
 });
 

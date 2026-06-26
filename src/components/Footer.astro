@@ -14,6 +14,7 @@ const t = lang === 'es'
 <footer class="site-footer">
   <hr class="rule" />
   <div class="container">
+    <p class="footer-tagline">ONLY MUSIC IS INCAPABLE OF LYING TO ME.</p>
     <ul class="footer-nav">
       <li><a href={`${prefix}contact/`}>{t.contact}</a></li>
       <li><a href={`${prefix}privacy-policy/`}>{t.privacy}</a></li>
@@ -44,6 +45,16 @@ const t = lang === 'es'
     text-decoration: none;
   }
   .footer-nav a:hover { color: var(--color-accent); }
+  .footer-tagline {
+    text-align: center;
+    font-family: cinzel;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 1.40rem;
+    color: var(--color-accent);
+    letter-spacing: 0.04em;
+    margin: 1.5rem 0 0.5rem;
+  }
   .footer-copy {
     text-align: center;
     font-family: var(--font-display-serif);

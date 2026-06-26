@@ -7,7 +7,6 @@ date: 2023-07-21 17:51:26
 source_url: https://en.japoneson.com/swing/dream/ryu/
 ---
 
-## From Ryu Murakami
 
 ![](https://japoneson.com/wp/wp-content/uploads/2023/01/ryu.jpg)
 

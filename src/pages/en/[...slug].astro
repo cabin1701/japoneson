@@ -19,6 +19,21 @@ export async function getStaticPaths() {
     'murakami/music',
     'murakami/kyoko',
     'murakami/books',
+    'swing',
+    'swing/dream',
+    'swing/remember',
+    'mystery',
+    'mystery/macarthur',
+    'mystery/meiji',
+    'mystery/hieke',
+    'mystery/macarthur/korea-24th',
+    'mystery/macarthur/korea-black-soldiers',
+    'mystery/macarthur/david-valley',
+    'mystery/macarthur/donald-versaw',
+    'cupie',
+    'cupie/gallery-01',
+    'cupie/gallery-02',
+    'cupie/gallery-03',
   ]);
   const all = await getCollection('en');
   return all
@@ -31,7 +46,7 @@ export async function getStaticPaths() {
 
 const { entry, all } = Astro.props;
 const { Content } = await render(entry);
-const trail = buildBreadcrumb(entry, all);
+const trail = buildBreadcrumb(entry, all, import.meta.env.BASE_URL);
 ---
 
 <Layout title={`${entry.data.title} — Japonéson`} lang="en">
@@ -45,6 +60,13 @@ const trail = buildBreadcrumb(entry, all);
       align="center"
       height={entry.data.hero_height ?? 480}
       fit={entry.data.hero_fit ?? 'cover'}
+      videoId={entry.data.hero_video}
+      videoStart={entry.data.hero_video_start}
+      titleFont={entry.data.hero_title_font}
+      titleWeight={entry.data.hero_title_weight}
+      titleItalic={entry.data.hero_title_italic}
+      titleSize={entry.data.hero_title_size}
+      titleColor={entry.data.hero_title_color}
     />
   )}
   <main class="container">

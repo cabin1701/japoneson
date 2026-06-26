@@ -5,13 +5,12 @@ wp_id: 1022
 wp_parent: 108
 date: 2018-04-15 14:56:59
 source_url: https://en.japoneson.com/swing/remember/
+hero_title_color: "#a5c5dd"
 ---
 
-## We remember you
 
 ## Towards the Future:
 
-## Wartime and Postwar Kitakyushu
 
 ![](https://en.japoneson.com/wp-content/uploads/2026/05/kitakyushuu-768x768.jpg)
 

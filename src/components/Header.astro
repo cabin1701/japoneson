@@ -61,8 +61,6 @@ const nav: NavItem[] = [
     label: 'Mystery',
     path: 'mystery/',
     children: [
-      { label: 'Ancient', path: 'mystery/ancient/' },
-      { label: 'Heike', path: 'mystery/hieke/' },
       {
         label: "The General's Shadow",
         path: 'mystery/macarthur/',
@@ -74,7 +72,8 @@ const nav: NavItem[] = [
         ],
       },
       { label: 'Meiji', path: 'mystery/meiji/' },
-      { label: 'Secrets', path: 'mystery/secrets/' },
+      { label: 'Heike', path: 'mystery/hieke/' },
+      { label: 'Ancient', path: 'mystery/ancient/' },
     ],
   },
   {
@@ -197,7 +196,7 @@ function resolve(item: NavItem): string {
     font-family: var(--font-display-serif);
     font-style: normal;
     font-weight: 500;
-    font-size: 25px;
+    font-size: 26px;
     color: var(--color-accent);
     text-decoration: none;
     letter-spacing: 0.01em;
@@ -206,7 +205,7 @@ function resolve(item: NavItem): string {
     font-family: var(--font-display-serif);
     font-style: normal;
     font-weight: 500;
-    font-size: 17px;
+    font-size: 18px;
     color: var(--color-accent);
     text-decoration: none;
   }
@@ -226,7 +225,7 @@ function resolve(item: NavItem): string {
   }
   .primary-nav a {
     font-family: var(--font-nav);
-    font-size: 19px;
+    font-size: 20px;
     color: var(--color-text);
     text-decoration: none;
     letter-spacing: 0.02em;
@@ -266,8 +265,8 @@ function resolve(item: NavItem): string {
   }
   ul.sub li:last-child { border-bottom: 0; }
   ul.sub a {
-    padding: 0.55rem 1rem;
-    font-size: 16px;
+    padding: 0.50rem 1rem;
+    font-size: 18px;
     color: #1a1a1a;
     white-space: nowrap;
     line-height: 1.3;

@@ -1,0 +1,604 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+
+interface KCard {
+  title: string;
+  image: string;
+  alt: string;
+  desc: string;
+  href: string;
+}
+
+const koreanWar: KCard[] = [
+  {
+    title: 'The Shadow of Kokura — The Black Soldiers',
+    image: IMG('2026/04/blacksoldiers-600x573.jpg'),
+    alt: 'The Black Soldiers',
+    desc: 'A quiet prayer for the soldiers who crossed the Kanmon Strait, and never came home.',
+    href: `${base}en/mystery/macarthur/korea-black-soldiers/`,
+  },
+  {
+    title: 'The 24th Infantry Division',
+    image: IMG('2026/04/TL-WINTER-13-D-1-600x600.jpg'),
+    alt: 'The 24th Infantry Division',
+    desc: 'For the boys who left Kyushu and never looked back—this is a prayer for what they carried.',
+    href: `${base}en/mystery/macarthur/korea-24th/`,
+  },
+  {
+    title: 'David Valley',
+    image: IMG('2026/04/IMG_2028-02-600x601.jpg'),
+    alt: 'David Valley',
+    desc: 'The last guardian of a fading era—who passed the invisible baton to a maverick from Japan.',
+    href: `${base}en/mystery/macarthur/david-valley/`,
+  },
+  {
+    title: 'Monica Lewis',
+    image: IMG('2026/04/korea1.jpg'),
+    alt: 'Monica Lewis',
+    desc: 'In 1951, my friend Ms. Monica Lewis (1922-2015) entertained "for the boys" who served in the Korean War with Danny Kaye.',
+    href: `${base}en/swing/for-the-boys/`,
+  },
+];
+
+const trail = [
+  { slug: 'mystery', title: 'THE MYSTERY ENTERTAINMENT', path: `${base}en/mystery/` },
+  { slug: 'macarthur', title: "THE GENERAL'S SHADOW", path: `${base}en/mystery/macarthur/` },
+];
+---
+
+<Layout title="The General's Shadow — Japonéson" lang="en">
+  <Header lang="en" />
+  <main>
+    <ProjectHero
+      title="The General's Shadow"
+      subtitle="The 20th Century"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="60px"
+      image={IMG('2026/03/IMG_2036-scaled-e1772714174506-1024x739.jpg')}
+      align="center"
+      height={760}
+      fit="cover"
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="en" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <p class="dedication">
+          I dedicate this chapter to my dear friends: Dedicated to
+          <strong>Mr. David Valley</strong>, the last Executive Director of the
+          MacArthur Honor Guard Association, who adopted me as his "Army
+          Daughter" and entrusted me with the untold truths of history, and
+          <strong>Mr. Donald Versaw</strong>, who was captured in the
+          Philippines after the General was forced to leave them behind.
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">Why MacArthur?<br />Why here, in the Kanmon Straits?</h2>
+        <p class="sub-q">And, why did someone like me</p>
+        <p class="sub-q">—living outside the boundaries of society—have to be the one to tell this story?</p>
+        <p class="lead-quote">
+          It all began with a 'screening trouble' at the MacArthur Memorial in
+          Norfolk. A documentary that failed to play. The untold stories of
+          the BOYS. To me, it feels like a letter from the General, drifting
+          across time and space to wash ashore here, in the Kanmon Straits."
+        </p>
+
+        <hr class="navy-rule" />
+
+        <p>
+          In late 2012, I created a booklet titled
+          <strong>"Kitakyushu: Wartime and Post-Wartime—We Remember You."</strong>
+          I distributed it in February 2023 at an event celebrating the 50th
+          anniversary of Kitakyushu City. My motivation was simple: although
+          Kitakyushu's modern technology and economy were built upon a
+          foundation of military history since the Meiji era, that history is
+          rarely discussed.
+        </p>
+
+        <p>
+          While researching the "Memorial Cross"—a Korean War monument in
+          Kokura—I discovered that the 24th Infantry Division had been
+          stationed there. When I contacted their veterans' association, I was
+          introduced to <strong>Mr. David Valley</strong>, who expressed a
+          strong wish to connect with me.
+        </p>
+
+        <p>
+          Around the same time, I learned that a convention for the
+          <strong>American Defenders of Bataan and Corregidor Memorial Society</strong>
+          (ADBCMS), to which my friend <strong>Mr. Donald Versaw</strong>
+          belonged, was being held in Norfolk, Virginia—a sister city of
+          Kitakyushu. Feeling a mysterious pull, I traveled to Norfolk in May
+          as a representative of Donald (who could not attend) and was invited
+          to sing at the convention.
+        </p>
+
+        <p>
+          When I told David about this, he insisted:
+          <em>"The MacArthur Memorial is in Norfolk. I will contact them myself; you must visit it."</em>
+        </p>
+
+        <p>
+          This journey took me to New York (my second home), Norfolk for the
+          convention, San Diego to visit David Valley, and Los Angeles to see
+          Monica Lewis. Looking back, it feels as though I was being guided by
+          the <strong>General</strong> himself.
+        </p>
+
+        <p>
+          My departure began at Fukuoka Airport—located on the former site of
+          Itazuke Air Base, where the <strong>Smith Force</strong> first
+          deployed to Korea. My first stop was Hawaii, where I visited the
+          <strong>USS Missouri</strong>, the battleship where Japan signed the
+          surrender documents.
+        </p>
+
+        <p>
+          In New York, I stayed with my friend <strong>Bob Cranshaw</strong>,
+          a legendary jazz bassist and a veteran who served in the Korean War
+          as a Black soldier. He was a founding member of the
+          <em>Saturday Night Live</em> Band and played alongside giants like
+          Sonny Rollins for decades.
+          <strong>He once told me a story on a subway platform in Tokyo</strong>—about
+          the day his friend John Belushi didn't show up because he had
+          passed away, and how that tragedy led Bob to walk away from drugs
+          forever. During my stay in NY, another old friend invited me to see
+          the <strong>USS Intrepid</strong>. I knew nothing of this aircraft
+          carrier then, but later discovered it played a vital role in the
+          General's second Philippine campaign.
+        </p>
+
+        <p>
+          The most striking moment occurred in Norfolk. The MacArthur Memorial
+          hosted a screening of a documentary about POWs created by veterans
+          and their families. As we sat in the hall, a technical glitch
+          suddenly stopped the film. The reaction from the former POWs and
+          their families was intense—an overwhelming, visceral anger. It was
+          then I truly understood: these were the men left behind in the
+          Philippines when MacArthur made his famous escape, promising
+          <em>"I shall return."</em> They were the ones who became prisoners
+          of Japan.
+        </p>
+
+        <p>
+          Those very prisoners were eventually shipped to the port of
+          <strong>Moji</strong>.
+        </p>
+
+        <p>
+          Furthermore, when the Korean War broke out, the 24th Infantry
+          Division—stationed closest to Korea—was the first to be sent to the
+          front under MacArthur's command.
+        </p>
+
+        <p>
+          In Kokura, there is a dark, unspoken history known as the
+          <strong>"Kokura Riot"</strong> (the model for Seicho Matsumoto's
+          <em>'Kuroji no E'</em>). Black American soldiers, arriving by train
+          from Gifu, were pushed to a breaking point by the combination of
+          racial discrimination and the terror of being sent to a "land of
+          death." On July 12, 1950, under MacArthur's orders, they were
+          loaded onto makeshift fishing boats and coal ships at Moji Port and
+          sent across to Busan, vanishing into the brutal battles of the
+          "Forgotten War."
+        </p>
+
+        <p>
+          In this chapter, I introduce these three overlooked stories of the
+          Korean War and invite you to walk with me through my journey—and my
+          blog—as we uncover the truth together.
+        </p>
+      </div>
+    </section>
+
+    <hr class="section-divider" />
+
+    <section class="war-block">
+      <h2 class="war-title">The Korean War</h2>
+      <div class="kw-grid">
+        {koreanWar.map((c) => (
+          <a class="kw-card" href={c.href}>
+            <div class="kw-image"><img src={c.image} alt={c.alt} loading="lazy" /></div>
+            <h3 class="kw-cardtitle">{c.title}</h3>
+            <p class="kw-desc">{c.desc}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <hr class="section-divider" />
+
+    <section class="war-block">
+      <h2 class="war-title">The Pacific War</h2>
+      <div class="pw-grid">
+        <a class="pw-card" href={`${base}en/mystery/macarthur/donald-versaw/`}>
+          <div class="pw-image"><img src={IMG('2026/04/don-young-1.jpg')} alt="Donald Versaw" loading="lazy" /></div>
+          <h3 class="pw-cardtitle">Emails from an old G.I. — Donald Versaw</h3>
+          <p class="pw-desc">In 1999, I encountered an ex-POW who was captured in the Philippines.</p>
+        </a>
+        <a class="pw-card" href="https://en.japoneson.com/swing/remember/moji#pow">
+          <div class="pw-image"><img src={IMG('2026/06/ac40077afcfee4ce63b0bbc49b90b460-scaled-1-1-1-600x600.jpg')} alt="POWs of the Pacific War" loading="lazy" /></div>
+          <h3 class="pw-cardtitle">POWs of the Pacific War</h3>
+          <p class="pw-desc">Kanmon was the gate of Allied POWs from south battlefields.</p>
+        </a>
+        <div class="pw-card pw-card-static">
+          <div class="pw-image"><img src={IMG('2026/04/IMG_1927-e1776990033305-768x765.jpg')} alt="SEINA — Vocalist, Friend of POWs — ADBC Memorial Society #78" loading="lazy" /></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="memorials">
+      <h2 class="war-title">Memorials</h2>
+      <p class="mem-tagline"><strong>You may tell them, "I Remember You"</strong></p>
+
+      <article class="mem-item">
+        <figure class="mem-image">
+          <img src={IMG('2026/06/121226W9Q9761_1500-1-683x1024.jpg')} alt="Kokura Memorial Cross" loading="lazy" />
+        </figure>
+        <div class="mem-body">
+          <h3 class="mem-title">Kokura Memorial Cross</h3>
+          <p>
+            After the Pacific War, the 24th Infantry Division, commanded by
+            <a href="https://en.wikipedia.org/wiki/William_F._Dean" target="_blank" rel="noopener">Major General William F. Dean</a>,
+            was stationed in Kokura. Due to Kokura's proximity to South Korea,
+            this Division was among the first sent to the Korean War
+            (<a href="https://tour.crystallize.jp/archives/937#21st" target="_blank" rel="noopener">the first sent regiment</a>).
+            The division suffered 3,602 dead and wounded, and 2,962 captured,
+            including its commander, Major General Dean.
+          </p>
+          <p>
+            North Korean forces proved extremely tough, and the UN forces
+            faced significant challenges. Fallen soldiers who were temporarily
+            buried in South Korea often had to be exhumed when the situation
+            changed. Consequently, Kokura was chosen as the location for
+            transporting these casualties for processing and returning them to
+            their home countries. This led to a large number of casualties
+            passing through Kokura, prompting the construction of the Korean
+            War Memorial, the "Memorial Cross," in 1951.
+          </p>
+
+          <h4 class="mem-sub">Links</h4>
+          <ul class="mem-links">
+            <li><a href="https://armyhistory.org/8204th-army-unit-american-graves-registration-service-group/" target="_blank" rel="noopener">"8204th Army Unit" (American Graves Registration Service Group)</a> / Army Historical Foundation</li>
+            <li><a href="https://quartermasterfoundation.org/graves-registration-in-the-korean-conflict/" target="_blank" rel="noopener">"Graves Registration in the Korean Conflict"</a> / Army QuarterMaster Foundation</li>
+            <li><a href="https://24thida.com/" target="_blank" rel="noopener">The 24th Infantry Division Association</a></li>
+          </ul>
+
+          <h4 class="mem-sub">Access Information</h4>
+          <p>
+            Taking a taxi is recommended. Please ask the driver to wait while
+            you are visiting. You will not be able to catch a cab at the spot.
+          </p>
+          <p>
+            From Kokura Station: about 2.5 miles (4km)<br />
+            From Kokura Castle: about 3 miles (4.8km)<br />
+            Please show this to the taxi driver:
+          </p>
+          <figure class="mem-aux">
+            <img src="https://tour.crystallize.jp/wp-content/uploads/2025/12/スクリーンショット-2025-12-02-7.30.33.png" alt="Taxi direction screenshot" loading="lazy" />
+          </figure>
+        </div>
+      </article>
+
+      <article class="mem-item mem-item-reverse">
+        <figure class="mem-image">
+          <img src={IMG('2026/06/img_9925-2-860x1024.jpg')} alt="Quarantine station" loading="lazy" />
+        </figure>
+        <div class="mem-body">
+          <h3 class="mem-title">The remains of the quarantine station for Allied POWs</h3>
+          <p>
+            At the end of November 1945, four "hell ships" arrived
+            simultaneously. Approximately 60 patients with infectious
+            diseases, including dysentery, were placed in the isolation ward
+            of the Shimonoseki Quarantine Station in Enoura-cho, Hikoshima,
+            Shimonoseki City, located opposite Moji. This facility served as a
+            branch of the Moji camp, though its operational period is unclear.
+            Residents recall that POWs, after a period of relative calm, were
+            transferred to a second camp near Hikoshima Enoura-cho 2-chome,
+            but further details are unknown.
+          </p>
+
+          <h4 class="mem-sub">Access Information</h4>
+          <p>
+            Take <a href="https://www.kanmon-kisen.co.jp/en/route/ganryujima.html" target="_blank" rel="noopener">the Ganryujima Ferry</a>
+            from Karato Pier in Shimonoseki or Marine Gate Moji in Mojiko.
+            Once on the island, walk to its tip to view the remains of the
+            former POW quarantine station on Hikoshima (Shimonoseki), located
+            next to the Mitsubishi Shipyard.
+          </p>
+          <p>
+            Ganryujima is a small island in the Kanmon Strait. In 1612, it
+            was the site of a famous duel between Miyamoto Musashi and Sasaki
+            Kojiro, known as the Battle of Ganryu-jima, one of the most
+            well-known samurai duels.
+          </p>
+        </div>
+      </article>
+    </section>
+  </main>
+  <Footer lang="en" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 2rem;
+  }
+  .intro-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+  }
+  .intro-inner p.dedication {
+    font-size: 16px;
+    color: #4a4a4a;
+    text-align: center;
+    margin: 0.5rem auto 2rem;
+    max-width: 720px;
+  }
+
+  .intro-inner hr.navy-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.2rem 0;
+  }
+
+  .intro-inner h2.section-q {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    line-height: 1.3;
+    margin: 1rem 0 1.5rem;
+  }
+  .intro-inner p.sub-q {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0.3rem 0;
+  }
+  .intro-inner p.lead-quote {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #2a2a2a;
+    text-align: center;
+    max-width: 720px;
+    margin: 1.5rem auto 0;
+  }
+
+  .intro-inner em { font-style: italic; }
+  .intro-inner strong { font-weight: 400; color: var(--color-navy); }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .war-block {
+    padding: 3rem 1.5rem 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .war-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 1rem 0 2rem;
+    letter-spacing: 0.03em;
+  }
+
+  .kw-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .kw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .kw-card:hover { transform: translateY(-2px); }
+  .kw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .kw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: filter 0.25s ease;
+  }
+  .kw-card:hover .kw-image img { filter: brightness(1.05); }
+  .kw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .kw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+
+  .pw-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .pw-card.pw-card-static { cursor: default; }
+  .pw-card.pw-card-static:hover { transform: none; }
+  .pw-card.pw-card-static:hover .pw-image img { filter: none; }
+  .pw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .pw-card:hover { transform: translateY(-2px); }
+  .pw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .pw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .pw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .pw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+  hr.section-divider {
+    border: none;
+    border-top: 6px solid #8a8b6a;
+    max-width: 1280px;
+    margin: 1rem auto;
+    opacity: 0.7;
+  }
+
+  .memorials {
+    padding: 3rem 1.5rem 4rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .mem-tagline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0 0 3rem;
+  }
+
+  .mem-item {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 2.5rem;
+    margin: 0 0 4rem;
+    align-items: start;
+  }
+  .mem-item.mem-item-reverse {
+    grid-template-columns: 1fr 320px;
+  }
+  .mem-item.mem-item-reverse .mem-image { order: 2; }
+  .mem-item.mem-item-reverse .mem-body { order: 1; }
+
+  .mem-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+  .mem-body p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .mem-body a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .mem-body a:hover { color: var(--color-navy); }
+  .mem-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 22px;
+    color: var(--color-accent);
+    margin: 0 0 1.2rem;
+    letter-spacing: 0.02em;
+  }
+  .mem-sub {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 17px;
+    color: var(--color-navy);
+    margin: 1.8rem 0 0.6rem;
+    letter-spacing: 0.04em;
+  }
+  .mem-links {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #2a2a2a;
+    padding-left: 1.2rem;
+    margin: 0 0 1.2rem;
+  }
+  .mem-aux {
+    margin: 1rem 0 0;
+    max-width: 360px;
+  }
+  .mem-aux img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+
+  @media (max-width: 900px) {
+    .kw-grid { grid-template-columns: repeat(2, 1fr); }
+    .pw-grid { grid-template-columns: 1fr; }
+    .mem-item,
+    .mem-item.mem-item-reverse {
+      grid-template-columns: 1fr;
+    }
+    .mem-item.mem-item-reverse .mem-image { order: 0; }
+    .mem-item.mem-item-reverse .mem-body { order: 0; }
+  }
+  @media (max-width: 600px) {
+    .kw-grid { grid-template-columns: 1fr; }
+    .intro-inner h2.section-q { font-size: 26px; }
+    .war-title { font-size: 28px; }
+  }
+</style>

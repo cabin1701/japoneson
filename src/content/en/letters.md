@@ -5,11 +5,24 @@ wp_id: 575
 wp_parent: 576
 date: 2018-04-09 05:19:47
 source_url: https://en.japoneson.com/swing/dream/letters/
+hero_image: "/japoneson/images/swing/letters.jpg"
+hero_subtitle: "I Have a Dream... in 1999"
+hero_height: 700
+hero_fit: "cover"
+hero_title_font: '"Cormorant Infant", serif'
+hero_title_size: "78px"
+hero_title_weight: 600
+hero_title_color: "#91e3ff"
+hero_title_italic: true
 ---
 
-## Thanks letters from Nursing Homes
 
-![](https://en.japoneson.com/wp-content/uploads/2018/04/letters.jpg)
+Taking this opportunity I must apologize for throwing the recipients of the gift CD into confusion which may be caused by my simple mistake in providing the wrong sender’s address mentioned in my letter to Nursing Homes. I left America right after the project without realizing this oversight. For this reason, perhaps some letters didn’t reach me. Also, I apologize for not answering the people who wrote me.  
+These letters are my precious treasure and they encourage me to further action. I thank you all from the bottom of my heart.
+
+Seina
+
+<hr class="navy-rule" />
 
 Dear “Seina”
 
@@ -713,9 +726,5 @@ We received your cassette tape. Thank you very much for your thoughtfulness!
 
 The Residents of COMMUNITY MEMORIAL HEALTH CENTER, Hartley, IA
 
----
 
-Taking this opportunity I must apologize for throwing the recipients of the gift CD into confusion which may be caused by my simple mistake in providing the wrong sender’s address mentioned in my letter to Nursing Homes. I left America right after the project without realizing this oversight. For this reason, perhaps some letters didn’t reach me. Also, I apologize for not answering the people who wrote me.  
-These letters are my precious treasure and they encourage me to further action. I thank you all from the bottom of my heart.
-
-Seina
+<hr class="navy-rule" />
