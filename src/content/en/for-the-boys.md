@@ -124,7 +124,7 @@ There are several sculptures and other works of art that are well worth a visit.
 
 <div class="hg-image">
 
-[![](/images/wp/2026/05/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2026-05-26-22.15.41-e1779801434468.png)](http://generalmacarthurshonorguard.com/wordpress/the-stories/the-stories-korean-war-poem/)
+[![](/images/wp/2026/05/スクリーンショット-2026-05-26-22.15.41-e1779801434468.png)](http://generalmacarthurshonorguard.com/wordpress/the-stories/the-stories-korean-war-poem/)
 
 </div>
 
@@ -134,21 +134,45 @@ There are several sculptures and other works of art that are well worth a visit.
 
 ## BRIDGING COUNTRIES AND HISTORY WITH MUSIC:
 
+<div class="bridging-block">
+
+<div class="bridging-image">
+
 ![](/images/wp/2026/05/monica-and-me.jpg)
+
+</div>
+
+<div class="bridging-text">
 
 I had a lovely lunch recently with my Facebook friend and fellow vocalist / humanitarian Shoko "Seina" Shiraishi, who is devoted to preserving and performing the American pop and jazz hits of my own mid-century era. Seina's passions were partly inspired by her visits as a young girl to the Korean War Memorial Cross, which is dedicated to all the soldiers who made sacrifices during the conflict, in her hometown of Kokura, Japan, and they blossomed when she began singing professionally in New York as a young woman. She is delighted to have discovered me on Facebook and learned of my November 1951 entertainment tour of the Korean War frontlines with Danny Kaye. To find out more about Seina, her music and her good work. So nice to meet you, Seina... good luck with your project! oxo, Monica (Photo by Dean Lamanna)
 
+</div>
+
+</div>
+
 ## OKAY, SO I CAN STILL BE A BIT OF A HAM AT AGE 90!
+
+<div class="okay90-block">
+
+<div class="okay90-image">
 
 ![](/images/wp/2026/05/monicaCD-1024x943.jpg)
 
- These two beautifully packaged CDs, titled THANKS FOR THE MEMORY and I HAVE A DREAM, were gifts from one my new Facebook friends -- the lovely Japanese singer and humanitarian Shoko "Seina" Shiraishi. Seina's voice is just lovely, particularly in the way it captures the tone of mid-century American pop and jazz standards like "**A Tree in the Meadow**" and "**I'll Be Seeing You**" that I myself sang. I am so glad Seina reached out to me, and I encourage you to learn more about her at her Facebook page above, her website and at my earlier post about her visit to the Korean War Memorial Cross in her hometown of Kokura, Japan. Thank you for these musical presents, Seina, and for the work you are doing! All Best Wishes in 2013... Love, Monica (Photo by Dean Lamanna)
+</div>
 
-<div class="video-row">
+<div class="okay90-text">
+
+These two beautifully packaged CDs, titled THANKS FOR THE MEMORY and I HAVE A DREAM, were gifts from one my new Facebook friends -- the lovely Japanese singer and humanitarian Shoko "Seina" Shiraishi. Seina's voice is just lovely, particularly in the way it captures the tone of mid-century American pop and jazz standards like "**A Tree in the Meadow**" and "**I'll Be Seeing You**" that I myself sang. I am so glad Seina reached out to me, and I encourage you to learn more about her at her Facebook page above, her website and at my earlier post about her visit to the Korean War Memorial Cross in her hometown of Kokura, Japan. Thank you for these musical presents, Seina, and for the work you are doing! All Best Wishes in 2013... Love, Monica (Photo by Dean Lamanna)
+
+</div>
+
+<div class="okay90-videos">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDiV5r3WOZM?si=2mtaOjkqvHwiRy2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvW7G2MOmgs?si=Wd9LDKpesk6QR7qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
 
 </div>
 
