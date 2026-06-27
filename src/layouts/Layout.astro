@@ -103,8 +103,8 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
 
   article h2 {
     font-family: var(--font-display-cinzel);
-    font-weight: 600;
-    font-size: 1.9rem;
+    font-weight: 500;
+    font-size: 1.8rem;
     color: var(--color-accent);
     margin: 2rem 0 0.75rem;
     text-align: center;
@@ -278,10 +278,10 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
 
   article .bridging-block {
     display: grid;
-    grid-template-columns: 1fr 1.5fr;
+    grid-template-columns: 1fr 2fr;
     gap: 2rem;
     margin: 2rem auto;
-    max-width: 1100px;
+    max-width: 1200px;
     align-items: start;
   }
   article .bridging-image img {
@@ -290,17 +290,30 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     display: block;
     margin: 0;
   }
-  article .bridging-text p { margin: 0 0 1rem; }
+  article .bridging-text p { margin: 0 0 1rem; 
+  
+  
+  font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--color-muted);
+
+    padding-left: 1.2rem;
+    margin: 0.1rem 0;}
+    
+    
+    }
   @media (max-width: 720px) {
     article .bridging-block { grid-template-columns: 1fr; }
   }
 
   article .okay90-block {
     display: grid;
-    grid-template-columns: 1fr 2fr 0.7fr;
+    grid-template-columns: 1.5fr 2.6fr 1fr;
     gap: 1.5rem;
     margin: 2rem auto;
-    max-width: 1100px;
+    max-width: 1200px;
     align-items: start;
   }
   article .okay90-image img {
@@ -309,7 +322,18 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     display: block;
     margin: 0;
   }
-  article .okay90-text p { margin: 0 0 1rem; font-size: 0.95rem; }
+  article .okay90-text p { margin: 0 0 1rem; 
+  
+  font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 19px;
+    line-height: 1.6;
+    color: var(--color-muted);
+
+    padding-left: 1rem;
+    margin: 0.1rem 0;}
+
+
   article .okay90-videos {
     display: flex;
     flex-direction: column;
@@ -318,7 +342,7 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
   }
   article .okay90-videos iframe {
     width: 100%;
-    max-width: 200px;
+    max-width: 190px;
     aspect-ratio: 16 / 9;
     height: auto;
     border: 0;
@@ -332,7 +356,7 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
 
   article .seeingyou-block {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1.3fr 1fr;
     gap: 1.5rem;
     margin: 2rem auto;
     max-width: 1100px;

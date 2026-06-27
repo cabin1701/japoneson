@@ -56,9 +56,13 @@ She had been posting on a Korean War remembrance page on Facebook; her visits to
 
 ## NEVER FORGOTTEN:
 
+<div class="okay90-text">
+
  My Facebook friend and fellow singer / humanitarian Shoko "Seina" Shiraishi, who is devoted to preserving and performing the American pop and jazz hits of my own mid-century era, sent me these lovely photos taken on Christmas Day 2012. Seina visited the Korean War Memorial Cross in her hometown of Kokura, Japan, and -- as a sweet gesture of remembrance and gratitude to our soldiers and their sacrifices, and to my own 1951 troop-entertainment tour of the frontlines in Korea with Danny Kaye -- played two of my songs on-site via her iPhone. The tunes were "The Song is You" and "I'll Be Seeing You," which both appeared on my 1957 album SING IT TO THE MARINES. To learn more about Seina, her music and her good work, please visit her on Facebook
 
 Love to you, Seina! oxo, Monica
+
+</div>
 
 <hr class="navy-rule" />
 
@@ -132,7 +136,7 @@ There are several sculptures and other works of art that are well worth a visit.
 
 <hr class="navy-rule" />
 
-## BRIDGING COUNTRIES AND HISTORY WITH MUSIC:
+### BRIDGING COUNTRIES AND HISTORY WITH MUSIC:
 
 <div class="bridging-block">
 
@@ -150,7 +154,7 @@ I had a lovely lunch recently with my Facebook friend and fellow vocalist / huma
 
 </div>
 
-## OKAY, SO I CAN STILL BE A BIT OF A HAM AT AGE 90!
+### OKAY, SO I CAN STILL BE A BIT OF A HAM AT AGE 90!
 
 <div class="okay90-block">
 
@@ -168,7 +172,7 @@ These two beautifully packaged CDs, titled THANKS FOR THE MEMORY and I HAVE A DR
 
 <div class="okay90-videos">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hDiV5r3WOZM?si=2mtaOjkqvHwiRy2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="200" height="200" src="https://www.youtube.com/embed/hDiV5r3WOZM?si=2mtaOjkqvHwiRy2b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvW7G2MOmgs?si=Wd9LDKpesk6QR7qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -176,6 +180,4 @@ These two beautifully packaged CDs, titled THANKS FOR THE MEMORY and I HAVE A DR
 
 </div>
 
-<hr class="navy-rule" />
 
-<h2 class="only-music">Only music is incapable of lying to me.</h2>
