@@ -241,21 +241,59 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
   }
 
   article .gallery-4col {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    display: flex;
     gap: 1rem;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
     margin: 2rem auto;
     max-width: 1100px;
   }
+  article .gallery-4col p {
+    margin: 0;
+    display: flex;
+  }
+  article .gallery-4col a { display: block; }
   article .gallery-4col img {
+    display: block;
+    height: 240px;
+    width: auto;
+    max-width: 100%;
+    margin: 0;
+  }
+  @media (max-width: 720px) {
+    article .gallery-4col img { height: 180px; }
+  }
+
+  article .seeingyou-block {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin: 2rem auto;
+    max-width: 1100px;
+    align-items: start;
+  }
+  article .seeingyou-image img {
     width: 100%;
     height: auto;
+    display: block;
     margin: 0;
-    max-width: 100%;
   }
-  article .gallery-4col p { margin: 0; }
+  article .seeingyou-videos {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  article .seeingyou-videos iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    border: 0;
+    display: block;
+  }
+  article .seeingyou-videos p { margin: 0; }
   @media (max-width: 720px) {
-    article .gallery-4col { grid-template-columns: repeat(2, 1fr); }
+    article .seeingyou-block { grid-template-columns: 1fr; }
   }
 
   article .poem-block {
