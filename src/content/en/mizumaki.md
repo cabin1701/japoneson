@@ -11,7 +11,7 @@ source_url: https://en.japoneson.com/swing/remember/mizumaki/
 
 During the Pacific War (Great East Asia War), many prisoners of war were forced to labor in the coal mines of Mizumaki, Onga District (at the Orio POW Branch Camp). Mizumaki held a large number of Dutch prisoners, 53 of whom lost their lives there. Immediately following Japan's defeat and just before the GHQ war crimes investigation, the Nittan Takamatsu Coal Mine hurriedly erected a cross as a memorial.
 
-![](/japoneson/images/wp/2024/04/adf3679deedf4acae1b94e272d7007df-1024x682.jpg)
+![](/images/wp/2024/04/adf3679deedf4acae1b94e272d7007df-1024x682.jpg)
 
 **■ The Bond Between a Dutch Survivor and the Local Community**
 
@@ -39,4 +39,4 @@ I also saw a video online of Dutch junior high school students who had visited M
 
 Though I previously had no connection to the Netherlands, the activities of Mr. Winkler and Mr. Kurokawa—who transformed hatred and suffering into children’s smiles—allowed me to experience a new kind of international exchange. The friendship they grew has passed the torch to a new generation. The history and the lives of the Dutch prisoners will surely continue to live in a corner of the hearts of the children raised in Mizumaki as they head toward the future.
 
-![](/japoneson/images/wp/2024/04/IMG_1324-e1713448175376.jpg)
+![](/images/wp/2024/04/IMG_1324-e1713448175376.jpg)

@@ -47,25 +47,25 @@ In this chapter, I introduce these three overlooked stories of the Korean War an
 
 ## The Korean War
 
-[![](/japoneson/images/wp/2026/04/blacksoldiers-600x573.jpg)](https://en.japoneson.com/mystery/macarthur/korea-black-soldiers)
+[![](/images/wp/2026/04/blacksoldiers-600x573.jpg)](https://en.japoneson.com/mystery/macarthur/korea-black-soldiers)
 
 ### [The Shadow of Kokura - The Black Soldiers](https://en.japoneson.com/mystery/macarthur/korea-black-soldiers)
 
 A quiet prayer for the soldiers who crossed the Kanmon Strait, and never came home.
 
-[![](/japoneson/images/wp/2026/04/TL-WINTER-13-D-1-600x600.jpg)](https://en.japoneson.com/mystery/macarthur/korea-24th)
+[![](/images/wp/2026/04/TL-WINTER-13-D-1-600x600.jpg)](https://en.japoneson.com/mystery/macarthur/korea-24th)
 
 ### [The 24th Infantry Division](https://en.japoneson.com/mystery/macarthur/korea-24th)
 
 For the boys who left Kyushu and never looked back—this is a prayer for what they carried.
 
-[![](/japoneson/images/wp/2026/04/IMG_2028-02-600x601.jpg)](https://en.japoneson.com/mystery/macarthur/david-valley)
+[![](/images/wp/2026/04/IMG_2028-02-600x601.jpg)](https://en.japoneson.com/mystery/macarthur/david-valley)
 
 ### [David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
 
 The last guardian of a fading era—who passed the invisible baton to a maverick from Japan.
 
-[![](/japoneson/images/wp/2026/04/korea1.jpg)](https://en.japoneson.com/swing/for-the-boys/)
+[![](/images/wp/2026/04/korea1.jpg)](https://en.japoneson.com/swing/for-the-boys/)
 
 ### [Monica Lewis](https://en.japoneson.com/swing/for-the-boys/)
 
@@ -73,25 +73,25 @@ In 1951, my friend Ms. Monica Lewis (1922-2015) entertained “for the boys” w
 
 ## The Pacific War
 
-![](/japoneson/images/wp/2026/04/don-young-1.jpg)
+![](/images/wp/2026/04/don-young-1.jpg)
 
 ### Emails from an old G.I. -Donald Versaw
 
 In 1999, I encountered an ex-POW who was captured in the Philippines.
 
-[![](/japoneson/images/wp/2026/06/ac40077afcfee4ce63b0bbc49b90b460-scaled-1-1-1-600x600.jpg)](https://en.japoneson.com/swing/remember/moji#pow)
+[![](/images/wp/2026/06/ac40077afcfee4ce63b0bbc49b90b460-scaled-1-1-1-600x600.jpg)](https://en.japoneson.com/swing/remember/moji#pow)
 
 ### [POWs of the Pacific War](https://en.japoneson.com/swing/remember/moji#pow)
 
 Kanmon was the gate of Allied POWs from south battlefields.
 
-![](/japoneson/images/wp/2026/04/IMG_1927-e1776990033305-768x765.jpg)
+![](/images/wp/2026/04/IMG_1927-e1776990033305-768x765.jpg)
 
 ## Memorials
 
 **You may tell them, "I Remember You"**
 
-![](/japoneson/images/wp/2026/06/121226W9Q9761_1500-1-683x1024.jpg)
+![](/images/wp/2026/06/121226W9Q9761_1500-1-683x1024.jpg)
 
 ### **Kokura Memorial Cross**
 
@@ -119,7 +119,7 @@ Taking a taxi is recommended. Please ask the driver to wait while you are visiti
 
    ![](https://tour.crystallize.jp/wp-content/uploads/2025/12/スクリーンショット-2025-12-02-7.30.33.png)
 
-![](/japoneson/images/wp/2026/06/img_9925-2-860x1024.jpg)
+![](/images/wp/2026/06/img_9925-2-860x1024.jpg)
 
 ### **The remains of the quarantine station for Allied POWs**
 

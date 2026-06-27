@@ -13,7 +13,7 @@ source_url: https://en.japoneson.com/swing/remember/atomicbomb/
 
 The primary target for this second atomic bomb was the Kokura Army Arsenal and its surrounding urban area. However, due to several factors—smoke from the previous day's Yawata Air Raid, thick clouds, and intentional smoke screens created by workers at the Yawata Steel Works (by burning coal tar)—the "Bockscar" was unable to visually confirm the target. After three failed bombing runs, the aircraft diverted to its secondary target, Nagasaki, where the bomb was eventually dropped.
 
-![](/japoneson/images/wp/2024/04/nagasaki.jpg)
+![](/images/wp/2024/04/nagasaki.jpg)
 
 Atomic Bomb above Kokura on the morning of August 9th, 1945
 
@@ -53,7 +53,7 @@ I again banked sharply to set us on a southerly direction toward our secondary t
 
 **The "Bell of Nagasaki" Replica** In Katsuyama Park, the former site of the Kokura Army Arsenal, stands a replica of the "**Bell of Nagasaki**," presented by Nagasaki City. Every year on **August 9**, a memorial service is held here to honor the victims and pray for peace.
 
-![](/japoneson/images/wp/2024/04/8b562a72b78400543d86a87809689380-e1713415887609.jpg)
+![](/images/wp/2024/04/8b562a72b78400543d86a87809689380-e1713415887609.jpg)
 
 ---
 
@@ -63,4 +63,4 @@ In 1942, the United States launched the Manhattan Project to develop the atomic 
 **■ Visit by the Grandson of President Truman**  
 In 2012, Clifton Truman Daniel, the grandson of President Truman, visited Hiroshima and Nagasaki to attend the peace memorial ceremonies. This marked the first time a descendant of the Truman family participated in these ceremonies since the atomic bombings.
 
-![](/japoneson/images/wp/2024/04/cb21c53e01edf9fb25f6ab527a681e99-e1713416580285-762x1024.jpg)
+![](/images/wp/2024/04/cb21c53e01edf9fb25f6ab527a681e99-e1713416580285-762x1024.jpg)

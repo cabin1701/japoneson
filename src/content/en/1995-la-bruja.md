@@ -7,7 +7,7 @@ date: 2024-02-06 00:12:23
 source_url: https://en.japoneson.com/murakami/music/1995-la-bruja/
 ---
 
-![](/japoneson/images/wp/2024/02/1995-bruja-300x296.jpg)
+![](/images/wp/2024/02/1995-bruja-300x296.jpg)
 
 LA BRUJA  
 NG La Banda  
@@ -67,7 +67,7 @@ Far surpassing the concept of "salsa," they reveal the true meaning the word "fu
 
 Ryu Murakami
 
-![](/japoneson/images/wp/2024/02/1995bruja02_1000.jpg)
+![](/images/wp/2024/02/1995bruja02_1000.jpg)
 
 ---
 

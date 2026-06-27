@@ -7,7 +7,7 @@ date: 2026-02-26 09:27:34
 source_url: https://en.japoneson.com/mystery/
 ---
 
-![](/japoneson/images/wp/2026/02/IMG_9937-3-1024x768.jpeg)
+![](/images/wp/2026/02/IMG_9937-3-1024x768.jpeg)
 
 # The Mystery Entertainment
 
@@ -32,25 +32,25 @@ In Shimonoseki, I began to stumble upon fragments of hidden history—pieces of 
 
 ##### After all, history is the ultimate mystery entertainment.
 
-[![](/japoneson/images/wp/2026/02/IMG_0229-1-scaled-e1772128886839-1024x902.jpeg)](https://en.japoneson.com/mystery/meiji) 
+[![](/images/wp/2026/02/IMG_0229-1-scaled-e1772128886839-1024x902.jpeg)](https://en.japoneson.com/mystery/meiji) 
 
 The 19th Century
 
 ### The Meiji Restoration
 
-[![](/japoneson/images/wp/2026/02/IMG_0012-scaled-e1771766815902-1-e1772714196464-1024x751.jpeg)](https://en.japoneson.com/mystery/hieke) 
+[![](/images/wp/2026/02/IMG_0012-scaled-e1771766815902-1-e1772714196464-1024x751.jpeg)](https://en.japoneson.com/mystery/hieke) 
 
 The 12th Century
 
 The Heike Story
 
-[![](/japoneson/images/wp/2026/03/IMG_2036-scaled-e1772714174506-1024x739.jpg)](https://en.japoneson.com/mystery/macarthur) 
+[![](/images/wp/2026/03/IMG_2036-scaled-e1772714174506-1024x739.jpg)](https://en.japoneson.com/mystery/macarthur) 
 
 The 20th Century
 
 [The General’s Shadow](https://en.japoneson.com/mystery/macarthur)
 
-![](/japoneson/images/wp/2026/02/IMG_9916-1024x768.jpeg) 
+![](/images/wp/2026/02/IMG_9916-1024x768.jpeg) 
 
 Ancient time
 

@@ -5,7 +5,7 @@ wp_id: 17287
 wp_parent: 17150
 date: 2024-02-17 17:17:47
 source_url: https://en.japoneson.com/murakami/kyoko/me/
-hero_image: "/japoneson/images/murakami/hero_me.jpg"
+hero_image: "/images/murakami/hero_me.jpg"
 hero_kicker: "New York, 1990's"
 hero_subtitle: "Cuba, 2014 - 2018. Now, I'm OK."
 hero_height: 920
@@ -13,7 +13,7 @@ hero_height: 920
 
 
 
-This is my essay that connects to "[The New Other, Cuba](http://localhost:4321/japoneson/en/murakami/kyoko/newother/)".
+This is my essay that connects to "[The New Other, Cuba](http://localhost:4321/en/murakami/kyoko/newother/)".
 
 I was born in Kitakyushu City, Fukuoka Prefecture in 1969, 17 years after Ryu Murakami was born in 1952 and 24 and a half years after the war ended. There were no military bases in the town where I grew up, and World War II seemed like a distant event that had no relation to me.
 
@@ -41,4 +41,4 @@ In Cuba, there were many difficult and unpleasant things. My Cuban friends said,
 
 
 
-![](/japoneson/images/wp/2026/05/IMG_2210-1024x768.jpg)
+![](/images/wp/2026/05/IMG_2210-1024x768.jpg)

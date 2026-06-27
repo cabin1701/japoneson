@@ -45,7 +45,7 @@ The urban areas of Moji and Shimonoseki serve as transportation gateways between
 
 *Photo Captions: Left - Moji city area before the air raid / Right - U.S. military reconnaissance photograph taken on June 29, 1945, to assess the effectiveness of the raid. The white areas indicate scorched earth.* (owned by the Maxwell Air Force Base Historical Archives)
 
-[![](/japoneson/images/wp/2024/04/moji02-1-1024x394.jpg)](/japoneson/images/wp/2024/04/moji02-1.jpg)
+[![](/images/wp/2024/04/moji02-1-1024x394.jpg)](/images/wp/2024/04/moji02-1.jpg)
 
 The destruction of these two cities and their complex transportation infrastructure severely disrupted Japan’s economy and military production. Ferry facilities were insufficient to replace damaged railway networks for several weeks. Disrupting the 10-hour freight transport link (via the Kanmon Tunnel and its marshaling yard) had significant consequences, effectively eliminating alternatives like piers and water transport.
 
@@ -65,7 +65,7 @@ During World War II, the Japanese military captured approximately 130,000 Allied
 
 Moji Port just after the end of the war (U.S. National Archives)
 
-![](/japoneson/images/wp/2024/04/bdc2957c1cb038467124b44d9d9535c8-230x300.jpg)
+![](/images/wp/2024/04/bdc2957c1cb038467124b44d9d9535c8-230x300.jpg)
 
 ##### **Prisoners Arriving at Moji Port on "Hell Ships"**
 
@@ -83,7 +83,7 @@ This camp opened on November 27, 1942, utilizing the YMCA building in Kusunoki-c
 
 Moji POW camp immediately after the end of the war | Moji YMCA
 
-![](/japoneson/images/wp/2024/04/POWMoji_500-300x257.jpg)
+![](/images/wp/2024/04/POWMoji_500-300x257.jpg)
 
 Approximately 300 prisoners, including British, American, and Dutch nationals, were interred here. They were primarily forced into hard labor as cargo handlers at Moji Port and the warehouses surrounding Sotohama Station. A former British POW who spent two and a half years in Moji recalled suffering from brutal labor, hunger, and violence from guards, though he also noted that some Japanese individuals showed kindness.
 
@@ -91,7 +91,7 @@ The camp also served as temporary housing for seriously ill patients from transp
 
 Immediately after the end of the war, the town of Moji became a burnt-out ruin. Daiyuji Temple at the foot of the mountain, and a mass graveyard halfway up the mountain (owned by the U.S. National Archives)
 
-![](/japoneson/images/wp/2024/04/5f76d588738d3a1c857b3b20f4c74de2.jpg)
+![](/images/wp/2024/04/5f76d588738d3a1c857b3b20f4c74de2.jpg)
 
 ##### **Shimonoseki Quarantine Station**
 
@@ -99,4 +99,4 @@ In late November 1944, four "Hell Ships" arrived at Moji simultaneously. Approxi
 
 Shimonoseki Quarantine Station Ruins (2006)
 
-[caption id="attachment\_17603" align="aligncenter" width="600"]![](/japoneson/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg) 下関検疫所跡（2006年時点）[/caption]
+[caption id="attachment\_17603" align="aligncenter" width="600"]![](/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg) 下関検疫所跡（2006年時点）[/caption]

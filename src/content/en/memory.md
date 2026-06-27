@@ -5,7 +5,7 @@ wp_id: 965
 wp_parent: 108
 date: 2018-04-15 08:42:24
 source_url: https://en.japoneson.com/swing/memory/
-hero_image: "/japoneson/images/swing/hero_memory.jpg"
+hero_image: "/images/swing/hero_memory.jpg"
 hero_subtitle: "2012"
 hero_height: 900
 hero_fit: "cover"

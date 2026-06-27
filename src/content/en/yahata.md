@@ -17,7 +17,7 @@ The target was a residential area where many employees of the Yawata Steel Works
 * **Center:** Yahata city area following the air raid (white areas indicate scorched earth).
 * **Right:** An incendiary bomb dropped on the premises of the Yahata Steel Works (September 14, 1945).
 
-![](/japoneson/images/wp/2024/04/yahata01-1024x283.jpg)
+![](/images/wp/2024/04/yahata01-1024x283.jpg)
 
 Target Information Sheet
 

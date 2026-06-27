@@ -13,7 +13,7 @@ In 2013, the first half of the year was wonderful. I published a booklet, ["The 
 
 Then, I visited **[Battleship Missouri Memorial](http://Then, in 2013, CUBA started...)** in Hawaii, then New York, then Norfolk, Virginia, and sang at the convention of **[the American Defenders of Bataan Corregidor Memorial Society](https://www.adbcmemorialsociety.org/)**. I also visited [**the MacArthur Memorial**](https://macarthurmemorial.org/) in Norfolk. After Norfolk, I visited San Diego to see Mr. David Valley, then up to Los Angeles to see Ms. Monica Lewis. In Los Angeles, I visited [**the Japanese American National Museum**](https://www.janm.org/).
 
-![](/japoneson/images/essay/wp/2025/12/IMG_2272-1024x768.jpg)
+![](/images/essay/wp/2025/12/IMG_2272-1024x768.jpg)
 
 After I returned home to Japan, I sang the Japanese and U.S. anthems at the Consulate of Fukuoka’s Independence Day ceremony. Then I had a special lecture about the booklet and my experiences at Kitakyushu University.
 
@@ -33,11 +33,11 @@ I listened to his band PORNOSON's album over and over again. While listening to 
 
 At the end of 2013, I visited Washington, D.C. and Arlington, Virginia. I toured war memorials and Arlington National Cemetery.
 
-![](/japoneson/images/essay/wp/2025/12/IMG_3194-1024x768.jpg)
+![](/images/essay/wp/2025/12/IMG_3194-1024x768.jpg)
 
-![](/japoneson/images/essay/wp/2025/12/IMG_3270-1024x768.jpg)
+![](/images/essay/wp/2025/12/IMG_3270-1024x768.jpg)
 
-![](/japoneson/images/essay/wp/2025/12/IMG_3291-768x1024.jpg)
+![](/images/essay/wp/2025/12/IMG_3291-768x1024.jpg)
 
 I returned to Japan at the end of January. Shortly thereafter, a friend of mine living in New York City asked for my help because she had been hospitalized since April. I bought a ticket to New York, but after a month, in March, she told me that she no longer needed to be in the hospital. Even if I cancel the ticket and accommodations, the penalty is not small. So, I didn't cancel them. But why do I visit New York?
 

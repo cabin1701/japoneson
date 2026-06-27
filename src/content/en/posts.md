@@ -14,7 +14,7 @@ will take us on a journey, A never ending journey, A JOURNEY
 to the Mystery
 https://youtu.be/uTqUiqszKAg?si=NNiAzsP8xUTxNmPB
 
-![](/japoneson/images/wp/2023/09/0919a-e1695132514601.jpg)
+![](/images/wp/2023/09/0919a-e1695132514601.jpg)
 
 ## [“Fireworks of Uchiwa ” and “ A Letter of 280,000 characters”](https://en.japoneson.com/archives/15362 "“Fireworks of Uchiwa ” and “ A Letter of 280,000 characters”")
 

@@ -21,13 +21,13 @@ No, even Japanese lives of the Pacific War, much. already.
 
 In Mojiko, there is [the Moji World Peace Pagoda](https://en.japoneson.com/en/angelsswing/remember/pagoda), which was built in 1958. When I visited the Pagoda in 2012, I realized that the Pagoda had been supported by veterans and their family of the Burma front of the Pacific War. Yes, I didn't know it, even though I often saw the pagoda while driving.
 
-![](/japoneson/images/essay/wp/2026/01/IMG_0968-768x1024.jpg)
+![](/images/essay/wp/2026/01/IMG_0968-768x1024.jpg)
 
 And in 2012, most of the veterans and their family members had passed away or were very old, so the pagoda was in a difficult situation.
 
 Furthermore, I found another memorial grave for the French people of the Shimonoseki Campaign in 1864. I didn't know it, not even the history.
 
-![](/japoneson/images/essay/wp/2026/01/IMG_0977-768x1024.jpg)
+![](/images/essay/wp/2026/01/IMG_0977-768x1024.jpg)
 
 I began to understand that it was really difficult to build the memorial and the meanings and topics of war-related things between people.
 

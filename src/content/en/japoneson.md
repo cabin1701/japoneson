@@ -5,7 +5,7 @@ wp_id: 19780
 wp_parent: 0
 date: 2026-03-04 15:40:11
 source_url: https://en.japoneson.com/japoneson/
-hero_image: "/japoneson/images/hero_japoneson.jpg"
+hero_image: "/images/hero_japoneson.jpg"
 hero_height: 900
 hero_video: "0d-EBbB-s0I"
 hero_video_start: 8
@@ -18,9 +18,9 @@ hero_title_weight: 600
 
 <div class="cd-jacket-row">
 
-![](/japoneson/images/wp/2026/05/jk-400.jpg)
+![](/images/wp/2026/05/jk-400.jpg)
 
-![](/japoneson/images/wp/2026/05/back400.jpg)
+![](/images/wp/2026/05/back400.jpg)
 
 </div>
 
@@ -42,7 +42,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![Luis Armando Alarcon Rodriguez](/japoneson/images/wp/2019/06/a_Luis-Armando-Alarcon-Rodriguez.jpg)
+![Luis Armando Alarcon Rodriguez](/images/wp/2019/06/a_Luis-Armando-Alarcon-Rodriguez.jpg)
 
 
 ### Luis Armando Alarcon Rodriguez
@@ -52,7 +52,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![Luisito_Gonzalez](/japoneson/images/wp/2019/06/a_Luisito_Gonzalez.jpg)
+![Luisito_Gonzalez](/images/wp/2019/06/a_Luisito_Gonzalez.jpg)
 
 
 ### Luis Alberto Gonzalez Perez
@@ -62,7 +62,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![Jesenia Olea](/japoneson/images/wp/2019/06/a_Jesenia-Olea.jpg)
+![Jesenia Olea](/images/wp/2019/06/a_Jesenia-Olea.jpg)
 
 
 ### Jesenia Olea
@@ -72,7 +72,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![](/japoneson/images/wp/2019/06/a_Rolando-Salgado-Palacio250.jpg)
+![](/images/wp/2019/06/a_Rolando-Salgado-Palacio250.jpg)
 
 
 ### Rolando Salgado Palacio El Niño Mentira
@@ -82,7 +82,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![](/japoneson/images/wp/2019/06/a_Econodio-Padilla-Perez.jpg)
+![](/images/wp/2019/06/a_Econodio-Padilla-Perez.jpg)
 
 
 ### Econodio Padilla Pérez
@@ -92,7 +92,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![Orestes Oliva Ríos](/japoneson/images/wp/2019/06/a_Orestes-Oliva-Rios.jpg)
+![Orestes Oliva Ríos](/images/wp/2019/06/a_Orestes-Oliva-Rios.jpg)
 
 
 ### Orestes Oliva Ríos
@@ -102,7 +102,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![](/japoneson/images/wp/2019/06/a_Juan-Martin.jpg)
+![](/images/wp/2019/06/a_Juan-Martin.jpg)
 
 
 ### Juan Martín
@@ -112,7 +112,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![](/japoneson/images/wp/2019/06/b_coto.jpg)
+![](/images/wp/2019/06/b_coto.jpg)
 
 
 ### Juan "Cotó" de la Cruz Antomarchi Padilla
@@ -122,7 +122,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![](/japoneson/images/wp/2019/06/a_Carlos-Rafael-Urgelles-Lopez.jpg)
+![](/images/wp/2019/06/a_Carlos-Rafael-Urgelles-Lopez.jpg)
 
 
 ### Carlos Rafael Urgellés López
@@ -132,7 +132,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![](/japoneson/images/wp/2019/06/2261ec31288fed9e8cb2a3aca5101bc7.jpg)
+![](/images/wp/2019/06/2261ec31288fed9e8cb2a3aca5101bc7.jpg)
 
 
 ### Nicolás Sirgado Llanes
@@ -142,7 +142,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![](/japoneson/images/wp/2019/06/c_Uoalerio-Sanchez.jpg)
+![](/images/wp/2019/06/c_Uoalerio-Sanchez.jpg)
 
 
 ### Uoalerio Sánchez
@@ -152,7 +152,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![](/japoneson/images/wp/2019/06/c_Abilio-Duguesne.jpg)
+![](/images/wp/2019/06/c_Abilio-Duguesne.jpg)
 
 
 ### Abilio Duquesne
@@ -162,7 +162,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![](/japoneson/images/wp/2019/06/c_Alberto-Centellez.jpg)
+![](/images/wp/2019/06/c_Alberto-Centellez.jpg)
 
 
 ### Alberto "Kiyoshi" Centellez
@@ -172,7 +172,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![Aristonico "Choko" López](/japoneson/images/wp/2019/06/c_Aristonico-Lopez.jpg)
+![Aristonico "Choko" López](/images/wp/2019/06/c_Aristonico-Lopez.jpg)
 
 
 ### Aristonico "Choko" López
@@ -182,7 +182,7 @@ Life in Cuba was brutal. But from the bottom of my heart, thank you for those de
 
 <div class="musician-card">
 
-![Manuel Consuegra](/japoneson/images/wp/2019/06/c_Manuel-Consuegra.jpg)
+![Manuel Consuegra](/images/wp/2019/06/c_Manuel-Consuegra.jpg)
 
 
 ### Manuel Consuegra

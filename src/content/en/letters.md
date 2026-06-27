@@ -5,7 +5,7 @@ wp_id: 575
 wp_parent: 576
 date: 2018-04-09 05:19:47
 source_url: https://en.japoneson.com/swing/dream/letters/
-hero_image: "/japoneson/images/swing/letters.jpg"
+hero_image: "/images/swing/letters.jpg"
 hero_subtitle: "I Have a Dream... in 1999"
 hero_height: 700
 hero_fit: "cover"

@@ -6,9 +6,9 @@ wp_parent: 0
 date: 2022-08-16 10:28:02
 source_url: https://en.japoneson.com/about/
 hero_slideshow:
-  - /japoneson/images/about/about-hero-1.jpg
-  - /japoneson/images/about/about-hero-2.jpg
-  - /japoneson/images/about/about-hero-3.jpg
+  - /images/about/about-hero-1.jpg
+  - /images/about/about-hero-2.jpg
+  - /images/about/about-hero-3.jpg
 hero_slideshow_duration: 5000
 hero_height: 900
 hero_title_font: '"Cinzel", serif'
@@ -72,7 +72,7 @@ That's probably why I ended up meeting the people I met. Why the real musicians 
 
 The universe always knows. It arranges the meetings.
 
-![](/japoneson/images/about/about-ch1-stereo.jpg) 
+![](/images/about/about-ch1-stereo.jpg) 
 
 2013. Quincy Jones. The universe always collects its foreshadowing at exactly the right moment.
 
@@ -148,7 +148,7 @@ I quit in three months. Ha.
 
 But at that job, I visited a place called Reiyama Kannon. I didn't know it then. Twenty-five years later, that one visit became the single shared language — the only thread — connecting my path to the journey of the former POWs I would spend years trying to remember.
 
-![](/japoneson/images/about/about-ch2-prayer.jpg) 
+![](/images/about/about-ch2-prayer.jpg) 
 
 Teisan Kanko Entrance Ceremony (1987)
 
@@ -198,7 +198,7 @@ Past ten o'clock at night. I stepped out of the car in front of The Whitby.
 
 Years later, I learned that The Whitby was where "Sentimental Journey" was written.
 
-![](/japoneson/images/about/about-ch3-ny1989.jpg) 
+![](/images/about/about-ch3-ny1989.jpg) 
 
 In front of the Wellington Hotel (1989)
 
@@ -274,7 +274,7 @@ Artie called after the tape was done.
 
 *"Seina. You were right. That song really is beautiful as a ballad. You were right."*
 
-![](/japoneson/images/about/about-ch4-legends-1.jpg) 
+![](/images/about/about-ch4-legends-1.jpg) 
 
 Leonard Gaskin、Toya、Seina、Artie Baker（1997）
 
@@ -316,7 +316,7 @@ The Yankees won the World Series two days before the recording. I showed up to t
 
 Two days after the recording, I flew back to Japan. The next day, I started working nights at a lounge — hostess work — to raise money for the project.
 
-![](/japoneson/images/about/about-ch4-legends-2.jpg) 
+![](/images/about/about-ch4-legends-2.jpg) 
 
 At recording studio with Grady Tate (1998)
 
@@ -374,7 +374,7 @@ Mariko-san's name appears in an academic biography of Joe Henderson: ["Joe Hende
 
 *I hadn't known. I just knew she was kind, and honest, and that she loved the music.*
 
-![](/japoneson/images/about/about-mariko.jpg) 
+![](/images/about/about-mariko.jpg) 
 
 On the "100 Gold Fingers" tour bus (1999)
 
@@ -430,6 +430,6 @@ and deliver it safely to our kin in the distant future.
 </div>
 <div class="poem-image">
 
-![image.jpg](/japoneson/images/about/about-closing.jpg "image.jpg")
+![image.jpg](/images/about/about-closing.jpg "image.jpg")
 </div>
 </div>

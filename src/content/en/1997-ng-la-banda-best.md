@@ -7,7 +7,7 @@ date: 2024-02-06 01:23:38
 source_url: https://en.japoneson.com/murakami/music/1997-ng-la-banda-best/
 ---
 
-![](/japoneson/images/wp/2024/02/1995_NG-best-300x296.jpg)
+![](/images/wp/2024/02/1995_NG-best-300x296.jpg)
 
 MURAKAMI’s NG La Banda Best  
 1997

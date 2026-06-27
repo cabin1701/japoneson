@@ -8,7 +8,7 @@ source_url: https://en.japoneson.com/swing/dream/ryu/
 ---
 
 
-![](/japoneson/images/wp/2023/01/ryu.jpg)
+![](/images/wp/2023/01/ryu.jpg)
 
 Dear Ms. Shoko Shiraishi,
 

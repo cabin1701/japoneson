@@ -10,7 +10,7 @@ source_url: https://en.japoneson.com/murakami/tosco/flute/
 
 ## Almost Transparent Blue (1976)
 
-![](/japoneson/images/wp/2024/02/03-e1707925750233.jpg)
+![](/images/wp/2024/02/03-e1707925750233.jpg)
 
 Drugs, sex, black American soldiers, orgies, body fluids, saliva, gastric juices, and vomit. "Almost Transparent Blue" was a very difficult book for me to understand. This time, while rereading it for the first time in about 30 years, I realized that there was already a flute in this novel.
 

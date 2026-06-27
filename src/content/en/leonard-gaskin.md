@@ -5,7 +5,7 @@ wp_id: 719
 wp_parent: 108
 date: 2018-04-15 14:44:04
 source_url: https://en.japoneson.com/swing/leonard-gaskin/
-hero_image: "/japoneson/images/swing/hero_leonard.jpg"
+hero_image: "/images/swing/hero_leonard.jpg"
 hero_subtitle: "I would like to have some generous help, love… and your instruments."
 hero_height: 1200
 hero_fit: "cover"
@@ -44,7 +44,7 @@ And that is how this concert came to life.
 
 #### **I would like to have some generous help, love… and your instruments.**
 
-![](/japoneson/images/wp/2023/01/IMAGE0042-scaled-e1673080417880.jpg)
+![](/images/wp/2023/01/IMAGE0042-scaled-e1673080417880.jpg)
 
 My name is Seina.
 
@@ -80,7 +80,7 @@ Shoko "Seina" Shiraishi**
 
 <div class="ozanam-photo">
 
-![](/japoneson/images/wp/2026/05/IMAGE_049-768x1024.jpg)
+![](/images/wp/2026/05/IMAGE_049-768x1024.jpg)
 
 </div>
 
@@ -152,7 +152,7 @@ I'm looking at the moon, but I'll be seeing you, Mr. Leonard Gaskin.
 
 <div class="tribute-image">
 
-[![](/japoneson/images/wp/2026/05/2008_leonard802_1000.jpg)](/japoneson/images/wp/2026/05/2008_leonard802_1000.jpg)
+[![](/images/wp/2026/05/2008_leonard802_1000.jpg)](/images/wp/2026/05/2008_leonard802_1000.jpg)
 
 </div>
 

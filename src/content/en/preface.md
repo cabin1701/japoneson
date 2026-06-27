@@ -7,7 +7,7 @@ date: 2024-04-19 22:28:56
 source_url: https://en.japoneson.com/swing/remember/preface/
 ---
 
-![](/japoneson/images/wp/2024/04/preface_don_seina.jpg)
+![](/images/wp/2024/04/preface_don_seina.jpg)
 
 ## Introduction
 

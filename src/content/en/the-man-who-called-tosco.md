@@ -98,7 +98,7 @@ I felt only the music — that is, only the variously combined sounds — adheri
 
 That is how, through Cuban music, I was able to awaken to "music." A receptor that has once learned the way to orgasm comes, quite naturally, to render the simplest possible judgments, regardless of genre.
 
-![](/japoneson/images/wp/2024/01/1994-jose-luis_photo-1024x513.jpg)
+![](/images/wp/2024/01/1994-jose-luis_photo-1024x513.jpg)
 
 #### Music that continues endlessly;
 

@@ -5,7 +5,7 @@ wp_id: 18735
 wp_parent: 108
 date: 2026-02-26 19:33:38
 source_url: https://en.japoneson.com/swing/for-the-boys/
-hero_image: "/japoneson/images/swing/hero_for-the-boys.jpg"
+hero_image: "/images/swing/hero_for-the-boys.jpg"
 hero_subtitle: "who served in the Korean War — Tribute to Ms.Monica Lewis"
 hero_height: 1000
 hero_video: "PXMV5bkoq8k"
@@ -22,13 +22,13 @@ She had been posting on a Korean War remembrance page on Facebook; her visits to
 
 <div class="gallery-4col">
 
-[![](/japoneson/images/wp/2026/05/korea2.jpg)](/japoneson/images/wp/2026/05/korea2.jpg)
+[![](/images/wp/2026/05/korea2.jpg)](/images/wp/2026/05/korea2.jpg)
 
-[![](/japoneson/images/wp/2026/05/korea1.jpg)](/japoneson/images/wp/2026/05/korea1.jpg)
+[![](/images/wp/2026/05/korea1.jpg)](/images/wp/2026/05/korea1.jpg)
 
-[![](/japoneson/images/wp/2026/05/monica-lewis-thanks-giving.jpg)](/japoneson/images/wp/2026/05/monica-lewis-thanks-giving.jpg)
+[![](/images/wp/2026/05/monica-lewis-thanks-giving.jpg)](/images/wp/2026/05/monica-lewis-thanks-giving.jpg)
 
-[![](/japoneson/images/wp/2026/05/monica_danny03.jpg)](/japoneson/images/wp/2026/05/monica_danny03.jpg)
+[![](/images/wp/2026/05/monica_danny03.jpg)](/images/wp/2026/05/monica_danny03.jpg)
 
 </div>
 
@@ -36,7 +36,7 @@ She had been posting on a Korean War remembrance page on Facebook; her visits to
 
 ## I'll Be Seeing You
 
-[![](/japoneson/images/wp/2026/05/neverforgotten.jpg)](/japoneson/images/wp/2026/05/neverforgotten.jpg)
+[![](/images/wp/2026/05/neverforgotten.jpg)](/images/wp/2026/05/neverforgotten.jpg)
 
 <div class="video-row">
 
@@ -94,7 +94,7 @@ So please – remember us.
 
 <div class="poem-image">
 
-![](/japoneson/images/wp/2026/05/koreanwar.jpg) 
+![](/images/wp/2026/05/koreanwar.jpg) 
 
 *The Korean War Veterans Memorial in Washington, D.C (visited in 2013)*
 
@@ -116,7 +116,7 @@ There are several sculptures and other works of art that are well worth a visit.
 
 <div class="hg-image">
 
-[![](/japoneson/images/wp/2026/05/スクリーンショット-2026-05-26-22.15.41-e1779801434468.png)](http://generalmacarthurshonorguard.com/wordpress/the-stories/the-stories-korean-war-poem/)
+[![](/images/wp/2026/05/スクリーンショット-2026-05-26-22.15.41-e1779801434468.png)](http://generalmacarthurshonorguard.com/wordpress/the-stories/the-stories-korean-war-poem/)
 
 </div>
 
@@ -126,13 +126,13 @@ There are several sculptures and other works of art that are well worth a visit.
 
 ## BRIDGING COUNTRIES AND HISTORY WITH MUSIC:
 
-![](/japoneson/images/wp/2026/05/monica-and-me.jpg)
+![](/images/wp/2026/05/monica-and-me.jpg)
 
 I had a lovely lunch recently with my Facebook friend and fellow vocalist / humanitarian Shoko "Seina" Shiraishi, who is devoted to preserving and performing the American pop and jazz hits of my own mid-century era. Seina's passions were partly inspired by her visits as a young girl to the Korean War Memorial Cross, which is dedicated to all the soldiers who made sacrifices during the conflict, in her hometown of Kokura, Japan, and they blossomed when she began singing professionally in New York as a young woman. She is delighted to have discovered me on Facebook and learned of my November 1951 entertainment tour of the Korean War frontlines with Danny Kaye. To find out more about Seina, her music and her good work. So nice to meet you, Seina... good luck with your project! oxo, Monica (Photo by Dean Lamanna)
 
 ## OKAY, SO I CAN STILL BE A BIT OF A HAM AT AGE 90!
 
-![](/japoneson/images/wp/2026/05/monicaCD-1024x943.jpg)
+![](/images/wp/2026/05/monicaCD-1024x943.jpg)
 
  These two beautifully packaged CDs, titled THANKS FOR THE MEMORY and I HAVE A DREAM, were gifts from one my new Facebook friends -- the lovely Japanese singer and humanitarian Shoko "Seina" Shiraishi. Seina's voice is just lovely, particularly in the way it captures the tone of mid-century American pop and jazz standards like "**A Tree in the Meadow**" and "**I'll Be Seeing You**" that I myself sang. I am so glad Seina reached out to me, and I encourage you to learn more about her at her Facebook page above, her website and at my earlier post about her visit to the Korean War Memorial Cross in her hometown of Kokura, Japan. Thank you for these musical presents, Seina, and for the work you are doing! All Best Wishes in 2013... Love, Monica (Photo by Dean Lamanna)
 

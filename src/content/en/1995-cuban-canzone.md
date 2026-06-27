@@ -7,7 +7,7 @@ date: 2024-02-06 00:26:45
 source_url: https://en.japoneson.com/murakami/music/1995-cuban-canzone/
 ---
 
-![](/japoneson/images/wp/2024/02/1995canzone-300x296.jpg)
+![](/images/wp/2024/02/1995canzone-300x296.jpg)
 
 Cuban Canzone  
 Estrellas de Cuba  

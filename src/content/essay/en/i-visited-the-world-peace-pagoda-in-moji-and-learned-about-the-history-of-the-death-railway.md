@@ -11,7 +11,7 @@ Yesterday, I visited The Moji World Peace Pagoda, which [I wrote about a little 
 
 The pagoda was built through the efforts and dedication of those who survived the Burma Campaign, their bereaved families, the then Mayor of Moji City, and cooperation with the Burmese government.
 
-![](/japoneson/images/essay/wp/2026/01/IMG_0968-768x1024.jpg)
+![](/images/essay/wp/2026/01/IMG_0968-768x1024.jpg)
 
 But in 2012, many of the people who survived the Burma Campaign and their bereaved families passed, so it was closed.However, that year, through the efforts of the chairman of the local company Sunray, it was possible to reopen. Yet he passed away in September 2024, and those who had been cooperating at the time had grown elderly, while the times and circumstances had changed.
 
@@ -29,7 +29,7 @@ I, we, don't know much about history. Even if we did, we could only know a part 
 
 Walking through the temple grounds, I became aware of one such part of history.
 
-![](/japoneson/images/essay/wp/2026/02/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9680-1024x683.jpg)
+![](/images/essay/wp/2026/02/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9680-1024x683.jpg)
 
 Yesterday, February 4th, was Risshun, the beginning of spring, which marks the start of the new year in the old calendar.
 
@@ -39,7 +39,7 @@ I, and many of our generation and younger, didn't know such things either.
   
 A new year has begun.
 
-![](/japoneson/images/essay/wp/2026/02/img_0508-1024x768.jpg)
+![](/images/essay/wp/2026/02/img_0508-1024x768.jpg)
 
 at Mekari Shrine
 

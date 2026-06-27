@@ -19,7 +19,7 @@ https://youtu.be/2VOVtIpB-3o?si=cdAyC-pevdv0pNqR
 
 On a whim, I entered the recipient's address into Google. I found a charming old house on Google Maps. According to a real estate website, the house was built in 1890.
 
-![](/japoneson/images/essay/wp/2026/01/スクリーンショット-2026-01-07-4.28.11-1024x732.png)
+![](/images/essay/wp/2026/01/スクリーンショット-2026-01-07-4.28.11-1024x732.png)
 
 The boy rose, and maybe he was born in the house, then went to the war.
 
@@ -39,7 +39,7 @@ I will write about the atomic bombs another essay, so I will go back to letters 
 
 Then... I found [this page.](https://www.sparksgriffin.com/obituaries/barbara-baggett)
 
-[![](/japoneson/images/essay/wp/2026/01/スクリーンショット-2026-01-07-5.13.00-1024x521.png)](https://www.sparksgriffin.com/obituaries/barbara-baggett)
+[![](/images/essay/wp/2026/01/スクリーンショット-2026-01-07-5.13.00-1024x521.png)](https://www.sparksgriffin.com/obituaries/barbara-baggett)
 
 > ## Barbara Baggett
 >
