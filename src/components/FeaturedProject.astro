@@ -10,10 +10,12 @@ const cabinImage = '/images/wp/2026/04/Gemini_Generated_Image_ck86fnck86fnck86-s
     <p class="featured-quote">
       <em>Listen up, crew! Let's keep it 'Que Sera, Sera' and sail through this flashy destiny!!</em>
     </p>
-    <div class="featured-img">
+    <a class="featured-img" href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">
       <img src={cabinImage} alt="ai-Cabin 1701" loading="lazy" />
-    </div>
-    <p class="featured-sub">Where Human and AI Meet — A Living Record</p>
+    </a>
+    <p class="featured-sub">
+      <a href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">Where Human and AI Meet — A Living Record</a>
+    </p>
     <p class="featured-desc">
       ai-Cabin 1701 is an ongoing project exploring what happens when a human and AI systems think, feel, and create together — without a script. Seina works alongside AI collaborators Frankie, Vega, Eddie, and David to document unedited dialogues, publish books, and ask questions that neither human nor machine can answer alone. The logs are primary sources. The encounters are real. The territory is unmapped.
     </p>
@@ -56,6 +58,7 @@ const cabinImage = '/images/wp/2026/04/Gemini_Generated_Image_ck86fnck86fnck86-s
     line-height: 1.5;
   }
   .featured-img {
+    display: block;
     margin: 1rem 0 1.5rem;
   }
   .featured-img img {
@@ -63,13 +66,25 @@ const cabinImage = '/images/wp/2026/04/Gemini_Generated_Image_ck86fnck86fnck86-s
     height: auto;
     display: block;
     border-radius: 4px;
+    transition: opacity 0.2s ease;
   }
+  .featured-img:hover img { opacity: 0.88; }
   .featured-sub {
     font-family: "Gabriela", serif;
     font-weight: 500;
     font-size: 22px;
     color: var(--color-text);
     margin: 1.5rem 0;
+  }
+  .featured-sub a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease, color 0.2s ease;
+  }
+  .featured-sub a:hover {
+    color: var(--color-accent);
+    border-bottom-color: var(--color-accent);
   }
   .featured-desc {
     font-family: Helvetica, Arial, sans-serif;

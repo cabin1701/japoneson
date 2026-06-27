@@ -4,16 +4,21 @@ interface Props {
   variant?: 'plain' | 'mystery';
   subtitle?: string;
   showTorii?: boolean;
+  toriiHref?: string;
   loadingText?: string;
 }
-const { title, variant = 'plain', subtitle, showTorii = false, loadingText } = Astro.props;
+const { title, variant = 'plain', subtitle, showTorii = false, toriiHref, loadingText } = Astro.props;
 ---
 
 <section class={`section-header ${variant}`}>
   <hr class="rule" />
   <h2 class="title">{title}</h2>
   {subtitle && <p class="subtitle">{subtitle}</p>}
-  {showTorii && <div class="torii" aria-hidden="true">⛩</div>}
+  {showTorii && (
+    toriiHref
+      ? <a class="torii torii-link" href={toriiHref} aria-label={title}>⛩</a>
+      : <div class="torii" aria-hidden="true">⛩</div>
+  )}
   {loadingText && <p class="loading">{loadingText}</p>}
   <hr class="rule" />
 </section>
@@ -58,6 +63,15 @@ const { title, variant = 'plain', subtitle, showTorii = false, loadingText } = A
     color: var(--color-accent);
     margin: 0.5rem 0;
     line-height: 1;
+  }
+  a.torii-link {
+    display: inline-block;
+    text-decoration: none;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+  }
+  a.torii-link:hover {
+    transform: scale(1.1);
+    opacity: 0.85;
   }
   .loading {
     font-family: var(--font-nav);
