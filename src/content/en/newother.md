@@ -5,7 +5,7 @@ wp_id: 16730
 wp_parent: 17150
 date: 2024-02-12 22:59:41
 source_url: https://en.japoneson.com/murakami/kyoko/newother/
-hero_image: "https://en.japoneson.com/wp-content/uploads/2024/02/kyoko01.jpg"
+hero_image: "/japoneson/images/murakami/hero_newother.jpg"
 hero_kicker: "FROM THE TRAJECTORY OF KYOKO"
 hero_subtitle: "The film that God put to the test — Cuba as a New Other."
 hero_height: 920
@@ -49,4 +49,4 @@ hero_height: 920
 >
 > — Kyoko (from the novel)
 
-![](https://en.japoneson.com/wp-content/uploads/2026/05/kyoko-dancin-BW02.jpg)
+![](/japoneson/images/wp/2026/05/kyoko-dancin-BW02.jpg)

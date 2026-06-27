@@ -5,7 +5,7 @@ wp_id: 17333
 wp_parent: 17150
 date: 2024-02-17 18:40:23
 source_url: https://en.japoneson.com/murakami/kyoko/boku/
-hero_image: "https://en.japoneson.com/wp-content/uploads/2024/02/kyoko-dancin-BW.jpg"
+hero_image: "/japoneson/images/murakami/hero_boku.jpg"
 hero_kicker: "THE BARBED WIRE FENCE"
 hero_subtitle: "The endless fence that covered my memories has disappeared."
 hero_height: 920
@@ -83,7 +83,7 @@ From then on, by the time the movie was completed, the story of KYOKO had change
 
 ## **And the barbed wire is gone.**
 
-![](https://en.japoneson.com/wp-content/uploads/2024/02/kyoko06-1-e1707922668173-1024x647.jpg)
+![](/japoneson/images/wp/2024/02/kyoko06-1-e1707922668173-1024x647.jpg)
 
 ## From "KYOKO"'s afterword (Shueisha)
 

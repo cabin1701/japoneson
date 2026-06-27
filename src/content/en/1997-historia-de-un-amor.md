@@ -7,7 +7,7 @@ date: 2024-02-06 01:04:33
 source_url: https://en.japoneson.com/murakami/music/1997-historia-de-un-amor/
 ---
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/02/1996_javierolmo-300x296.jpg)
+![](/japoneson/images/wp/2024/02/1996_javierolmo-300x296.jpg)
 
 Historia de un Amor  
 Javier Olmo  
@@ -44,7 +44,7 @@ Pepe Olmo, que hace el coro en "Suavito," es el antiguo vocalista secundario de 
 
 Ryu Murakami
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/02/1996_javier_back-298x300.jpg)
+![](/japoneson/images/wp/2024/02/1996_javier_back-298x300.jpg)
 
 ---
 

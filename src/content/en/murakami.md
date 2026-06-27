@@ -29,19 +29,19 @@ https://youtu.be/GfLskO6\_oYw?si=e4hIXgaLcVxUrr4T
 
 "A giant of modern Japanese literature. From the Showa to the Heisei era, Ryu Murakami was the definitive voice of a changing nation—a legendary icon who carved out the truth from the heart of chaos."
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/01b-e1707982539922.jpg)](https://en.japoneson.com/murakami/tosco)
+[![](/japoneson/images/wp/2024/02/01b-e1707982539922.jpg)](https://en.japoneson.com/murakami/tosco)
 
 ### [Tosco & Murakami](https://en.japoneson.com/murakami/tosco)
 
 I wanted José Luis to play a flute that could produce good sounds, and the thought of this genius continuing to play on the instrument I gave him made me feel like I had hope for survival./ Ryu Murakami
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1993NG.jpg)](https://en.japoneson.com/murakami/music)
+[![](/japoneson/images/wp/2024/02/1993NG.jpg)](https://en.japoneson.com/murakami/music)
 
 ### [Cuban Music](https://en.japoneson.com/murakami/music)
 
 Murakami Lable
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/kyoko02.jpg)](https://en.japoneson.com/murakami/kyoko)
+[![](/japoneson/images/wp/2024/02/kyoko02.jpg)](https://en.japoneson.com/murakami/kyoko)
 
 ### [KYOKO(1995)](https://en.japoneson.com/murakami/kyoko)
 

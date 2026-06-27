@@ -51,7 +51,7 @@ const trail = buildBreadcrumb(entry, all, import.meta.env.BASE_URL);
 
 <Layout title={`${entry.data.title} — Japonéson`} lang="en">
   <Header lang="en" />
-  {entry.data.hero_image && (
+  {(entry.data.hero_image || (entry.data.hero_slideshow && entry.data.hero_slideshow.length > 0)) && (
     <ProjectHero
       kicker={entry.data.hero_kicker}
       title={entry.data.title}
@@ -67,12 +67,14 @@ const trail = buildBreadcrumb(entry, all, import.meta.env.BASE_URL);
       titleItalic={entry.data.hero_title_italic}
       titleSize={entry.data.hero_title_size}
       titleColor={entry.data.hero_title_color}
+      slideshow={entry.data.hero_slideshow}
+      slideshowDuration={entry.data.hero_slideshow_duration}
     />
   )}
-  <main class="container">
+  <main class={`container page-${entry.data.slug}`}>
     <Breadcrumb trail={trail} lang="en" />
     <article>
-      {!entry.data.hero_image && <h1>{entry.data.title}</h1>}
+      {!(entry.data.hero_image || (entry.data.hero_slideshow && entry.data.hero_slideshow.length > 0)) && <h1>{entry.data.title}</h1>}
       <Content />
     </article>
   </main>

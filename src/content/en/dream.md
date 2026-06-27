@@ -41,12 +41,12 @@ Howard Kimbo (Tenor Sax)
 
 Seina (Vocals)
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/ryu-1.jpg)](https://en.japoneson.com/swing/dream/ryu)
+[![](/japoneson/images/wp/2026/05/ryu-1.jpg)](https://en.japoneson.com/swing/dream/ryu)
 
 ### [From Ryu Murakami](https://en.japoneson.com/swing/dream/ryu)
 
 https://youtu.be/FY-yB9-tC8U?si=-kLkV7\_CG5rtAtjY
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/letters.jpg)](https://en.japoneson.com/swing/dream/letters)
+[![](/japoneson/images/wp/2026/05/letters.jpg)](https://en.japoneson.com/swing/dream/letters)
 
 ### [Letters From Nursing Homes](https://en.japoneson.com/swing/dream/letters)
 

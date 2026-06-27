@@ -6,7 +6,7 @@ import Breadcrumb from '../../../../../components/Breadcrumb.astro';
 import ProjectHero from '../../../../../components/ProjectHero.astro';
 
 const base = import.meta.env.BASE_URL;
-const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+const IMG = (p: string) => `/japoneson/images/wp/${p}`;
 
 const trail = [
   { slug: 'mystery', title: 'THE MYSTERY ENTERTAINMENT', path: `${base}en/mystery/` },
@@ -24,11 +24,13 @@ const trail = [
       titleFont="var(--font-display-cinzel)"
       titleWeight={600}
       titleSize="56px"
-      titleColor="var(--color-accent)"
-      image={IMG('2026/04/don-young-1.jpg')}
+     titleColor="#fa8007"
+      image={`${base}images/mystery/hero_donald.jpg`}
       align="center"
       height={760}
       fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
     />
 
     <div class="container breadcrumb-wrap">
@@ -38,10 +40,14 @@ const trail = [
     <section class="intro">
       <div class="intro-inner">
         <p>
-          In 1999, I received an email from an old G.I. who was captured in the Philippines after the general left and became a prisoner of war. He said he arrived in Moji, which is my hometown, and worked in Fukuoka.
+          In 1999, I received an email from an old G.I. who was captured in the Philippines after the general left and became a prisoner of war. He said he arrived in Moji, which is my hometown, and worked in Fukuoka as POW.
         </p>
 
         <hr class="olive-divider" />
+
+        <figure class="preface-photo">
+          <img src={`${base}images/wp/2024/04/preface_don_seina.jpg`} alt="Donald Versaw and Seina" />
+        </figure>
 
         <h2 class="emails-h">Emails from An Old G.I. 1999</h2>
 
@@ -173,6 +179,18 @@ const trail = [
     border-top: 6px solid #8a8b6a;
     margin: 2.5rem 0;
     opacity: 0.8;
+  }
+
+  .intro-inner .preface-photo {
+    margin: 2rem auto;
+    text-align: center;
+  }
+  .intro-inner .preface-photo img {
+    display: block;
+    margin: 0 auto;
+    max-width: 500px;
+    width: 100%;
+    height: auto;
   }
 
   .email {

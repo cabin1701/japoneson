@@ -15,21 +15,21 @@ source_url: https://en.japoneson.com/cupie/
 
 It all started with a 100-yen shop Cupie doll that looked exactly like Danny Rojo from behind! Driven by raw, untamed imagination, ballpoint pen tattoos, and rainbow-colored whiskers, "Cupie Danny" was born—a tiny, naked adventurer ready to capture hearts from New York to Cuba.
 
-![](https://en.japoneson.com/wp-content/uploads/2026/05/IMG_6001-600x800.jpg)
+![](/japoneson/images/wp/2026/05/IMG_6001-600x800.jpg)
 https://youtu.be/yPEICcvPreQ?si=zfp0XDBT5G0Y2DT9
-![](https://en.japoneson.com/wp-content/uploads/2026/05/IMG_7346-600x800.jpg)
+![](/japoneson/images/wp/2026/05/IMG_7346-600x800.jpg)
 
 ## Gallery
 
-[![](https://en.japoneson.com/wp-content/uploads/2018/04/QPD160.jpg)](https://en.japoneson.com/cupie/gallery-01)
+[![](/japoneson/images/wp/2018/04/QPD160.jpg)](https://en.japoneson.com/cupie/gallery-01)
 
 ### [Musicians & Celebrities](https://en.japoneson.com/cupie/gallery-01)
 
-[![](https://en.japoneson.com/wp-content/uploads/2018/04/QPD074.jpg)](https://en.japoneson.com/cupie/gallery-02)
+[![](/japoneson/images/wp/2018/04/QPD074.jpg)](https://en.japoneson.com/cupie/gallery-02)
 
 ### [Friends & Family](https://en.japoneson.com/cupie/gallery-02)
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/06/bath-1-1-1024x1024.jpg)](https://en.japoneson.com/cupie/gallery-03)
+[![](/japoneson/images/wp/2026/06/bath-1-1-1024x1024.jpg)](https://en.japoneson.com/cupie/gallery-03)
 
 ### [Travels & Aventure](https://en.japoneson.com/cupie/gallery-03)
 
@@ -47,23 +47,23 @@ I named it "Cupie Danny" because I thought it would be easier to remember if it 
 
 Two months later, I went to New York with lots of Cupie Danny and materials for making Cupie Danny. After that, I went to Mexico, Guatemala, Cuba, and Miami.
 
-![](https://en.japoneson.com/wp-content/uploads/2019/06/allQPD.jpg)
+![](/japoneson/images/wp/2019/06/allQPD.jpg)
 
 ## Tribute to Juan-Carlos Formell
 
-![](https://en.japoneson.com/wp-content/uploads/2026/05/uchiwa09.jpeg)
+![](/japoneson/images/wp/2026/05/uchiwa09.jpeg)
 
 May 27th, 2023 (in NY, May 26th). My Facebook feed was flooded with posts about the death of Juan-Carlos Formell, who suddenly collapsed on stage in New York. I don’t know him in person, but many of my friends are his friends. The next day, I was informed that my longtime friend Yoshiko had passed away. Their sudden death made me realize that it might not be the “usual thing” that “I am living” at all.I made a fan to commemorate him.　Hice un abanico para conmemorarlo.
 
 Please raise the “fireworks of fan” together that can be seen from the sky.
 
-![](https://en.japoneson.com/wp-content/uploads/2026/05/IMG_3907-600x479.jpeg)
+![](/japoneson/images/wp/2026/05/IMG_3907-600x479.jpeg)
 
-![](https://en.japoneson.com/wp-content/uploads/2026/05/IMG_3917.mov)
+![](/japoneson/images/wp/2026/05/IMG_3917.mov)
 
 # [\*Cupie❤︎Danny Theater\*](https://en.japoneson.com/cupie/theater/)
 
-![](https://en.japoneson.com/wp-content/uploads/2026/06/en0922a-e1677590034846.jpg)
+![](/japoneson/images/wp/2026/06/en0922a-e1677590034846.jpg)
 
 ## [001 – “Mom!! Who is he?”](https://en.japoneson.com/mom-who-is-he/ "001 – “Mom!! Who is he?”")
 

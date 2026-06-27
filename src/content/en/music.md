@@ -27,35 +27,35 @@ From: *Life is a Carnival* by Ryū Murakami (Single Cut, 1996)
 
 ## 1992 - 2000
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/01/1992_nueva.jpg)](https://en.japoneson.com/murakami/music/nueva-generacion)
+[![](/japoneson/images/wp/2024/01/1992_nueva.jpg)](https://en.japoneson.com/murakami/music/nueva-generacion)
 
 ### [Nueva Generación](https://en.japoneson.com/murakami/music/nueva-generacion)
 
 NG La Banda   
 （1992）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1993NG.jpg)](https://en.japoneson.com/murakami/music/cabaret_panoramico)
+[![](/japoneson/images/wp/2024/02/1993NG.jpg)](https://en.japoneson.com/murakami/music/cabaret_panoramico)
 
 ### [Cabaret Panoramico Échale Limón](https://en.japoneson.com/murakami/music/cabaret_panoramico)
 
 NG La Banda   
 （1993）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/01/1993-live.jpg)](https://en.japoneson.com/murakami/music/1993_live_in-japan)
+[![](/japoneson/images/wp/2024/01/1993-live.jpg)](https://en.japoneson.com/murakami/music/1993_live_in-japan)
 
 ### [Live In Japan 翻訳](https://en.japoneson.com/murakami/music/1993_live_in-japan)
 
 NG La Banda   
 （1993）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1993_Paulo.jpg)](https://en.japoneson.com/murakami/music/1993_no-hace-falta)
+[![](/japoneson/images/wp/2024/02/1993_Paulo.jpg)](https://en.japoneson.com/murakami/music/1993_no-hace-falta)
 
 ### [No Hace Falta Pensar La Muerto, Porque Yo Estoy A Tu Lado](https://en.japoneson.com/murakami/music/1993_no-hace-falta)
 
 Paulo y Su Elite  
 （1993)
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/01/1993-xiomara-laugart_500.jpg)](https://en.japoneson.com/murakami/music/you-dont-know-what-love-is)
+[![](/japoneson/images/wp/2024/01/1993-xiomara-laugart_500.jpg)](https://en.japoneson.com/murakami/music/you-dont-know-what-love-is)
 
 ### [YOU DON'T KNOW WHAT LOVE IS](https://en.japoneson.com/murakami/music/you-dont-know-what-love-is)
 
@@ -63,77 +63,77 @@ Xiomara Laguart
 （1993）  
 Spanish Lyrics by César Portillo de la Luz
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1994-los-vanvan.jpg)](https://en.japoneson.com/murakami/music/1994-los-van-van-1974)
+[![](/japoneson/images/wp/2024/02/1994-los-vanvan.jpg)](https://en.japoneson.com/murakami/music/1994-los-van-van-1974)
 
 ### [Los Van Van 1974](https://en.japoneson.com/murakami/music/1994-los-van-van-1974)
 
 Los Van Van  
 (1994)
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1995-bruja.jpg)](https://en.japoneson.com/murakami/music/1995-la-bruja)
+[![](/japoneson/images/wp/2024/02/1995-bruja.jpg)](https://en.japoneson.com/murakami/music/1995-la-bruja)
 
 ### [La Bruja](https://en.japoneson.com/murakami/music/1995-la-bruja)
 
 NG La Banda   
 （1994）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/01/1994-jose-luis_500.jpg)](https://en.japoneson.com/cuba/murakami/the-man-who-called-tosco)
+[![](/japoneson/images/wp/2024/01/1994-jose-luis_500.jpg)](https://en.japoneson.com/cuba/murakami/the-man-who-called-tosco)
 
 ### ["The Man" who called "TOSCO"](https://en.japoneson.com/cuba/murakami/the-man-who-called-tosco)
 
 José Luis Cortés  
 （1994）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1995canzone.jpg)](https://en.japoneson.com/cuba/murakami/1995-cuban-canzone)
+[![](/japoneson/images/wp/2024/02/1995canzone.jpg)](https://en.japoneson.com/cuba/murakami/1995-cuban-canzone)
 
 ### [Cuban Canzone](https://en.japoneson.com/cuba/murakami/1995-cuban-canzone)
 
 Estrellas de Cuba  
 （1995）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1995_NG-House.jpg)](https://en.japoneson.com/murakami/music/1995-cuban-house-music)
+[![](/japoneson/images/wp/2024/02/1995_NG-House.jpg)](https://en.japoneson.com/murakami/music/1995-cuban-house-music)
 
 ### [Cuban House Music](https://en.japoneson.com/murakami/music/1995-cuban-house-music)
 
 NG La Banda   
 （1995）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1995NG-rock.jpg)](https://en.japoneson.com/murakami/music/1995-cuban-rock-sprit)
+[![](/japoneson/images/wp/2024/02/1995NG-rock.jpg)](https://en.japoneson.com/murakami/music/1995-cuban-rock-sprit)
 
 ### [Cuban Rock Spirit](https://en.japoneson.com/murakami/music/1995-cuban-rock-sprit)
 
 NG La Banda   
 （1995）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/01/1995-KYOKO_500.jpg)](https://en.japoneson.com/murakami/music/kyoko)
+[![](/japoneson/images/wp/2024/01/1995-KYOKO_500.jpg)](https://en.japoneson.com/murakami/music/kyoko)
 
 ### [KYOKO](https://en.japoneson.com/murakami/music/kyoko)
 
 Original Sound Track  
 （1995-1996）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1996_javierolmo.jpg)](https://en.japoneson.com/murakami/music/1997-historia-de-un-amor)
+[![](/japoneson/images/wp/2024/02/1996_javierolmo.jpg)](https://en.japoneson.com/murakami/music/1997-historia-de-un-amor)
 
 ### [Historia de un Amor](https://en.japoneson.com/murakami/music/1997-historia-de-un-amor)
 
 Javiel Olmo  
 （1996）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1997-los-van-van.jpg)](https://en.japoneson.com/murakami/music/1997_gentle_and_sexy)
+[![](/japoneson/images/wp/2024/02/1997-los-van-van.jpg)](https://en.japoneson.com/murakami/music/1997_gentle_and_sexy)
 
 ### [GENTLE & SEXY](https://en.japoneson.com/murakami/music/1997_gentle_and_sexy)
 
 The Best of Los Van Van  
 (1997)
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1995_NG-best.jpg)](https://en.japoneson.com/murakami/music/1997-ng-la-banda-best)
+[![](/japoneson/images/wp/2024/02/1995_NG-best.jpg)](https://en.japoneson.com/murakami/music/1997-ng-la-banda-best)
 
 ### [MURAKAMI’s NG La Banda Best](https://en.japoneson.com/murakami/music/1997-ng-la-banda-best)
 
 NG La Banda   
 （1997）
 
-[![](https://en.japoneson.com/wp-content/uploads/2024/02/1998_javier_sonalson.jpg)](https://en.japoneson.com/murakami/music/son-al-son)
+[![](/japoneson/images/wp/2024/02/1998_javier_sonalson.jpg)](https://en.japoneson.com/murakami/music/son-al-son)
 
 ### [Son al Son](https://en.japoneson.com/murakami/music/son-al-son)
 
@@ -142,28 +142,28 @@ Javiel Olmo
 
 ### **2001-2011**
 
-![](https://en.japoneson.com/wp-content/uploads/2024/01/2007_Di-Que-Piensas.jpg)
+![](/japoneson/images/wp/2024/01/2007_Di-Que-Piensas.jpg)
 
 ### Di Que Piensas
 
 Tania Pantoja  
 （2007）
 
-![](https://en.japoneson.com/wp-content/uploads/2024/01/2007.jpg)
+![](/japoneson/images/wp/2024/01/2007.jpg)
 
 ### Piano de Solar
 
 Lázaro Valdés  
 （2007）
 
-![](https://en.japoneson.com/wp-content/uploads/2024/01/2008_Bolero.jpg)
+![](/japoneson/images/wp/2024/01/2008_Bolero.jpg)
 
 ### BOLERO
 
 Lázaro Valdés   
 （2008）
 
-![](https://en.japoneson.com/wp-content/uploads/2024/01/2009_RCN.jpg)
+![](/japoneson/images/wp/2024/01/2009_RCN.jpg)
 
 ### RCN Salsa Best
 
@@ -171,21 +171,21 @@ Ryu's Cuban Night
 Salsa Best  
 （2009）
 
-![](https://en.japoneson.com/wp-content/uploads/2024/01/2009_besame.jpg)
+![](/japoneson/images/wp/2024/01/2009_besame.jpg)
 
 ### Bésame Mucho
 
 Tania Pantoja  
 （2009）
 
-![](https://en.japoneson.com/wp-content/uploads/2024/01/2010_amapola.jpg)
+![](/japoneson/images/wp/2024/01/2010_amapola.jpg)
 
 ### AMAPOLA
 
 Tania Pantoja  
 （2010）
 
-![](https://en.japoneson.com/wp-content/uploads/2024/01/2011_tania_Haila.jpg)
+![](/japoneson/images/wp/2024/01/2011_tania_Haila.jpg)
 
 ### TANIA vs HAILA
 
@@ -193,7 +193,7 @@ Tania Pantoja
 Haila Mompie  
 （2011）
 
-![](https://en.japoneson.com/wp-content/uploads/2024/01/2011_como-fue.jpg)
+![](/japoneson/images/wp/2024/01/2011_como-fue.jpg)
 
 ### Como Fue
 
@@ -202,7 +202,7 @@ Tania Pantoja
 
 ## 2014　The Final
 
-![](https://en.japoneson.com/wp-content/uploads/2024/01/2014_ryus-cuban.jpg)
+![](/japoneson/images/wp/2024/01/2014_ryus-cuban.jpg)
 
 ### Ryu's Cuban Night 20th Anniversary
 

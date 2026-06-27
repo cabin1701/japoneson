@@ -6,7 +6,7 @@ import Breadcrumb from '../../../components/Breadcrumb.astro';
 import ProjectHero from '../../../components/ProjectHero.astro';
 
 const base = import.meta.env.BASE_URL;
-const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+const IMG = (p: string) => `/japoneson/images/wp/${p}`;
 
 interface GCard {
   title: string;
@@ -43,13 +43,13 @@ const trail = [
     <ProjectHero
       title="We ♥ Cupie Danny"
       subtitle="Danny Rojo & Seina"
-      titleFont="'Cherry Swash', cursive"
-      titleWeight={700}
-      titleSize="64px"
+      titleFont="'Fredoka', sans-serif"
+      titleWeight={600}
+      titleSize="70px"
       titleColor="var(--color-accent)"
-      image={IMG('2019/06/allQPD.jpg')}
+      image={`${base}images/cupie/hero_cupie.jpg`}
       align="center"
-      height={760}
+      height={860}
       fit="cover"
     />
 
@@ -81,6 +81,8 @@ const trail = [
       </div>
     </section>
 
+    <hr class="cupie-divider" />
+
     <section class="gallery-block">
       <h2 class="big-h">Gallery</h2>
       <div class="gallery-grid">
@@ -93,6 +95,8 @@ const trail = [
       </div>
     </section>
 
+    <hr class="cupie-divider" />
+
     <section class="intro">
       <div class="intro-inner">
         <p>
@@ -104,6 +108,11 @@ const trail = [
         <p>
           One day, I found a Cupie doll that looks like Danny Rojo from the back at a 100-yen shop (1 dollar shop). Of course, it's a Cupie doll so he's naked.
         </p>
+
+        <figure class="wdanny-photo">
+          <img src={IMG('2019/06/wdanny.jpg')} alt="Danny Rojo from behind" loading="lazy" />
+        </figure>
+
         <p>
           I drew a tattoo with momentum, added a rainbow-colored mustache, and drew thick eyebrows with a ballpoint pen. When I sent the photo to Danny, who lives in New York, he seemed to like it a lot.
         </p>
@@ -119,6 +128,8 @@ const trail = [
         </figure>
       </div>
     </section>
+
+    <hr class="cupie-divider" />
 
     <section class="tribute-block">
       <h2 class="big-h">Tribute to Juan-Carlos Formell</h2>
@@ -137,6 +148,8 @@ const trail = [
         </figure>
       </div>
     </section>
+
+    <hr class="cupie-divider" />
 
     <section class="theater-block">
       <a class="theater-link" href={`${base}en/cupie/theater/`}>
@@ -166,10 +179,10 @@ const trail = [
     margin: 0 auto;
   }
   .intro-inner p {
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 17px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 18px;
+    color: #1f1f1f;
     line-height: 1.75;
-    color: #2a2a2a;
     margin: 0 0 1.3rem;
   }
   .intro-inner p.lead {
@@ -190,21 +203,27 @@ const trail = [
 
   .trio {
     display: grid;
-    grid-template-columns: 1fr 1.4fr 1fr;
-    gap: 1.5rem;
+    grid-template-columns: 265fr 550fr 265fr;
+    gap: 0;
     align-items: center;
-    margin: 2rem 0;
+    margin: 2rem auto;
+    max-width: 1080px;
   }
-  .trio figure { margin: 0; }
-  .trio img {
-    width: 100%;
-    height: auto;
-    display: block;
+  .trio figure {
+    margin: 0;
+    aspect-ratio: 265 / 353;
+    overflow: hidden;
     border-radius: 2px;
   }
-  .trio-video {
-    aspect-ratio: 16 / 9;
+  .trio img {
     width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .trio-video {
+    width: 100%;
+    aspect-ratio: 16 / 9;
     background: #000;
   }
   .trio-video iframe {
@@ -254,9 +273,20 @@ const trail = [
   }
 
   .wide-photo {
-    margin: 2.5rem 0;
+    margin: 2.5rem auto;
+    max-width: 480px;
   }
   .wide-photo img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+  .wdanny-photo {
+    max-width: 480px;
+    margin: 2rem auto;
+  }
+  .wdanny-photo img {
     width: 100%;
     height: auto;
     display: block;
@@ -274,14 +304,14 @@ const trail = [
     margin: 0 auto;
   }
   .tribute-inner p {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 17px;
     line-height: 1.75;
     color: #2a2a2a;
     margin: 0 0 1.3rem;
   }
   .uchiwa-small {
-    max-width: 400px;
+    max-width: 800px;
     margin: 0 auto 1.5rem;
   }
   .uchiwa-small img,
@@ -291,13 +321,24 @@ const trail = [
     display: block;
   }
   .uchiwa-big {
-    margin: 2rem 0;
+    margin: 2rem auto;
+    max-width: 480px;
   }
   .fan-line {
     text-align: center;
     font-style: italic;
     color: var(--color-navy);
     font-size: 18px !important;
+  }
+
+  /* navy divider band — WP Elementor pattern */
+  hr.cupie-divider {
+    border: 0;
+    height: 6px;
+    background: var(--color-navy);
+    margin: 2.5rem auto;
+    max-width: 1080px;
+    width: calc(100% - 3rem);
   }
 
   .theater-block {
@@ -313,13 +354,13 @@ const trail = [
   }
   .theater-h {
     font-family: 'Cherry Swash', cursive;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 40px;
     color: var(--color-accent);
     margin: 1rem 0 1.5rem;
   }
   .theater-photo {
-    max-width: 600px;
+    max-width: 360px;
     margin: 1.5rem auto;
   }
   .theater-photo img {
@@ -330,7 +371,7 @@ const trail = [
   }
   .theater-post {
     margin: 1rem 0 0.3rem !important;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Fredoka', sans-serif;
   }
   .theater-post a {
     color: var(--color-accent);
@@ -340,7 +381,7 @@ const trail = [
   }
   .theater-post a:hover { color: var(--color-navy); }
   .theater-meta {
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Fredoka', sans-serif;
     font-size: 14px;
     color: #888;
     margin: 0 !important;

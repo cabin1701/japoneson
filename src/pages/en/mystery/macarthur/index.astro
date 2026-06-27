@@ -6,7 +6,7 @@ import Breadcrumb from '../../../../components/Breadcrumb.astro';
 import ProjectHero from '../../../../components/ProjectHero.astro';
 
 const base = import.meta.env.BASE_URL;
-const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+const IMG = (p: string) => `/japoneson/images/wp/${p}`;
 
 interface KCard {
   title: string;
@@ -62,10 +62,12 @@ const trail = [
       titleFont="var(--font-display-cinzel)"
       titleWeight={700}
       titleSize="60px"
-      image={IMG('2026/03/IMG_2036-scaled-e1772714174506-1024x739.jpg')}
+      image={`${base}images/mystery/hero_macarthur.jpg`}
       align="center"
       height={760}
       fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
     />
 
     <div class="container breadcrumb-wrap">

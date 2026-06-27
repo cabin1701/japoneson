@@ -8,7 +8,7 @@ import SubGrid from '../../../../components/SubGrid.astro';
 import type { SubCard } from '../../../../components/SubGrid.astro';
 
 const base = import.meta.env.BASE_URL;
-const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+const IMG = (p: string) => `/japoneson/images/wp/${p}`;
 
 const subCards: SubCard[] = [
   {
@@ -50,7 +50,7 @@ const trail = [
       kicker='THE STORY OF "HOPE" & "REGENERATE"'
       title="KYOKO (1995)"
       subtitle="Because of You — Tokyo → New York → Miami → Havana."
-      image="https://en.japoneson.com/wp-content/uploads/2024/02/kyoko-y-ralph.jpg"
+      image={`${base}images/murakami/hero_kyoko.jpg`}
       align="center"
       height={920}
     />

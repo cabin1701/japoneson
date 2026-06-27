@@ -8,7 +8,7 @@ import SubGrid from '../../../../components/SubGrid.astro';
 import type { SubCard } from '../../../../components/SubGrid.astro';
 
 const base = import.meta.env.BASE_URL;
-const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+const IMG = (p: string) => `/japoneson/images/wp/${p}`;
 
 const subCards: SubCard[] = [
   {
@@ -51,7 +51,7 @@ const trail = [
       kicker="EARLY 1990S · THE SPECIAL PERIOD"
       title="Tosco y Murakami"
       subtitle="A bond born in the Special Period — Ryu Murakami and José Luis Cortés."
-      image="https://en.japoneson.com/wp-content/uploads/2024/01/1994-jose-luis_photo.jpg"
+      image={`${base}images/murakami/hero_tosco.jpg`}
       align="center"
       height={850}
     />
@@ -153,7 +153,7 @@ const trail = [
 
         <figure class="photo">
           <img
-            src="https://en.japoneson.com/wp-content/uploads/2024/02/IMG_4314-1-scaled-e1707925954739.jpg"
+            src="/japoneson/images/wp/2024/02/IMG_4314-1-scaled-e1707925954739.jpg"
             alt="TOSCO & Seina, 2014"
             loading="lazy"
           />

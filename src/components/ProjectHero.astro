@@ -4,7 +4,7 @@ interface Props {
   kicker?: string;
   title: string;
   subtitle?: string;
-  image: string;
+  image?: string;
   align?: 'left' | 'center';
   height?: number; // px
   fit?: 'cover' | 'contain'; // 'cover' = crop to fill, 'contain' = show full image
@@ -15,6 +15,10 @@ interface Props {
   titleColor?: string; // CSS color override
   videoId?: string; // YouTube video ID for muted background video
   videoStart?: number; // start time in seconds
+  overlayTop?: number; // overlay opacity at top (0..1)
+  overlayBottom?: number; // overlay opacity at bottom (0..1)
+  slideshow?: string[]; // background slideshow images (cross-fade)
+  slideshowDuration?: number; // ms per slide (default 5000)
 }
 const {
   kicker,
@@ -31,7 +35,13 @@ const {
   titleColor,
   videoId,
   videoStart,
+  overlayTop = 0,
+  overlayBottom = 0,
+  slideshow,
+  slideshowDuration = 5000,
 } = Astro.props;
+
+const hasSlideshow = Array.isArray(slideshow) && slideshow.length > 0;
 
 const videoSrc = videoId
   ? `https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1&loop=1&playlist=${videoId}&controls=0&showinfo=0&modestbranding=1&playsinline=1&rel=0${videoStart ? `&start=${videoStart}` : ''}`
@@ -46,7 +56,14 @@ const titleStyle = [
 ].join(' ');
 ---
 
-<section class="p-hero" data-align={align} data-fit={fit} style={`background-image: url('${image}'); min-height: ${height}px;`}>
+<section class="p-hero" data-align={align} data-fit={fit} style={`${image ? `background-image: url('${image}');` : ''} min-height: ${height}px;`}>
+  {hasSlideshow && (
+    <div class="slideshow-bg" data-duration={slideshowDuration} aria-hidden="true">
+      {slideshow!.map((src, i) => (
+        <div class="slide" style={`background-image: url('${src}'); opacity: ${i === 0 ? 1 : 0};`}></div>
+      ))}
+    </div>
+  )}
   {videoId && (
     <div class="video-bg" aria-hidden="true">
       <iframe
@@ -58,7 +75,7 @@ const titleStyle = [
       ></iframe>
     </div>
   )}
-  <div class="overlay"></div>
+  <div class="overlay" style={`background: linear-gradient(180deg, rgba(0,0,0,${overlayTop}) 0%, rgba(0,0,0,${overlayBottom}) 100%);`}></div>
   <div class="p-hero-content">
     {kicker && <p class="kicker">{kicker}</p>}
     <h1 class="p-hero-title" style={titleStyle}>{title}</h1>
@@ -86,6 +103,20 @@ const titleStyle = [
     inset: 0;
     overflow: hidden;
     pointer-events: none;
+  }
+  .slideshow-bg {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    pointer-events: none;
+  }
+  .slideshow-bg .slide {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: opacity 500ms ease-in-out;
   }
   .video-bg iframe {
     position: absolute;
@@ -148,3 +179,17 @@ const titleStyle = [
     .subtitle { font-size: 17px; }
   }
 </style>
+
+<script>
+  document.querySelectorAll<HTMLElement>('.slideshow-bg').forEach((box) => {
+    const slides = box.querySelectorAll<HTMLElement>('.slide');
+    if (slides.length < 2) return;
+    const dur = Number(box.dataset.duration) || 5000;
+    let i = 0;
+    setInterval(() => {
+      slides[i].style.opacity = '0';
+      i = (i + 1) % slides.length;
+      slides[i].style.opacity = '1';
+    }, dur);
+  });
+</script>

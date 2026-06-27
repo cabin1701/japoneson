@@ -7,7 +7,7 @@ date: 2024-02-05 17:12:18
 source_url: https://en.japoneson.com/murakami/music/cabaret_panoramico/
 ---
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/02/1993NG-300x296.jpg)
+![](/japoneson/images/wp/2024/02/1993NG-300x296.jpg)
 
 Cabaret Panorámico (Échale Limón)  
 NG La Banda  
@@ -46,7 +46,7 @@ It is natural for everyone to want to make their own music someday, isn't it? �
 
 “I participated in the founding of Los Van Van and then joined Irakere.I was scheduled to go to the Czech Republic to study music, but it was canceled because of my bad behavior. I guess it wasn't a good idea to perform Cuban music without the professor's attention. Although Los Van Van and Irakere are different types, they were both top bands representing Cuba. However, in the mid-1980s, I formed a session band with my old friends from music school and started playing jazz. That's the origin of NG La Banda. ”
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/02/1993-NG-Tosco.jpg)
+![](/japoneson/images/wp/2024/02/1993-NG-Tosco.jpg)
 
 The band members that José Luis assembled were truly amazing.
 
@@ -110,7 +110,7 @@ Juan Nogueras (Tumbadora)
 Pablo Cortés (Bongo)  
 Guillermo Amores (Güiro)
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/02/1993-NG-03-e1706798499935.jpg)
+![](/japoneson/images/wp/2024/02/1993-NG-03-e1706798499935.jpg)
 
 ---
 

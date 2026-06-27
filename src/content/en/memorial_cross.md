@@ -9,7 +9,7 @@ source_url: https://en.japoneson.com/swing/remember/memorial_cross/
 
 ## MEMORIAL CROSS For Fallen Soldiers of the Korean War
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/04/memorial-cross-scaled-e1713441095325.jpg)
+![](/japoneson/images/wp/2024/04/memorial-cross-scaled-e1713441095325.jpg)
 
 **The Outbreak of the Korean War**On June 25, 1950, the Korean War broke out.
 
@@ -49,7 +49,7 @@ Warm regards,
 
 Seina
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/04/121226W9Q9761_1000-683x1024.jpg)
+![](/japoneson/images/wp/2024/04/121226W9Q9761_1000-683x1024.jpg)
 
 ---
 
@@ -81,7 +81,7 @@ I now need to get to some of those other pressing matters.
 
 Tom Thiel
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/04/koreanwar01-e1713443631159.jpg)
+![](/japoneson/images/wp/2024/04/koreanwar01-e1713443631159.jpg)
 
 ---
 
@@ -105,7 +105,7 @@ Rest in peace and sing for people in heaven.
 I'll be seeing you in every lovely song that you sing.  
 Angels Swing / Seina
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/monica.jpg)](https://en.japoneson.com/swing/for-the-boys)
+[![](/japoneson/images/wp/2026/05/monica.jpg)](https://en.japoneson.com/swing/for-the-boys)
 
 ### ["For The Boys" Tribute to Ms. Monica Lewis](https://en.japoneson.com/swing/for-the-boys)
 

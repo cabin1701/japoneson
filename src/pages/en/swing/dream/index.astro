@@ -8,7 +8,7 @@ import SubGrid from '../../../../components/SubGrid.astro';
 import type { SubCard } from '../../../../components/SubGrid.astro';
 
 const base = import.meta.env.BASE_URL;
-const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+const IMG = (p: string) => `/japoneson/images/wp/${p}`;
 
 const subCards: SubCard[] = [
   {
@@ -40,7 +40,7 @@ const trail = [
       kicker="THE SONGS FOR NURSING HOMES IN THE U.S."
       title="I Have a Dream… Seina"
       subtitle="3500 nursing homes in the United States — a gift of songs."
-      image={IMG('2026/05/yomiuri-1024x1009.jpg')}
+      image={`${base}images/swing/hero_dream.jpg`}
       align="center"
       height={900}
       fit="cover"

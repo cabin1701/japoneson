@@ -13,25 +13,25 @@ source_url: https://en.japoneson.com/cupie/theater/
 
 ## Characters
 
-![](https://en.japoneson.com/wp-content/uploads/2026/06/IMG-1498-scaled-e1673351586855-600x597.jpg)
+![](/japoneson/images/wp/2026/06/IMG-1498-scaled-e1673351586855-600x597.jpg)
 
 ### Cupie Danny
 
 He believes he’s the ultimate reliable big brother. Lately, his heart belongs entirely to Erika-chan. Permanently naked, because a true free spirit never feels the cold!
 
-![](https://en.japoneson.com/wp-content/uploads/2026/06/koyo01-1-e1673349831252.jpg)
+![](/japoneson/images/wp/2026/06/koyo01-1-e1673349831252.jpg)
 
 ### Shoko-chan
 
 The adorable Hermanita (little sister) who absolutely adores her big brother. Don't let her cuteness fool you—she is the level-headed, reliable one!
 
-![](https://en.japoneson.com/wp-content/uploads/2026/06/IMG-1265-scaled-e1673349583629-600x600.jpg)
+![](/japoneson/images/wp/2026/06/IMG-1265-scaled-e1673349583629-600x600.jpg)
 
 ### Erika-chan
 
 A soulful girl into yoga, Indian philosophy, temple-hopping, and reading. Spent her childhood in Brazil. She’s a bit delicate in health, but deeply resilient.
 
-![](https://en.japoneson.com/wp-content/uploads/2026/06/image_50784001-scaled-e1673349661243-600x600.jpg)
+![](/japoneson/images/wp/2026/06/image_50784001-scaled-e1673349661243-600x600.jpg)
 
 ### Erika-chan
 
@@ -39,7 +39,7 @@ Studying? No, thanks! A cool, naughty girl who leads the boys by the nose while 
 
 # \* Episode \*
 
-![](https://en.japoneson.com/wp-content/uploads/2026/06/en0922a-e1677590034846.jpg)
+![](/japoneson/images/wp/2026/06/en0922a-e1677590034846.jpg)
 
 ## [001 – “Mom!! Who is he?”](https://en.japoneson.com/mom-who-is-he/ "001 – “Mom!! Who is he?”")
 

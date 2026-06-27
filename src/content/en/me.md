@@ -5,7 +5,7 @@ wp_id: 17287
 wp_parent: 17150
 date: 2024-02-17 17:17:47
 source_url: https://en.japoneson.com/murakami/kyoko/me/
-hero_image: "https://en.japoneson.com/wp-content/uploads/2026/05/IMAGE0078.jpg"
+hero_image: "/japoneson/images/murakami/hero_me.jpg"
 hero_kicker: "New York, 1990's"
 hero_subtitle: "Cuba, 2014 - 2018. Now, I'm OK."
 hero_height: 920
@@ -41,4 +41,4 @@ In Cuba, there were many difficult and unpleasant things. My Cuban friends said,
 
 
 
-![](https://en.japoneson.com/wp-content/uploads/2026/05/IMG_2210-1024x768.jpg)
+![](/japoneson/images/wp/2026/05/IMG_2210-1024x768.jpg)

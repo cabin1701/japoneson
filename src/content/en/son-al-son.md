@@ -7,7 +7,7 @@ date: 2024-02-06 22:39:27
 source_url: https://en.japoneson.com/murakami/music/son-al-son/
 ---
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/02/1998_javier_sonalson-300x278.jpg)
+![](/japoneson/images/wp/2024/02/1998_javier_sonalson-300x278.jpg)
 
 Son al Son | Javier Olmo  
 1998  

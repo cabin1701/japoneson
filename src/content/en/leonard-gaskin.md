@@ -44,7 +44,7 @@ And that is how this concert came to life.
 
 #### **I would like to have some generous help, love… and your instruments.**
 
-![](https://japoneson.com/wp/wp-content/uploads/2023/01/IMAGE0042-scaled-e1673080417880.jpg)
+![](/japoneson/images/wp/2023/01/IMAGE0042-scaled-e1673080417880.jpg)
 
 My name is Seina.
 
@@ -80,7 +80,7 @@ Shoko "Seina" Shiraishi**
 
 <div class="ozanam-photo">
 
-![](https://en.japoneson.com/wp-content/uploads/2026/05/IMAGE_049-768x1024.jpg)
+![](/japoneson/images/wp/2026/05/IMAGE_049-768x1024.jpg)
 
 </div>
 
@@ -152,7 +152,7 @@ I'm looking at the moon, but I'll be seeing you, Mr. Leonard Gaskin.
 
 <div class="tribute-image">
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/2008_leonard802_1000.jpg)](https://en.japoneson.com/wp-content/uploads/2026/05/2008_leonard802_1000.jpg)
+[![](/japoneson/images/wp/2026/05/2008_leonard802_1000.jpg)](/japoneson/images/wp/2026/05/2008_leonard802_1000.jpg)
 
 </div>
 

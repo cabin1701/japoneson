@@ -7,7 +7,7 @@ date: 2024-02-05 11:41:59
 source_url: https://en.japoneson.com/murakami/music/nueva-generacion/
 ---
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/01/1992_nueva-300x296.jpg)
+![](/japoneson/images/wp/2024/01/1992_nueva-300x296.jpg)
 
 Nueva Generación  
 NG La Banda  

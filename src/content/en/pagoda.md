@@ -9,7 +9,7 @@ source_url: https://en.japoneson.com/swing/remember/pagoda/
 
 ## MOJI, MEKARI The World Peace Pagoda
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/04/pagoda01.jpg)
+![](/japoneson/images/wp/2024/04/pagoda01.jpg)
 
 A "Pagoda" is a Buddhist reliquary tower where the ashes of the Buddha (shari) are enshrined. In Myanmar, it is called a "Paya."
 
@@ -38,7 +38,7 @@ The Moji World Peace Pagoda Construction Committee was established in September 
 
 The monks remained in residence, strictly observing the 227 precepts of Theravada Buddhism (including lifelong celibacy, eating only twice a day, abstaining from politics, and having no connection to money). They preached to visitors and prayed every morning for the repose of the souls of those who perished in the Great East Asia War.
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/04/pagoda02.jpg)
+![](/japoneson/images/wp/2024/04/pagoda02.jpg)
 
 **Current Status and Future Direction (as of 2012)**   
 The Moji World Peace Pagoda operated smoothly for many years. However, following the passing of the chief priest, Most Venerable U Khemin-da, in December 2011, the facility was temporarily closed. This was due to financial difficulties and the aging of the veterans' associations that had long been the Pagoda's primary supporters.
@@ -49,4 +49,4 @@ In tandem with these efforts, the Myanmar Buddhist Association and the Myanmar E
 
 Currently, the two monks are dedicated to their missionary work. As news of the reopening spreads, the number of visitors from the local community and beyond is increasing, and the World Peace Pagoda is gradually regaining its former vitality.
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/04/pagoda03-1.jpg)
+![](/japoneson/images/wp/2024/04/pagoda03-1.jpg)

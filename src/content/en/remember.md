@@ -12,7 +12,7 @@ hero_title_color: "#a5c5dd"
 ## Towards the Future:
 
 
-![](https://en.japoneson.com/wp-content/uploads/2026/05/kitakyushuu-768x768.jpg)
+![](/japoneson/images/wp/2026/05/kitakyushuu-768x768.jpg)
 
 In 1963, the five cities of Moji, Kokura, Tobata, Yawata, and Wakamatsu merged to form Kitakyushu City. This booklet was published in 2013 to mark the 50th anniversary of that merger.
 
@@ -43,4 +43,4 @@ This is my message to the future: we must never forget this history.
 
 Photography cooperation: Kazumichi Kidera（[FU. photo & design](https://www.fuweb.co.jp/)）
 
-![](https://en.japoneson.com/wp-content/uploads/2026/05/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9657-768x512.jpg)
+![](/japoneson/images/wp/2026/05/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9657-768x512.jpg)

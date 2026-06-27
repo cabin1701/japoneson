@@ -14,7 +14,7 @@ export type Project = {
   external?: boolean;
 };
 
-const IMG = (path: string) => `https://en.japoneson.com/wp-content/uploads/${path}`;
+const IMG = (path: string) => `/japoneson/images/wp/${path}`;
 
 export const projects: Project[] = [
   {

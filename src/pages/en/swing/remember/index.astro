@@ -5,7 +5,7 @@ import Footer from '../../../../components/Footer.astro';
 import Breadcrumb from '../../../../components/Breadcrumb.astro';
 import ProjectHero from '../../../../components/ProjectHero.astro';
 const base = import.meta.env.BASE_URL;
-const IMG = (p: string) => `https://en.japoneson.com/wp-content/uploads/${p}`;
+const IMG = (p: string) => `/japoneson/images/wp/${p}`;
 
 const contents = [
   { label: 'Introduction', href: `${base}en/swing/remember/preface/` },
@@ -33,7 +33,7 @@ const trail = [
       kicker="Wartime and Postwar Kitakyushu"
       title="We Remember You"
       subtitle="A booklet for the 50th anniversary of the merger of Moji, Kokura, Tobata, Yawata, and Wakamatsu — 2013."
-      image={IMG('2026/05/kitakyushuu.jpg')}
+      image={`${base}images/swing/hero_remember.jpg`}
       image="/japoneson/images/swing/hero_memorial.jpg"
       align="center"
       height={900}

@@ -17,7 +17,7 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@400;500;600&family=Baumans&family=Changa:wght@400;500;600&family=Cherry+Swash:wght@400;700&family=Cinzel:wght@400;500;600;700&family=Cinzel+Decorative:wght@400;700&family=Gabriela&family=Pathway+Gothic+One&family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Ysabeau+SC:wght@400;500;600;700&family=Cormorant+Infant:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@400;500;600&family=Baumans&family=Changa:wght@400;500;600&family=Cherry+Swash:wght@400;700&family=Cinzel:wght@400;500;600;700&family=Cinzel+Decorative:wght@400;700&family=Gabriela&family=Pathway+Gothic+One&family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Ysabeau+SC:wght@400;500;600;700&family=Cormorant+Infant:ital,wght@0,400;0,700;1,400;1,700&family=Fredoka:wght@400;500;600;700&family=Akaya+Telivigala&family=Gafata&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap"
     />
   </head>
   <body>
@@ -423,5 +423,176 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     border-left: 3px solid var(--color-rule);
     padding-left: 1.2rem;
     margin: 1.5rem 0;
+  }
+
+  /* === About page (WP verbatim typography) === */
+  main.page-about article h1 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 40px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 2.5rem 0 1rem;
+  }
+  main.page-about article h6 {
+    font-family: 'Akaya Telivigala', serif;
+    font-weight: 500;
+    text-align: center;
+    color: #020450;
+    font-size: 20px;
+    margin: 0.5rem 0 1.5rem;
+  }
+  main.page-about article h2 {
+    font-family: 'Gabriela', serif;
+    font-weight: 500;
+    font-size: 36px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 2.5rem 0 1.2rem;
+  }
+  main.page-about article h3 {
+    font-family: 'Gabriela', serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 2rem 0 1rem;
+  }
+  main.page-about article h4 {
+    font-family: 'Gabriela', serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--color-accent);
+    text-align: right;
+    margin: 1.5rem 0;
+  }
+  main.page-about article h4 a { color: var(--color-accent); }
+  main.page-about article p {
+    font-size: 17px;
+    line-height: 1.75;
+    margin: 0 0 1.2rem;
+  }
+  /* Table of Contents — list centered */
+  main.page-about article ul,
+  main.page-about article ol {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  main.page-about article ul li,
+  main.page-about article ol li {
+    margin: 0.3rem 0;
+  }
+  /* About page dividers */
+  main.page-about article hr.about-rule-red {
+    border: 0;
+    border-top: 1px solid var(--color-accent);
+    margin: 2rem auto;
+    width: 100%;
+    max-width: 1100px;
+  }
+  main.page-about article hr.about-rule-black {
+    border: 0;
+    border-top: 1px solid #000;
+    margin: 2.5rem auto;
+    width: 100%;
+    max-width: 1100px;
+  }
+  /* Image + caption: center-aligned figure */
+  main.page-about article img {
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  main.page-about article figure {
+    text-align: center;
+    margin: 2rem auto;
+  }
+  /* Poem + image side-by-side (poem left, image right) */
+  main.page-about article .poem-image-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem;
+    align-items: center;
+    margin: 2rem auto;
+    max-width: 1000px;
+  }
+  main.page-about article .poem-image-row .poem-text p {
+    margin: 0 0 0.8rem;
+  }
+  main.page-about article .poem-image-row .poem-image img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+  }
+  @media (max-width: 720px) {
+    main.page-about article .poem-image-row {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  main.page-about article figure figcaption {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    color: var(--color-muted);
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+  }
+  /* Caption pattern: ![]() immediately followed by a paragraph of text */
+  main.page-about article p:has(> img:only-child) + p {
+    text-align: center;
+    font-size: 0.95rem;
+    color: var(--color-muted);
+    margin-top: -0.5rem;
+  }
+
+  /* === Timeline page (light, simple) === */
+  main.page-timeline article table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: var(--font-body);
+    font-size: 17px;
+    line-height: 1.7;
+    color: #333;
+    margin: 2rem 0;
+  }
+  main.page-timeline article table th {
+    background: transparent;
+    color: var(--color-navy);
+    padding: 12px 14px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 17px;
+    border: none;
+    border-bottom: 1px solid #d8d8d8;
+    font-family: var(--font-body);
+  }
+  main.page-timeline article table td {
+    padding: 10px 14px;
+    vertical-align: top;
+    border: none;
+    border-bottom: 1px solid #eee;
+    background: transparent;
+  }
+  main.page-timeline article table tr:hover td {
+    background-color: rgba(0, 0, 0, 0.02);
+  }
+  main.page-timeline article table td:first-child {
+    font-weight: 500;
+    white-space: nowrap;
+    color: var(--color-navy);
+    width: 90px;
+  }
+  main.page-timeline article table td:nth-child(2) {
+    font-weight: 500;
+    color: #333;
+    width: 260px;
+  }
+  main.page-timeline article table td:nth-child(3) {
+    color: #555;
+    font-size: 16px;
   }
 </style>

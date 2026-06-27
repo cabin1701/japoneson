@@ -20,7 +20,7 @@ source_url: https://en.japoneson.com/
 
 #### Listen up, crew! Let’s keep it ‘Que Sera, Sera’ and sail through this flashy destiny!!
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/04/Gemini_Generated_Image_ck86fnck86fnck86-scaled-e1776857750844-768x425.png)](https://cabin1701.com/)
+[![](/japoneson/images/wp/2026/04/Gemini_Generated_Image_ck86fnck86fnck86-scaled-e1776857750844-768x425.png)](https://cabin1701.com/)
 
 ### [Where Human and AI Meet — A Living Record](https://cabin1701.com/)
 
@@ -41,7 +41,7 @@ The logs are primary sources. The encounters are real. The territory is unmapped
 
 ## Loading the Mystery...
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/CDjacket-1024x1024.jpg)](https://en.japoneson.com/swing)
+[![](/japoneson/images/wp/2026/05/CDjacket-1024x1024.jpg)](https://en.japoneson.com/swing)
 
 ### [🇺🇸Angels Swing](https://en.japoneson.com/swing)
 
@@ -49,7 +49,7 @@ The logs are primary sources. The encounters are real. The territory is unmapped
   
 Through the shadow of defeat and the melodies of a bygone era, encounters with legendary musicians opened a path to the truth.
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/jk-400.jpg)](https://en.japoneson.com/japoneson)
+[![](/japoneson/images/wp/2026/05/jk-400.jpg)](https://en.japoneson.com/japoneson)
 
 ### [🇨🇺JAPONÉSON \*Por La Chocolate\*](https://en.japoneson.com/japoneson)
 
@@ -57,7 +57,7 @@ Through the shadow of defeat and the melodies of a bygone era, encounters with l
   
 Discover the raw, unscripted bond forged through music beyond language, born from heartfelt tears.
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/05/murakami02-1024x1020.jpg)](https://en.japoneson.com/murakami)
+[![](/japoneson/images/wp/2026/05/murakami02-1024x1020.jpg)](https://en.japoneson.com/murakami)
 
 ### [🇨🇺MURAKAMI MAMBO!!](https://en.japoneson.com/murakami)
 
@@ -65,7 +65,7 @@ Discover the raw, unscripted bond forged through music beyond language, born fro
   
 Discover how a wounded Japanese writer broke free from the post-war chains through the explosive power of a "New Other"—Cuba.
 
-[![](https://en.japoneson.com/wp-content/uploads/2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg)](https://en.japoneson.com/cupie)
+[![](/japoneson/images/wp/2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg)](https://en.japoneson.com/cupie)
 
 ### [🇨🇺 Cupie Danny](https://en.japoneson.com/cupie)
 
@@ -73,7 +73,7 @@ A wild, unscripted trail of smiles and raw encounters across the Americas and Cu
 
 [Facebook](https://www.facebook.com/cupiedanny/)
 [Instagram](https://www.instagram.com/cupiedanny/)
-[![](https://en.japoneson.com/wp-content/uploads/2026/02/img_6194-1-e1724569568281-1-600x569.jpg)](https://cat.japoneson.com/)
+[![](/japoneson/images/wp/2026/02/img_6194-1-e1724569568281-1-600x569.jpg)](https://cat.japoneson.com/)
 
 ### [We Live with Cats](https://cat.japoneson.com/)
 
@@ -84,7 +84,7 @@ A record of our life with over 40 local cats. Our efforts, our heartbreaks, and 
 [Facebook](https://www.facebook.com/cat.japoneson/)
 [Instagram](https://www.instagram.com/cat.japoneson/)
 [Youtube](https://www.youtube.com/channel/UC8RJkSPOuCM3-5drfmfWt-g)
-[![](https://en.japoneson.com/wp-content/uploads/2026/04/logobluebg-YOUTUBE.jpg)](https://crystallize.jp/)
+[![](/japoneson/images/wp/2026/04/logobluebg-YOUTUBE.jpg)](https://crystallize.jp/)
 
 ### [CRYSTALLIZE](https://crystallize.jp/)
 

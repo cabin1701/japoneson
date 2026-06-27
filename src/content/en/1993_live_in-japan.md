@@ -7,7 +7,7 @@ date: 2024-02-05 23:23:26
 source_url: https://en.japoneson.com/murakami/music/1993_live_in-japan/
 ---
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/01/1993-live-300x296.jpg)
+![](/japoneson/images/wp/2024/01/1993-live-300x296.jpg)
 
 NG La Banda Live In Japan  
 1993

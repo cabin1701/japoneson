@@ -7,7 +7,7 @@ date: 2024-02-05 00:45:42
 source_url: https://en.japoneson.com/murakami/music/kyoko/
 ---
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/01/1995-KYOKO_500-295x300.jpg)
+![](/japoneson/images/wp/2024/01/1995-KYOKO_500-295x300.jpg)
 
 **"KYOKO" Original Soundtrack**  
 **(1995-1996)**

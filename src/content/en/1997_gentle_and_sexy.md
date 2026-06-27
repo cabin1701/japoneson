@@ -7,7 +7,7 @@ date: 2024-02-06 01:12:52
 source_url: https://en.japoneson.com/murakami/music/1997_gentle_and_sexy/
 ---
 
-![](https://japoneson.com/wp/wp-content/uploads/2024/02/1997-los-van-van-300x296.jpg)
+![](/japoneson/images/wp/2024/02/1997-los-van-van-300x296.jpg)
 
 GENTLE & SEXY  
 The BEST of LOS VAN VAN  
