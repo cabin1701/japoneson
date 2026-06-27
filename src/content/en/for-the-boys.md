@@ -9,11 +9,11 @@ hero_image: "/images/swing/hero_for-the-boys.jpg"
 hero_subtitle: "who served in the Korean War — Tribute to Ms.Monica Lewis"
 hero_height: 1000
 hero_video: "PXMV5bkoq8k"
-hero_title_font: '"Cormorant Infant", serif'
-hero_title_size: "78px"
-hero_title_weight: 600
-hero_title_color: "#ff1b06"
-hero_title_italic: true
+hero_title_font: '"Ysabeau SC", sans-serif'
+hero_title_size: "76px"
+hero_title_weight: 700
+hero_title_color: "#ff0300"
+hero_title_italic: false
 ---
 
 I encountered [Ms. Monica Lewis](https://truecompassdesigns.com/monica-lewis/) while researching "The Memorial Cross"—a "forgotten" Korean War monument built in my hometown of Kokura during the conflict.
@@ -116,7 +116,7 @@ There are several sculptures and other works of art that are well worth a visit.
 
 <div class="hg-image">
 
-[![](/images/wp/2026/05/スクリーンショット-2026-05-26-22.15.41-e1779801434468.png)](http://generalmacarthurshonorguard.com/wordpress/the-stories/the-stories-korean-war-poem/)
+[![](/images/wp/2026/05/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2026-05-26-22.15.41-e1779801434468.png)](http://generalmacarthurshonorguard.com/wordpress/the-stories/the-stories-korean-war-poem/)
 
 </div>
 
@@ -143,3 +143,7 @@ I had a lovely lunch recently with my Facebook friend and fellow vocalist / huma
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TvW7G2MOmgs?si=Wd9LDKpesk6QR7qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
+
+<hr class="navy-rule" />
+
+<h2 class="only-music">Only music is incapable of lying to me.</h2>

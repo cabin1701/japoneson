@@ -249,9 +249,7 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
   }
   article .gallery-4col img {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    aspect-ratio: 1;
+    height: auto;
     margin: 0;
     max-width: 100%;
   }
@@ -319,6 +317,16 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
   article .video-row p { margin: 0; }
   @media (max-width: 720px) {
     article .video-row { grid-template-columns: 1fr; }
+  }
+
+  article .only-music {
+    font-family: "Cinzel Decorative", serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 31px;
+    color: #d00000;
+    text-align: center;
+    margin: 3rem auto;
   }
 
   article .coming-soon {
