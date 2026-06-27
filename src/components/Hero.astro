@@ -2,6 +2,7 @@
 interface CTA {
   label: string;
   href: string;
+  disabled?: boolean;
 }
 interface Props {
   ctas?: CTA[];
@@ -12,7 +13,6 @@ const heroImage = '/japoneson/images/wp/2026/02/IMG_1842_plus_3-1.jpg';
 const {
   ctas = [
     { label: 'About Seina', href: `${base}en/about/` },
-    { label: 'Timeline', href: `${base}en/about/timeline/` },
   ],
   ctaLayout = 'column',
 } = Astro.props;
@@ -24,7 +24,9 @@ const {
     <h1 class="hero-title">Shoko "Seina" Shiraishi</h1>
     <div class="hero-cta" data-layout={ctaLayout}>
       {ctas.map((c) => (
-        <a class="btn" href={c.href}>{c.label}</a>
+        c.disabled
+          ? <span class="btn btn-disabled" aria-disabled="true">{c.label}</span>
+          : <a class="btn" href={c.href}>{c.label}</a>
       ))}
     </div>
   </div>
@@ -101,6 +103,18 @@ const {
     background: var(--color-accent);
     color: var(--color-bg);
     border-color: var(--color-accent);
+  }
+  .btn-disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+    background: transparent;
+    color: var(--color-bg);
+    border-color: var(--color-bg);
+  }
+  .btn-disabled:hover {
+    background: transparent;
+    color: var(--color-bg);
+    border-color: var(--color-bg);
   }
 
   @media (max-width: 720px) {

@@ -1,0 +1,220 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title="Welcome — JAPONÉSON" lang="en">
+  <Header lang="en" />
+
+  <main class="kv-page">
+    <article class="kv-inner">
+
+      <p class="kv-eyebrow">Come On-A KANMON ♪</p>
+
+      <h1 class="kv-title">Welcome — and thank you for finding this page.</h1>
+
+      <p class="kv-lead">
+        I'm sorry I can no longer guide you in person around Kanmon.<br />
+        But everything I would have shown you is here, in writing.
+      </p>
+
+      <p class="kv-sign">— Seina</p>
+
+      <hr class="kv-rule" />
+
+      <section class="kv-block">
+        <h2 class="kv-h2">Why I stopped guiding</h2>
+        <p>
+          Guiding meant reaching a handful of visitors at a time.
+          Writing means these histories survive beyond me — for readers,
+          researchers, and the families of those who passed through Kanmon.
+          My work is now full-time archival research and writing.
+        </p>
+      </section>
+
+      <hr class="kv-rule" />
+
+      <section class="kv-block">
+        <h2 class="kv-h2">The histories from the flyer</h2>
+
+        <a class="kv-link-card" href={`${base}en/mystery/macarthur/`}>
+          <h3>The Korean War, Kokura Memorial Cross &amp; Allied POWs <span class="kv-arrow">→</span></h3>
+          <p>
+            The 1951 Memorial Cross, the 24th Infantry Division,
+            the quarantine station on Hikoshima, and the soldiers
+            who passed through Kanmon. All documented in the
+            MacArthur archive.
+          </p>
+        </a>
+
+        <a class="kv-link-card" href={`${base}en/swing/`}>
+          <h3>Angels Swing — For The Boys <span class="kv-arrow">→</span></h3>
+          <p>
+            The wider archive: the Boys of the 24th, Leonard Gaskin,
+            Monica Lewis, Donald Versaw, and the people who carried
+            these stories with me.
+          </p>
+        </a>
+      </section>
+
+      <hr class="kv-rule" />
+
+      <p class="kv-bottom">
+        If you'd like to know more about my work →
+        <a href={`${base}en/about/`}>About Seina</a>
+        <span class="kv-sep">·</span>
+        If you'd like to reach me →
+        <a href={`${base}en/contact/`}>Contact</a>
+      </p>
+
+    </article>
+  </main>
+
+  <Footer lang="en" />
+</Layout>
+
+<style>
+  :root {
+    --kv-bg: #0a0a0a;
+    --kv-text: #c0d5ec;
+    --kv-muted: #aec0d4;
+    --kv-orange: #eb6a08;
+    --kv-bluegray: #efebe8;
+    --kv-rule: #2a2f35;
+  }
+
+  .kv-page {
+    background: var(--kv-bg);
+    color: var(--kv-text);
+    min-height: 100vh;
+    padding: 4rem 1.5rem 6rem;
+  }
+
+  .kv-inner {
+    max-width: 720px;
+    margin: 0 auto;
+    font-family: 'Gabriela', serif;
+    line-height: 1.7;
+  }
+
+  .kv-eyebrow {
+    font-family: 'Cinzel', serif;
+    font-size: 22px;
+    letter-spacing: 0.22em;
+    color: #ffffff;
+    margin: 0 0 2rem;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  .kv-title {
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1.3;
+    color: #eb6a08;
+    margin: 0 0 1.8rem;
+    letter-spacing: 0.01em;
+  }
+
+  .kv-lead {
+    font-size: 18px;
+    color: var(--kv-text);
+    margin: 0 0 1.2rem;
+  }
+
+  .kv-sign {
+    font-style: italic;
+    color: var(--kv-bluegray);
+    margin: 0;
+  }
+
+  .kv-rule {
+    border: 0;
+    border-top: 1px solid var(--kv-rule);
+    margin: 3rem 0;
+  }
+
+  .kv-block h2,
+  .kv-h2 {
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--kv-bluegray);
+    margin: 0 0 1rem;
+  }
+
+  .kv-block p {
+    font-size: 16px;
+    color: var(--kv-text);
+    margin: 0 0 1rem;
+  }
+
+  .kv-link-card {
+    display: block;
+    padding: 1.4rem 1.5rem;
+    margin: 0 0 1rem;
+    border: 1px solid var(--kv-rule);
+    text-decoration: none;
+    color: var(--kv-text);
+    transition: border-color 0.2s ease, background 0.2s ease;
+  }
+  .kv-link-card:hover {
+    border-color: var(--kv-orange);
+    background: rgba(196, 122, 62, 0.06);
+  }
+  .kv-link-card h3 {
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: var(--kv-orange);
+    margin: 0 0 0.5rem;
+    letter-spacing: 0.02em;
+  }
+  .kv-link-card p {
+    font-size: 15px;
+    color: var(--kv-muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+  .kv-arrow {
+    display: inline-block;
+    margin-left: 0.4rem;
+    transition: transform 0.2s ease;
+  }
+  .kv-link-card:hover .kv-arrow {
+    transform: translateX(4px);
+  }
+
+  .kv-bottom {
+    font-size: 15px;
+    color: var(--kv-muted);
+    text-align: center;
+    margin: 0;
+  }
+  .kv-bottom a {
+    color: var(--kv-orange);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s ease;
+  }
+  .kv-bottom a:hover {
+    border-color: var(--kv-orange);
+  }
+  .kv-sep {
+    margin: 0 0.8rem;
+    color: var(--kv-rule);
+  }
+
+  @media (max-width: 640px) {
+    .kv-page { padding: 2.5rem 1rem 4rem; }
+    .kv-title { font-size: 24px; }
+    .kv-lead { font-size: 16px; }
+    .kv-rule { margin: 2rem 0; }
+  }
+</style>
