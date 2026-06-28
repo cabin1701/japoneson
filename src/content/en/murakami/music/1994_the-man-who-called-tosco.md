@@ -5,7 +5,7 @@ wp_id: 16313
 wp_parent: 19932
 ---
 
-#### 
+![](/images/wp/2024/01/1994-jose-luis_500.jpg)
 
 **"The Man" who called "TOSCO"  
 José Luis Cortés**  
@@ -29,7 +29,7 @@ José Luis Cortés**
 -L. Bonfa-
 
 **6. Wave**  
-- A.C. Jobin-
+  A.C. Jobin-
 
 **7. Versión de Peruchin's Samba**  
 -José Luis Cortés-
@@ -108,7 +108,7 @@ In 1992 and 1993, I produced NG La Banda's concerts. I also set up a label compa
 
 After the 1992 concert, I made a CD of José Luis Cortés's flute solos. In a studio set in the woods by Lake Yamanaka, José Luis played the flute, on average, more than twelve hours a day. For me, to put it grandly, it was a religious experience. I felt as though I had touched, just a little, the secret of the power Cuba holds.
 
-First, I gave José Luis a flute as a gift. It was Yamaha's top-grade model. That, too — doing something patron-like — was a first for me. Even though it was top-grade, it wasn't a handmade solid-silver instrument; yet José Luis was delighted like a child, and saying, "After something this good, surely something correspondingly bad is bound to happen, so we need to do a purification," he actually performed a Santería ritual — an Afro-Caribbean religious rite — in a corner of the wind-instrument section at Shibuya Yamaha. **I wanted José Luis to play a flute that could produce good sounds, and when I thought of this genius continuing to play on the instrument I had given him, I felt I could hold even the hope of surviving.**
+First, I gave José Luis a flute as a gift. It was Yamaha's top-grade model. That, too — doing something patron-like — was a first for me. Even though it was top-grade, it wasn't a handmade solid-silver instrument; yet José Luis was delighted like a child, and saying, "After something this good, surely something correspondingly bad is bound to happen, so we need to do a purification," he actually performed a Santería ritual — an Afro-Caribbean religious rite — in a corner of the wind-instrument section at Shibuya Yamaha. I wanted José Luis to play a flute that could produce good sounds, and when I thought of this genius continuing to play on the instrument I had given him, I felt I could hold even the hope of surviving.
 
 At Lake Yamanaka, José Luis played the piccolo, the bass flute, and the flute, not only in the studio but in the lodging cottage as well. Except for sleeping, eating, showering, and the toilet, he was playing the flute the whole time. According to one person's testimony, when they shook him awake — "Get up, it's already noon, if you don't eat the dining hall will close" — he opened his eyes, searched for his flute, and began playing right there in bed.
 

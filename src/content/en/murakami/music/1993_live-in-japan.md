@@ -5,7 +5,7 @@ wp_id: 16411
 wp_parent: 19932
 ---
 
-![](/images/wp/2024/01/1993-live-300x296.jpg)
+![](/images/wp/2024/01/1993-live.jpg)
 
 NG La Banda Live In Japan  
 1993

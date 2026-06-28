@@ -5,7 +5,7 @@ wp_id: 16494
 wp_parent: 19932
 ---
 
-![](/images/wp/2024/02/1995NG-rock-300x296.jpg)
+![](/images/wp/2024/02/1995NG-rock.jpg)
 
 Cuban Rock Sprit
 NG La Banda

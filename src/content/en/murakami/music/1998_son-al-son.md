@@ -5,7 +5,7 @@ wp_id: 16583
 wp_parent: 19932
 ---
 
-![](/images/wp/2024/02/1998_javier_sonalson-300x278.jpg)
+![](/images/wp/2024/02/1998_javier_sonalson.jpg)
 
 Son al Son | Javier Olmo  
 1998  

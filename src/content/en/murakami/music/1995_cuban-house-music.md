@@ -5,7 +5,7 @@ wp_id: 16484
 wp_parent: 19932
 ---
 
-![](/images/wp/2024/02/1995_NG-House-300x296.jpg)
+![](/images/wp/2024/02/1995_NG-House.jpg)
 
 CUBAN HOUSE MUSIC  
 NG La Banda  

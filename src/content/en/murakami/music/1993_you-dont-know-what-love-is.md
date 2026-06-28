@@ -5,7 +5,7 @@ wp_id: 17424
 wp_parent: 19932
 ---
 
-[![](/images/wp/2024/01/1993-xiomara-laugart_500-300x300.jpg)](https://japoneson.com/ja/ryu/works/music/you-dont-know-what-love-is)
+[![](/images/wp/2024/01/1993-xiomara-laugart_500.jpg)](https://japoneson.com/ja/ryu/works/music/you-dont-know-what-love-is)
 
 Xiomara Laugart  
 1993

@@ -5,7 +5,7 @@ wp_id: 16427
 wp_parent: 19932
 ---
 
-##### 
+![](/images/wp/2024/02/1993_Paulo.jpg)
 
 **No Hace Falta Pensar La Muerto, Porque Yo Estoy A Tu Lado**  
 1993  

@@ -5,7 +5,7 @@ wp_id: 16356
 wp_parent: 19932
 ---
 
-![](/images/wp/2024/01/1992_nueva-300x296.jpg)
+![](/images/wp/2024/01/1992_nueva.jpg)
 
 Nueva Generación  
 NG La Banda  

@@ -5,7 +5,7 @@ wp_id: 16374
 wp_parent: 19932
 ---
 
-![](/images/wp/2024/02/1993NG-300x296.jpg)
+![](/images/wp/2024/02/1993NG.jpg)
 
 Cabaret Panorámico (Échale Limón)  
 NG La Banda  

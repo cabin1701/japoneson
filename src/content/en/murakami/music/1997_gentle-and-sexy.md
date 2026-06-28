@@ -5,7 +5,7 @@ wp_id: 16514
 wp_parent: 19932
 ---
 
-![](/images/wp/2024/02/1997-los-van-van-300x296.jpg)
+![](/images/wp/2024/02/1997-los-van-van.jpg)
 
 GENTLE & SEXY  
 The BEST of LOS VAN VAN  

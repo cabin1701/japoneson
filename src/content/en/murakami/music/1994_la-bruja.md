@@ -5,7 +5,7 @@ wp_id: 16450
 wp_parent: 19932
 ---
 
-![](/images/wp/2024/02/1995-bruja-300x296.jpg)
+![](/images/wp/2024/02/1995-bruja.jpg)
 
 LA BRUJA  
 NG La Banda  
