@@ -1,6 +1,8 @@
 ---
 title: "MURAKAMI’s NG La Banda Best"
 slug: 1997-ng-la-banda-best
+wp_id: 16524
+wp_parent: 19932
 ---
 
 ![](/images/wp/2024/02/1995_NG-best-300x296.jpg)

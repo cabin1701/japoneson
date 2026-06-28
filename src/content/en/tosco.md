@@ -1,6 +1,8 @@
 ---
 title: "Tosco & Murakami"
 slug: tosco
+wp_id: 19824
+wp_parent: 19793
 ---
 
 # Tosco y Murakami

@@ -10,6 +10,8 @@ hero_height: 900
 hero_title_font: '"Cinzel", serif'
 hero_title_weight: 600
 hero_title_size: "55px"
+wp_id: 731
+wp_parent: 0
 ---
 
 

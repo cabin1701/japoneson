@@ -1,6 +1,8 @@
 ---
 title: "I Have a Dream… Seina"
 slug: dream
+wp_id: 576
+wp_parent: 108
 ---
 
 # I Have a Dream...Seina

@@ -1,6 +1,8 @@
 ---
 title: "Gallery - Family & Friends"
 slug: gallery-02
+wp_id: 21834
+wp_parent: 21239
 ---
 
 # Friends & Family

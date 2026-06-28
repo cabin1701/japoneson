@@ -1,6 +1,8 @@
 ---
 title: "Angels Swing"
 slug: swing
+wp_id: 108
+wp_parent: 0
 ---
 
 # Angels Swing

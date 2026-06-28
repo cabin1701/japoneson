@@ -1,6 +1,8 @@
 ---
 title: "\"KYOKO\" Original Soundtrack"
 slug: kyoko-01
+wp_id: 16301
+wp_parent: 19932
 ---
 
 ![](/images/wp/2024/01/1995-KYOKO_500-295x300.jpg)

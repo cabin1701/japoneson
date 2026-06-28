@@ -1,6 +1,8 @@
 ---
 title: "Introduction"
 slug: preface
+wp_id: 17727
+wp_parent: 1022
 ---
 
 ![](/images/wp/2024/04/preface_don_seina.jpg)

@@ -1,6 +1,8 @@
 ---
 title: "BLOG"
 slug: blog-2
+wp_id: 18688
+wp_parent: 0
 ---
 
 # 1701's B-log

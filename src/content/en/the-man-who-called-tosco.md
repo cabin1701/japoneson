@@ -1,6 +1,8 @@
 ---
 title: "\"The Man\" who called \"TOSCO\"｜José Luis Cortés"
 slug: the-man-who-called-tosco
+wp_id: 16313
+wp_parent: 19932
 ---
 
 #### 

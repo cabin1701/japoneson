@@ -1,6 +1,8 @@
 ---
 title: "From Ryu Murakami"
 slug: ryu
+wp_id: 15274
+wp_parent: 576
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "RYU MURAKAMI's BOOKS"
 slug: books
+wp_id: 15953
+wp_parent: 19793
 ---
 
 **RYU MURAKAMI's writings have been published more than 100 times since 1976 in Japan.****This is a list translated and published worldwide.**

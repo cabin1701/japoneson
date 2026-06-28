@@ -1,6 +1,8 @@
 ---
 title: "MURAKAMI MAMBO !!"
 slug: murakami
+wp_id: 19793
+wp_parent: 0
 ---
 
 # MURAKAMI

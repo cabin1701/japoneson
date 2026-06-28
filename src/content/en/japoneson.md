@@ -8,6 +8,8 @@ hero_video_start: 8
 hero_title_font: '"Cinzel", serif'
 hero_title_size: "78px"
 hero_title_weight: 600
+wp_id: 19780
+wp_parent: 0
 ---
 
 ## Por La Chocolate(2017)

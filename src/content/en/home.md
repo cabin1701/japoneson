@@ -1,6 +1,8 @@
 ---
 title: "HOME"
 slug: home
+wp_id: 13572
+wp_parent: 0
 ---
 
 ##### Vocalist . Creator . Historical Explore

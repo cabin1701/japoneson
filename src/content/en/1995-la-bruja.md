@@ -1,6 +1,8 @@
 ---
 title: "LA BRUJA｜NG La Banda"
 slug: 1995-la-bruja
+wp_id: 16450
+wp_parent: 19932
 ---
 
 ![](/images/wp/2024/02/1995-bruja-300x296.jpg)

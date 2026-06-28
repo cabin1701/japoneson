@@ -1,6 +1,8 @@
 ---
 title: "Kokura Army Arsenal"
 slug: kokura
+wp_id: 17786
+wp_parent: 1022
 ---
 
 ## Kokura Army Arsenal

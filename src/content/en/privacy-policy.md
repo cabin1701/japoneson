@@ -1,6 +1,8 @@
 ---
 title: "Privacy Policy"
 slug: privacy-policy
+wp_id: 14664
+wp_parent: 0
 ---
 
 **Last Updated: June 2026**

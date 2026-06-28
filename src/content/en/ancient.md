@@ -1,6 +1,8 @@
 ---
 title: "Ancient Whispers"
 slug: ancient
+wp_id: 18807
+wp_parent: 18501
 ---
 
 # Ancient Whispers

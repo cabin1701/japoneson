@@ -1,6 +1,8 @@
 ---
 title: "Live in Japan | NG La Banda"
 slug: 1993_live_in-japan
+wp_id: 16411
+wp_parent: 19932
 ---
 
 ![](/images/wp/2024/01/1993-live-300x296.jpg)

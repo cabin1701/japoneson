@@ -1,6 +1,8 @@
 ---
 title: "Gallery - Adventure"
 slug: gallery-03
+wp_id: 21926
+wp_parent: 21239
 ---
 
 # Adventure

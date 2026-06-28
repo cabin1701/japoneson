@@ -10,6 +10,8 @@ hero_title_size: "78px"
 hero_title_weight: 600
 hero_title_color: "#91e3ff"
 hero_title_italic: true
+wp_id: 575
+wp_parent: 576
 ---
 
 

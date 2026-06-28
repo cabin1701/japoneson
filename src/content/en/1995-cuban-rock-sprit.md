@@ -1,6 +1,8 @@
 ---
 title: "Cuban Rock Spirit｜NG La Banda"
 slug: 1995-cuban-rock-sprit
+wp_id: 16494
+wp_parent: 19932
 ---
 
 ![](/images/wp/2024/02/1995NG-rock-300x296.jpg)

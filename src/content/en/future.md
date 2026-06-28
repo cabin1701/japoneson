@@ -1,6 +1,8 @@
 ---
 title: "Toward the Future / Seina"
 slug: future
+wp_id: 17933
+wp_parent: 1022
 ---
 
 ## Toward the Future / Seina

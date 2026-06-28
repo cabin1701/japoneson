@@ -5,6 +5,8 @@ hero_image: "/images/murakami/hero_newother.jpg"
 hero_kicker: "FROM THE TRAJECTORY OF KYOKO"
 hero_subtitle: "The film that God put to the test — Cuba as a New Other."
 hero_height: 920
+wp_id: 16730
+wp_parent: 17150
 ---
 
 ## "A New Other — Cuba"

@@ -1,6 +1,8 @@
 ---
 title: "Terms and Conditions"
 slug: terms-and-conditions
+wp_id: 14657
+wp_parent: 0
 ---
 
 

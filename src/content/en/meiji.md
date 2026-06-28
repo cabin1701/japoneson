@@ -1,6 +1,8 @@
 ---
 title: "The Meiji Restoration"
 slug: meiji
+wp_id: 18805
+wp_parent: 18501
 ---
 
 # The Meiji Restoration

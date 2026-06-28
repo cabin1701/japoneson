@@ -1,6 +1,8 @@
 ---
 title: "THE KOREAN WAR"
 slug: korea
+wp_id: 19481
+wp_parent: 18809
 ---
 
 # The Korean War

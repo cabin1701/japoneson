@@ -1,6 +1,8 @@
 ---
 title: "The Atomic Bomb over Kokura | August 9, 1945, Morning"
 slug: atomicbomb
+wp_id: 17854
+wp_parent: 1022
 ---
 
 ## The Atomic Bomb over Kokura August 9, 1945, Morning

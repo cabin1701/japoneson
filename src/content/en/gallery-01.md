@@ -1,6 +1,8 @@
 ---
 title: "Gallery - Musicians y Celebrities"
 slug: gallery-01
+wp_id: 21798
+wp_parent: 21239
 ---
 
 # Musician & Celebrities

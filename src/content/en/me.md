@@ -5,6 +5,8 @@ hero_image: "/images/murakami/hero_me.jpg"
 hero_kicker: "New York, 1990's"
 hero_subtitle: "Cuba, 2014 - 2018. Now, I'm OK."
 hero_height: 920
+wp_id: 17287
+wp_parent: 17150
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: "The Heike Story"
 slug: hieke
+wp_id: 18811
+wp_parent: 18501
 ---
 
 # The Heike Story

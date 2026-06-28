@@ -5,6 +5,8 @@ hero_image: "/images/murakami/hero_boku.jpg"
 hero_kicker: "THE BARBED WIRE FENCE"
 hero_subtitle: "The endless fence that covered my memories has disappeared."
 hero_height: 920
+wp_id: 17333
+wp_parent: 17150
 ---
 
 

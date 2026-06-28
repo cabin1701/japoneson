@@ -2,6 +2,8 @@
 title: "Wartime and Postwar Kitakyushu"
 slug: remember
 hero_title_color: "#a5c5dd"
+wp_id: 1022
+wp_parent: 108
 ---
 
 

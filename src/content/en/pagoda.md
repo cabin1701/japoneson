@@ -1,6 +1,8 @@
 ---
 title: "MOJI | The Moji World Peace Pagoda"
 slug: pagoda
+wp_id: 17906
+wp_parent: 1022
 ---
 
 ## MOJI, MEKARI The World Peace Pagoda

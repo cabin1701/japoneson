@@ -1,6 +1,8 @@
 ---
 title: "MOJI | Shipping for Southern Battlefields / Air Raid /Arriving of POWs"
 slug: moji
+wp_id: 17810
+wp_parent: 1022
 ---
 
 ## Departing from Moji Port to the battlefield

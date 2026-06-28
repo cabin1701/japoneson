@@ -1,6 +1,8 @@
 ---
 title: "Theater"
 slug: theater
+wp_id: 22117
+wp_parent: 21239
 ---
 
 # Theater

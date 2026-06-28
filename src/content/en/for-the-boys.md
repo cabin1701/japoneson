@@ -10,6 +10,8 @@ hero_title_size: "76px"
 hero_title_weight: 700
 hero_title_color: "#ff0300"
 hero_title_italic: false
+wp_id: 18735
+wp_parent: 108
 ---
 
 I encountered [Ms. Monica Lewis](https://truecompassdesigns.com/monica-lewis/) while researching "The Memorial Cross"—a "forgotten" Korean War monument built in my hometown of Kokura during the conflict.

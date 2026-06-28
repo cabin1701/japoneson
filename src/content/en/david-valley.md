@@ -1,6 +1,8 @@
 ---
 title: "--David Valley"
 slug: david-valley
+wp_id: 19549
+wp_parent: 18809
 ---
 
 # David Valley

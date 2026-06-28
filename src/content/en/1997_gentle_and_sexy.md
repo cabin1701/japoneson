@@ -1,6 +1,8 @@
 ---
 title: "Gentle & Sexy| The BEST of Los Van Van"
 slug: 1997_gentle_and_sexy
+wp_id: 16514
+wp_parent: 19932
 ---
 
 ![](/images/wp/2024/02/1997-los-van-van-300x296.jpg)

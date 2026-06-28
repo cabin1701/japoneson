@@ -1,6 +1,8 @@
 ---
 title: "Cupie Danny"
 slug: cupie
+wp_id: 21239
+wp_parent: 0
 ---
 
 # We ❤️ Cupie Danny

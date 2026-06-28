@@ -1,6 +1,8 @@
 ---
 title: "The 24th Infantry Division"
 slug: korea-24th
+wp_id: 19662
+wp_parent: 18809
 ---
 
 # The First BOYS Sent Out

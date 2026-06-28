@@ -1,6 +1,8 @@
 ---
 title: "Cuban House Music |  NG La Banda"
 slug: 1995-cuban-house-music
+wp_id: 16484
+wp_parent: 19932
 ---
 
 ![](/images/wp/2024/02/1995_NG-House-300x296.jpg)

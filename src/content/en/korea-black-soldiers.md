@@ -1,6 +1,8 @@
 ---
 title: "The Black Soldiers"
 slug: korea-black-soldiers
+wp_id: 19605
+wp_parent: 18809
 ---
 
 # The Shadow of Kokura

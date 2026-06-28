@@ -1,6 +1,8 @@
 ---
 title: "Press"
 slug: press
+wp_id: 21759
+wp_parent: 731
 ---
 
 ![](/images/wp/2018/04/yomiuri-america2000_1000-600x605.jpg)

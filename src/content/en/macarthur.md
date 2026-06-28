@@ -1,6 +1,8 @@
 ---
 title: "The General's Shadow"
 slug: macarthur
+wp_id: 18809
+wp_parent: 18501
 ---
 
 # The General's Shadow

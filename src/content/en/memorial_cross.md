@@ -1,6 +1,8 @@
 ---
 title: "MEMORIAL CROSS | For Fallen Soldiers of the Korean War"
 slug: memorial_cross
+wp_id: 17874
+wp_parent: 1022
 ---
 
 ## MEMORIAL CROSS For Fallen Soldiers of the Korean War

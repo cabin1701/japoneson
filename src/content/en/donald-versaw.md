@@ -1,6 +1,8 @@
 ---
 title: "Donald Versaw"
 slug: donald-versaw
+wp_id: 19737
+wp_parent: 18809
 ---
 
 # From my Old G.I. Friend

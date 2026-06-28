@@ -1,6 +1,8 @@
 ---
 title: "Tasting the Secrets"
 slug: secrets
+wp_id: 18813
+wp_parent: 18501
 ---
 
 # Tasting The Secret
