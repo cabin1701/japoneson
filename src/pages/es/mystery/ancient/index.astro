@@ -1,0 +1,40 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+const trail = [
+  { slug: 'mystery', title: 'THE MYSTERY ENTERTAINMENT', path: `${base}es/mystery/` },
+  { slug: 'ancient', title: 'ANCIENT WHISPERS', path: `${base}es/mystery/ancient/` },
+];
+---
+
+<Layout title="Ancient Whispers — Japonéson" lang="es">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      title="Ancient Whispers"
+      titleFont="var(--font-display-cinzel-dec)"
+      titleWeight={500}
+      titleSize="67px"
+      image={`${base}images/mystery/hero_ancient.jpg`}
+      align="center"
+      height={760}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<!-- 2026-06-27 — Eddie — placeholder scaffold（船長指示：話はまだなし、先々出てくる段階） -->

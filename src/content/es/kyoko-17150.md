@@ -1,0 +1,54 @@
+---
+title: "\"KYOKO\" | Because of You"
+slug: kyoko
+wp_id: 17150
+wp_parent: 19793
+---
+
+# KYOKO (1995)
+
+## Because of You
+
+## The Story of "Hope" & "Regenerate”
+
+My only goal was to see him again, to say thank you and to dance with him, to hear him say that he had made progress. | Kyoko
+
+\* \* \* \* \* \* \*
+
+Good Luck Girl, you'll be fine. God is with you.| Ralph Biggs
+
+**Ryu Murakami filmed the movie “KYOKO” and wrote the novel “KYOKO”, which is set in Tokyo → New York → Miami → Havana.**
+
+https://youtu.be/Nl0HyMmJSh0?si=EeLi43u9Xxd9bO1A
+
+**From New York, we traveled along the East Coast of the United States to Miami and** **then to Cuba, the “land of music and dance”.**
+
+Twelve years ago, Jose, a GI, and dancer, taught dance to 8-year-old Kyoko, who was growing up in a military base town. Kyoko flies to America to meet the man who taught her what is most important to her. On her journey, which goes far beyond her wildest dreams, she passes like the wind among immigrants, exiles, AIDS patients, and gay men.
+
+## New York - Cuba - Japan
+
+[![](/images/wp/2026/05/kyoko01-e1779687767424-600x600.jpg)](https://en.japoneson.com/murakami/kyoko/newother)
+
+### [The New Other, Cuba](https://en.japoneson.com/murakami/kyoko/newother)
+
+We come to know ourselves through our relationships with others, and with another new other, our previous relationships become objective.| Ryu Murakami
+from "KYOKO's trajectory"
+
+[![](/images/wp/2026/05/IMAGE0047-e1779688101635-768x768.jpg)](https://en.japoneson.com/murakami/kyoko/me)
+
+### [The “wounded Japanese” inside me](https://en.japoneson.com/murakami/kyoko/me)
+
+The ”wounded Japanese inside me'' was a "Japanese'' who felt a deep sense of guilt over the Pacific War, was unable to feel proud of his country, and was unable to love it. This is an essay that connects to “The New Other, Cuba“.
+
+[![](/images/wp/2026/05/kyoko-dancin-BW-e1779687636421-768x768.jpg)](https://en.japoneson.com/murakami/kyoko/boku/)
+
+### ["KYOKO" is the story of Ryu Murakami, himself.](https://en.japoneson.com/murakami/kyoko/boku/)
+
+I felt myself returning to the"spirit" I had when I wrote "Almost Transparent Blue.''| Ryu Murakami
+
+## Because of You
+
+Now, I am OK. I realized that there is a future only when I am on the way.
+
+It's unsettling and unstable while I'm on my way somewhere, but I think it'll probably work out.  
+Because the dance that José taught me is there, in my body, he lives in me.

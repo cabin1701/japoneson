@@ -1,0 +1,367 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../components/ProjectHero.astro';
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+interface MysteryCard {
+  title: string;
+  century: string;
+  image: string;
+  alt: string;
+  href: string;
+  width: 'wide' | 'narrow';
+  layout: 'image-top' | 'title-top';
+}
+
+const cards: MysteryCard[] = [
+  {
+    title: 'The Meiji Restoration',
+    century: 'The 19th Century',
+    image: IMG('2026/02/IMG_0229-1-scaled-e1772128886839-1024x902.jpeg'),
+    alt: 'The Meiji Restoration',
+    href: `${base}es/mystery/meiji/`,
+    width: 'wide',
+    layout: 'title-top',
+  },
+  {
+    title: "The General's Shadow",
+    century: 'The 20th Century',
+    image: IMG('2026/03/IMG_2036-scaled-e1772714174506-1024x739.jpg'),
+    alt: "The General's Shadow",
+    href: `${base}es/mystery/macarthur/`,
+    width: 'narrow',
+    layout: 'image-top',
+  },
+  {
+    title: 'Ancient Whispers',
+    century: 'Ancient time',
+    image: IMG('2026/02/IMG_9916-1024x768.jpeg'),
+    alt: 'Ancient Whispers',
+    href: `${base}es/mystery/ancient/`,
+    width: 'narrow',
+    layout: 'image-top',
+  },
+  {
+    title: 'The Heike Story',
+    century: 'The 12th Century',
+    image: IMG('2026/02/IMG_0012-scaled-e1771766815902-1-e1772714196464-1024x751.jpeg'),
+    alt: 'The Heike Story',
+    href: `${base}es/mystery/hieke/`,
+    width: 'wide',
+    layout: 'title-top',
+  },
+];
+
+const trail = [
+  { slug: 'mystery', title: 'THE MYSTERY ENTERTAINMENT', path: `${base}es/mystery/` },
+];
+---
+
+<Layout title='The Mystery Entertainment — Japonéson' lang="es">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      kicker="The dots will connect here, at KANMON."
+      title="The Mystery Entertainment"
+      subtitle="Loading the Mystery..."
+      titleFont="var(--font-display-cinzel-dec)"
+      titleWeight={600}
+      titleSize="60px"
+      image={`${base}images/mystery/hero_mystery.jpg`}
+      align="center"
+      height={1000}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <p class="okazari">Stripping away the 'okazari' to observe the blueprint of truth.</p>
+        <p class="okazari">*Seina's life-staking play*</p>
+
+        <p class="okazari okazari-vega">-Vegapedia-</p>
+
+        <hr class="navy-rule" />
+        <br>
+
+        <p><strong>March 2022.</strong></p>
+
+        <p>I moved to Shimonoseki, Yamaguchi Prefecture.</p>
+
+        <p>
+          In November 2021, I pre-registered for my ashes to be scattered at
+          Mekari Shrine, overlooking the Kanmon Straits. A few months later,
+          sensing a global shift in food security, I decided to seek a base
+          for self-sufficiency.
+        </p>
+
+        <p>
+          In Japan, there is a growing "Akiya" (empty house) problem. Due to
+          a declining and aging population, many abandoned homes are sold or
+          rented at very low prices. While searching across various
+          prefectures, I found a very old house with a garden in Shimonoseki
+          for only 32,000 yen (about $200) a month. In this city of steep
+          hills, many areas are inaccessible by car, causing properties to
+          lose their market value.
+        </p>
+
+        <p>
+          This house is a 20-minute walk from Akama Shrine. For me, having
+          long wanted to delve into <em>The Tale of the Heike</em> before
+          the end of my life, it was the perfect place. It was also a
+          "DIY-OK" property—meaning I had to rebuild it myself just to make
+          it livable.
+        </p>
+
+        <p class="begin"><strong>This is where the story, the "Mystery Entertainment," began.</strong></p>
+
+        <p>
+          In Shimonoseki, I began to stumble upon fragments of hidden
+          history—pieces of a puzzle that form the foundation of modern
+          Japan, yet are difficult to speak of officially.
+        </p>
+
+        <h5 class="closing">After all, history is the ultimate mystery entertainment.</h5>
+      </div>
+    </section>
+
+    <section class="mystery-grid-wrap">
+      <div class="mystery-grid">
+        {cards.map((c) => (
+          <a class:list={['mystery-card', `is-${c.width}`, `is-${c.layout}`]} href={c.href}>
+            {c.layout === 'title-top' && (
+              <div class="mystery-text">
+                <p class="mystery-century">{c.century}</p>
+                <h3 class="mystery-title">{c.title}</h3>
+              </div>
+            )}
+            <div class="mystery-image">
+              <img src={c.image} alt={c.alt} loading="lazy" />
+            </div>
+            {c.layout === 'image-top' && (
+              <div class="mystery-text">
+                <p class="mystery-century">{c.century}</p>
+                <h3 class="mystery-title">{c.title}</h3>
+              </div>
+            )}
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="david-email">
+      <div class="david-email-inner">
+        <blockquote>
+          <p>
+            Seina: Nice to hear from you. It is commendable that you wish to
+            inform people about the "unfortunate" war years and the history
+            of POW's. It is not a subject most Japanese wish to discuss as
+            it reflects poorly on the nation. I lived in Tokyo for a few
+            years in the early 1970s and for four years in the late 1980s.
+            I was engaged in high tech business and met hundreds and
+            hundreds of Japanese, though none would admit to being in the
+            military during WWII even though they were of an appropriate
+            age. The atrocities committed by Japanese military before and
+            during WWII are many and horrible. I already know too much
+            about them and don't care to discuss them except to say the
+            official position of the J. government has been totally
+            non-acknowledgement. That's why I think you may be treading
+            dangerous waters. I think it is a better policyfor folks like
+            you and me to close the book at the end of WWII and look at
+            the positive relationships our countries have developed since.
+          </p>
+          <p>
+            I don't want or expect the Japanese people to be overly
+            ingratiated toward us, but it does disturb when they fail to
+            recognize the extraordinary help the U.S. and some of our
+            allies provided post-WWII. I am very pleased a person such as
+            yourself is interested enough to do some investigation on your
+            own. Good luck,<br>
+            <a href={`${base}es/mystery/macarthur/david-valley/`}>David</a>
+          </p>
+        </blockquote>
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 2rem;
+  }
+  .intro-inner {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: 'Gabriela', serif;
+    font-size: 18px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .intro-inner em { font-style: italic; }
+  .intro-inner strong { font-weight: 600; }
+
+  .intro-inner p.okazari {
+    text-align: center;
+    font-family: 'Gabriela', serif;
+    font-weight: 700;
+    font-size: 21px;
+    color: var(--color-navy);
+    line-height: 1.55;
+    margin: 0 0 0.3rem !important;
+  }
+  .intro-inner p.okazari-vega {
+    margin: 1.6rem 0 2.5rem !important;
+  }
+
+  .begin {
+    text-align: center;
+    margin: 2.5rem 0 !important;
+  }
+
+  .intro-inner h5.closing {
+    text-align: center;
+    font-family: 'Gabriela', serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: var(--color-accent);
+    margin: 2rem 0 0;
+    letter-spacing: 0.02em;
+   
+  }
+
+  .mystery-grid-wrap {
+    padding: 2rem 1.5rem 3rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .mystery-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 3.5rem 3rem;
+    align-items: start;
+  }
+  .mystery-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.25s ease;
+  }
+  .mystery-card:hover { transform: translateY(-2px); }
+  .mystery-card:hover .mystery-image img { filter: brightness(1.05); }
+
+  .mystery-card.is-wide { grid-column: span 6; }
+  .mystery-card.is-narrow { grid-column: span 4; }
+
+  .mystery-image {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 2px;
+  }
+  .mystery-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: filter 0.25s ease;
+  }
+
+  .mystery-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+  .mystery-card.is-image-top .mystery-text { margin-top: 1rem; }
+  .mystery-card.is-title-top .mystery-text { margin-bottom: 1rem; }
+
+  .mystery-card.is-wide .mystery-text {
+    align-items: flex-start;
+    text-align: left;
+  }
+  .mystery-card.is-narrow .mystery-text {
+    align-items: flex-end;
+    text-align: right;
+  }
+
+  .mystery-century {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color: #666;
+    font-style: italic;
+  }
+  .mystery-title {
+    margin: 0;
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 26px;
+    color: var(--color-accent);
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+  }
+
+  @media (max-width: 768px) {
+    .mystery-grid {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+    .mystery-card.is-wide,
+    .mystery-card.is-narrow { grid-column: 1 / -1; }
+    .mystery-card.is-narrow .mystery-text {
+      align-items: flex-start;
+      text-align: left;
+    }
+    .mystery-title { font-size: 22px; }
+  }
+
+  .david-email {
+    padding: 3rem 1.5rem 4rem;
+  }
+  .david-email-inner {
+    max-width: 850px;
+    margin: 0 auto;
+  }
+  .david-email blockquote {
+    border-left: 3px solid var(--color-rule);
+    padding: 0.5rem 0 0.5rem 1.4rem;
+    margin: 0;
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    color: #444;
+  }
+  .david-email blockquote p {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 21px;
+    line-height: 1.75;
+    margin-bottom: 1rem;
+  }
+  .david-email blockquote a {
+    font-style: normal;
+    color: var(--color-navy);
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+  }
+  .david-email blockquote a:hover { color: var(--color-accent); }
+
+  @media (max-width: 720px) {
+    .intro-inner p { font-size: 15.5px; }
+    .closing { font-size: 17px; }
+    .david-email blockquote p { font-size: 16px; }
+  }
+</style>

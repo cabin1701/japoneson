@@ -1,0 +1,420 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import EssaySidebar from '../../../components/EssaySidebar.astro';
+
+const base = import.meta.env.BASE_URL;
+const posts = (await getCollection('essay', ({ data }) => data.lang === 'en' && !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const slugOf = (id: string) => id.replace(/^(en|es)\//, '');
+
+const fmtDate = (d: Date) =>
+  `${String(d.getMonth() + 1).padStart(2, '0')}/${String(d.getDate()).padStart(2, '0')}/${d.getFullYear()}`;
+
+const PAGE_SIZE = 10;
+const HERO_IMAGE = `${base}images/essay/swing_cut.jpg`;
+---
+
+<Layout title="P.S. I Love You – JAPONÉSON" lang="es">
+  <Header lang="es" />
+
+  <section
+    class="essay-hero"
+    aria-label="P.S. I Love You"
+    style={`background-image: url('${HERO_IMAGE}');`}
+  >
+    <div class="essay-hero-inner">
+      <h1 class="essay-hero-title">P.S. I Love You</h1>
+      <p class="essay-hero-sub">Dear, I thought I'd drop a line....</p>
+    </div>
+  </section>
+
+  <div class="essay-shell">
+    <main class="essay-list">
+      <div class="filter-banner" id="filter-banner" hidden>
+        <span class="filter-label" id="filter-label"></span>
+        <a class="filter-clear" href={`${base}es/essay/`}>Clear ×</a>
+      </div>
+      <p class="empty" id="no-matches" hidden>No essays match this filter.</p>
+      <div class="post-grid" id="post-grid" data-page-size={PAGE_SIZE}>
+        {posts.map((post) => (
+          <article
+            class="post-card"
+            data-title={post.data.title.toLowerCase()}
+            data-excerpt={(post.data.excerpt || '').toLowerCase()}
+            data-archive={`${post.data.date.getFullYear()}-${String(post.data.date.getMonth() + 1).padStart(2, '0')}`}
+            data-category={(post.data.category || []).join('/')}
+            data-cat-top={(post.data.category || [])[0] || ''}
+          >
+            {post.data.hero && (
+              <a href={`${base}es/essay/${slugOf(post.id)}/`} class="post-thumb">
+                <img src={`${base}${post.data.hero}`} alt="" loading="lazy" />
+              </a>
+            )}
+            <div class="post-body">
+              {post.data.category && post.data.category.length > 0 && (
+                <p class="post-cat-row">
+                  {post.data.category.map((c) => <span class="post-cat-pill">{c}</span>)}
+                </p>
+              )}
+              <h2 class="post-title">
+                <a href={`${base}es/essay/${slugOf(post.id)}/`}>{post.data.title}</a>
+              </h2>
+              <p class="post-meta">
+                <span class="post-author">{post.data.author ?? 'Seina'}</span>
+                <span class="post-sep">•</span>
+                <time datetime={post.data.date.toISOString().slice(0, 10)}>
+                  {fmtDate(post.data.date)}
+                </time>
+                {post.data.tags && post.data.tags.length > 0 && (
+                  <>
+                    <span class="post-sep">•</span>
+                    <span class="post-tags-inline">{post.data.tags.join(', ')}</span>
+                  </>
+                )}
+              </p>
+              {post.data.excerpt && <p class="post-excerpt">{post.data.excerpt}</p>}
+            </div>
+          </article>
+        ))}
+      </div>
+
+      {posts.length === 0 && (
+        <p class="empty">No essays yet.</p>
+      )}
+
+      <nav class="pager" id="pager" aria-label="Posts navigation" hidden>
+        <a class="pager-link pager-prev" id="pager-prev" href="#" rel="prev">← Newer</a>
+        <span class="pager-indicator" id="pager-indicator"></span>
+        <a class="pager-link pager-next" id="pager-next" href="#" rel="next">Older →</a>
+      </nav>
+    </main>
+
+    <EssaySidebar lang="es" />
+  </div>
+
+  <script is:inline>
+    (function () {
+      const grid = document.getElementById('post-grid');
+      if (!grid) return;
+      const pageSize = parseInt(grid.dataset.pageSize || '10', 10);
+      const params = new URLSearchParams(location.search);
+      const q = (params.get('q') || '').trim().toLowerCase();
+      const cat = (params.get('cat') || '').trim();
+      const archive = (params.get('archive') || '').trim();
+      const hasFilter = !!(q || cat || archive);
+      let page = parseInt(params.get('page') || '1', 10);
+      if (!(page > 0)) page = 1;
+
+      const allCards = Array.from(grid.querySelectorAll('.post-card'));
+      const matched = [];
+      allCards.forEach((card) => {
+        let match = true;
+        if (q) {
+          const hay = (card.dataset.title || '') + ' ' + (card.dataset.excerpt || '');
+          if (!hay.includes(q)) match = false;
+        }
+        if (match && archive && card.dataset.archive !== archive) match = false;
+        if (match && cat) {
+          const full = card.dataset.category || '';
+          const top = card.dataset.catTop || '';
+          if (cat.includes('/')) {
+            if (full !== cat) match = false;
+          } else {
+            if (top !== cat) match = false;
+          }
+        }
+        if (match) matched.push(card);
+      });
+
+      const total = matched.length;
+      const totalPages = Math.max(1, Math.ceil(total / pageSize));
+      if (page > totalPages) page = totalPages;
+      const start = (page - 1) * pageSize;
+      const end = start + pageSize;
+      const visibleSet = new Set(matched.slice(start, end));
+      allCards.forEach((card) => {
+        card.hidden = !visibleSet.has(card);
+      });
+
+      if (hasFilter) {
+        const banner = document.getElementById('filter-banner');
+        const label = document.getElementById('filter-label');
+        if (banner && label) {
+          const parts = [];
+          if (q) parts.push('"' + params.get('q') + '"');
+          if (cat) parts.push(cat.replace('/', ' › '));
+          if (archive) parts.push(archive);
+          label.textContent = 'Filter: ' + parts.join(' · ') + ' (' + total + ')';
+          banner.hidden = false;
+        }
+      }
+      const empty = document.getElementById('no-matches');
+      if (empty) empty.hidden = total !== 0;
+
+      const pager = document.getElementById('pager');
+      const prev = document.getElementById('pager-prev');
+      const next = document.getElementById('pager-next');
+      const indicator = document.getElementById('pager-indicator');
+      if (pager && prev && next && indicator) {
+        if (total === 0 || totalPages <= 1) {
+          pager.hidden = true;
+        } else {
+          pager.hidden = false;
+          indicator.textContent = 'Page ' + page + ' of ' + totalPages;
+          const buildUrl = (p) => {
+            const np = new URLSearchParams(params);
+            if (p <= 1) np.delete('page'); else np.set('page', String(p));
+            const qs = np.toString();
+            return location.pathname + (qs ? '?' + qs : '');
+          };
+          if (page > 1) {
+            prev.href = buildUrl(page - 1);
+            prev.classList.remove('is-disabled');
+            prev.removeAttribute('aria-disabled');
+          } else {
+            prev.removeAttribute('href');
+            prev.classList.add('is-disabled');
+            prev.setAttribute('aria-disabled', 'true');
+          }
+          if (page < totalPages) {
+            next.href = buildUrl(page + 1);
+            next.classList.remove('is-disabled');
+            next.removeAttribute('aria-disabled');
+          } else {
+            next.removeAttribute('href');
+            next.classList.add('is-disabled');
+            next.setAttribute('aria-disabled', 'true');
+          }
+        }
+      }
+    })();
+  </script>
+
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .essay-hero {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 7;
+    max-height: 85vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  .essay-hero::after { display: none; }
+  .essay-hero-inner {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    padding: 0 1.5rem;
+  }
+  .essay-hero-title {
+    margin: 0;
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
+    font-size: 3rem;
+    line-height: 1.05;
+    letter-spacing: 0.02em;
+    color: #a6cef1;
+    text-shadow: 
+  }
+  .essay-hero-sub {
+    margin: 0.85rem 0 0;
+    font-family: 'Cormorant Infant', serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #ffdd00;
+    letter-spacing: 0.02em;
+    text-shadow: 0 1px 6px rgba(2, 2, 2, 0.78);
+  }
+
+  .essay-shell {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3.5rem 1.5rem 5rem;
+    display: grid;
+    grid-template-columns: 1fr 260px;
+    gap: 3.5rem;
+  }
+
+  .filter-banner[hidden] { display: none; }
+  .filter-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    padding: 0.6rem 0.9rem;
+    background: rgba(208, 0, 0, 0.06);
+    border: 1px solid rgba(208, 0, 0, 0.25);
+    font-family: 'Helvetica', sans-serif;
+    font-size: 0.88rem;
+    color: var(--color-muted);
+  }
+  .filter-clear {
+    color: var(--color-accent);
+    text-decoration: none;
+    font-family: 'Helvetica', sans-serif;
+    font-style: italic;
+    font-size: 0.85rem;
+  }
+  .filter-clear:hover { text-decoration: underline; }
+
+  .post-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2.5rem 2rem;
+    align-items: start;
+  }
+
+  .post-card {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+  }
+  .post-card[hidden] { display: none; }
+
+  .post-thumb {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 0rem;
+    border-radius: 14px;
+  }
+  .post-thumb img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+  }
+  .post-thumb:hover img {
+    transform: scale(1.03);
+  }
+
+  .pager {
+    margin-top: 3.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 1.05rem;
+    letter-spacing: 0.04em;
+  }
+  .pager[hidden] { display: none; }
+  .pager-link {
+    color: var(--color-accent);
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--color-accent);
+    border-radius: 999px;
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+  .pager-link:hover {
+    background: var(--color-accent);
+    color: var(--color-bg);
+  }
+  .pager-link.is-disabled {
+    opacity: 0.3;
+    pointer-events: none;
+  }
+  .pager-indicator {
+    font-family: 'Cormorant Infant', serif;
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--color-muted);
+  }
+
+  .post-title {
+    margin: 0 0 0.5rem;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 0.02em;
+  }
+  .post-title a {
+    color: var(--color-navy);
+    text-decoration: none;
+    background-image: linear-gradient(var(--color-accent), var(--color-accent));
+    background-size: 0% 1px;
+    background-repeat: no-repeat;
+    background-position: 0 100%;
+    transition: background-size 0.3s ease, color 0.2s ease;
+    padding-bottom: 1px;
+  }
+  .post-title a:hover {
+    background-size: 100% 1px;
+    color: var(--color-accent);
+  }
+  .post-meta {
+    margin: 0 0 0.75rem;
+    font-family: 'Cormorant Infant', serif;
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--color-muted);
+    letter-spacing: 0.02em;
+  }
+  .post-author { font-style: italic; }
+  .post-sep { margin: 0 0.4rem; color: var(--color-accent); }
+  .post-tags-inline {
+    font-style: italic;
+    color: var(--color-muted);
+  }
+  .post-cat-row {
+    margin: 0 0 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .post-cat-pill {
+    display: inline-block;
+    padding: 0.15rem 0.7rem;
+    border: 1px solid var(--color-accent);
+    border-radius: 999px;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+    background: transparent;
+  }
+  .post-excerpt {
+    margin: 0;
+    font-family: 'Cormorant Infant', serif;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    color: var(--color-text);
+  }
+
+  .empty {
+    text-align: center;
+    font-family: 'Cormorant Infant', serif;
+    font-style: italic;
+    color: var(--color-muted);
+    padding: 3rem 0;
+  }
+
+  @media (max-width: 960px) {
+    .essay-shell {
+      grid-template-columns: 1fr;
+    }
+  }
+  @media (max-width: 640px) {
+    .essay-hero-title { font-size: 2.4rem; }
+    .essay-hero-sub { font-size: 1rem; }
+    .post-grid { grid-template-columns: 1fr; gap: 2rem; }
+  }
+</style>

@@ -1,0 +1,239 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+import SubGrid from '../../../../components/SubGrid.astro';
+import type { SubCard } from '../../../../components/SubGrid.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+const subCards: SubCard[] = [
+  {
+    title: 'The New Other, Cuba',
+    image: IMG('2026/05/kyoko01-e1779687767424-600x600.jpg'),
+    imageAlt: 'The New Other, Cuba',
+    description:
+      '"We come to know ourselves through our relationships with others, and with another new other, our previous relationships become objective." — Ryu Murakami, from "KYOKO\'s trajectory"',
+    href: '/es/murakami/kyoko/newother/',
+  },
+  {
+    title: 'The "wounded Japanese" inside me',
+    image: IMG('2026/05/IMAGE0047-e1779688101635-768x768.jpg'),
+    imageAlt: 'The wounded Japanese inside me',
+    description:
+      'The "wounded Japanese inside me" was a Japanese who felt a deep sense of guilt over the Pacific War, unable to feel proud of his country, unable to love it. An essay connecting to "The New Other, Cuba."',
+    href: '/es/murakami/kyoko/me/',
+  },
+  {
+    title: '"KYOKO" is the story of Ryu Murakami, himself.',
+    image: IMG('2026/05/kyoko-dancin-BW-e1779687636421-768x768.jpg'),
+    imageAlt: 'KYOKO dancing',
+    description:
+      '"I felt myself returning to the \'spirit\' I had when I wrote Almost Transparent Blue." — Ryu Murakami',
+    href: '/es/murakami/kyoko/boku/',
+  },
+];
+
+const trail = [
+  { slug: 'murakami', title: 'MURAKAMI MAMBO !!', path: `${base}es/murakami/` },
+  { slug: 'kyoko', title: 'KYOKO (1995)', path: `${base}es/murakami/kyoko/` },
+];
+---
+
+<Layout title='KYOKO (1995) — Because of You — Japonéson' lang="es">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      kicker='THE STORY OF "HOPE" & "REGENERATE"'
+      title="KYOKO (1995)"
+      subtitle="Because of You — Tokyo → New York → Miami → Havana."
+      image={`${base}images/murakami/hero_kyoko.jpg`}
+      align="center"
+      height={920}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <p class="opener-quote">
+          <em>"My only goal was to see him again, to say thank you and to dance
+          with him, to hear him say that he had made progress."</em>
+          <span class="speaker">— Kyoko</span>
+        </p>
+        <p class="stars">＊ ＊ ＊ ＊ ＊ ＊ ＊</p>
+        <p class="opener-quote">
+          <em>"Good Luck Girl, you'll be fine. God is with you."</em>
+          <span class="speaker">— Ralph Biggs</span>
+        </p>
+
+        <p class="prompt">
+          <strong>
+            Ryu Murakami filmed the movie "KYOKO" and wrote the novel "KYOKO,"
+            which is set in Tokyo → New York → Miami → Havana.
+          </strong>
+        </p>
+
+        <div class="video-wrap">
+          <iframe
+            src="https://www.youtube.com/embed/Nl0HyMmJSh0"
+            title='KYOKO (1995) trailer'
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+
+        <p class="prompt">
+          <strong>
+            From New York, we traveled along the East Coast of the United States
+            to Miami and then to Cuba, the "land of music and dance."
+          </strong>
+        </p>
+
+        <p class="body">
+          Twelve years ago, Jose, a GI and dancer, taught dance to 8-year-old Kyoko,
+          who was growing up in a military base town. Kyoko flies to America to
+          meet the man who taught her what is most important to her. On her
+          journey, which goes far beyond her wildest dreams, she passes like the
+          wind among immigrants, exiles, AIDS patients, and gay men.
+        </p>
+      </div>
+    </section>
+
+    <section class="essay-section">
+      <h2 class="section-h">New York · Cuba · Japan</h2>
+    </section>
+
+    <SubGrid cards={subCards} columns={3} />
+
+    <section class="outro">
+      <div class="outro-inner">
+        <h2 class="section-h">Because of You</h2>
+        <p>Now, I am OK. I realized that there is a future only when I am on the way.</p>
+        <p>
+          It's unsettling and unstable while I'm on my way somewhere, but I think
+          it'll probably work out.
+        </p>
+        <p class="closing">
+          Because the dance that José taught me is there, in my body —<br />
+          he lives in me.
+        </p>
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 2rem;
+  }
+  .intro-inner {
+    max-width: 760px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .opener-quote {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 22px;
+    color: var(--color-navy);
+    line-height: 1.55;
+    margin: 0 0 0.8rem;
+  }
+  .opener-quote .speaker {
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    color: var(--color-muted);
+    margin-top: 0.3rem;
+  }
+  .stars {
+    text-align: center;
+    color: var(--color-muted);
+    letter-spacing: 0.5em;
+    margin: 1.5rem 0;
+    font-size: 14px;
+  }
+  .prompt {
+    font-family: var(--font-display-cinzel);
+    font-size: 19px;
+    color: var(--color-text);
+    margin: 2rem 0 1.5rem;
+    line-height: 1.45;
+  }
+  .body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    text-align: left;
+    margin: 1.5rem 0 0;
+  }
+  .video-wrap {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    margin: 1.5rem 0;
+    background: #000;
+  }
+  .video-wrap iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  .essay-section {
+    margin-top: 3rem;
+  }
+  .section-h {
+    font-family: var(--font-display-cinzel-dec);
+    font-weight: 700;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    letter-spacing: 0.05em;
+    margin: 0 0 1.5rem;
+  }
+
+  .outro {
+    padding: 3rem 1.5rem 4rem;
+  }
+  .outro-inner {
+    max-width: 640px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .outro-inner p {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 20px;
+    color: var(--color-navy);
+    line-height: 1.7;
+    margin: 0 0 1rem;
+  }
+  .outro-inner .closing {
+    font-size: 21px;
+    font-weight: 400;
+    color: var(--color-accent);
+    margin-top: 2rem;
+  }
+
+  @media (max-width: 720px) {
+    .opener-quote { font-size: 19px; }
+    .prompt { font-size: 17px; }
+    .section-h { font-size: 22px; }
+  }
+</style>

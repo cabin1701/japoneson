@@ -1,0 +1,82 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+import ProjectHero from '../../components/ProjectHero.astro';
+import { buildPath, buildBreadcrumb } from '../../lib/pageTree';
+
+export async function getStaticPaths() {
+  // URL paths that have their own crafted index.astro page (avoid route collision).
+  // Uses full path (not just slug) so e.g. /en/murakami/kyoko/ (the film hub)
+  // can be crafted while /en/murakami/music/kyoko/ and /en/murakami/tosco/kyoko/
+  // continue to render via the dynamic route.
+  const CRAFTED_PATHS = new Set([
+    'home',
+    'murakami',
+    'murakami/tosco',
+    'murakami/music',
+    'murakami/kyoko',
+    'murakami/books',
+    'swing',
+    'swing/dream',
+    'swing/remember',
+    'mystery',
+    'mystery/macarthur',
+    'mystery/meiji',
+    'mystery/hieke',
+    'mystery/macarthur/korea-24th',
+    'mystery/macarthur/korea-black-soldiers',
+    'mystery/macarthur/david-valley',
+    'mystery/macarthur/donald-versaw',
+    'cupie',
+    'cupie/gallery-01',
+    'cupie/gallery-02',
+    'cupie/gallery-03',
+  ]);
+  const all = await getCollection('es');
+  return all
+    .filter((e) => !CRAFTED_PATHS.has(buildPath(e, all)))
+    .map((entry) => ({
+      params: { slug: buildPath(entry, all) },
+      props: { entry, all },
+    }));
+}
+
+const { entry, all } = Astro.props;
+const { Content } = await render(entry);
+const trail = buildBreadcrumb(entry, all, import.meta.env.BASE_URL);
+---
+
+<Layout title={`${entry.data.title} — Japonéson`} lang="es">
+  <Header lang="es" />
+  {(entry.data.hero_image || (entry.data.hero_slideshow && entry.data.hero_slideshow.length > 0)) && (
+    <ProjectHero
+      kicker={entry.data.hero_kicker}
+      title={entry.data.title}
+      subtitle={entry.data.hero_subtitle}
+      image={entry.data.hero_image}
+      align="center"
+      height={entry.data.hero_height ?? 480}
+      fit={entry.data.hero_fit ?? 'cover'}
+      videoId={entry.data.hero_video}
+      videoStart={entry.data.hero_video_start}
+      titleFont={entry.data.hero_title_font}
+      titleWeight={entry.data.hero_title_weight}
+      titleItalic={entry.data.hero_title_italic}
+      titleSize={entry.data.hero_title_size}
+      titleColor={entry.data.hero_title_color}
+      slideshow={entry.data.hero_slideshow}
+      slideshowDuration={entry.data.hero_slideshow_duration}
+    />
+  )}
+  <main class={`container page-${entry.data.slug}`}>
+    <Breadcrumb trail={trail} lang="es" />
+    <article>
+      {!(entry.data.hero_image || (entry.data.hero_slideshow && entry.data.hero_slideshow.length > 0)) && <h1>{entry.data.title}</h1>}
+      <Content />
+    </article>
+  </main>
+  <Footer lang="es" />
+</Layout>
