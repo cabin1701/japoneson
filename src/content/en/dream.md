@@ -1,10 +1,6 @@
 ---
 title: "I Have a Dream… Seina"
 slug: dream
-wp_id: 576
-wp_parent: 108
-date: 2018-04-09 05:19:18
-source_url: https://en.japoneson.com/swing/dream/
 ---
 
 # I Have a Dream...Seina

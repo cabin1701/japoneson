@@ -1,10 +1,6 @@
 ---
 title: "Press"
 slug: press
-wp_id: 21759
-wp_parent: 731
-date: 2026-05-30 20:39:19
-source_url: https://en.japoneson.com/about/press/
 ---
 
 ![](/images/wp/2018/04/yomiuri-america2000_1000-600x605.jpg)

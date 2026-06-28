@@ -1,10 +1,6 @@
 ---
 title: "Cuban Music | MURAKAMI Label"
 slug: music
-wp_id: 19932
-wp_parent: 19793
-date: 2026-03-05 20:22:19
-source_url: https://en.japoneson.com/murakami/music/
 ---
 
 # Cuban Music

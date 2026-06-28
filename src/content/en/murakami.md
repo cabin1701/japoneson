@@ -1,10 +1,6 @@
 ---
 title: "MURAKAMI MAMBO !!"
 slug: murakami
-wp_id: 19793
-wp_parent: 0
-date: 2026-03-04 18:54:40
-source_url: https://en.japoneson.com/murakami/
 ---
 
 # MURAKAMI

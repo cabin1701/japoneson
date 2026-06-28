@@ -1,10 +1,6 @@
 ---
 title: "Live in Japan | NG La Banda"
 slug: 1993_live_in-japan
-wp_id: 16411
-wp_parent: 19932
-date: 2024-02-05 23:23:26
-source_url: https://en.japoneson.com/murakami/music/1993_live_in-japan/
 ---
 
 ![](/images/wp/2024/01/1993-live-300x296.jpg)

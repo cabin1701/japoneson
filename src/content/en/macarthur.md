@@ -1,10 +1,6 @@
 ---
 title: "The General's Shadow"
 slug: macarthur
-wp_id: 18809
-wp_parent: 18501
-date: 2026-02-26 21:37:46
-source_url: https://en.japoneson.com/mystery/macarthur/
 ---
 
 # The General's Shadow

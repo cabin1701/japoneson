@@ -1,10 +1,6 @@
 ---
 title: "Kokura Army Arsenal"
 slug: kokura
-wp_id: 17786
-wp_parent: 1022
-date: 2024-04-30 21:06:28
-source_url: https://en.japoneson.com/swing/remember/kokura/
 ---
 
 ## Kokura Army Arsenal

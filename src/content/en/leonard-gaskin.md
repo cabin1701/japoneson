@@ -1,10 +1,6 @@
 ---
 title: "I'll Be Seeing You, Mr. Leonard Gaskin"
 slug: leonard-gaskin
-wp_id: 719
-wp_parent: 108
-date: 2018-04-15 14:44:04
-source_url: https://en.japoneson.com/swing/leonard-gaskin/
 hero_image: "/images/swing/hero_leonard.jpg"
 hero_subtitle: "I would like to have some generous help, love… and your instruments."
 hero_height: 1200

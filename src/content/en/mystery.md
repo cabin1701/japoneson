@@ -1,10 +1,6 @@
 ---
 title: "The Mystery Entertainment"
 slug: mystery
-wp_id: 18501
-wp_parent: 0
-date: 2026-02-26 09:27:34
-source_url: https://en.japoneson.com/mystery/
 ---
 
 ![](/images/wp/2026/02/IMG_9937-3-1024x768.jpeg)

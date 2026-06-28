@@ -1,10 +1,6 @@
 ---
 title: "The 24th Infantry Division"
 slug: korea-24th
-wp_id: 19662
-wp_parent: 18809
-date: 2026-03-04 03:49:46
-source_url: https://en.japoneson.com/mystery/macarthur/korea-24th/
 ---
 
 # The First BOYS Sent Out

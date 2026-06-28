@@ -1,10 +1,6 @@
 ---
 title: "MOJI | The Moji World Peace Pagoda"
 slug: pagoda
-wp_id: 17906
-wp_parent: 1022
-date: 2024-05-18 17:11:12
-source_url: https://en.japoneson.com/swing/remember/pagoda/
 ---
 
 ## MOJI, MEKARI The World Peace Pagoda

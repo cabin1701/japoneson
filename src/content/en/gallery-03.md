@@ -1,10 +1,6 @@
 ---
 title: "Gallery - Adventure"
 slug: gallery-03
-wp_id: 21926
-wp_parent: 21239
-date: 2026-06-01 16:14:02
-source_url: https://en.japoneson.com/cupie/gallery-03/
 ---
 
 # Adventure

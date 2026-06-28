@@ -1,10 +1,6 @@
 ---
 title: "\"KYOKO\" is the story of Ryu Murakami, himself."
 slug: boku
-wp_id: 17333
-wp_parent: 17150
-date: 2024-02-17 18:40:23
-source_url: https://en.japoneson.com/murakami/kyoko/boku/
 hero_image: "/images/murakami/hero_boku.jpg"
 hero_kicker: "THE BARBED WIRE FENCE"
 hero_subtitle: "The endless fence that covered my memories has disappeared."

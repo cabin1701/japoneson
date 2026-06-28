@@ -1,10 +1,6 @@
 ---
 title: "Tasting the Secrets"
 slug: secrets
-wp_id: 18813
-wp_parent: 18501
-date: 2026-02-26 21:40:37
-source_url: https://en.japoneson.com/mystery/secrets/
 ---
 
 # Tasting The Secret

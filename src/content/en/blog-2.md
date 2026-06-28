@@ -1,10 +1,6 @@
 ---
 title: "BLOG"
 slug: blog-2
-wp_id: 18688
-wp_parent: 0
-date: 2026-02-26 17:45:54
-source_url: https://en.japoneson.com/blog-2/
 ---
 
 # 1701's B-log

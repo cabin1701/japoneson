@@ -1,10 +1,6 @@
 ---
 title: "The “wounded Japanese” inside me"
 slug: me
-wp_id: 17287
-wp_parent: 17150
-date: 2024-02-17 17:17:47
-source_url: https://en.japoneson.com/murakami/kyoko/me/
 hero_image: "/images/murakami/hero_me.jpg"
 hero_kicker: "New York, 1990's"
 hero_subtitle: "Cuba, 2014 - 2018. Now, I'm OK."

@@ -1,10 +1,6 @@
 ---
 title: "For The Boys"
 slug: for-the-boys
-wp_id: 18735
-wp_parent: 108
-date: 2026-02-26 19:33:38
-source_url: https://en.japoneson.com/swing/for-the-boys/
 hero_image: "/images/swing/hero_for-the-boys.jpg"
 hero_subtitle: "who served in the Korean War — Tribute to Ms.Monica Lewis"
 hero_height: 1000

@@ -1,10 +1,6 @@
 ---
 title: "YOU DON'T KNOW WHAT LOVE IS｜Xiomara Laugart"
 slug: you-dont-know-what-love-is
-wp_id: 17424
-wp_parent: 19932
-date: 2024-02-18 08:41:14
-source_url: https://en.japoneson.com/murakami/music/you-dont-know-what-love-is/
 ---
 
 [![](/images/wp/2024/01/1993-xiomara-laugart_500-300x300.jpg)](https://japoneson.com/ja/ryu/works/music/you-dont-know-what-love-is)

@@ -1,10 +1,6 @@
 ---
 title: "Gallery - Musicians y Celebrities"
 slug: gallery-01
-wp_id: 21798
-wp_parent: 21239
-date: 2026-05-30 21:34:11
-source_url: https://en.japoneson.com/cupie/gallery-01/
 ---
 
 # Musician & Celebrities

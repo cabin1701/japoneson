@@ -1,10 +1,6 @@
 ---
 title: "Gallery - Family & Friends"
 slug: gallery-02
-wp_id: 21834
-wp_parent: 21239
-date: 2026-05-31 09:09:58
-source_url: https://en.japoneson.com/cupie/gallery-02/
 ---
 
 # Friends & Family

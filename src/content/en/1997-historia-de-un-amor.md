@@ -1,10 +1,6 @@
 ---
 title: "Historia de un Amor | Javier Olmo"
 slug: 1997-historia-de-un-amor
-wp_id: 16505
-wp_parent: 19932
-date: 2024-02-06 01:04:33
-source_url: https://en.japoneson.com/murakami/music/1997-historia-de-un-amor/
 ---
 
 ![](/images/wp/2024/02/1996_javierolmo-300x296.jpg)

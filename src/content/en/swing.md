@@ -1,10 +1,6 @@
 ---
 title: "Angels Swing"
 slug: swing
-wp_id: 108
-wp_parent: 0
-date: 2018-04-02 19:01:44
-source_url: https://en.japoneson.com/swing/
 ---
 
 # Angels Swing

@@ -1,10 +1,6 @@
 ---
 title: "Cupie Danny"
 slug: cupie
-wp_id: 21239
-wp_parent: 0
-date: 2026-05-27 06:57:41
-source_url: https://en.japoneson.com/cupie/
 ---
 
 # We ❤️ Cupie Danny

@@ -1,10 +1,6 @@
 ---
 title: "LA BRUJA｜NG La Banda"
 slug: 1995-la-bruja
-wp_id: 16450
-wp_parent: 19932
-date: 2024-02-06 00:12:23
-source_url: https://en.japoneson.com/murakami/music/1995-la-bruja/
 ---
 
 ![](/images/wp/2024/02/1995-bruja-300x296.jpg)

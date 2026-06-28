@@ -1,10 +1,6 @@
 ---
 title: "Cuban House Music |  NG La Banda"
 slug: 1995-cuban-house-music
-wp_id: 16484
-wp_parent: 19932
-date: 2024-02-06 00:50:52
-source_url: https://en.japoneson.com/murakami/music/1995-cuban-house-music/
 ---
 
 ![](/images/wp/2024/02/1995_NG-House-300x296.jpg)

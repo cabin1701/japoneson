@@ -1,10 +1,6 @@
 ---
 title: "No Hace Falta Pensar La Muerto, Porque Yo Estoy A Tu Lado | Paulo y Su Elite"
 slug: 1993_no-hace-falta
-wp_id: 16427
-wp_parent: 19932
-date: 2024-02-05 23:52:10
-source_url: https://en.japoneson.com/murakami/music/1993_no-hace-falta/
 ---
 
 ##### 

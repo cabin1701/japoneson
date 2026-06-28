@@ -1,10 +1,6 @@
 ---
 title: "Tosco & Murakami"
 slug: tosco
-wp_id: 19824
-wp_parent: 19793
-date: 2026-03-04 21:22:58
-source_url: https://en.japoneson.com/murakami/tosco/
 ---
 
 # Tosco y Murakami

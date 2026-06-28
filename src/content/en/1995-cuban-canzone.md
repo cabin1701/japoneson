@@ -1,10 +1,6 @@
 ---
 title: "Cuban Canzone｜Estrellas de Cuba"
 slug: 1995-cuban-canzone
-wp_id: 16459
-wp_parent: 19932
-date: 2024-02-06 00:26:45
-source_url: https://en.japoneson.com/murakami/music/1995-cuban-canzone/
 ---
 
 ![](/images/wp/2024/02/1995canzone-300x296.jpg)

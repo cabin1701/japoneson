@@ -1,10 +1,6 @@
 ---
 title: "From Ryu Murakami"
 slug: ryu
-wp_id: 15274
-wp_parent: 576
-date: 2023-07-21 17:51:26
-source_url: https://en.japoneson.com/swing/dream/ryu/
 ---
 
 

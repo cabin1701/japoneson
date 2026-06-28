@@ -1,10 +1,6 @@
 ---
 title: "The Heike Story"
 slug: hieke
-wp_id: 18811
-wp_parent: 18501
-date: 2026-02-26 21:38:48
-source_url: https://en.japoneson.com/mystery/hieke/
 ---
 
 # The Heike Story

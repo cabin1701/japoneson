@@ -1,10 +1,6 @@
 ---
 title: "The Black Soldiers"
 slug: korea-black-soldiers
-wp_id: 19605
-wp_parent: 18809
-date: 2026-03-03 19:12:48
-source_url: https://en.japoneson.com/mystery/macarthur/korea-black-soldiers/
 ---
 
 # The Shadow of Kokura

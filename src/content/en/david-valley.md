@@ -1,10 +1,6 @@
 ---
 title: "--David Valley"
 slug: david-valley
-wp_id: 19549
-wp_parent: 18809
-date: 2026-03-03 04:43:06
-source_url: https://en.japoneson.com/mystery/macarthur/david-valley/
 ---
 
 # David Valley

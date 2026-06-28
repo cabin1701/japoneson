@@ -1,10 +1,6 @@
 ---
 title: "HOME"
 slug: home
-wp_id: 13572
-wp_parent: 0
-date: 2022-10-07 08:48:37
-source_url: https://en.japoneson.com/
 ---
 
 ##### Vocalist . Creator . Historical Explore

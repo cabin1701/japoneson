@@ -1,10 +1,6 @@
 ---
 title: "Terms and Conditions"
 slug: terms-and-conditions
-wp_id: 14657
-wp_parent: 0
-date: 2023-01-11 04:25:30
-source_url: https://en.japoneson.com/terms-and-conditions/
 ---
 
 # Terms and Conditions

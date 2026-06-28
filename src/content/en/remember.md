@@ -1,10 +1,6 @@
 ---
 title: "Wartime and Postwar Kitakyushu"
 slug: remember
-wp_id: 1022
-wp_parent: 108
-date: 2018-04-15 14:56:59
-source_url: https://en.japoneson.com/swing/remember/
 hero_title_color: "#a5c5dd"
 ---
 

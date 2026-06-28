@@ -1,10 +1,6 @@
 ---
 title: "LOS VAN VAN 1974 ｜Los Van Van"
 slug: 1994-los-van-van-1974
-wp_id: 16437
-wp_parent: 19932
-date: 2024-02-06 00:04:08
-source_url: https://en.japoneson.com/murakami/music/1994-los-van-van-1974/
 ---
 
 ![](/images/wp/2024/02/1994-los-vanvan-300x296.jpg)

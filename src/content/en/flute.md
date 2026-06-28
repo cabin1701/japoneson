@@ -1,10 +1,6 @@
 ---
 title: "FLUTE"
 slug: flute
-wp_id: 16725
-wp_parent: 19824
-date: 2024-02-12 22:55:15
-source_url: https://en.japoneson.com/murakami/tosco/flute/
 ---
 
 

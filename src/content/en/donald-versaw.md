@@ -1,10 +1,6 @@
 ---
 title: "Donald Versaw"
 slug: donald-versaw
-wp_id: 19737
-wp_parent: 18809
-date: 2026-03-04 07:16:54
-source_url: https://en.japoneson.com/mystery/macarthur/donald-versaw/
 ---
 
 # From my Old G.I. Friend

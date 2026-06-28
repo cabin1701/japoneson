@@ -1,10 +1,6 @@
 ---
 title: "Toward the Future / Seina"
 slug: future
-wp_id: 17933
-wp_parent: 1022
-date: 2024-05-18 22:52:10
-source_url: https://en.japoneson.com/swing/remember/future/
 ---
 
 ## Toward the Future / Seina

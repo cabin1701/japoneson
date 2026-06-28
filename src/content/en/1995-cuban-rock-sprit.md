@@ -1,10 +1,6 @@
 ---
 title: "Cuban Rock Spirit｜NG La Banda"
 slug: 1995-cuban-rock-sprit
-wp_id: 16494
-wp_parent: 19932
-date: 2024-02-06 00:57:06
-source_url: https://en.japoneson.com/murakami/music/1995-cuban-rock-sprit/
 ---
 
 ![](/images/wp/2024/02/1995NG-rock-300x296.jpg)

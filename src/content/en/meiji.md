@@ -1,10 +1,6 @@
 ---
 title: "The Meiji Restoration"
 slug: meiji
-wp_id: 18805
-wp_parent: 18501
-date: 2026-02-26 21:35:49
-source_url: https://en.japoneson.com/mystery/meiji/
 ---
 
 # The Meiji Restoration

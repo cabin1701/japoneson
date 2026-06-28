@@ -1,10 +1,6 @@
 ---
 title: "JAPONÉSON"
 slug: japoneson
-wp_id: 19780
-wp_parent: 0
-date: 2026-03-04 15:40:11
-source_url: https://en.japoneson.com/japoneson/
 hero_image: "/images/hero_japoneson.jpg"
 hero_height: 900
 hero_video: "0d-EBbB-s0I"

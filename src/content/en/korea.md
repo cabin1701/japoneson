@@ -1,10 +1,6 @@
 ---
 title: "THE KOREAN WAR"
 slug: korea
-wp_id: 19481
-wp_parent: 18809
-date: 2026-03-02 05:59:41
-source_url: https://en.japoneson.com/mystery/macarthur/korea/
 ---
 
 # The Korean War

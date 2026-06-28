@@ -1,10 +1,6 @@
 ---
 title: "The Great Yahata Air Raid | August 8, 1945"
 slug: yahata
-wp_id: 17840
-wp_parent: 1022
-date: 2024-05-02 17:29:12
-source_url: https://en.japoneson.com/swing/remember/yahata/
 ---
 
 ## The Great Yahata Air Raid | August 8, 1945

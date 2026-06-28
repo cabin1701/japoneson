@@ -1,10 +1,6 @@
 ---
 title: "Nueva Generación | NG La Banda"
 slug: nueva-generacion
-wp_id: 16356
-wp_parent: 19932
-date: 2024-02-05 11:41:59
-source_url: https://en.japoneson.com/murakami/music/nueva-generacion/
 ---
 
 ![](/images/wp/2024/01/1992_nueva-300x296.jpg)

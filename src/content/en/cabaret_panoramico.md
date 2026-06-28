@@ -1,10 +1,6 @@
 ---
 title: "Cabaret Panorámico (Échale Limón)  | NG La Banda"
 slug: cabaret_panoramico
-wp_id: 16374
-wp_parent: 19932
-date: 2024-02-05 17:12:18
-source_url: https://en.japoneson.com/murakami/music/cabaret_panoramico/
 ---
 
 ![](/images/wp/2024/02/1993NG-300x296.jpg)

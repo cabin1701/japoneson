@@ -1,10 +1,6 @@
 ---
 title: "The friendship between Dutch ex-POWs and Mizumaki Town"
 slug: mizumaki
-wp_id: 17914
-wp_parent: 1022
-date: 2024-05-18 20:34:18
-source_url: https://en.japoneson.com/swing/remember/mizumaki/
 ---
 
 ## Friendship between Dutch ex-POWs and Mizumaki Town

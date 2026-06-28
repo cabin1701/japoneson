@@ -1,10 +1,6 @@
 ---
 title: "Introduction"
 slug: preface
-wp_id: 17727
-wp_parent: 1022
-date: 2024-04-19 22:28:56
-source_url: https://en.japoneson.com/swing/remember/preface/
 ---
 
 ![](/images/wp/2024/04/preface_don_seina.jpg)

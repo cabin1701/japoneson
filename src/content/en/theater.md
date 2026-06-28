@@ -1,10 +1,6 @@
 ---
 title: "Theater"
 slug: theater
-wp_id: 22117
-wp_parent: 21239
-date: 2026-06-14 09:30:13
-source_url: https://en.japoneson.com/cupie/theater/
 ---
 
 # Theater

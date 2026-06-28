@@ -1,10 +1,6 @@
 ---
 title: "Son al Son | Javier Olmo"
 slug: son-al-son
-wp_id: 16583
-wp_parent: 19932
-date: 2024-02-06 22:39:27
-source_url: https://en.japoneson.com/murakami/music/son-al-son/
 ---
 
 ![](/images/wp/2024/02/1998_javier_sonalson-300x278.jpg)

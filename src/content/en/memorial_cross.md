@@ -1,10 +1,6 @@
 ---
 title: "MEMORIAL CROSS | For Fallen Soldiers of the Korean War"
 slug: memorial_cross
-wp_id: 17874
-wp_parent: 1022
-date: 2024-05-02 21:34:22
-source_url: https://en.japoneson.com/swing/remember/memorial_cross/
 ---
 
 ## MEMORIAL CROSS For Fallen Soldiers of the Korean War

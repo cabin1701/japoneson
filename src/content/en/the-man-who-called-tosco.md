@@ -1,10 +1,6 @@
 ---
 title: "\"The Man\" who called \"TOSCO\"｜José Luis Cortés"
 slug: the-man-who-called-tosco
-wp_id: 16313
-wp_parent: 19932
-date: 2024-02-05 00:56:36
-source_url: https://en.japoneson.com/murakami/music/the-man-who-called-tosco/
 ---
 
 #### 

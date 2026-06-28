@@ -1,10 +1,6 @@
 ---
 title: "About Seina"
 slug: about
-wp_id: 731
-wp_parent: 0
-date: 2022-08-16 10:28:02
-source_url: https://en.japoneson.com/about/
 hero_slideshow:
   - /images/about/about-hero-1.jpg
   - /images/about/about-hero-2.jpg
