@@ -8,7 +8,7 @@ hero_fit: "cover"
 hero_title_font: '"Cormorant Infant", serif'
 hero_title_size: "78px"
 hero_title_weight: 600
-hero_title_color: "#a5c5dd"
+hero_title_color: "#a6cef1"
 hero_title_italic: true
 
 wp_id: 965
