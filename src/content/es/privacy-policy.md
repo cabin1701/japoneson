@@ -1,42 +1,42 @@
 ---
-title: "Privacy Policy"
+title: "Política de Privacidad"
 slug: privacy-policy
 wp_id: 14664
 wp_parent: 0
 ---
 
-**Last Updated: June 2026**
+**Última actualización: Junio de 2026**
 
-Your privacy is a priority in our digital manifest. This policy outlines how your information is handled across this space.
+Tu privacidad es una prioridad en nuestro manifiesto digital. Esta política describe cómo se maneja tu información dentro de este espacio.
 
 ---
 
-### 01. INFORMATION COLLECTION
-Only personal information that you voluntarily provide (such as via contact forms) is collected. This may include:
-* Name or Username
-* Email Address
-* Communication preferences
+### 01. RECOPILACIÓN DE INFORMACIÓN
+Solo se recopila la información personal que proporcionas voluntariamente (por ejemplo, a través de formularios de contacto). Esto puede incluir:
+* Nombre o nombre de usuario
+* Dirección de correo electrónico
+* Preferencias de comunicación
 
-### 02. LOG DATA & ANALYTICS
-Standard log data that your browser sends is recorded automatically. This includes:
-* IP Address
-* Browser type and version
-* Pages visited and time spent
+### 02. DATOS DE REGISTRO Y ANALÍTICA
+Los datos de registro estándar que tu navegador envía se graban automáticamente. Esto incluye:
+* Dirección IP
+* Tipo y versión del navegador
+* Páginas visitadas y tiempo de permanencia
 
 ### 03. COOKIES
-Cookies are used solely to ensure the website functions correctly. You can instruct your browser to refuse them, though some sectors of the service may become inaccessible.
+Las cookies se utilizan únicamente para asegurar el correcto funcionamiento del sitio web. Puedes indicar a tu navegador que las rechace, aunque algunas secciones del servicio podrían volverse inaccesibles.
 
-### 04. SECURITY PROTOCOLS
-Commercially acceptable means are used to protect your information. However, no method of transmission over the internet is 100% secure.
+### 04. PROTOCOLOS DE SEGURIDAD
+Se utilizan medios comercialmente aceptables para proteger tu información. Sin embargo, ningún método de transmisión por Internet es 100% seguro.
 
-### 05. THIRD-PARTY LINKS
-This space may contain links to external sites. There is no control over, and no responsibility assumed for, the content or privacy practices of third-party platforms.
+### 05. ENLACES DE TERCEROS
+Este espacio puede contener enlaces a sitios externos. No se ejerce control sobre el contenido o las prácticas de privacidad de plataformas de terceros, ni se asume responsabilidad por ellos.
 
-### 06. CHILDREN'S PRIVACY
-This platform does not address anyone under the age of 13, and personal data from children is not knowingly collected.
+### 06. PRIVACIDAD DE LOS MENORES
+Esta plataforma no se dirige a personas menores de 13 años, y no se recopilan a sabiendas datos personales de niños.
 
-### 07. CONTACT
-For any questions regarding this manifest, you can reach out directly:
+### 07. CONTACTO
+Para cualquier pregunta sobre este manifiesto, puedes contactar directamente:
 
 **Email:** contact[@]cabin1701.com
-delete [ ] when you email me.
+elimina los [ ] cuando me escribas.
