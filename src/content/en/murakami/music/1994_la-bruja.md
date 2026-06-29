@@ -26,6 +26,8 @@ All Songs Written by José Luis Cortés except "All of Me"
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 When the Berlin Wall fell, what came to an end was not only the political structure called the Cold War. I feel that the genres and categories of music, too, crumbled into nothing with an audible sound. That is — the old opposing diagram of European culture versus American pop no longer exists, does it?
 
 For example, between Jimi Hendrix and Daniel Barenboim, there is, I think, no longer any boundary line as artists. There are only magnificent musicians, and the rest — the trash — who are not.
@@ -66,6 +68,8 @@ Far surpassing the concept of "salsa," they reveal the true meaning the word "fu
 Ryu Murakami
 
 ![](/images/wp/2024/02/1995bruja02_1000.jpg)
+
+</div>
 
 ---
 

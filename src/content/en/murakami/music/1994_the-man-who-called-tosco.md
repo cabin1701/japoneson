@@ -42,6 +42,8 @@ José Luis Cortés**
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 ## "The Man" who called "TOSCO"
 
 To Cuba  
@@ -98,9 +100,6 @@ That is how, through Cuban music, I was able to awaken to "music." A receptor th
 
 ![](/images/wp/2024/01/1994-jose-luis_photo-1024x513.jpg)
 
-#### Music that continues endlessly;
-
-I
 
 ### Music That Goes On Without End
 
@@ -178,6 +177,8 @@ It is only to show a certain relationship, by presenting the information I hold 
 
 Ryu Murakami  
 *Reprinted from Shinchosha's "Sinra," March 1994 issue*
+
+</div>
 
 ---
 

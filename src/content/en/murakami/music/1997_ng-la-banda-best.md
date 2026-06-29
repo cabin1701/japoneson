@@ -24,6 +24,8 @@ All Songs Written by José Luis Cortés
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 The first time I saw NG was in Havana, five years ago.
 
 In the five years since, they have made consecutive Japan tours, so they have become the most famous Cuban contemporary salsa band. But they hate being called a salsa band. Yet there isn't really any other good way to put it, and in the end they get filed under genres like Latin funk or Latin fusion, which don't quite fit either. The eight songs gathered on this best-of album were all recorded under my production, and the recording sessions have, by now, become legend among the people who were there.
@@ -43,6 +45,8 @@ It's true, the amount of practice they do is no joke. In the end, I think their 
 The current NG has gone through repeated member changes, and is, frankly, not in its best state. Generational turnover in Cuba's music world is also intense. This best-of album, including in that sense, has become, I take some pride in saying, the finest from NG La Banda's prime era.
 
 Ryu Murakami
+
+</div>
 
 ---
 

@@ -24,6 +24,8 @@ CHEEK TO CHEEK
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 What kind of recording scene do people imagine when they listen to this Album ?
 
 Sunlight pouring in, a seaside cottage-style studio, drinking rum, the leader calling out, "Let's do one good take while the groove is on us," everyone happily and amiably… No way. Absolutely not.
@@ -66,6 +68,8 @@ There is nothing left to say.
 
 Please, just listen.  
 I feel, from the bottom of my heart, proud to have produced this music.
+
+</div>
 
 ---
 

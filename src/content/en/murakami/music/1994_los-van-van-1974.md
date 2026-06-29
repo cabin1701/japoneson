@@ -28,7 +28,9 @@ All Songs written by Juan Formell except "Guararey de Pastora（Pedro Speck）"
 
 ---
 
-### **Liner Notes**
+<div class="murakami-cd-text-contents">
+
+## Liner Notes
 
 Three years ago, in July, on my way back from N.Y., on JAL Flight 9006, I listened to an anthology of Cuban music edited by David Byrne. "Llegué, Llegué" was the seventh track. I will never forget that first shock, even now.
 
@@ -47,6 +49,8 @@ The masterpiece that Los Van Van, the top band representing Cuba, created in 197
 I declare with conviction that it is a monument of popular music standing alongside the Beatles' "Sgt. Pepper's," the Rolling Stones' "Beggars Banquet," and Jimi Hendrix's "Electric Ladyland."
 
 Ryu Murakami
+
+</div>
 
 ---
 

@@ -28,7 +28,9 @@ The BEST of LOS VAN VAN
 
 ---
 
-**From Liner notes**
+<div class="murakami-cd-text-contents">
+
+## From Liner notes
 
 When compiling this best-of album, selecting from more than a dozen EGREM releases, I felt such overwhelming nostalgia that I almost cried. It's already been six years since my first trip to Cuba, and Los Van Van has always been the top band, still running at the front today.
 
@@ -46,6 +48,8 @@ There is nothing more I have to say.
 The highest level of experiment and achievement in Cuban music is right here.
 
 Ryu Murakami
+
+</div>
 
 ---
 

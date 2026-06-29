@@ -25,7 +25,9 @@ Autor y Arreglista: José Luis Cortés
 
 ---
 
-#### **A Note for Enjoying NG, No. 1**
+<div class="murakami-cd-text-contents">
+
+## A Note for Enjoying NG, No. 1
 
 There are various categories of Cuban music.
 
@@ -74,7 +76,7 @@ In Cuba, we come up with lyrics on the spot or create new ones, and each song go
 
 If you want to know more, come to NG La Banda's concert.
 
-#### **Notes for enjoying NG La Banda. Part 2**
+## Notes for enjoying NG La Banda. Part 2
 
 Cuban music has many categories.
 
@@ -122,7 +124,7 @@ Coming up with lyrics on the spot, or making new ones, one song goes on and on, 
 
 If you want to know more details, come to an NG La Banda concert.
 
-**Note, No. 2**
+### Note, No. 2
 
 There is no Cuban music without "song."
 
@@ -192,6 +194,8 @@ People polished their playing technique, devised dance steps, made beautiful son
 The result, I think, was the birth of a country of music with no equal anywhere else.
 
 Ryu Murakami
+
+</div>
 
 ---
 

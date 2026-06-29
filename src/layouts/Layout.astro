@@ -733,61 +733,72 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     font-size: 16px;
   }
 
-  /* --- Album page common layout (Murakami music) --- */
-  /* Photo: top, centered. Album caption: centered. Track list: centered.
-     Section headings (h1-h6): centered. Body paragraphs: left (default). */
-  main.page-album article > h1,
-  main.page-album article > h2,
-  main.page-album article > h3,
-  main.page-album article > h4,
-  main.page-album article > h5,
-  main.page-album article > h6 {
+  /* --- Murakami CD album page --- */
+  /* 案A: ページ全体を中央デフォルト(=info の役割)、ライナーノーツ本文だけ左(=contents) */
+
+  /* info: 既定で中央寄せ（タイトル / 曲目 / 演奏者 / クレジット） */
+  main.page-album article {
     text-align: center;
   }
-  /* Album title: 70% of default article h1 (2.2rem → 1.54rem) */
-  main.page-album article > h1 {
-    font-size: 1.54rem;
-  }
-  /* Inline headings in body (h4-h6): bigger than body text so they read as headings */
-  main.page-album article > h4,
-  main.page-album article > h5,
-  main.page-album article > h6 {
-    font-size: 1.25rem;
-    font-weight: 600;
-    margin: 1.5rem 0 0.75rem;
-  }
-  /* For albums without a cover image: first paragraph is the album meta — center it */
-  main.page-album article > p:first-of-type {
-    text-align: center;
-  }
-  /* Image-only paragraph (markdown ![](url)) */
-  main.page-album article > p:has(> img:only-child),
-  main.page-album article > p:has(> a:only-child > img) {
-    text-align: center;
-  }
-  main.page-album article > p:has(> img:only-child) img,
-  main.page-album article > p:has(> a:only-child > img) img {
+
+  /* カバー画像: 中央・最大幅 400px */
+  main.page-album article p:has(> img:only-child) img,
+  main.page-album article p:has(> a:only-child > img) img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     max-width: 400px;
     height: auto;
   }
-  /* Paragraph right after the album cover image = album caption (title/artist/year) */
-  main.page-album article > p:has(> img:only-child) + p,
-  main.page-album article > p:has(> a:only-child > img) + p {
-    text-align: center;
+
+  /* 本文写真（contents内の横長写真）: ジャケより広げる
+     ↓ サイズは船長が微調整する欄（WP は 780px 相当） */
+  main.page-album article .murakami-cd-text-contents p:has(> img:only-child) img,
+  main.page-album article .murakami-cd-text-contents p:has(> a:only-child > img) img {
+    max-width: 720px;        /* 本文写真の幅（叩き台） */
   }
-  /* Track list: markdown numbered list renders as <ol>; center it */
-  main.page-album article > ol,
-  main.page-album article > ul {
-    text-align: center;
+
+  /* 横長写真を大きく見せるラッパー（本文の外＝クレジット後などでも 720px）
+     使い方: md で写真を <div class="murakami-cd-photo-wide"> で囲む */
+  main.page-album article .murakami-cd-photo-wide p:has(> img:only-child) img,
+  main.page-album article .murakami-cd-photo-wide p:has(> a:only-child > img) img {
+    max-width: 720px;        /* 叩き台 */
+  }
+
+  /* 曲目が markdown 番号リスト(ol/ul)になった場合の中央寄せ */
+  main.page-album article ol,
+  main.page-album article ul {
     list-style-position: inside;
     padding-left: 0;
   }
-  /* Album credits at end (musicians, production) — paragraphs after the last hr(s) */
-  main.page-album article > hr:last-of-type ~ p,
-  main.page-album article > hr:nth-last-of-type(2) ~ p {
-    text-align: center;
+
+  /* contents: ライナーノーツ本文だけ左寄せ */
+  main.page-album article .murakami-cd-text-contents {
+    text-align: left;
+  }
+
+  /* アルバムタイトル(h1 が使われる場合) */
+  main.page-album article h1 {
+    font-size: 1.54rem;
+  }
+
+  /* ## 見出し（info内では中央 / contents内では左 ＝ 親から継承）
+     ↓ サイズ・色・フォントは船長が微調整する欄 */
+  main.page-album article h2 {
+    font-size: 1.5rem;        /* サイズ（叩き台） */
+    font-weight: 600;         /* 太さ（叩き台） */
+    color: inherit;           /* 色（調整欄） */
+    font-family: inherit;     /* フォント（調整欄） */
+    margin: 1.75rem 0 0.75rem;
+  }
+
+  /* ### 文中の小見出し
+     ↓ サイズ・色・フォントは船長が微調整する欄 */
+  main.page-album article h3 {
+    font-size: 1.2rem;        /* サイズ（叩き台） */
+    font-weight: 600;         /* 太さ（叩き台） */
+    color: inherit;           /* 色（調整欄） */
+    font-family: inherit;     /* フォント（調整欄） */
+    margin: 1.25rem 0 0.5rem;
   }
 </style>

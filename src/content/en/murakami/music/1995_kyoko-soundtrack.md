@@ -51,6 +51,8 @@ composer & director : José Luis Cortés
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 The music for the film *KYOKO* — its concept kept changing as the screenplay progressed and shifted. Cuba has countless beautiful songs, an uncountable number of bands old and new mixed together, and so many kinds of music that you can't grasp them right away.
 
 From all of that, I first had to choose the one song that should become "Kyoko's theme." Of all Cuban songs, the most famous is "Siboney," by Ernesto Lecuona. To express a certain mood the film carries, the theme song had to be familiar enough to hum on the way out of the cinema, and at the same time aching, and beautiful, and it had to have that Cuban kind of exhilaration too.
@@ -94,6 +96,8 @@ This music supported, and saved, the film *KYOKO*.
 In particular, "Esperanza" will probably become, I think, one of the most important songs of my life.
 
 5 Dec. 1995 Ryu Murakami
+
+</div>
 
 ---
 

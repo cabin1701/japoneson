@@ -28,6 +28,8 @@ Estrellas de Cuba
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 From the 1950s into the early 1960s, *canzone* ruled the world. It's interesting that this overlaps exactly with the peak of Italian cinema.
 
 There were several wonderfully beautiful songs. At just that time, I was in the upper grades of elementary school and in junior high, and the songs of Gigliola Cinquetti, Bobby Solo, and Wilma Goich that came from the radio — I listened to them with pleasure. Between Presley and the Beatles and the Stones, those songs entertained me, like rare and beautiful trees that bloom for only a very short while. This is an album in which I had José Luis Cortés arrange that kind of song in a Cuban style, and had various singers sing them.
@@ -35,6 +37,8 @@ There were several wonderfully beautiful songs. At just that time, I was in the 
 I think it's best on a refreshing holiday, listening together with good pasta and salad and espresso.
 
 Ryu Murakami
+
+</div>
 
 ---
 

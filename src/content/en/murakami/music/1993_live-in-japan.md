@@ -22,6 +22,8 @@ NG La Banda Live In Japan
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 In the summer of 1993, I spent about a month together with NG La Banda. They did nine concerts in all — at Huis Ten Bosch in Nagasaki and at Shibuya On Air.
 
 This live album is a recording of the August 11 performance — the final day at On Air.
@@ -55,6 +57,10 @@ Turn the volume up, listen, and try dancing — like a Cuban, positively, and el
 ¡Ataca, Chicho!
 
 Ryu Murakami
+
+![](/images/wp/2024/02/1993_Live-in-PHOTO-1024x509.jpg)
+
+</div>
 
 ---
 
@@ -92,3 +98,9 @@ Tamio Suzuki (Sony Records)
 Special Thanks to Genichi Yamamoto (Shueisha), Takurou Kawanabe (Music in), Motomitsu Tada(TFM), Haruhiko Kouno, Sadayuki Kurawaka (SMASH), Yukiko Yoshino, Sásha  
 Recorded at On Air, Shibuya Tokyo  
 1993.8.11
+
+<div class="murakami-cd-photo-wide">
+
+![](/images/wp/2024/02/1993_NG_03.jpg)
+
+</div>

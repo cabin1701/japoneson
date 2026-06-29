@@ -24,7 +24,9 @@ Autor y Arreglista: José Luis Cortés
 
 ---
 
-**From liner notes**
+<div class="murakami-cd-text-contents">
+
+## From liner notes
 
 NG La Banda's concert in Japan was a huge success.  
 NG is a great band after all, and they did what I expected them to do.
@@ -90,6 +92,8 @@ I'll never forget that answer.
 
 Ryu Murakami  
 Reprinted from The Best Magazine (published by KK Bestsellers)
+
+</div>
 
 ---
 

@@ -35,6 +35,8 @@ PAULO Y SU ELITE
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 How many years ago was it now? At a restaurant-cabaret in Havana called "La Cecilia," I saw a band called Opus 13.
 
 That day was an outrageous forced march. First, in the morning, there was the dance lesson for Miho Nikaido, the actress for the film "Kyoko"; next I went to a gallery's inner courtyard to see Conjunto Caney, where I was moved by an eighty-four-year-old percussionist named Niño (he has retired now, but in the old days he had been in the famous Sonora Matancera, and during their Mexico tour the Cuban Revolution happened; the band's policy became exile, but he alone returned to his home country — a legendary figure. When I asked his reason, he answered, chest out: "Because I am Cuban"); then in the evening, by car, I went some two hours away to a port town (I forget the name) to see a *charanga* band, returned to Havana in the middle of the night, and at last reached "La Cecilia." Body and spirit were deeply exhausted; even when the waiter came to take orders, opening my mouth was a chore. It was in that state that I watched Opus 13 play. Opus 13 is the band one might call the forerunner of Paulo y su Élite.
@@ -68,6 +70,8 @@ Yet there are countless musicians with unbelievable technique and unbelievable c
 The leader, Paulo, is a rare existence even in Cuba — a man at whose concerts the girls scream "kya, kya" — but of course he is not a mere idol. He is a leader filled with the sense of responsibility one bears in leading the elite.
 
 Ryu Murakami
+
+</div>
 
 ---
 

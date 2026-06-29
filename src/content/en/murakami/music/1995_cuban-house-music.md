@@ -14,14 +14,18 @@ NG La Banda
 ---
 
 1. PORTAL  
-2.SALA  
+2. SALA  
 3. CUARTO  
 4. COCINA  
 Autor y Arreglista: José Luis Cortés
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 In every piece of high-quality music, hope and despair are mixed together. Some house and rap were the same. Within a repetition that feels like eternity, there was a gentle resignation, and a desperate resistance, against a world growing colder and colder. NG La Banda's "house" is more energetic than that. It is a symbol of something Cubans, even in the midst of hardship, have not lost. This CD may have turned out to be, of all the releases on Murakami's Label so far, the most accessible.
+
+</div>
 
 ---
 

@@ -28,6 +28,8 @@ Javier Olmo
 
 ---
 
+<div class="murakami-cd-text-contents">
+
 Mientras buscaba un cantante para interpretar la canción tema de la película *KYOKO*, repitiendo audición tras audición, casi dándome por vencido muchas veces, diciéndome a mí mismo: "Esto es Cuba — seguro que en algún lugar tiene que haber una voz que encaje a la perfección," — y al fin encontrándome con Javier Olmo: la sorpresa y la emoción de aquel momento, todavía no las puedo olvidar.
 
 Nos encontramos en el estudio EGREM de La Habana Vieja, a altas horas de la noche, y aun así, allí mismo le prometí: "Te haré un álbum solista, sin falta." Javier, aún desconocido incluso en Cuba, no dijo "¿eh?" sorprendido, ni "¿en serio?" dudando, ni "¡increíble!" muy alegre, ni "¡bien!" emocionado — con todo el aire de la calma misma, me preguntó: "¿Cuándo?"
@@ -43,6 +45,8 @@ Pepe Olmo, que hace el coro en "Suavito," es el antiguo vocalista secundario de 
 Ryu Murakami
 
 ![](/images/wp/2024/02/1996_javier_back-298x300.jpg)
+
+</div>
 
 ---
 
