@@ -1,0 +1,165 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+interface Person {
+  name: string;
+  sub?: string;
+  image: string;
+  qpd?: string;
+}
+
+const people: Person[] = [
+  { name: 'Lena Burke',                         image: IMG('2018/04/QPD071.jpg'),               qpd: 'QPD071' },
+  { name: 'Waldo Mendoza',                      image: IMG('2018/04/QPD174.jpg'),               qpd: 'QPD074' },
+  { name: 'Johnny Lozada',     sub: 'ex-Menudo', image: IMG('2018/04/QPD081.jpg'),              qpd: 'QPD081' },
+  { name: 'Adel Gonzales',                      image: IMG('2018/04/QPD182.jpg'),               qpd: 'QPD182' },
+  { name: 'Issac Delgado',                      image: IMG('2018/04/QPD183.jpg'),               qpd: 'QPD183' },
+  { name: 'Alexandrer Abreu',  sub: "Havana D'Primera", image: IMG('2018/04/QPD160.jpg'),       qpd: 'QPD160' },
+  { name: 'Maykel Blanco Y Su Salsa Mayor',     image: IMG('2018/04/QPD184.jpg'),               qpd: 'QPD184' },
+  { name: 'Jose Luis Cortes',  sub: 'NG La Banda', image: IMG('2018/04/QPD161.jpg'),            qpd: 'QPD161' },
+  { name: 'Eliel Lazo',                         image: IMG('2018/04/QPD062-768x768.jpg'),       qpd: 'QPD062' },
+  { name: 'Miguelo Valdes',                     image: IMG('2018/04/QPD063-768x768.jpg'),       qpd: 'QPD063' },
+  { name: 'Martin Cohen',                       image: IMG('2018/04/QPD064-768x768.jpg'),       qpd: 'QPD064' },
+  { name: 'Rubby Guzman',                       image: IMG('2018/04/QPD067-768x768.jpg'),       qpd: 'QPD067' },
+  { name: 'Pablo Moya',                         image: IMG('2018/04/QPD117_Moya.jpg'),          qpd: 'QPD117' },
+  { name: 'John Benitez',                       image: IMG('2018/04/QPD115.jpg'),               qpd: 'QPD115' },
+  { name: 'Carlos Varela',                      image: IMG('2018/04/QPD168.jpg'),               qpd: 'QPD168' },
+  { name: 'Lucy Grau',                          image: IMG('2026/06/QPD071_.jpg'),              qpd: 'QPD071' },
+  { name: 'Amaury Perez',      sub: "Havana D'Primera", image: IMG('2018/04/QPD157.jpg'),       qpd: 'QPD157' },
+  { name: 'Yosvel Bernal Pina', sub: "Havana D'Primera", image: IMG('2018/04/QPD156.jpg'),      qpd: 'QPD156' },
+  { name: 'Rodney Barreto',                     image: IMG('2018/04/QPD163.jpg') },
+  { name: 'Juan "Cotó" de la Cruz Antomarchi Padilla', image: IMG('2018/04/QPD164.jpg') },
+  { name: 'Pupy Pedroso',                       image: IMG('2018/04/QPD166.jpg') },
+  { name: 'Cristian Alejandro',                 image: IMG('2018/04/QPD171.jpg') },
+  { name: 'Edesio Alejandro',                   image: IMG('2018/04/QPD172.jpg') },
+  { name: 'Samuel Formell',                     image: IMG('2018/04/QPD176.jpg') },
+  { name: 'Edemundo Pina',     sub: 'Los Van Van', image: IMG('2018/04/QPD175.jpg') },
+  { name: 'Joaquín Betancourt',                 image: IMG('2018/04/QPD178.jpg') },
+  { name: 'Giovanni Hidalgo',  sub: 'percussionist', image: IMG('2018/04/QPD114.jpg') },
+  { name: 'Luis Alberto Gonzalez Perez',        image: IMG('2019/06/QPD027luisito-1-768x768.jpg') },
+  { name: 'Tony Rodriguez',    sub: "Havana D'Primera", image: IMG('2018/04/QPD159.jpg'),       qpd: 'QPD159' },
+  { name: 'Harold Diaz Escobar', sub: "Havana D'Primera", image: IMG('2018/04/QPD158.jpg'),     qpd: 'QPD158' },
+  { name: 'Gillian Cura',      sub: 'Singer',  image: IMG('2026/06/QPD074.jpg'),                qpd: 'QPD074' },
+  { name: 'Yusnier Sanchez Bustamante', sub: 'Percussionist', image: IMG('2026/06/QPD077.jpg'), qpd: 'QPD077' },
+  { name: 'Jose Gola',                          image: IMG('2018/04/QPD111.jpg'),               qpd: 'QPD111' },
+  { name: 'Floyd Heglichs',                     image: IMG('2026/06/QPD072.jpg'),               qpd: 'QPD072' },
+  { name: 'Mala Entrana Paul',                  image: IMG('2026/06/QPD088-768x768.jpg'),       qpd: 'QPD088' },
+  { name: 'Luiggy Muscaria',                    image: IMG('2026/06/QPD132.jpg'),               qpd: 'QPD149' },
+  { name: 'Harry Adorno',                       image: IMG('2026/06/QPD136.jpg'),               qpd: 'QPD136' },
+  { name: 'Jose Luis',         sub: 'percussionist', image: IMG('2026/06/QPD170.jpg'),          qpd: 'QPD170' },
+  { name: 'Idolka de Erbiti',                   image: IMG('2026/06/QPD180.jpg'),               qpd: 'QPD180' },
+  { name: 'Dayramir Gonzalez',                  image: IMG('2026/06/QPD076.jpg'),               qpd: 'QPD076' },
+  { name: 'Jennifer Hernandez',                 image: IMG('2026/06/QPD148.jpg'),               qpd: 'QPD148' },
+  { name: 'Yaliet dichosa',                     image: IMG('2026/06/QPD025yaliet-768x768.jpg'), qpd: 'QPD025' },
+  { name: 'Imilcy',                             image: IMG('2026/06/QPD026imilcy-768x768.jpg'), qpd: 'QPD026' },
+];
+
+const trail = [
+  { slug: 'cupie', title: 'CUPIE DANNY', path: `${base}es/cupie/` },
+  { slug: 'gallery-01', title: 'MUSICIANS & CELEBRITIES', path: `${base}es/cupie/gallery-01/` },
+];
+---
+
+<Layout title="Gallery — Musicians & Celebrities — Japonéson" lang="es">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      title="Musician & Celebrities"
+       titleFont="'Fredoka', sans-serif"
+      titleWeight={600}
+      titleSize="70px"
+      titleColor="var(--color-accent)"
+      image={`${base}images/cupie/hero_gallery-01.jpg`}
+      align="center"
+      height={860}
+      fit="cover"
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="gallery-wrap">
+      <div class="gallery-grid">
+        {people.map((p) => (
+          <figure class="g-card">
+            <div class="g-image"><img src={p.image} alt={p.name} loading="lazy" /></div>
+            <figcaption>
+              <p class="g-name">{p.name}</p>
+              {p.sub && <p class="g-sub">{p.sub}</p>}
+              {p.qpd && <p class="g-qpd">{p.qpd}</p>}
+            </figcaption>
+          </figure>
+        ))}
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .gallery-wrap {
+    padding: 3rem 1.5rem 4rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2.5rem 2rem;
+  }
+  .g-card {
+    margin: 0;
+    text-align: center;
+  }
+  .g-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+  }
+  .g-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .g-name {
+    font-family: 'Cherry Swash', cursive;
+    font-weight: 400;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0.8rem 0 0.2rem;
+    line-height: 1.25;
+  }
+  .g-sub {
+    font-family: 'Cherry Swash', cursive;
+    font-weight: 400;
+    font-size: 17px;
+    color: var(--color-navy);
+    margin: 0;
+    line-height: 1.25;
+  }
+  .g-qpd {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: #888;
+    margin: 0.5rem 0 0;
+  }
+
+  @media (max-width: 1000px) {
+    .gallery-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 720px) {
+    .gallery-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>

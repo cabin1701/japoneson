@@ -92,16 +92,16 @@ Julio Montalvo Cantolla
 
 ---
 
-•Solo: Juan Manuel Ceruto in "Muchacha Ternura"  
-•Luis Erik in "Tu Todo Mi Tiempo", "Tu No Me Calculas", "Fatalidad y Casualidad"  
-•Luis Depestre, Emilio Morales, Frank Rubio in "No Hace Falta Que Lo Diga"
+•Solo: Juan Manuel Ceruto en "Muchacha Ternura"  
+•Luis Erik en "Tu Todo Mi Tiempo", "Tu No Me Calculas", "Fatalidad y Casualidad"  
+•Luis Depestre, Emilio Morales, Frank Rubio en "No Hace Falta Que Lo Diga"
 
-Orchestration:  
-Music & Production Director: Juan Manuel Ceruto  
-Recording: Jerzy Bere  
-Mixing: Jerzy Bere, Juan M. Ceruto, Paulo  
-EGREM Recording Studio: Havana, Cuba, April 1993  
-Translation Support: Makiko Amino / Chisato Kimura / Juan Alberto Matsumoto / Hajime Fujii / Mitsuo Yamaguchi  
+Orquestación:  
+Director Musical y de Producción: Juan Manuel Ceruto  
+Grabación: Jerzy Bere  
+Mezcla: Jerzy Bere, Juan M. Ceruto, Paulo  
+Estudio de Grabación EGREM: La Habana, Cuba, abril de 1993  
+Colaboración en la traducción: Makiko Amino / Chisato Kimura / Juan Alberto Matsumoto / Hajime Fujii / Mitsuo Yamaguchi  
 Design: Yasutaka Kato for Above Us Only Sky Studio  
 Art Work:Hisashi Nishikata  
 Photography:Atsushi Kondo, Koh Hosokawa

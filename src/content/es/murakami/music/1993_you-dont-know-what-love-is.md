@@ -278,26 +278,26 @@ CUANDO BAILO CON TU CUERPO JUNTO A MÍ
 
 ---
 
-José Luis Cortés (Flute, Arrangement, Music Director)  
-Miguel Ángel de Armas (Keyboards)  
-Feliciano Arango (Bass)  
-Calixto Oviedo (Drums)  
+José Luis Cortés (Flauta, Arreglos, Director Musical)  
+Miguel Ángel de Armas (Teclados)  
+Feliciano Arango (Bajo)  
+Calixto Oviedo (Batería)  
 Pancho Amat (Tres)  
-Special Thanks: ARTEX Co.
+Agradecimientos especiales: ARTEX S.A.
 
-Carlos Averhoff (Tenor Saxophone)  
-Juan Munguía (Trumpet)  
-Special Thanks: Irakere
+Carlos Averhoff (Saxofón Tenor)  
+Juan Munguía (Trompeta)  
+Agradecimientos especiales: Irakere
 
-Hermán Velasco (Alto Saxophone)  
-Dagoberto González (Violin)  
-Special Thanks: P.M. Records
+Hermán Velasco (Saxofón Alto)  
+Dagoberto González (Violín)  
+Agradecimientos especiales: P.M. Records
 
 Emilio Morales (Piano)  
-Special Thanks: EGREM
+Agradecimientos especiales: EGREM
 
-César Portillo de la Luz (Spanish Lyrics)  
-Jorge Mazón Mustelier ("— with gratitude for his collaboration —")
+César Portillo de la Luz (Letra en español)  
+Jorge Mazón Mustelier ("— con agradecimiento por su colaboración —")
 
 Produced by:Ryu Murakami  
 Recorded & Mixed:Ramón Alom Suarez  

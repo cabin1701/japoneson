@@ -1,0 +1,225 @@
+---
+import Layout from '../../../../../layouts/Layout.astro';
+import Header from '../../../../../components/Header.astro';
+import Footer from '../../../../../components/Footer.astro';
+import Breadcrumb from '../../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+const trail = [
+  { slug: 'mystery', title: 'THE MYSTERY ENTERTAINMENT', path: `${base}es/mystery/` },
+  { slug: 'macarthur', title: "THE GENERAL'S SHADOW", path: `${base}es/mystery/macarthur/` },
+  { slug: 'korea-24th', title: 'THE 24TH INFANTRY DIVISION', path: `${base}es/mystery/macarthur/korea-24th/` },
+];
+---
+
+<Layout title="The 24th Infantry Division — Japonéson" lang="es">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      title="The First BOYS Sent Out"
+      subtitle="The 24th Infantry Division"
+      titleSize="60px"
+      titleColor="var(--color-accent)"
+      image={`${base}images/mystery/hero_korea-24th.jpg`}
+      align="center"
+      height={880}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <h2 class="sec-h">The Outbreak</h2>
+
+        <p>
+          On <strong>June 25, 1950</strong>, the North Korean Army suddenly
+          crossed the 38th parallel, invading South Korea. The South Korean
+          forces were overwhelmed almost instantly, and the capital, Seoul,
+          fell in just three days.
+        </p>
+
+        <p>
+          With the situation desperate, President Harry Truman made the
+          decision on June 30 to deploy American ground troops. The <strong>24th Infantry Division</strong>, stationed in Japan, was selected to go first.
+        </p>
+
+        <p>
+          The very first unit to leave was <strong>Task Force Smith</strong> from Kumamoto. They were flown to Pusan and then moved north by train and truck, rushing to block the North Korean tanks before the entire peninsula fell.
+        </p>
+
+<hr class="olive-divider" />
+
+        <h2 class="sec-h">The First Step from Kyushu:<br />"Task Force Smith"</h2>
+
+        <p>
+          Before diving into the story of the 24th Infantry Division in Kokura, we must remember the boys from <strong>Camp Wood</strong> in Kumamoto.
+        </p>
+
+        <p>
+          They belonged to the <strong>21st Infantry Regiment</strong>, a part of the 24th Division. On June 30, 1950, they became the very first American ground troops to be sent into the Korean War.
+        </p>
+
+        <p>
+          They didn't pass through the <strong>Kanmon Strait</strong>; instead, they were rushed to <strong>Itazuke Air Base</strong> (Fukuoka) and flown directly into the unknown.
+        </p>
+
+        <p>
+          With little equipment and almost no preparation, these 540 young men, known as <strong>"Task Force Smith,"</strong> stood alone against an army of tanks. Their sacrifice was the tragic beginning of a war that would soon engulf the streets of Kokura.
+        </p>
+
+        <hr class="olive-divider" />
+
+        <h2 class="sec-h">The Military Heart: Camp Kokura</h2>
+
+        <p>
+          Since the Meiji era, Kokura had been a powerful military hub, housing the Imperial Japanese Army and the massive <strong>Kokura Arsenal</strong>. After WWII, the U.S. forces took over these facilities, turning them into <strong>Camp Kokura</strong>.
+        </p>
+
+        <p>
+          It was from this steel-and-stone military town that <strong>Major General William F. Dean</strong> commanded the <strong>24th Infantry Division</strong>. As the commanding general, he oversaw the entire Kyushu region from his headquarters in the heart of Kokura.
+        </p>
+
+        <p>
+          General Dean was not just a leader in a distant office; he was a
+          man of action. Soon, he would have to lead his division—many of
+          whom were young and inexperienced—from the barracks of Kokura into
+          the brutal fires of the Korean War.
+        </p>
+<hr class="olive-divider" />
+
+        <h2 class="sec-h">Timeline of the 24th Infantry Division Face the Destiny (1950)</h2>
+
+        <ul class="timeline">
+          <li><strong>June 25: Peace in Kyushu</strong> — North Korean Army invades South Korea. The 24th ID units at <strong>Camp Hakata</strong> (Fukuoka) and <strong>Camp Wood</strong> (Kumamoto) are called to action.</li>
+          <li><strong>June 30: The Order from Kokura</strong> — President Truman orders ground troops to Korea. <strong>Major General William F. Dean</strong> receives the order at his headquarters in <strong>Camp Kokura</strong>.</li>
+          <li><strong>July 1 – July 4: Departure from Kyushu (Kokura, Itazuke, and Hakata)</strong> — <strong>Task Force Smith</strong> flies from <strong>Itazuke Air Base</strong>. At the same time, the main force begins leaving <strong>Camp Kokura</strong>, and the artillery units from <strong>Camp Hakata</strong> board ships for Pusan. Thousands of young men leave Kyushu behind, heading into the unknown.</li>
+          <li><strong>July 5: Battle of Osan</strong> — The first clash between U.S. and North Korean forces. Task Force Smith faces an army of tanks with almost no preparation.</li>
+          <li><strong>July 20: The Tragedy at Taejon</strong> — The division suffers heavy losses. <strong>The 11th Field Artillery</strong> from Hakata loses their guns, and <strong>General Dean</strong> goes missing while protecting his men at the front line.</li>
+          <li><strong>August – September: The Shield at Pusan Perimeter</strong> — The 24th ID holds the <strong>Pusan Perimeter</strong>, the last line of defense in the south. They fight desperately to buy time for MacArthur's big plan.</li>
+          <li><strong>September 15: MacArthur's Inchon Landing</strong> — General MacArthur launches a daring surprise attack at <strong>Inchon</strong>. While the world watches this famous landing, the 24th ID begins a massive counterattack from the south to trap the North Korean Army.</li>
+        </ul>
+
+        <hr class="olive-divider" />
+
+        <h2 class="sec-h sec-h-center">Excerpts from "General Dean's Story"<br />Written by William F. Dean</h2>
+
+        <h3 class="num-h">1. Moments on the Battlefield</h3>
+
+        <p><strong>[The Reason for the Bazooka]</strong> "I wasn't a general then. I was just a soldier, and I wanted to show my men that these tanks weren't so tough. Even with our old equipment, I believed that showing them we could stand and fight was the only way to take the despair out of those young boys' eyes."</p>
+
+        <p><strong>[The Guilt Toward His Aides]</strong> "My aides were young men with wives and little children. Time and again, I thought of sending them back to safety, but in the heat of the battle, it never happened. Every time I pictured their families' faces, I was overcome with a deep sense of personal responsibility and regret."</p>
+
+        <p><strong>[The Descent into the Darkness]</strong> "I just wanted to get some water for a wounded man. That simple act of trying to ease his thirst was what led me down that dark cliff and separated me from my command. But at that moment, I could not have simply walked away and left him suffering."</p>
+
+        <h3 class="num-h">2. Solitude and Pride</h3>
+
+        <p><strong>[The 35 Days of Wandering]</strong> "When I woke up in the mud after the fall, I had no water and no food. For 35 days, I crawled through the mountains at night to avoid the enemy, nursing my injuries. The man who had commanded thousands from his headquarters in Kokura was now nothing more than a starving, solitary fugitive."</p>
+
+        <p><strong>[Inside the Cage]</strong> "I was kept in a cage about four feet long and the same height—I could only sit, never stand or lie down. The Communists tried to break me, to use me for their propaganda, but I refused. I told them that even if a hundred of my men had died, I would never make a traitorous speech."</p>
+
+        <p><strong>[Three Years as a 'Dead Man']</strong> "For three years, while the world thought I was dead, I fought a lonely battle against disease, interrogation, and my own sense of failure. I felt like a general who had failed his mission, yet I never let go of my pride as an officer of the United States."</p>
+
+        <p class="closing-link">
+          For those who wish to delve deeper into the history of the 24th
+          Infantry Division, please visit
+          <a href="https://24thida.com/index.html" target="_blank" rel="noopener">the official association website</a>.
+        </p>
+
+        <hr class="thin-rule" />
+
+        <p class="credit">
+          This chapter was created by AI-Vega, based on the materials and archives collected by Seina.
+        </p>
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 4rem;
+  }
+  .intro-inner {
+    max-width: 880px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+  }
+  .intro-inner strong { font-weight: 700; color: #1a1a1a; }
+  .intro-inner em { font-style: italic; }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .intro-inner h2.sec-h {
+    font-family: var(--font-display-cinzel);
+    font-weight: 700;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    line-height: 1.3;
+    margin: 2.8rem 0 1.5rem;
+    letter-spacing: 0.01em;
+  }
+  .intro-inner h3.num-h {
+    font-family: var(--font-display-cinzel);
+    font-weight: 700;
+    font-size: 22px;
+    color: var(--color-navy);
+    margin: 2.2rem 0 1rem;
+  }
+
+  .intro-inner hr.olive-divider {
+    border: none;
+    border-top: 6px solid #8a8b6a;
+    margin: 2.5rem 0;
+    opacity: 0.8;
+  }
+
+  .intro-inner ul.timeline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    padding-left: 1.4rem;
+    margin: 0 0 1.5rem;
+  }
+  .intro-inner ul.timeline li { margin: 0 0 1rem; }
+
+  .intro-inner p.closing-link {
+    margin-top: 2.5rem;
+    font-style: italic;
+    color: #444;
+  }
+
+  .intro-inner hr.thin-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.5rem 0 1.5rem;
+  }
+  .intro-inner p.credit {
+    font-family: 'Gabriela', serif;
+    font-size: 16px;
+    color: var(--color-navy);
+    text-align: center;
+    font-style: italic;
+    margin: 0;
+  }
+</style>

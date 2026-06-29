@@ -1,0 +1,142 @@
+---
+title: "TOSCO ⊂ MURAKAMI =\"KYOKO\""
+slug: kyoko-02
+wp_id: 16744
+wp_parent: 19824
+---
+
+
+![](/images/wp/2024/02/01b-e1707982539922.jpg)
+
+A few months after I started working on this site, on an impulse, I tried fitting “Ryu Murakami” into the role of [“Kyoko.”](https://en.japoneson.com/murakami/kyoko) At that moment, I felt as though a puzzle piece had fallen into place.
+
+I had thought of Kyoko as a heroine “created” by Ryu Murakami. So a thought like that had never even crossed my mind.
+
+Kyoko, who is eight years old, is taught to dance by a G.I., José Fernando Cortés, a Cuban-American. Perhaps the name “José Fernando Cortés” comes from “José Luis Cortés,” a precious friend of Murakami’s.
+
+Why did Ryu Murakami make the film and write the novel “KYOKO”?  
+I believe it was for himself, not for anyone else.
+
+Ryu Murakami was born in the base town of Sasebo, and since childhood he has seen and felt the power relationship between the United States and Japan.
+
+---
+
+## from the essay "American Dream"(1984)
+
+> This is important, so let me say it again. I am of the first generation to have secretly watched, in an ordinary house in my own town, a woman of our own country having sex with a soldier of the occupying army. Probably I am of the first generation in the recorded history of Japan.
+>
+> They were "American" soldiers. This must not be forgotten. Many have forgotten. People pretend they don't know; they feel ashamed; they think it's all over.
+>
+> This is how the United States came into Japan. The G.I.s were cheerful and seemed to be having a good time. Japanese women bore many mixed-race children. And in me, too, they instilled a "mixed-race sensibility." After the Korean War, our parents kept working to reach the "American level" rather than the "prewar level." The Japanese government guided them toward the American level as well.
+>
+> That is what they taught us in school, too. Japan as a whole promoted its own pop-ification. America pressed the wave of pop onto Japan, pushing to the forefront the things you could see, the things you could touch, the things you could eat.
+>
+> — Ryu Murakami, "American Dream" (1984)
+
+---
+
+He graduated from high school and moved to Tokyo. There too he chose a “base town” to live in. The “power relationship” with the U.S. continued. This is the background of his novel “Almost Transparent Blue.”
+
+Through his encounter with Cuba, he discovered a new relationship with the United States. The encounter with “a new Other — Cuba” changed the “power relationship” with the United States that had been inside Ryu Murakami.
+
+In 1991, the first year he went to Cuba, inspired by Cuba and by Miho Nikaido, who had starred in “Topaz,” he wrote the book “Siboney: Faraway Cuba.” In the beginning, Kyoko was a woman who had worked as a stripper in New York.
+
+For those who love settings such as “Almost Transparent Blue,” “Ibiza,” and “Topaz,” that version might have been a better fit for her. However, Miho Nikaido stepped down. The actress chosen next was not, for Murakami, Kyoko. The third actress was Saki Takaoka. In that process the film’s story kept changing: Kyoko became not a stripper but a pure, straight-hearted girl who had saved her money as a truck driver.
+
+I have come to think that perhaps this “changing actress” accident was an arrangement of fate, preparing the door to Ryu Murakami’s next phase.
+
+Ever since the idea for the film took shape, Ryu went to Cuba many times, and his phase gradually began to shift — so perhaps a gap was opening up from the original idea.
+
+I have exchanged emails with Ryu Murakami several times. The energy in the emails he sent me was very gentle, and delicate. It was hard to believe, set against the grotesque, erotic, and violent images of his novels. That delicate, kind energy stayed with me for a while, like a lingering scent after reading the email.
+
+The Kyoko played by Saki Takaoka may have been Ryu Murakami’s ideal image of a woman — a woman who held the gentleness within Ryu together with a woman’s strength.
+
+For Ryu Murakami, the path of meeting Cuba and completing KYOKO was a journey of liberation from the “chain” of the United States that had always been in his heart.
+
+No matter how much we read, no matter how much we convince ourselves we have understood with our heads, only what we have experienced becomes flesh and blood.
+
+For Kyoko, José Fernando Cortés was “hope,” and dancing was “hope.”
+
+Within a military life that did not suit him, teaching eight-year-old Kyoko how to dance, taking her hand and dancing with her, was José’s own “hope.”
+
+Kyoko, now twenty-one, went to New York to see José. But José, in the final stage of AIDS, could not remember her. The “Japanese girl” who tried to take him to his family in Miami must surely have been José’s “hope.”
+
+I am sure that for Ryu Murakami, José Luis Cortés was “hope.”
+
+And I strongly believe that “Ryu Murakami” was “hope” for José Luis Cortés as well.
+
+The element indispensable to “hope,” I think, is “trust.”
+
+---
+
+## The last scene of the novel "KYOKO"
+
+*As I danced with the boy, with the steps José had taught me, I remembered the words of the Native American woman who lived in a small hut at Virginia Beach.*
+
+*The future is already, right now, in your hands.*
+
+*Now I understood what that meant.*
+
+*I had always been on my way to somewhere.*
+
+*It’s still like that now, and the truth is it was so even before I came to New York.*
+
+*I’m on my way, headed somewhere.*
+
+*I used to get tired, and impatient — but now I’m all right.*
+
+*Because I realized there is a future only while I am on the way.*
+
+*I like Cuba very much, but I am sure it isn’t my final goal.*
+
+*The moment I tell myself I have reached the goal, the future disappears.*
+
+*When I am on the path of the journey, and what’s more, enjoying it, I can hold my future in my hands.*
+
+*Even dying is not the goal (that’s something like an accident); and fundamentally nothing has changed since my childhood, since I was a child walking along the barbed wire fence.*
+
+*But now, the barbed wire fence I had always carried inside me has disappeared.*
+
+*So, in other words, I no longer have that feeling of being decisively, far separated from what is most precious to me.*
+
+*It vanished in the journey of finding José and carrying him.*
+
+*Not only José — I met many people during that long journey, and as I talked and laughed with them, the feeling disappeared.*
+
+*I can’t speak Spanish at all, and my English isn’t good either, so it isn’t that I came to understand something with them.*
+
+*We met, we crossed paths, that’s all. I passed among them, with a purpose of my own.*
+
+*I will surely go on, always, being on my way to somewhere in my life.*
+
+*It’s unsettling and unstable, being on the way — but I think it will probably work out.*
+
+*Because the dance José taught me is there, in my body, as if it were a living thing.*
+
+*These words, I think, are about Ryu Murakami himself — found on the “way” of the life in which he made “KYOKO.”*
+
+---
+
+I had thought, “KYOKO overlapped with my own life,” but this is the story of Ryu Murakami’s life. And yet, if you can see your “highest priority,” choose it, and walk forward, anyone can be “KYOKO.”
+
+Tosco shared time and experiences with Murakami and passed by, while Murakami was “on the way” in his life; and that process, those experiences, are engraved in his heart and become a part of Ryu Murakami.
+
+Tosco lives on inside Murakami, and Murakami lives on in Tosco’s music.
+
+This work does not seem to be widely appreciated, but it is a very important turning point for knowing “Ryu Murakami.” If you have the chance, please read it once more.
+
+---
+
+**Recommended reading for “KYOKO” (these are Japanese-language titles):**
+
+* KYOKO（集英社・幻冬舎・村上龍電子本製作所）
+* KYOKOの軌跡－神が試した映画－（幻冬舎）
+* 村上龍全エッセイ 1987-1991（講談社文庫）
+* あなたがいなくなった後の東京物語（角川書店）
+* アメリカン★ドリーム（講談社文庫）
+* すべての男は消耗品である（村上龍電子本製作所・幻冬舎など）
+* シボネイ－遥かなるキューバ－（主婦の友社）
+* 村上龍対談集－存在の耐えがたきサルサ―（文芸春秋）
+* 限りなく透明に近いブルー（講談社・村上龍電子本製作所）
+
+---
