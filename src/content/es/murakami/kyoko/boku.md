@@ -1,9 +1,9 @@
 ---
-title: "\"KYOKO\" is the story of Ryu Murakami, himself."
+title: "\"KYOKO\" es la historia del propio Ryu Murakami."
 slug: boku
 hero_image: "/images/murakami/hero_boku.jpg"
-hero_kicker: "THE BARBED WIRE FENCE"
-hero_subtitle: "The endless fence that covered my memories has disappeared."
+hero_kicker: "LA ALAMBRADA DE PÚAS"
+hero_subtitle: "La alambrada interminable que cubría mis recuerdos ha desaparecido."
 hero_height: 920
 wp_id: 17333
 wp_parent: 17150
@@ -11,103 +11,103 @@ wp_parent: 17150
 
 
 
-I used to think the story of "KYOKO" was like my own story. Thinking that, tears would come at all sorts of scenes in the work.
+Yo solía pensar que la historia de "KYOKO" era como mi propia historia. Al pensarlo, me brotaban las lágrimas en toda clase de escenas de la obra.
 
-But one morning, just as I woke, on a sudden impulse, I tried fitting Ryu into "KYOKO." And then — it's a strange feeling — it was as though a puzzle piece clicked perfectly into place. That's how it felt.
+Pero una mañana, justo al despertar, de pronto, por un impulso, probé a encajar a Ryu en "KYOKO." Y entonces —es una sensación extraña— fue como si una pieza de un rompecabezas encajara perfectamente en su lugar. Así se sintió.
 
-About ten days later, I got hold of The Complete Essays of Ryu Murakami, 1987–1991 (Kodansha Bunko), and in the last part — a conversation with the literary critic Masashi Miura — he had written the words "the story of myself."
+Unos diez días después conseguí *Ensayos completos de Ryu Murakami, 1987–1991* (Kodansha Bunko), y en la última parte —una conversación con el crítico literario Masashi Miura— él había escrito las palabras "la historia de mí mismo."
 
-## From "All the Essays of Ryu Murakami 1987–1991"
+## De "Ensayos completos de Ryu Murakami 1987–1991"
 
-> I realized this after I'd built the story — it's about me, you see. The main character is a stripper. She was born in Fussa. She's illegitimate — three generations of illegitimacy in the family. She was bullied for it, and then one day, when she was little, she meets a Black soldier across the barbed wire. The Black soldier says something like "Why are you crying?" — she doesn't understand, but he was dancing this really funny dance. So she thinks, what a funny guy, and she laughs. That was the first time that child had ever laughed. She meets that Black soldier a few more times, and he teaches her things, like "You shake your hips like this." It was so much fun for her that she kept going to play with him, all the time. Just dancing, that's all. And during that, she hears him say, "In my country it's like this," and all kinds of images well up in her.
+> Me di cuenta de esto después de haber construido la historia: trata de mí, ¿sabes? La protagonista es una estríper. Nació en Fussa. Es hija ilegítima: tres generaciones de ilegitimidad en la familia. La acosaban por ello, y un día, de pequeña, conoce a un soldado negro a través de la alambrada. El soldado negro le dice algo como "¿Por qué lloras?" —ella no entiende, pero él bailaba un baile graciosísimo. Así que piensa: qué hombre tan divertido, y se ríe. Esa fue la primera vez que esa niña se reía. Se encuentra con ese soldado negro algunas veces más, y él le enseña cosas, como "Mueves las caderas así." Le resultaba tan divertido que seguía yendo a jugar con él, todo el tiempo. Solo bailar, nada más. Y durante eso, le oye decir "En mi país es así," y le brotan toda clase de imágenes.
 >
-> And when they part, he gives her his address: "I'm in New York, so come visit when you grow up." She puts that address in a necklace, and rather than relying on teachers or parents, she lives by that address alone. In short, she lives with the joy her own body felt as her first priority. And she becomes a stripper. She lives doing something like porn shows.
+> Y al despedirse, él le da su dirección: "Estoy en Nueva York, así que ven a visitarme cuando seas grande." Ella mete esa dirección en un collar y, más que apoyarse en maestros o padres, vive guiándose solo por esa dirección. En resumen, vive con la alegría que sintió su propio cuerpo como su primera prioridad. Y se hace estríper. Vive haciendo algo como shows porno.
 >
-> — Ryu Murakami, *The Complete Essays of Ryu Murakami, 1987–1991* (Kodansha Bunko)
+> — Ryu Murakami, *Ensayos completos de Ryu Murakami, 1987–1991* (Kodansha Bunko)
 
 \* \* \* \* \* \* \* \*
 
-From then on, by the time the movie was completed, the story of KYOKO had changed to resemble a growing creature.
+A partir de entonces, para cuando la película estuvo terminada, la historia de KYOKO había cambiado hasta parecer una criatura viva que crecía.
 
-## The opening of "KYOKO" — Prologue / Monologue: Kyoko
+## El comienzo de "KYOKO" — Prólogo / Monólogo: Kyoko
 
-> Barbed wire.
+> Alambrada.
 >
-> The endless barbed wire fence, taller than I am, covers my memories.
+> La alambrada sin fin, más alta que yo, cubre mis recuerdos.
 >
-> My parents died in a traffic accident when I was four.
+> Mis padres murieron en un accidente de tráfico cuando yo tenía cuatro años.
 >
-> My aunt and uncle took me in and raised me.
+> Mi tía y mi tío me acogieron y me criaron.
 >
-> I grew up in a town with an American Army base.
+> Crecí en una ciudad con una base del ejército estadounidense.
 >
-> I walked to kindergarten and school right next to the barbed wire.
+> Caminaba al jardín de infancia y a la escuela justo al lado de la alambrada.
 >
-> On the other side of the barbed wire fence, I could see camouflaged military aircraft, a lawned U.S. military housing area, and the American flag.
+> Al otro lado de la alambrada se veían aviones militares camuflados, una zona de viviendas militares estadounidenses con césped, y la bandera estadounidense.
 >
-> — Kyoko, opening of the novel *KYOKO*
+> — Kyoko, comienzo de la novela *KYOKO*
 
-## And, the final part
+## Y, la parte final
 
-> I like Cuba very much, but perhaps I am sure that it is not my final goal.
+> Quiero mucho a Cuba, pero seguramente no es mi meta final.
 >
-> The moment I tell myself that I have reached the goal, the future disappears.
+> En el momento en que me digo que he llegado a la meta, el futuro desaparece.
 >
-> When I am on the path of life's journey, and I am enjoying it, I can have my future in my hands.
+> Cuando estoy en el camino del viaje de la vida, y lo disfruto, puedo tener mi futuro en mis manos.
 >
-> Even dying is not the goal (it's like an accident) and fundamentally nothing has changed since my childhood, since I was a child when I walked along a barbed wire fence.
+> Incluso morir no es la meta (es algo como un accidente); y, en lo fundamental, nada ha cambiado desde mi infancia, desde que era una niña que caminaba junto a una alambrada.
 >
-> But, now, the barbed wire fence that I carried inside me at all times has disappeared.
+> Pero, ahora, la alambrada que llevaba dentro de mí en todo momento ha desaparecido.
 >
-> So, in other words, I no longer have that feeling of being permanently away from what is most important to me.
+> Así que, en otras palabras, ya no tengo esa sensación de estar permanentemente apartada de lo que más me importa.
 >
-> I could find José in New York and the feeling had disappeared during the journey that carried him towards Miami.
+> Pude encontrar a José en Nueva York, y esa sensación había desaparecido durante el viaje que lo llevaba hacia Miami.
 >
-> It's not just José, I met many people during this long journey, talking to them, and laughing with them, and then the feeling disappeared.
+> No es solo José; conocí a mucha gente durante este largo viaje, hablando con ellos y riendo con ellos, y entonces la sensación desapareció.
 >
-> I can't speak Spanish and my English isn't very good, so I am not sure we understood each other.
+> No sé hablar español y mi inglés no es muy bueno, así que no estoy segura de que nos entendiéramos.
 >
-> We met, we crossed paths, that's all. I was pursuing my goal and my path just crossed theirs.
+> Nos encontramos, nos cruzamos, eso es todo. Yo perseguía mi meta y mi camino simplemente se cruzó con el de ellos.
 >
-> I may be always on my way somewhere in my life.
+> Puede que esté siempre, en mi vida, en camino hacia algún lugar.
 >
-> It's unsettling and unstable while I'm on my way somewhere, but I think it'll probably work out.
+> Es inquietante e inestable mientras estoy en camino hacia algún lugar, pero creo que probablemente saldrá bien.
 >
-> Because the dance that José taught me is there, in my body, he lives in me.
+> Porque el baile que José me enseñó está ahí, en mi cuerpo; él vive en mí.
 >
-> — Kyoko, ending of the novel *KYOKO*
+> — Kyoko, final de la novela *KYOKO*
 
 ---
 
-## **And the barbed wire is gone.**
+## **Y la alambrada ya no está.**
 
 ![](/images/wp/2024/02/kyoko06-1-e1707922668173-1024x647.jpg)
 
-## From "KYOKO"'s afterword (Shueisha)
+## Del epílogo de "KYOKO" (Shueisha)
 
-> All through the writing of this novel, I kept remembering the mood of twenty years ago. It was exactly twenty years ago, in autumn, that I wrote my debut work, *Almost Transparent Blue*, and I remembered that mood, which I had long forgotten.
+> Durante toda la escritura de esta novela, no dejé de recordar el ánimo de hacía veinte años. Fue exactamente hacía veinte años, en otoño, cuando escribí mi obra de debut, *Azul casi transparente*, y recordé aquel ánimo, que durante mucho tiempo había olvidado.
 >
-> In this novel there is no sex, no S&M, no drugs, no war. Ever since my debut work I had used those as motifs, as means of blowing self-consciousness away — but in this work there was no need for them.
+> En esta novela no hay sexo, ni sadomasoquismo, ni drogas, ni guerra. Desde mi obra de debut había usado esas cosas como motivos, como medios para hacer estallar la autoconciencia; pero en esta obra no hubo necesidad de ellas.
 >
-> — Ryu Murakami, afterword to *KYOKO* (Shueisha)
+> — Ryu Murakami, epílogo de *KYOKO* (Shueisha)
 
-## From "All Men Are Expendable"
+## De "Todos los hombres son desechables"
 
-> Around the time I finished editing the film, I wrote the novel *Kyoko*. As I wrote, I kept remembering the time when I wrote my debut work. It was as if I were writing a novel for the very first time in my life — that is how I wrote *Kyoko*. This is different from writing "with a fresh feeling." I felt myself returning to the "spirit" I'd had when I wrote *Almost Transparent Blue*.
+> Hacia el momento en que terminé la edición de la película, escribí la novela *Kyoko*. Mientras escribía, no dejaba de recordar la época en que escribí mi obra de debut. Fue como si escribiera una novela por primera vez en mi vida: así escribí *Kyoko*. Esto es distinto de escribir "con un ánimo fresco." Sentí que volvía al "espíritu" que tenía cuando escribí *Azul casi transparente*.
 >
-> Whether for that reason or not I don't know, but near the end of the novel *Kyoko*, the word "rebirth" comes up frequently. It appears as the lines of a character named José, who is dying of AIDS — but as I wrote, I came to feel as if I myself were being reborn as a novelist. Rebirth isn't only coming back from the place of death. In this case it might be better to call it evolution. That is, a dramatic, explosive increase in one's own store of information.
+> No sé si por eso, pero cerca del final de la novela *Kyoko*, la palabra "renacimiento" aparece con frecuencia. Aparece como las líneas de un personaje llamado José, que muere de sida; pero mientras escribía, llegué a sentir como si yo mismo renaciera como novelista. El renacimiento no es solo regresar del lugar de la muerte. En este caso quizá sea mejor llamarlo evolución. Es decir, un aumento dramático, explosivo, del propio caudal de información.
 >
-> I say "information," but some people call it "the world." It's easier to understand if you read "information" = "the world." I have always been starved for information, and I still am. The information I'm talking about isn't in *Newsweek* or CNN news or the internet. It isn't culture, or reportage. Basically it's bodily experience, something like practical philosophical material for survival.
+> Yo digo "información," pero hay quien la llama "el mundo." Es más fácil de entender si lees "información" = "el mundo." Siempre he estado hambriento de información, y aún lo estoy. La información de la que hablo no está en *Newsweek* ni en las noticias de CNN ni en internet. No es cultura, ni reportaje. Básicamente es experiencia corporal, algo como material filosófico práctico para la supervivencia.
 >
-> A novelist's first work holds all the information he had accumulated up to the writing of that first work. After that, information keeps increasing and technique improves, but it's often said one never surpasses the first work. It's not that I think *Kyoko* surpassed *Almost Transparent Blue* as a work. If we're talking about surpassing it as a work, *Coin Locker Babies* is more than enough. *Kyoko*, as a sequel to the spirit of *…Blue*, regained the lyricism that was in my debut work. That I returned to my debut work — not strategically — means that the information I'd input over twenty years had exceeded the accumulation of information from when I wrote that debut. I think that's an expansion of my capacity as a novelist, and it could not have happened if I hadn't kept making films.
+> La primera obra de un novelista contiene toda la información que él había acumulado hasta escribir esa primera obra. Después de eso, la información sigue aumentando y la técnica mejora, pero suele decirse que uno nunca supera la primera obra. No es que crea que *Kyoko* superó a *Azul casi transparente* como obra. Si hablamos de superarla como obra, *Coin Locker Babies* basta y sobra. *Kyoko*, como continuación del espíritu de *…Azul*, recobró el lirismo que había en mi obra de debut. Que volviera a mi obra de debut —no de manera estratégica— significa que la información que había acumulado a lo largo de veinte años había superado la acumulación de información de cuando escribí ese debut. Creo que eso es una expansión de mi capacidad como novelista, y no habría podido ocurrir si no hubiera seguido haciendo películas.
 >
-> — Ryu Murakami, *All Men Are Expendable*
+> — Ryu Murakami, *Todos los hombres son desechables*
 
-The world of "Ryu Murakami" widened. And that, I think, is because — in his relationship with "America" — he was freed from the barbed wire, the chain, that had always been in his heart.
+El mundo de "Ryu Murakami" se ensanchó. Y eso, creo, es porque —en su relación con "América"— se liberó de la alambrada, de la cadena, que siempre había estado en su corazón.
 
-So, probably, Ryu's style changed from here. The conflict of "youth," which had continued from *Almost Transparent Blue*, came loose, ended, and moved on to the next phase.
+Así que, probablemente, el estilo de Ryu cambió a partir de aquí. El conflicto de la "juventud," que había continuado desde *Azul casi transparente*, se soltó, terminó, y pasó a la siguiente fase.
 
-**Recommended reading for understanding KYOKO (these are Japanese-language titles):**
+**Lecturas recomendadas para comprender KYOKO (estos son títulos en japonés):**
 
 * KYOKO（集英社・幻冬舎・村上龍電子本製作所）
 * KYOKOの軌跡－神が試した映画－（幻冬舎）

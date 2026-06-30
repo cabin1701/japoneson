@@ -26,72 +26,85 @@ Autor y Arreglista: José Luis Cortés
 
 <div class="murakami-cd-text-contents">
 
-## From liner notes
+## De las notas del disco
 
-NG La Banda's concert in Japan was a huge success.  
-NG is a great band after all, and they did what I expected them to do.
+La gira de conciertos de NG La Banda en Japón fue, por el momento, un gran éxito.
 
-"I first played the violin at the Conservatorium (music school), but it didn't work out at all and I was always crying. It must have been really painful because I was crying. One day, my wind instrument professor told me that my lips were suited for the flute. So I started playing the flute. ”
+NG es realmente una banda tremenda, y cumplieron exactamente con lo que cabía esperar — a este nivel — lo cumplieron de verdad.
 
-"After the revolution, many classical musicians from the former Eastern Europe came to Cuba and began teaching classical music of a very high standard to a select group of young people. Of course, all schools do not require tuition fees. I enjoyed the process of improving my instrument, but I was also frustrated because I could only play classical music.''
+Solo con eso basta.
 
-"As you know well, the tradition of Cuban music is extremely rich. There are all kinds of rhythms, and the songs are really beautiful. But we were forbidden to play Cuban music.  
-Thinking about it now, I may have been right. Because I was thoroughly exposed to classical music, I, as well as the other NG members, were able to acquire extremely advanced techniques. ”
+Supongo que ahora se entiende un poco lo que yo venía diciendo.
 
-"A funny thing happened. People always say that Cuban music is fun. Because it's fun to play music, right? We can't play music in a sad mood. , my professor told me, "Play it with sadness.'' I couldn't do that, because no matter how sad a song is, it's fun to play.''
+Casi todo lo que escuchamos a diario en este país difícilmente puede llamarse "música."
 
-"Still, one day, I really wanted to play Cuban music. So I started playing Cuban music with my friends, unbeknownst to my professor. When that was discovered, I was banned from going out on holidays. Because classical music isn't our music.
+"En el conservatorio empecé con el violín, pero no avanzaba nada, siempre estaba llorando. *Yo*, llorando — debió de ser muy duro. Al cabo de un tiempo, el profesor de instrumentos de viento me dijo que mis labios eran adecuados para la flauta. Así que empecé con la flauta."
 
-It is natural for everyone to want to make their own music someday, isn't it? ”
+"Después de la revolución, vinieron a Cuba muchos intérpretes clásicos de la antigua Europa del Este, y empezaron a enseñar música clásica a un nivel altísimo a un grupo de jóvenes seleccionados. Por supuesto, ninguna escuela cobraba matrícula. El proceso de progresar con el instrumento era divertido, pero que me dijeran que solo podía tocar lo clásico — eso me frustraba."
 
-“I participated in the founding of Los Van Van and then joined Irakere.I was scheduled to go to the Czech Republic to study music, but it was canceled because of my bad behavior. I guess it wasn't a good idea to perform Cuban music without the professor's attention. Although Los Van Van and Irakere are different types, they were both top bands representing Cuba. However, in the mid-1980s, I formed a session band with my old friends from music school and started playing jazz. That's the origin of NG La Banda. ”
+"Como Murakami sabe bien, la tradición de la música cubana es tremendamente rica. Hay toda clase de ritmos, y las canciones son verdaderamente bellas. Pero teníamos prohibido tocar música cubana. Pensándolo ahora, quizá fue lo correcto. Gracias a que nos metieron lo clásico a fondo, yo — y no solo yo, los demás miembros actuales de NG también — pudimos adquirir una técnica muy alta."
+
+"Hubo también momentos curiosos. Todo el mundo dice siempre que la música cubana es divertida, pero tocar música es divertido, ¿no? Hacer música con ánimo triste — para nosotros es imposible. Una vez, el profesor me dijo que tocara cierta pieza 'con tristeza adentro.' No pude hacerlo. Por triste que sea la pieza, cuando la tocas, es divertido."
+
+"Aun así, llega el momento en que tienes muchísimas ganas de hacer música cubana; empezamos a tocarla a escondidas de los profesores, con los amigos. Y cuando nos pillaban, nos prohibían salir en los días libres — así era, día tras día. Después de todo, lo clásico no es *nuestra* música. Cualquiera, tarde o temprano, quiere tocar su propia música — es lo natural."
+
+"Yo participé en fundar Los Van Van y luego entré en Irakere. La verdad es que tenía decidido un viaje de estudio a Checoslovaquia, pero se canceló por mala conducta. Probablemente tocar música cubana a espaldas de los profesores, esas cosas, no había caído bien. Los Van Van e Irakere son de tipos distintos, pero ambas eran bandas top que representaban a Cuba; y a partir de mediados de los años 80, junto con mis viejos amigos de la escuela de música, formé una banda de sesión y empecé a tocar jazz. Esa fue la matriz de NG La Banda."
 
 ![](/images/wp/2024/02/1993-NG-Tosco.jpg)
 
-The band members that José Luis assembled were truly amazing.
+Los miembros que reunió José Luis eran realmente un grupo tremendo.
 
-“You were surprised at the recording as well as the concert, weren't you? I think the only people who could record such an ensembled song in such a short time were the old Afro-Cubans or Irakere at its peak. Mexico, the U.S.A., Puerto Rico, etc it would take a month, even a year.”
+"Te habrá asombrado la grabación tanto como el concierto. Grabar piezas de ensamble como las nuestras en tan poco tiempo — solo los antiguos grupos afrocubanos, o Irakere en su apogeo, podrían haberlo hecho. Una banda mexicana, estadounidense o puertorriqueña tardaría un mes. Quizá ni siquiera lo logren en un año."
 
-NG La Banda finished recording a total of nine songs, including six new songs, in two days. Including the mixdown, we made one CD in four days.
+NG terminó la grabación de nueve piezas en total, incluidas seis canciones nuevas, en dos días.
 
-"NG's drums, synths, piano, bass, and alto saxophones are all people who would be leaders and have their own bands in other countries.But in Cuba, it's more convenient to be in a supergroup, so we've gathered in NG for now. That's why you can do things like that. ”
+Incluyendo la mezcla, eso significa un CD entero en cuatro días.
 
-"Jazz influenced me a lot. I have performed at jazz festivals in many countries. The way I studied jazz was that one person would record the radio coming in from Miami, and then everyone would listen to and copy it. But that's not to say jazz is everything.''
+"La cosa es así. El baterista, el sintetizador, el pianista, el bajista, el saxofonista alto de NG — cada uno de ellos, en otro país, sería líder con su propia banda. Pero en Cuba conviene más existir a un nivel súper, así que por ahora están todos reunidos en NG. Por eso podemos hacer cosas como esta."
 
-"I once saw a video of a Miles Davis concert, and during one of his solo parts, Miles turned his back to the audience and played the trumpet. I couldn't believe it. Who was he playing for? It's for everyone. It is not playing it for myself.”
+"Recibimos muchísima influencia del jazz. Yo mismo he tocado en festivales de jazz de varios países. ¿Cómo estudiábamos jazz? Uno grababa la radio que llegaba desde Miami, y entre todos copiábamos de ahí. Pero eso no significa que el jazz lo sea todo."
 
-"We don't want to play jazz. We use jazz as an item. What we want to do is fusion. We'd like them to call us a jazz fusion band, not salsa."
+"Una vez vi un video de un concierto de Miles Davis, y en una parte de solo Miles tocaba la trompeta de espaldas al público. Eso no se hace. O sea, ¿para quién estás tocando? Estás tocando para todos, ¿no? No lo haces para ti mismo."
 
-What Jose Luis is talking about is the original meaning of "FUSION."
+"No es que queramos tocar jazz. Usamos el jazz como uno de los elementos. Lo que queremos hacer es fusión. Me gustaría de verdad que nos llamaran banda de jazz-fusión, no salsa."
 
-"Classical music may be the only thing that we really respect in the sense that we can't surpass that."
+Cuando se dice fusión, a uno le viene a la cabeza la música basura de la costa oeste estadounidense — pero lo que José Luis quiere decir es el sentido original de la palabra: "fusión de cosas distintas."
 
-I was with Jose Luis almost all the time, but we didn't talk much about anything other than music.
+"En el sentido de que no se la puede superar, quizá lo único a lo que realmente le tengo respeto sea la música clásica."
 
-He was an undeniable "musician" and had no interest in anything else. Once the recording was finished, a long, boring trackdown began. As the wait time was unusually long, I was able to gradually ask him about his private life and various things about Cuba.
+Estuve con José Luis casi todo el tiempo, pero rara vez hablamos de algo que no fuera música.
 
-We've talked about women.
+Él es, sin duda, un "músico," sin interés en nada más; pero una vez terminada la grabación y comenzada la larga, larga y aburrida bajada de pistas, los tiempos de espera se hicieron absurdamente largos, y poco a poco pude oírle cosas privadas y todo tipo de historias cubanas.
 
-It's a big lie that bad wives give birth to art and science.
+Hablamos sobre los celos de las mujeres.
 
-By the way, in Japan, a lot of jealous women will strangle their girlfriends while they're sleeping, but in Cuba, some cut off their dicks or pour gasoline on them and try to set them on fire.
+Cuando llegas tarde por la noche, muerto de cansancio, ella se imagina lo que le da la gana y empieza a quejarse — "que el perro qué, que los niños qué." Esa clase de mujeres son lo peor. En eso coincidimos.
 
-There is a great rumba singer who once had her penis cut off. She was in prison for four years, but now she has come back and is singing the rumba. Even though she was cut, she seems to be doing well walking around town.
+Eso de que "las malas esposas dan a luz al arte y a la ciencia" es una gran mentira.
 
-If it were Japan, this would have been talked about for decades as a bizarre incident. This is the difference between Japan and Cuba.
+Por cierto, lo más que hace una mujer japonesa celosa es estrangularte mientras duermes; pero en Cuba, al parecer, hay quien te corta el pito, o te echa gasolina e intenta prenderte fuego.
 
-NG's bassist, Feliciano Arango, is a super energetic guy who makes you realize that this is what energy is all about.
+Hay una gran cantante de rumba; al parecer ella cortó un pito una vez. Pasó cuatro años en la cárcel, pero ahora ha vuelto y canta rumba con todo su brío.
+El tipo al que se lo cortaron, dicen, también anda por la calle muy a gusto.
 
-I have never met a person with so much energy. Not only is he energetic, but he's also smart. He has the face and body of a middleweight boxer rather than a bassist. He plays great, eats well, drinks well, makes those around him laugh, and laughs himself.
+En Japón, sería un suceso macabro, comentado durante décadas.
 
-When I once asked him, "Why are you so energetic?'' he answered, "Because I'm human.''
+Esa clase de cosas son la diferencia entre Japón y Cuba.
 
-Great answer.
+El bajista de NG es un hombre llamado Feliciano Arango — un tipo súper enérgico, de los que te hacen pensar: ah, así que esto es lo que es la energía. Convencido quedo.
 
-I'll never forget that answer.
+No he conocido en mi vida a una persona con tanta energía.
+
+Por supuesto no es solo energía — también es inteligente. Más que de bajista, tiene la cara y el cuerpo de un boxeador de peso medio. Toca de manera increíble, come bien, bebe bien, hace reír a quienes lo rodean, y él mismo se ríe.
+
+"¿Por qué tienes tanta energía?" le pregunté una vez. "Porque soy un ser humano," respondió.
+
+Una respuesta tremenda.
+
+Esa respuesta no la olvidaré jamás.
 
 Ryu Murakami  
-Reprinted from The Best Magazine (published by KK Bestsellers)
+*Reproducido de The Best Magazine (KK Bestsellers)*
 
 </div>
 

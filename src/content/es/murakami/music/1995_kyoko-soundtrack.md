@@ -53,49 +53,49 @@ composer & director : José Luis Cortés
 
 <div class="murakami-cd-text-contents">
 
-The music for the film *KYOKO* — its concept kept changing as the screenplay progressed and shifted. Cuba has countless beautiful songs, an uncountable number of bands old and new mixed together, and so many kinds of music that you can't grasp them right away.
+La música para la película *KYOKO* — su concepto fue cambiando a medida que el guion avanzaba y se transformaba. Cuba tiene incontables canciones bellas, una cantidad inabarcable de bandas viejas y nuevas mezcladas, y tantas clases de música que no se pueden comprender de inmediato.
 
-From all of that, I first had to choose the one song that should become "Kyoko's theme." Of all Cuban songs, the most famous is "Siboney," by Ernesto Lecuona. To express a certain mood the film carries, the theme song had to be familiar enough to hum on the way out of the cinema, and at the same time aching, and beautiful, and it had to have that Cuban kind of exhilaration too.
+De entre todo eso, primero tenía que elegir la canción que sería "el tema de Kyoko." De todas las canciones cubanas, la más famosa es "Siboney," de Ernesto Lecuona. Para expresar cierto estado de ánimo que la película lleva, la canción tema tenía que ser familiar como para tararearla al salir del cine, y a la vez doliente, y bella, y tenía que tener también esa exaltación tan cubana.
 
-Using the unit of NG La Banda, in February 1995, between Saki Takaoka's dance lessons, we began recording "Siboney." The image I had for the singer was Alberto Lavariati, the wonderful vocalist of the Lecuona Cuban Boys, the super-popular band of the 1930s–40s.
+Usando la formación de NG La Banda, en febrero de 1995, entre las clases de baile de Saki Takaoka, comenzamos la grabación de "Siboney." La imagen que tenía para el cantante era la de Alberto Lavariati, el maravilloso vocalista de los Lecuona Cuban Boys, la banda más popular de los años 30 y 40.
 
-The singer originally planned was an old men's duo, Lorito and Armandito, from the group Roberto Faz. Faz was one of Cuba's representative *bolero* singers, and Lorito had sung in a duo with Faz himself, far back in time, in the band Conjunto Casino. Even after Faz himself died, the band Conjunto Roberto Faz remained, and Armandito had joined because he had a voice very like Faz's.
+El cantante planeado al principio era un dúo de ancianos, Lorito y Armandito, del grupo Roberto Faz. Faz fue uno de los cantantes de *bolero* representativos de Cuba, y Lorito había cantado en dúo con el propio Faz, mucho tiempo atrás, en la banda Conjunto Casino. Incluso después de que el propio Faz muriera, la banda Conjunto Roberto Faz permaneció, y Armandito había entrado porque tenía una voz muy parecida a la de Faz.
 
-I love the beautiful voices of those two old men, and I had used them on Murakami's *Cuban Canzone* as well. But the two voices were not suited to "Siboney." Ernesto Lecuona was originally a classical composer, and "Siboney" had a particularly strict melodic line.
+Amo las bellas voces de esos dos ancianos, y los había empleado también en el *Cuban Canzone* de Murakamiz. Pero las dos voces no servían para "Siboney." Ernesto Lecuona era originalmente un compositor clásico, y "Siboney" tenía una línea melódica especialmente estricta.
 
-We called many singers to the studio late at night and had them sing, but none could sing it like Lavariati.
+Llamamos a muchos cantantes al estudio en plena noche y los hicimos cantar, pero ninguno podía cantarlo como Lavariati.
 
-In despair, I pulled myself together — "but this is Cuba, surely someone must exist" — and searched desperately, getting to see every kind of video at TV stations.
+En la desesperación, me animé — "pero esto es Cuba, seguro que existe alguien" — y busqué desesperadamente, haciendo que en las cadenas de televisión me dejaran ver toda clase de videos.
 
-That is how, as the thirteenth, Javier Olmo came to the studio.
+Así fue como, como el decimotercero, llegó al estudio Javier Olmo.
 
-Javier was the son of José "Pepe" Olmo, who had been side vocalist with Orquesta Aragón, and he was a member of the National Choir.
+Javier era el hijo de José "Pepe" Olmo, que había sido vocalista secundario de la Orquesta Aragón, y era miembro del Coro Nacional.
 
-We waited at the exit of the venue for the choir's performance to end, and got him into the car and brought him straight to the studio. The telephone wouldn't go through, and we had the studio's reserved time, so there was no other way.
+Esperamos en la salida del recinto a que terminara la actuación del coro, lo subimos al coche y lo llevamos directo al estudio. El teléfono no entraba, y teníamos la hora reservada del estudio, así que no había otra manera.
 
-Javier, with almost no rehearsal, sang in just five minutes, perfectly, the "Siboney" that the other singers had struggled with for two or three hours and ultimately could not sing.
+Javier, casi sin ensayo, cantó en apenas cinco minutos, a la perfección, el "Siboney" con el que los otros cantantes habían luchado dos o tres horas y al final no habían podido cantar.
 
-Delighted and excited, I said, "Your voice is going to ride on the film and play all over the world" — but Javier just blinked, with a look of "What are you talking about?" That was my meeting with Javier.
+Alegre y excitado, le dije: "Tu voz va a montarse en la película y va a sonar por todo el mundo," — pero Javier solo parpadeó, con cara de "¿De qué hablas?" Ese fue mi encuentro con Javier.
 
-Javier's voice was so wonderful that we decided to re-record the inserted songs "Esperanza" and "Nosotros," which were supposed to use the originals, in his voice. To commission the two pieces of accompaniment, I went to see Orquesta Aragón, who were performing in a country town two hours from Havana. Aragón is the legendary orquesta about to mark its fiftieth anniversary. The two geniuses Richard Egües and Rafael Lay created Aragón, and its repertoire — limited to what they've recorded — is said to exceed 800 songs.
+La voz de Javier era tan maravillosa que decidimos re-grabar las canciones insertadas "Esperanza" y "Nosotros," que iban a usar las originales, con su voz. Para encargar los dos acompañamientos, fui a ver a la Orquesta Aragón, que estaba actuando en un pueblo a dos horas de La Habana. Aragón es la orquesta legendaria que está por cumplir cincuenta años. Los dos genios Richard Egües y Rafael Lay crearon Aragón, y su repertorio — solo lo que han grabado — se dice que supera las 800 canciones.
 
-Currently, Rafael Lay's son is the leader, with their performing activity centered on Central and South America. That Aragón was, unusually, in Cuba. In a country-town restaurant, pitch dark in the middle of a power outage, I asked Rafael Lay Jr.: "Record for the film for me."
+Actualmente, el hijo de Rafael Lay es el líder, con la actividad de actuación centrada en Centro y Sudamérica. Esa Aragón estaba, por una rareza, en Cuba. En un restaurante de pueblo, en plena oscuridad por un corte de luz, le pedí a Rafael Lay Jr.: "Graba para la película, por favor."
 
-"Oh, you're Murakami — you're young," Junior said, and casually took the job.
+"Ah, tú eres Murakami — eres joven," dijo Junior, y aceptó el trabajo con naturalidad.
 
-And so "Esperanza" was born. It was a recording done in the blink of an eye. When it was over and we paid everyone their fee in cash, one could hear voices shouting, "All right, now to buy liquor and head to the women's place."
+Y así nació "Esperanza." Fue una grabación hecha en un abrir y cerrar de ojos. Cuando terminó y le pagamos a todos su honorario en efectivo, se oían voces que gritaban: "¡Bueno, ahora a comprar alcohol e ir donde las mujeres!"
 
-The newly recorded "Esperanza" came out so well that we decided to record the other inserted songs anew as well. Septeto Nacional, with Pancho Amat as director, and the singing by Zenaida Armenteros. Septeto Nacional is the legendary band created by the great Ignacio Piñeiro. Pancho is the genius *tres* guitarist formerly with Adalberto Álvarez's band, and Zenaida was the in-house singer of Conjunto Folklórico Nacional, where Saki Takaoka had taken her dance lessons. With that combination, we recorded "Las Cuatro Palomas" and "Lágrimas Negras."
+La recién grabada "Esperanza" salió tan bien que decidimos grabar también de nuevo las otras canciones insertadas. Septeto Nacional, con Pancho Amat como director, y el canto a cargo de Zenaida Armenteros. Septeto Nacional es la banda legendaria creada por el gran Ignacio Piñeiro. Pancho es el genial guitarrista de *tres* que antes estaba en la banda de Adalberto Álvarez, y Zenaida era la cantante de la casa del Conjunto Folklórico Nacional, donde Saki Takaoka había tomado sus clases de baile. Con esa combinación, grabamos "Las Cuatro Palomas" y "Lágrimas Negras."
 
-In the end, the film came to use songs that represent Cuba, both old and new.
+Al final, la película terminó usando canciones que representan a Cuba, viejas y nuevas.
 
-Aragón, Ignacio Piñeiro, Benny Moré, Trío Matamoros, Lecuona, and NG La Banda and José Luis Cortés.
+Aragón, Ignacio Piñeiro, Benny Moré, Trío Matamoros, Lecuona, y NG La Banda y José Luis Cortés.
 
-This music supported, and saved, the film *KYOKO*.
+Esta música sostuvo, y salvó, la película *KYOKO*.
 
-In particular, "Esperanza" will probably become, I think, one of the most important songs of my life.
+En particular, "Esperanza" llegará a ser, creo, una de las canciones más importantes de mi vida.
 
-5 Dec. 1995 Ryu Murakami
+5 de diciembre de 1995  Ryu Murakami
 
 </div>
 

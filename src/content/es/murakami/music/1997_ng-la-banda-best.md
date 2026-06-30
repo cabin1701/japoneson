@@ -26,23 +26,23 @@ All Songs Written by José Luis Cortés
 
 <div class="murakami-cd-text-contents">
 
-The first time I saw NG was in Havana, five years ago.
+La primera vez que vi a NG fue en La Habana, hace cinco años.
 
-In the five years since, they have made consecutive Japan tours, so they have become the most famous Cuban contemporary salsa band. But they hate being called a salsa band. Yet there isn't really any other good way to put it, and in the end they get filed under genres like Latin funk or Latin fusion, which don't quite fit either. The eight songs gathered on this best-of album were all recorded under my production, and the recording sessions have, by now, become legend among the people who were there.
+En los cinco años que han pasado desde entonces, han hecho giras consecutivas por Japón, así que se han convertido en la banda de salsa contemporánea cubana más famosa. Pero ellos detestan que los llamen banda de salsa. Y aun así no hay realmente otra buena manera de decirlo, así que al final acaban clasificados en géneros como latin funk o latin fusion, que tampoco encajan del todo. Las ocho canciones reunidas en este recopilatorio fueron todas grabadas bajo mi producción, y las sesiones de grabación se han convertido ya en leyenda entre la gente que estuvo allí.
 
-For example, in a recording project of "nine songs total, running time 62 minutes," on the first day they laid in the rhythm section — piano, drums, conga, bongos, and bass; on the second day they overlaid the horn section ensembles and solos; on the third day they added the chorus; on the fourth day they put in the vocals; and the remaining two days were spent on mixing — making a CD in six days. Of course, faster isn't necessarily better. But if you weren't good, you couldn't go this fast.
+Por ejemplo, en una grabación de "nueve canciones en total, duración 62 minutos," el primer día metieron la sección rítmica — piano, batería, conga, bongó y bajo; el segundo día superpusieron los ensembles de la sección de vientos y los solos; el tercer día añadieron el coro; el cuarto día metieron las voces; y los dos días restantes los dedicaron a la mezcla — haciendo un CD en seis días. Por supuesto, más rápido no es necesariamente mejor. Pero si no fueran buenos, no podrían ir tan rápido.
 
-"It's so good you don't even need to be this good" — that's what Ryuichi Sakamoto said.
+"Es tan bueno que ni siquiera hace falta ser tan bueno" — eso fue lo que dijo Ryuichi Sakamoto.
 
-How can you be this good? — I once asked a Cuban.
+¿Cómo pueden ser tan buenos? — le pregunté una vez a un cubano.
 
-"We practice."
+"Practicamos."
 
-That's what they answered.
+Eso fue lo que respondieron.
 
-It's true, the amount of practice they do is no joke. In the end, I think their seriousness toward music is just on a different level.
+Es cierto, la cantidad de práctica que hacen no es ninguna broma. Al final, creo que su seriedad respecto a la música está, simplemente, en otro nivel.
 
-The current NG has gone through repeated member changes, and is, frankly, not in its best state. Generational turnover in Cuba's music world is also intense. This best-of album, including in that sense, has become, I take some pride in saying, the finest from NG La Banda's prime era.
+La NG de ahora ha pasado por sucesivos cambios de miembros, y, francamente, no está en su mejor estado. La rotación generacional en el mundo musical cubano también es intensa. Este álbum recopilatorio, en ese sentido también, se ha convertido, me enorgullece decirlo, en lo mejor de la época de máximo esplendor de NG La Banda.
 
 Ryu Murakami
 

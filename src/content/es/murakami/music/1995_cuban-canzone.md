@@ -30,11 +30,11 @@ Estrellas de Cuba
 
 <div class="murakami-cd-text-contents">
 
-From the 1950s into the early 1960s, *canzone* ruled the world. It's interesting that this overlaps exactly with the peak of Italian cinema.
+Desde los años 50 hasta principios de los 60, la *canzone* dominó el mundo. Resulta interesante que esto coincida justo con el apogeo del cine italiano.
 
-There were several wonderfully beautiful songs. At just that time, I was in the upper grades of elementary school and in junior high, and the songs of Gigliola Cinquetti, Bobby Solo, and Wilma Goich that came from the radio — I listened to them with pleasure. Between Presley and the Beatles and the Stones, those songs entertained me, like rare and beautiful trees that bloom for only a very short while. This is an album in which I had José Luis Cortés arrange that kind of song in a Cuban style, and had various singers sing them.
+Hubo varias canciones maravillosamente bellas. Justo en aquella época yo estaba en los últimos grados de la primaria y en la secundaria, y las canciones de Gigliola Cinquetti, Bobby Solo y Wilma Goich que sonaban en la radio, las escuchaba con placer. Entre Presley y los Beatles y los Stones, aquellas canciones me entretenían, como árboles raros y bellos que florecen apenas un instante. Este es un álbum en el que hice que José Luis Cortés arreglara ese tipo de canciones al estilo cubano, y se las hice cantar a varios cantantes.
 
-I think it's best on a refreshing holiday, listening together with good pasta and salad and espresso.
+Creo que se disfruta al máximo en un día de descanso fresco, escuchándolo junto con buena pasta, ensalada y un café espresso.
 
 Ryu Murakami
 
@@ -68,7 +68,7 @@ Guillermo Amores (Guiro)
 
 Produced By: Ryu Murakami  
 Sound produced By: José Luis Cortés  
-Recorded & Mixed By: Ramón Alom, Rolando Santos,  Sinji Nishikubo (Music Inn)  
+Recorded & Mixed By: Ramón Alom, Rolando Santos,  Sinji Nishikubo (Music Inn)  
 Mastering Engineer: Tomie Kato (Sony Records)  
 Art Direction & Design: Tomoaki Sakai (Blancchic)  
 Illastration: Tadasu Arita  
@@ -76,5 +76,5 @@ Photograph:
 Translated By: Yukiko Yoshino except M7  
 Toshikazu Mori (BABEL INTERNATIONAL)  
 Production Service: Kazue Okuma Promortion Staff: Shoji Koyama, Mutumi Mastumoto  
-Supervisor: Ikuo Nabeta, Tamio Suzuki (Sony Records)  
+Supervisor: Ikuo Nabeta, Tamio Suzuki (Sony Records)  
 Special Thanks To: Caridad Diez, Narciso Hernández, Genichi Yamamoto (Shueisha), Haruhiko Kono

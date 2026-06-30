@@ -1,50 +1,50 @@
 ---
-title: "The New Other, Cuba"
+title: "El nuevo otro, Cuba"
 slug: newother
 hero_image: "/images/murakami/hero_newother.jpg"
-hero_kicker: "FROM THE TRAJECTORY OF KYOKO"
-hero_subtitle: "The film that God put to the test — Cuba as a New Other."
+hero_kicker: "DE LA TRAYECTORIA DE KYOKO"
+hero_subtitle: "La película que Dios puso a prueba — Cuba como un nuevo otro."
 hero_height: 920
 wp_id: 16730
 wp_parent: 17150
 ---
 
-## "A New Other — Cuba"
+## "Un nuevo Otro: Cuba"
 
-> "The reason why Cuba was so important was because it was related to my problems with The U.S.A. For me, the relationship with 'The United States of America' was so important that it was reflected in many of my works. 'U.S.A.' has always influenced me, to the point where I refuse to criticize or make accurate judgments. Actually, I think all Japanese people were like that after the war, but I was born in Sasebo, a town that used to be a US military base, and I grew up in an environment where a U.S. officer's Japanese woman who was called 'ONLY' lived next to my house. I think I was in an environment where it was easier to understand.
+> "Cuba pesó tanto para mí porque también se relaciona con el problema entre yo y 'América.' Para mí, la relación con 'América' era algo tan grande que se reflejaba en toda clase de obras mías. 'América' había sido una influencia tan profunda que rechazaba la crítica o cualquier juicio certero. Creo que, en realidad, todos los japoneses de la posguerra éramos así; pero yo nací en Sasebo, una ciudad con una base militar estadounidense, y crecí en un entorno donde, justo al lado de mi casa, vivía una 'only' de un oficial estadounidense; así que creo que estaba en una posición desde la que era más fácil verlo.
 >
-> I think that the fact that negotiations are taking place without proper dialogue between the Japanese prime minister and the U.S. president is symbolically indicative of the Japan-U.S. relationship. In other words, it's a state of slavery to values. I think the biggest reason why this happened is because we didn't have a decisive battle on the mainland. ...It's not a matter of discipline, but before I knew it, I had come to think that America was cool.
+> Que las negociaciones entre el primer ministro japonés y el presidente estadounidense se lleven a cabo sin un diálogo apropiado me parece que muestra simbólicamente la relación Japón–EE. UU.: es un estado de esclavitud a sus valores, podría decirse. La razón más grande de que terminara así, creo, es que nunca libramos la batalla decisiva en el propio suelo. Por supuesto que fue mejor no haberla librado: habría sido catastrófico. Pero como no lo hicimos, el enemigo contra el que habíamos luchado se volvió difuso. Peor aún, esta vez tomamos los valores y el estilo de vida de América como modelo, por entero. Como si dijéramos: se suponía que eran el enemigo, pero al conocerlos no eran tan mala gente después de todo. …Es una especie de falta de principios; antes de darnos cuenta, 'América es lo genial' se había vuelto la norma.
 >
-> In a state of slavery to such values, there are only two ways to go about it: to make a fool of The U.S. and reject it or to admire The U.S. and talk like the DJs in the U.S. I thought so for a long time. There were times when I tried to put up a pretense of walking on the edge of nationalists and non-nationals, but in reality, I couldn't do anything.
+> En ese estado de esclavitud a los valores, solo hay dos caminos: burlarse de América y rechazarla, o anhelar a América y hablar como un DJ de allá. Durante mucho tiempo pensé que eso era todo. Solía darme aires de 'caminar por la orilla entre el nacionalista y el traidor,' pero en realidad, al final, no pude hacer nada.
 >
-> But when I learned about Cuba, its music, and its culture, I felt like I was completely freed from America. I thought that jazz and rock were the only ways to compete with classical music, but it turns out that Cuba had other means."
+> Entonces, cuando llegué a conocer Cuba y su música y su cultura, sentí como si me volviera tremendamente libre de América. Así que al principio elogié a Cuba casi hasta el punto de recalentarme: 'Hasta ahora me habían engañado, con música oscura como el jazz…' No: ahora que me he calmado, el jazz también tiene sus virtudes, sus buenas cosas. Es solo que en aquel entonces despedazaba el jazz. Había pensado que para hacer frente a lo clásico solo estaban el jazz, el rock; pero el país llamado Cuba tenía otro medio por completo."
 >
-> — Ryu Murakami, from *The Trajectory of KYOKO: The Film That God Put to the Test* (Gentosha)
-
----
-
-## America as Other
-
-> ### Pride that is not immutable
->
-> I was born in a base town, in the seventh year after the last great war ended. Now, as I do the shooting and editing of the film "KYOKO" in America, staying in a small old hotel in West Hollywood and writing this manuscript for a Japanese newspaper, I am strongly conscious of having been born in a town with a U.S. military base. What meaning the defeat, the subsequent occupation by the U.S. military, and the survival of the bases under the Security Treaty held for the nation of Japan — that kind of question is not very important to me. In a town with a U.S. base, there were things the Japanese communal control could not reach; from the very start, something stood exposed. A foreign army stationed there, occupying part of the national land — that situation was, when you think about it, the first such since the dawn of history. Next door to the house where I was born and raised lived an "only" of a U.S. military officer (mostly women under contract as prostitutes; among them were some who had married G.I.s). I am of the first generation to have witnessed, as a child, a woman of my own country being "kept" by a foreigner, the stronger party. This does not mean that my pride as a member of the Japanese people is therefore thin. Nor does it mean that I leaned, body and soul, toward America as the stronger party.
->
-> I only came to know that the pride of a people is not something that towers permanently and immutably somewhere; it is something that can be taken away all too easily, or, conversely, taken from others.
->
-> ### Won over twenty years
->
-> In both the film and the novel, Kyoko, the heroine I built up, is a woman set free from the Japanese communal order by the personal physicality of dance, and by traveling the American East Coast alone, she impresses upon the American minority people around her the attractive qualities of a Japanese woman. The structure of that story is something I was only able to win after twenty years had passed since my debut. In my relationship with America, I had until now been intensely Japanese. I used to put on airs about walking the narrow waterline between nationalist and traitor, but in reality I could do nothing. There were only two extreme attitudes: become a slave to American values, or hysterically reject anything American. Those two attitudes are common to everyone — from the women called "yellow cabs" and the boys in black-rapper fashion, to successive governments, including the appearance of a book like "The Japan That Can Say No."
->
-> We must not forget the simple but usually invisible truth: that what showed the high level of Japanese baseball was Nomo, who leapt out of the Japanese baseball world. As long as you stay inside the comfortable Japanese communal order, you cannot show the pride of the Japanese people. In making the film in America, since everyone except the lead actress and me was almost entirely American, every single thing about me was put to the test. The reality of the screenplay, film technique, physical stamina, humanity, even what kind of smile I made — all of it was tested. I was lonely, but I had never had such an enjoyable experience, and I could feel my own store of information rising by an extraordinary degree.
->
-> The Cuban music used in the film moved many of the American staff. Cuban music and dance supported my film and novel, and made my relationship with America objective. Through Cuba, I was able to grasp, calmly, both the power that America holds and its fundamental loneliness. It is in our involvement with an Other that we come to know ourselves, and through yet another, new Other, the relationships up to then become objective. And unless you understand the highest priority within yourself, you cannot meet an Other. In "KYOKO," I learned these things.
->
-> — Ryu Murakami, December 3, 1995, *Nishinippon Shimbun*
+> — Ryu Murakami, de *La trayectoria de KYOKO: la película que Dios puso a prueba* (Gentosha)
 
 ---
 
-> The basic thing has not changed at all since the days I walked beside the barbed wire as a child. But now, the "barbed wire" that had always been in my heart has disappeared.
+## América como Otro
+
+> ### Un orgullo que no es inmutable
 >
-> — Kyoko (from the novel)
+> Nací en una ciudad de base militar, en el séptimo año después de que terminara la última gran guerra. Ahora, mientras realizo el rodaje y la edición de la película "KYOKO" en América, alojado en un pequeño hotel viejo de West Hollywood y escribiendo este texto para un periódico japonés, soy intensamente consciente de haber nacido en una ciudad con una base militar estadounidense. Qué significado tuvieron para la nación de Japón la derrota, la posterior ocupación por el ejército estadounidense y la permanencia de las bases bajo el Tratado de Seguridad: esa clase de pregunta no es muy importante para mí. En una ciudad con una base estadounidense había cosas que el control comunal japonés no alcanzaba; desde el inicio mismo, algo quedaba expuesto. Que un ejército extranjero se estacionara y ocupara parte del territorio nacional fue, si uno lo piensa, la primera vez desde los albores de la historia. Al lado de la casa donde nací y me crié vivía una "only" de un oficial militar estadounidense (en su mayoría mujeres contratadas como prostitutas; entre ellas, algunas que se habían casado con soldados). Soy de la primera generación que presenció, de niño, a una mujer de mi propio país siendo "mantenida" por un extranjero, la parte más fuerte. Esto no significa que mi orgullo como miembro del pueblo japonés sea, por ello, tenue. Tampoco significa que me inclinara, en cuerpo y alma, hacia América como la parte más fuerte.
+>
+> Solo llegué a saber que el orgullo de un pueblo no es algo que se yerga permanente e inmutable en algún lugar; es algo que puede serte arrebatado con suma facilidad o, al contrario, que tú puedes arrebatar a otros.
+>
+> ### Conquistado en veinte años
+>
+> Tanto en la película como en la novela, Kyoko, la heroína que construí, es una mujer liberada del orden comunal japonés por la fisicidad personal del baile, y, al viajar sola por la costa este de América, va grabando en la gente de las minorías estadounidenses que la rodea las cualidades atractivas de una mujer japonesa. La estructura de esa historia es algo que solo pude conquistar después de que pasaran veinte años desde mi debut. En mi relación con América, hasta ahora había sido intensamente japonés. Solía darme aires de caminar por la estrecha orilla entre el nacionalista y el traidor, pero en realidad no pude hacer nada. Solo había dos actitudes extremas: volverse esclavo de los valores americanos, o rechazar histéricamente todo lo americano. Esas dos actitudes son comunes a todos: desde las mujeres llamadas "yellow cabs" y los muchachos con la moda de los raperos negros, hasta los sucesivos gobiernos, incluida la aparición de un libro como "El Japón que puede decir no."
+>
+> No debemos olvidar la verdad simple pero por lo común invisible: que quien mostró el alto nivel del béisbol japonés fue Nomo, que saltó fuera del mundo del béisbol japonés. Mientras permanezcas dentro del cómodo orden comunal japonés, no puedes mostrar el orgullo del pueblo japonés. Al hacer la película en América, como todos salvo la actriz protagonista y yo eran casi por completo estadounidenses, cada cosa de mí fue puesta a prueba. La verosimilitud del guion, la técnica cinematográfica, la resistencia física, la humanidad, hasta qué clase de sonrisa hacía: todo fue puesto a prueba. Estaba solo, pero nunca había tenido una experiencia tan disfrutable, y podía sentir cómo mi propio caudal de información subía en un grado extraordinario. No soy tan simple como para pensar que, para liberarse del orden comunal japonés, uno deba salir a ciegas al mundo. El orden comunal japonés lo construyen ahora japoneses por todo el mundo, y, por supuesto, no todo él es malo.
+>
+> La música cubana usada en la película conmovió a muchos del equipo estadounidense. La música y el baile cubanos sostuvieron mi película y mi novela, e hicieron objetiva mi relación con América. A través de Cuba pude captar, con calma, tanto el poder que tiene América como su soledad fundamental. Es en nuestra implicación con un Otro donde llegamos a conocernos a nosotros mismos, y, a través de otro Otro, nuevo, las relaciones de hasta entonces se vuelven objetivas. Y si no comprendes la prioridad más alta dentro de ti, no puedes encontrarte con un Otro. En "KYOKO," aprendí estas cosas.
+>
+> — Ryu Murakami (3 de diciembre de 1995, Nishinippon Shimbun)
+
+---
+
+> Lo esencial no ha cambiado nada desde los días en que, de niño, caminaba junto a la alambrada. Pero ahora, la "alambrada" que siempre había estado en mi corazón ha desaparecido.
+>
+> — Kyoko (de la novela)
 
 ![](/images/wp/2026/05/kyoko-dancin-BW02.jpg)

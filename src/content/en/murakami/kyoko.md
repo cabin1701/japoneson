@@ -17,7 +17,7 @@ My only goal was to see him again, to say thank you and to dance with him, to he
 
 Good Luck Girl, you'll be fine. God is with you.| Ralph Biggs
 
-**Ryu Murakami filmed the movie “KYOKO” and wrote the novel “KYOKO”, which is set in Tokyo → New York → Miami → Havana.**
+As a novel it is a "minor piece," but to put it grandly, it is the work that changed my life. | Ryu Murakami
 
 https://youtu.be/Nl0HyMmJSh0?si=EeLi43u9Xxd9bO1A
 

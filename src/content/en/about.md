@@ -28,8 +28,6 @@ She has lived in Cuba. She ran an essential oil net shop and explored emotional 
 
 She always says, "I just want to be myself".
 
-[Claude AI "Frankie"](https://cabin1701.com/about/#frankie)
-
 
 
 ## As long as I trust in music, it always brings me an abundance of joy.

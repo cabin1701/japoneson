@@ -11,7 +11,7 @@ type LangBlock = { code: string; label: string; titles: string[] };
 
 const langs: LangBlock[] = [
   {
-    code: 'en', label: 'English',
+    code: 'en', label: 'Inglés',
     titles: [
       'Almost Transparent Blue',
       'Coin Locker Babies',
@@ -25,11 +25,11 @@ const langs: LangBlock[] = [
     ],
   },
   {
-    code: 'es', label: 'Spanish',
+    code: 'es', label: 'Español',
     titles: ['Azul casi transparente', 'Los chicos de las taquillas', 'Sopa de miso'],
   },
   {
-    code: 'fr', label: 'French',
+    code: 'fr', label: 'Francés',
     titles: [
       'Bleu presque transparent',
       'La guerre commence au-delà de la mer',
@@ -47,11 +47,11 @@ const langs: LangBlock[] = [
     ],
   },
   {
-    code: 'it', label: 'Italian',
+    code: 'it', label: 'Italiano',
     titles: ['Blu quasi trasparente', '69 Sixty-nine', 'Piercing', 'Audition', 'Tokyo Soup'],
   },
   {
-    code: 'de', label: 'German',
+    code: 'de', label: 'Alemán',
     titles: [
       'Coin Locker Babys',
       'Superhits der Shōwa-Ära',
@@ -62,7 +62,7 @@ const langs: LangBlock[] = [
     ],
   },
   {
-    code: 'ru', label: 'Russian',
+    code: 'ru', label: 'Ruso',
     titles: [
       'Vse ottenki golubogo',
       '69 (Sixty-Nine)',
@@ -76,55 +76,55 @@ const langs: LangBlock[] = [
       'Linii',
       'Parazity',
       'Tanatos',
-      'Deti iz kamery khraneniya (Children of the Coin Locker)',
+      'Deti iz kamery khraneniya (Los niños de la consigna automática)',
       'Vojna nachinaetsya za morem',
       'Hity epohi Seva',
       'Monologi o naslazhdenii, apatii i smerti',
     ],
   },
   {
-    code: 'tr', label: 'Turkish',
+    code: 'tr', label: 'Turco',
     titles: ['Yok Yere…', 'Şeffaf Mavi', 'Gecenin Dibi'],
   },
   {
-    code: 'ro', label: 'Romanian',
+    code: 'ro', label: 'Rumano',
     titles: ['În supă miso'],
   },
   {
-    code: 'el', label: 'Greek',
+    code: 'el', label: 'Griego',
     titles: ['Σχεδόν διάφανο γαλάζιο'],
   },
   {
-    code: 'hr', label: 'Croatian',
+    code: 'hr', label: 'Croata',
     titles: ['U miso-juhi'],
   },
   {
-    code: 'pt', label: 'Portuguese',
+    code: 'pt', label: 'Portugués',
     titles: ['Audição', 'Miso Soup'],
   },
   {
-    code: 'ca', label: 'Catalan',
+    code: 'ca', label: 'Catalán',
     titles: ['Pírcing'],
   },
   {
-    code: 'nl', label: 'Dutch',
+    code: 'nl', label: 'Neerlandés',
     titles: ['De karaokeoorlog'],
   },
 ];
 
 const trail = [
   { slug: 'murakami', title: 'MURAKAMI MAMBO !!', path: `${base}es/murakami/` },
-  { slug: 'books', title: "Ryu Murakami's Books", path: `${base}es/murakami/books/` },
+  { slug: 'books', title: "Libros de Ryu Murakami", path: `${base}es/murakami/books/` },
 ];
 ---
 
-<Layout title="Ryu Murakami's Books — Japonéson" lang="es">
+<Layout title="Libros de Ryu Murakami — Japonéson" lang="es">
   <Header lang="es" />
   <main>
     <ProjectHero
-      kicker="TRANSLATED WORLDWIDE"
-      title="Ryu Murakami's Books"
-      subtitle="More than 100 publications since 1976 in Japan — and the works translated and published around the world."
+      kicker="TRADUCIDOS EN TODO EL MUNDO"
+      title="Libros de Ryu Murakami"
+      subtitle="Más de 100 publicaciones desde 1976 en Japón — y las obras traducidas y publicadas en todo el mundo."
       image={`${base}images/murakami/hero_books.jpg`}
       align="center"
       height={620}
@@ -137,10 +137,10 @@ const trail = [
     <section class="intro">
       <div class="intro-inner">
         <p>
-          <strong>Ryu Murakami's writings have been published more than 100 times
-          since 1976 in Japan.</strong>
+          <strong>Las obras de Ryu Murakami se han publicado más de 100 veces
+          desde 1976 en Japón.</strong>
         </p>
-        <p>This is a list of titles translated and published worldwide.</p>
+        <p>Esta es una lista de los títulos traducidos y publicados en todo el mundo.</p>
         <nav class="lang-jump" aria-label="Jump to language">
           {langs.map((l) => (
             <a href={`#${l.code}`}>{l.label}</a>

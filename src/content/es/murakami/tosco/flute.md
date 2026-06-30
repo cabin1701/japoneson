@@ -1,43 +1,45 @@
 ---
-title: "FLUTE"
+title: "FLAUTA"
 slug: flute
 wp_id: 16725
 wp_parent: 19824
 ---
 
 
-## Almost Transparent Blue (1976)
+## Azul casi transparente (1976)
 
 ![](/images/wp/2024/02/03-e1707925750233.jpg)
 
-Drugs, sex, black American soldiers, orgies, body fluids, saliva, gastric juices, and vomit. "Almost Transparent Blue" was a very difficult book for me to understand. This time, while rereading it for the first time in about 30 years, I realized that there was already a flute in this novel.
+Drogas. Sexo. Soldados negros americanos. Orgías. Fluidos corporales, saliva, jugos gástricos y vómito. Para mí, "Azul casi transparente" fue un libro sumamente difícil de comprender. Esta vez, al releerlo por primera vez en unos treinta años, me di cuenta de que en esta obra ya había una flauta.
 
 ---
 
-***translated by Nancy Andrew***
+***"Azul casi transparente" traducido por Jorge Berlanga***
 
-*"It's not different, you just don't know it because you're so much younger than me. Hey, you should play the flute, playing the flute's what you're supposed to do, try and do it right without running around with shit like Yoshiyama, hey, remember how you played on my birthday?*
+*-No es diferente, sólo que no te das cuenta porque eres mucho más joven que yo. Oye, deberías tocar la flauta, tocar la flauta es lo que tendrías que hacer, inténtalo y hazlo con decisión, sin andar por ahí danzando con mierdas como Yoshiyama. Eh, ¿te acuerdas cómo tocaste en mi cumpleaños?… Fue en el bar de Reiko, yo aquel día me sentía verdaderamente bien. Algo se agitaba en mi pecho, como, no sé, no puedo realmente explicar cómo me sentía, pero, sabes, estaba como muy relajado: como si acabara de pelearme con alguien y de pronto quisiera reconciliarme con él. Escuchando pensé en lo afortunado que tú eres, sabes, te envidio, puedes hacer que la gente se sienta así. Me refiero a que, no sé, como yo no puedo hacer nada solo, nunca me he vuelto a sentir igual, no puedes saberlo hasta que lo haces por ti mismo.*
 
-*"It was over at Reiko's place, I really felt great then. That was when somehow my chest felt all crawly, like, I can't really say how I felt, but it was reallyß good. I don't know how to say it but I felt, you know, like trying to make up with this guy I'd been fighting with. That's when I thought what a lucky guy you are, you know, I envied you, you could make people feel that way.* *I mean, I don't know, but because I can't do anything myself, I've never felt that way again---you can't know unless you really do it yourself. I'm nothing but a junkie, yeah, and when I run out of smack, there're times when I just can't stand it, wanting to shoot up, just wanting to shoot up, times when I'd kill someone if I could get it that way, but there's something I've thought about then. I've felt there was something, yeah, should be something between me and the smack. I mean, I'm shaking, rattling, I want to shoot up so bad I could go crazy, but I've felt just me and the White Lady aren't enough, somehow. When I finally do get to shoot up, I don't think about anything, but it's not Reiko or my mom or anything, it's the flute you played that time. I thought I'd talk with you about it sometime. I don't know how you felt when you were playing, Ryu, but you know I felt really great?* *I'm always thinking I want something like you had then, I think about it when I'm sucking the smack up into the shooter. I'm finished, you know, because my body's already rotten. And look, my face, gone all flabby like this, I'm sure I'm going to kick off pretty soon now. I don't give a shit when I die, it doesn't matter, I'm not going to feel sorry about a thing.*
+*»Yo no soy más que un yonqui, sí, y cuando me quedo sin caballo, hay veces que no puedo soportarlo, deseando chutarme, sólo queriendo chutarme, a veces creo que mataría a alguien si así pudiera conseguirlo, pero aquella tarde, en casa de Reiko, estuve pensando. Sí, pensé que hay algo, sí, que debe haber otra cosa entre yo y el caballo. Quiero decir que, mientras tiemblo como si estuviera tiritando, tengo tantas ganas de chutarme que pierdo la cabeza, pero entonces pienso que la simple unión entre yo y la Dama Blanca no es suficiente, que debe haber otra cosa. Cuando finalmente me chuto, no pienso en nada, a excepción de una cosa. No en Reiko, ni en mi madre, ni nada, sólo en la flauta como la tocaste aquel día.*
 
-*"It's just, well, I'd like to know more about that feeling I had that time I heard your flute. That's all I feel, I want to know what that was. Maybe if I knew, I'd go off smack, well, maybe not. I'm not saying that's why you should, just you go play the flute, I'll sell some smack and buy you a good flute with the money."*
+*»He pensado en hablar contigo acerca de ello alguna vez. No sé cómo te sientes cuando tocas, Ryu, pero ¿sabes que yo me siento fantástico cuando te escucho? Siempre estoy pensando que lo que quiero es algo como lo que tú tenías aquella tarde, lo pienso cada vez que absorbo el caballo en la jeringa. Estoy acabado, sabes, porque mi cuerpo está ya podrido. Y mira mi cara, reblandecida, estoy seguro de que la voy a palmar pronto. No me importa un carajo morir, no importa, no pienso arrepentirme de nada.*
 
-*Okinawa's eyes were bloodshot. He'd stained his pants with coffee as he talked.*
+*»Es sólo, bueno, que me gustaría saber algo más acerca de la sensación que tuve aquella vez que oí tu flauta. Eso es todo lo que quiero, saber lo que era. Quizás si lo supiera, dejaría el caballo, bueno, quizás no. No es por eso por lo que te digo que deberías tocar la flauta, sólo que deberías olvidarte de todo lo demás y tocar, venderé algo de caballo y con la pasta te compraré una buena flauta.*
 
-*"Hey, please, a Muramatsu would be great."*  
-*"Huh?*  
-*"A Muramatsu, you know, it's a kind of flute. I'd want a Muramatsu."*  
-*"A Muramatsu, huh? O.K. I'll get it for your birthday, and then you'll play for me again."*
+*Los ojos de Okinawa estaban inyectados en sangre. Se había manchado los pantalones de café mientras hablaba.*
+
+*-Entonces, cómprame una Muramatsu; sería algo fantástico.*  
+*-¿Eh?*  
+*-Una Muramatsu, ya sabes, es una marca de flauta. Me gustaría una Muramatsu.*  
+*-¿Una Muramatsu, eh? De acuerdo, te la regalaré para tu cumpleaños, y entonces tocarás otra vez para mí.*
 
 ---
 
-Okinawa doesn't really understand it himself, but he felt that ``music'' (the sound of Ryu's flute) was a kind of hope.
+Creo que Okinawa, aunque ni él mismo lo comprende del todo, "sintió" la "música" como una especie de esperanza.
 
 
-> I wanted José Luis to play a flute that could produce good sounds, and the thought of this genius continuing to play on the instrument I gave him made me feel like I had hope for survival.
+> Yo quería que José Luis tocara una flauta capaz de producir buenos sonidos, y al pensar en este genio siguiendo y siguiendo tocando con el instrumento que yo le había regalado, sentí que podía albergar incluso la esperanza de sobrevivir.
 >
-> — Ryu Murakami, from notes to [“The Man” who called “TOSCO”](https://en.japoneson.com/murakami/music/the-man-who-called-tosco/)
+> — Ryu Murakami, de las notas de [“The Man” who called “TOSCO”](https://japoneson.com/es/murakami/music/the-man-who-called-tosco/)
 
 
 
-"Okinawa" may have become "Ryu Murakami," and "Ryu" may have become "Tosco."
+Tal vez "Okinawa" se convirtió en "Ryu Murakami", y "Ryu" en "Tosco".

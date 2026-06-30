@@ -8,126 +8,126 @@ wp_parent: 19824
 
 ![](/images/wp/2024/02/01b-e1707982539922.jpg)
 
-A few months after I started working on this site, on an impulse, I tried fitting “Ryu Murakami” into the role of [“Kyoko.”](https://en.japoneson.com/murakami/kyoko) At that moment, I felt as though a puzzle piece had fallen into place.
+Unos meses después de empezar a trabajar en este sitio, de pronto probé a encajar a “Ryu Murakami” en el papel de [“Kyoko.”](https://en.japoneson.com/murakami/kyoko) En ese momento sentí como si una pieza de un rompecabezas encajara en su lugar.
 
-I had thought of Kyoko as a heroine “created” by Ryu Murakami. So a thought like that had never even crossed my mind.
+Yo había pensado que Kyoko era una heroína “creada” por Ryu Murakami. Por eso una idea así jamás se me había pasado por la cabeza.
 
-Kyoko, who is eight years old, is taught to dance by a G.I., José Fernando Cortés, a Cuban-American. Perhaps the name “José Fernando Cortés” comes from “José Luis Cortés,” a precious friend of Murakami’s.
+A Kyoko, de ocho años, le enseña a bailar un soldado estadounidense, José Fernando Cortés, un cubano-americano. Quizá el nombre “José Fernando Cortés” venga de “José Luis Cortés,” un querido amigo de Murakami.
 
-Why did Ryu Murakami make the film and write the novel “KYOKO”?  
-I believe it was for himself, not for anyone else.
+¿Por qué hizo Ryu Murakami la película y escribió la novela “KYOKO”?  
+Creo que fue para sí mismo, no para nadie más.
 
-Ryu Murakami was born in the base town of Sasebo, and since childhood he has seen and felt the power relationship between the United States and Japan.
+Ryu Murakami nació en Sasebo, una ciudad de base militar, y desde la infancia ha visto y sentido la relación de poder entre Estados Unidos y Japón.
 
 ---
 
-## from the essay "American Dream"(1984)
+## del ensayo "American Dream" (1984)
 
-> This is important, so let me say it again. I am of the first generation to have secretly watched, in an ordinary house in my own town, a woman of our own country having sex with a soldier of the occupying army. Probably I am of the first generation in the recorded history of Japan.
+> Esto es importante, así que déjenme decirlo de nuevo. Soy de la primera generación que espió, en una casa común de mi propia ciudad, a una mujer de nuestro propio país teniendo relaciones con un soldado del ejército de ocupación. Probablemente soy de la primera generación en la historia registrada de Japón.
 >
-> They were "American" soldiers. This must not be forgotten. Many have forgotten. People pretend they don't know; they feel ashamed; they think it's all over.
+> Eran soldados “estadounidenses.” Esto no debe olvidarse. Muchos lo han olvidado. La gente finge que no lo sabe; se avergüenza; cree que ya pasó.
 >
-> This is how the United States came into Japan. The G.I.s were cheerful and seemed to be having a good time. Japanese women bore many mixed-race children. And in me, too, they instilled a "mixed-race sensibility." After the Korean War, our parents kept working to reach the "American level" rather than the "prewar level." The Japanese government guided them toward the American level as well.
+> Así fue como Estados Unidos entró en Japón. Los soldados eran alegres y parecían pasarla bien. Las mujeres japonesas tuvieron muchos hijos mestizos. Y en mí también instilaron una “sensibilidad mestiza.” Después de la Guerra de Corea, nuestros padres siguieron trabajando para alcanzar el “nivel estadounidense” en lugar del “nivel de antes de la guerra.” El gobierno japonés también los guió hacia el nivel estadounidense.
 >
-> That is what they taught us in school, too. Japan as a whole promoted its own pop-ification. America pressed the wave of pop onto Japan, pushing to the forefront the things you could see, the things you could touch, the things you could eat.
+> Eso también nos enseñaron en la escuela. Japón en su conjunto impulsó su propia “popización.” Estados Unidos empujó la ola de lo pop sobre Japón, poniendo al frente lo que se podía ver, lo que se podía tocar, lo que se podía comer.
 >
-> — Ryu Murakami, "American Dream" (1984)
+> — Ryu Murakami, “American Dream” (1984)
 
 ---
 
-He graduated from high school and moved to Tokyo. There too he chose a “base town” to live in. The “power relationship” with the U.S. continued. This is the background of his novel “Almost Transparent Blue.”
+Se graduó de la secundaria y se mudó a Tokio. Allí también eligió vivir en una “ciudad de base.” La “relación de poder” con Estados Unidos continuó. Este es el trasfondo de su novela “Azul casi transparente.”
 
-Through his encounter with Cuba, he discovered a new relationship with the United States. The encounter with “a new Other — Cuba” changed the “power relationship” with the United States that had been inside Ryu Murakami.
+A través de su encuentro con Cuba, descubrió una nueva relación con Estados Unidos. El encuentro con “un nuevo Otro: Cuba” cambió la “relación de poder” con Estados Unidos que había dentro de Ryu Murakami.
 
-In 1991, the first year he went to Cuba, inspired by Cuba and by Miho Nikaido, who had starred in “Topaz,” he wrote the book “Siboney: Faraway Cuba.” In the beginning, Kyoko was a woman who had worked as a stripper in New York.
+En 1991, el primer año que fue a Cuba, inspirado por Cuba y por Miho Nikaido, que había protagonizado “Topaz,” escribió el libro “Siboney: la lejana Cuba.” Al principio, Kyoko era una mujer que había trabajado como estríper en Nueva York.
 
-For those who love settings such as “Almost Transparent Blue,” “Ibiza,” and “Topaz,” that version might have been a better fit for her. However, Miho Nikaido stepped down. The actress chosen next was not, for Murakami, Kyoko. The third actress was Saki Takaoka. In that process the film’s story kept changing: Kyoko became not a stripper but a pure, straight-hearted girl who had saved her money as a truck driver.
+Para quienes aman escenarios como los de “Azul casi transparente,” “Ibiza” y “Topaz,” esa versión quizá le habría quedado mejor. Sin embargo, Miho Nikaido se retiró. La actriz elegida a continuación no era, para Murakami, Kyoko. La tercera actriz fue Saki Takaoka. En ese proceso la historia de la película fue cambiando: Kyoko pasó de ser estríper a ser una chica pura y de corazón recto que había ahorrado su dinero como camionera.
 
-I have come to think that perhaps this “changing actress” accident was an arrangement of fate, preparing the door to Ryu Murakami’s next phase.
+He llegado a pensar que quizá este accidente de “la actriz que cambia” fue una disposición del destino, que preparaba la puerta a la siguiente fase de Ryu Murakami.
 
-Ever since the idea for the film took shape, Ryu went to Cuba many times, and his phase gradually began to shift — so perhaps a gap was opening up from the original idea.
+Desde que la idea de la película tomó forma, Ryu fue a Cuba muchas veces, y su fase poco a poco empezó a moverse; así que tal vez se abría una brecha respecto a la idea original.
 
-I have exchanged emails with Ryu Murakami several times. The energy in the emails he sent me was very gentle, and delicate. It was hard to believe, set against the grotesque, erotic, and violent images of his novels. That delicate, kind energy stayed with me for a while, like a lingering scent after reading the email.
+He intercambiado correos electrónicos con Ryu Murakami varias veces. La energía de los correos que me enviaba era muy gentil, y delicada. Era difícil de creer, frente a las imágenes grotescas, eróticas y violentas de sus novelas. Esa energía delicada y bondadosa permaneció conmigo un tiempo, como un aroma que perdura tras leer el correo.
 
-The Kyoko played by Saki Takaoka may have been Ryu Murakami’s ideal image of a woman — a woman who held the gentleness within Ryu together with a woman’s strength.
+La Kyoko que interpretó Saki Takaoka pudo haber sido la imagen ideal de mujer para Ryu Murakami: una mujer que reunía la gentileza que hay dentro de Ryu junto con la fuerza de una mujer.
 
-For Ryu Murakami, the path of meeting Cuba and completing KYOKO was a journey of liberation from the “chain” of the United States that had always been in his heart.
+Para Ryu Murakami, el camino de encontrarse con Cuba y completar KYOKO fue un viaje de liberación de las “cadenas” de Estados Unidos que siempre habían estado en su corazón.
 
-No matter how much we read, no matter how much we convince ourselves we have understood with our heads, only what we have experienced becomes flesh and blood.
+Por mucho que leamos, por mucho que nos convenzamos de haber comprendido con la cabeza, solo lo que hemos experimentado se vuelve carne y sangre.
 
-For Kyoko, José Fernando Cortés was “hope,” and dancing was “hope.”
+Para Kyoko, José Fernando Cortés era “esperanza,” y bailar era “esperanza.”
 
-Within a military life that did not suit him, teaching eight-year-old Kyoko how to dance, taking her hand and dancing with her, was José’s own “hope.”
+Dentro de una vida militar que no le iba, enseñarle a bailar a Kyoko de ocho años, tomarla de la mano y bailar con ella, era la propia “esperanza” de José.
 
-Kyoko, now twenty-one, went to New York to see José. But José, in the final stage of AIDS, could not remember her. The “Japanese girl” who tried to take him to his family in Miami must surely have been José’s “hope.”
+Kyoko, ya con veintiún años, fue a Nueva York a ver a José. Pero José, en la fase terminal del sida, no podía recordarla. La “chica japonesa” que intentaba llevarlo con su familia en Miami debió de ser, sin duda, la “esperanza” de José.
 
-I am sure that for Ryu Murakami, José Luis Cortés was “hope.”
+Estoy segura de que para Ryu Murakami, José Luis Cortés era “esperanza.”
 
-And I strongly believe that “Ryu Murakami” was “hope” for José Luis Cortés as well.
+Y creo firmemente que “Ryu Murakami” era “esperanza” para José Luis Cortés también.
 
-The element indispensable to “hope,” I think, is “trust.”
-
----
-
-## The last scene of the novel "KYOKO"
-
-*As I danced with the boy, with the steps José had taught me, I remembered the words of the Native American woman who lived in a small hut at Virginia Beach.*
-
-*The future is already, right now, in your hands.*
-
-*Now I understood what that meant.*
-
-*I had always been on my way to somewhere.*
-
-*It’s still like that now, and the truth is it was so even before I came to New York.*
-
-*I’m on my way, headed somewhere.*
-
-*I used to get tired, and impatient — but now I’m all right.*
-
-*Because I realized there is a future only while I am on the way.*
-
-*I like Cuba very much, but I am sure it isn’t my final goal.*
-
-*The moment I tell myself I have reached the goal, the future disappears.*
-
-*When I am on the path of the journey, and what’s more, enjoying it, I can hold my future in my hands.*
-
-*Even dying is not the goal (that’s something like an accident); and fundamentally nothing has changed since my childhood, since I was a child walking along the barbed wire fence.*
-
-*But now, the barbed wire fence I had always carried inside me has disappeared.*
-
-*So, in other words, I no longer have that feeling of being decisively, far separated from what is most precious to me.*
-
-*It vanished in the journey of finding José and carrying him.*
-
-*Not only José — I met many people during that long journey, and as I talked and laughed with them, the feeling disappeared.*
-
-*I can’t speak Spanish at all, and my English isn’t good either, so it isn’t that I came to understand something with them.*
-
-*We met, we crossed paths, that’s all. I passed among them, with a purpose of my own.*
-
-*I will surely go on, always, being on my way to somewhere in my life.*
-
-*It’s unsettling and unstable, being on the way — but I think it will probably work out.*
-
-*Because the dance José taught me is there, in my body, as if it were a living thing.*
-
-*These words, I think, are about Ryu Murakami himself — found on the “way” of the life in which he made “KYOKO.”*
+El elemento indispensable para la “esperanza,” creo, es la “confianza.”
 
 ---
 
-I had thought, “KYOKO overlapped with my own life,” but this is the story of Ryu Murakami’s life. And yet, if you can see your “highest priority,” choose it, and walk forward, anyone can be “KYOKO.”
+## La última escena de la novela "KYOKO"
 
-Tosco shared time and experiences with Murakami and passed by, while Murakami was “on the way” in his life; and that process, those experiences, are engraved in his heart and become a part of Ryu Murakami.
+*Mientras bailaba con el muchacho, con los pasos que José me había enseñado, recordé las palabras de la mujer nativa americana que vivía en una pequeña cabaña en Virginia Beach.*
 
-Tosco lives on inside Murakami, and Murakami lives on in Tosco’s music.
+*El futuro ya está, ahora mismo, en tus manos.*
 
-This work does not seem to be widely appreciated, but it is a very important turning point for knowing “Ryu Murakami.” If you have the chance, please read it once more.
+*Ahora comprendí lo que significaba.*
+
+*Yo siempre había estado en camino hacia algún lugar.*
+
+*Sigue siendo así ahora, y la verdad es que lo era incluso antes de venir a Nueva York.*
+
+*Voy de camino, hacia algún lugar.*
+
+*Antes me cansaba, me impacientaba; pero ahora estoy bien.*
+
+*Porque comprendí que solo hay futuro mientras estoy en camino.*
+
+*Amo Cuba, pero estoy segura de que no es mi meta final.*
+
+*En el momento en que me diga que he llegado a la meta, el futuro desaparece.*
+
+*Cuando estoy en el camino del viaje, y además lo disfruto, puedo tener mi futuro en mis manos.*
+
+*Incluso morir no es la meta (es algo como un accidente); y, en lo esencial, nada ha cambiado desde mi infancia, desde que era niña y caminaba junto a la alambrada.*
+
+*Pero ahora, la alambrada que siempre había llevado dentro de mí ha desaparecido.*
+
+*Es decir, en otras palabras, ya no tengo esa sensación de estar decisivamente, lejanamente separada de lo que me es más precioso.*
+
+*Desapareció en el viaje de encontrar a José y de llevarlo.*
+
+*No solo José: conocí a muchas personas durante ese largo viaje, y mientras hablaba y reía con ellas, la sensación desapareció.*
+
+*No sé hablar español en absoluto, y mi inglés tampoco es bueno, así que no es que llegara a entenderme con ellos.*
+
+*Nos encontramos, nos cruzamos, eso es todo. Pasé entre ellos, con un propósito propio.*
+
+*Seguramente seguiré, siempre, estando en camino hacia algún lugar en mi vida.*
+
+*Es inquietante e inestable, estar en camino; pero creo que probablemente saldrá bien.*
+
+*Porque el baile que José me enseñó está ahí, en mi cuerpo, como si fuera un ser vivo.*
+
+*Estas palabras, creo, son sobre el propio Ryu Murakami, halladas en el “camino” de la vida en la que hizo “KYOKO.”*
 
 ---
 
-**Recommended reading for “KYOKO” (these are Japanese-language titles):**
+Yo había pensado: “KYOKO se superponía con mi propia vida,” pero esta es la historia de la vida de Ryu Murakami. Y sin embargo, si puedes ver tu “prioridad más alta,” elegirla y caminar hacia adelante, cualquiera puede ser “KYOKO.”
+
+Tosco compartió tiempo y experiencias con Murakami y pasó de largo, mientras Murakami estaba “en el camino” de su vida; y ese proceso, esas experiencias, quedan grabadas en su corazón y se vuelven parte de Ryu Murakami.
+
+Tosco vive dentro de Murakami, y Murakami vive en la música de Tosco.
+
+Esta obra no parece muy valorada, pero es un punto de inflexión muy importante para conocer a “Ryu Murakami.” Si tienen ocasión, léanla una vez más.
+
+---
+
+**Lecturas recomendadas para “KYOKO” (estos son títulos en japonés):**
 
 * KYOKO（集英社・幻冬舎・村上龍電子本製作所）
 * KYOKOの軌跡－神が試した映画－（幻冬舎）

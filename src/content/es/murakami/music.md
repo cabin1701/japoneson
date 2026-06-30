@@ -1,19 +1,19 @@
 ---
-title: "Cuban Music | MURAKAMI Label"
+title: "Música cubana | Sello MURAKAMI"
 slug: music
 wp_id: 19932
 wp_parent: 19793
 ---
 
-# Cuban Music
+# Música cubana
 
-## MURAKAMI Label
+## Sello MURAKAMI
 
 ## "Special Period"
 
-In the 1990s, during the "Período Especial" (Special Period)—the most severe era following the collapse of the Soviet Union—Ryu Murakami conducted many recordings and filled a void in Cuban music history.
+En la década de 1990, durante el "Período Especial"—la época más difícil tras el colapso de la Unión Soviética—, Ryu Murakami realizó numerosas grabaciones y llenó un vacío en la historia de la música cubana.
 
-*In 1991, I visited Cuba for the first time. As I kept going back, I realized something. Cuban music is not just "folk music" or "Salsa." It is much more complex and deep. It has a long history and diversity, just like Black music in the US.*
+*En 1991 visité Cuba por primera vez. A medida que regresaba, me di cuenta de algo. La música cubana no es solo "música folclórica" o "Salsa". Es mucho más compleja y profunda. Tiene una larga historia y diversidad, al igual que la música negra en los Estados Unidos. En aquel entonces, estaba aburrido del Rock y del Jazz, y solo escuchaba música clásica. Pero, poco a poco, me convertí en prisionero de la "magia" de la música cubana.*
 
 *At that time, I was bored with Rock and Jazz, and I only listened to Classical music. But slowly, I became a prisoner of the "magic" of Cuban music.*
 
@@ -209,8 +209,8 @@ various artists
 
 https://youtu.be/3q-I8rTm87A?si=mELiCnbrujzvIuR4
 
-This year, to celebrate the 20th anniversary, I have invited the early 90s members of "NG LA BANDA." They are the reason I fell in love with Cuban music. I wanted to bring back that amazing sound.
+Este año, para celebrar el vigésimo aniversario, he invitado a los miembros de principios de los 90 de "NG LA BANDA". Ellos son la razón por la que me enamoré de la música cubana. Quería recuperar ese sonido increíble.
 
-Of course, Tony Calá, the popular singer from their golden age, is coming. Also, as special guests, we have Mayito Rivera, the No.1 male singer from "Los Van Van," and the famous Tania Pantoja.
+Por supuesto, vendrá Tony Calá, el cantante más popular de su época dorada. Además, como invitados especiales, tenemos a Mayito Rivera, la voz masculina número uno de "Los Van Van", y a la famosa Tania Pantoja.
 
-I wanted to make this a special concert that shows my 20 years of producing Cuban music. That is why I brought these incredible artists together on one stage. — Ryū Murakami
+Quería que este concierto fuera algo especial que mostrara mis 20 años produciendo música cubana. Por eso he reunido a estos artistas increíbles en un mismo escenario. — Ryū Murakami

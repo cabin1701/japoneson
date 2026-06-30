@@ -12,27 +12,27 @@ const IMG = (p: string) => `/images/wp/${p}`;
 
 const subCards: SubCard[] = [
   {
-    title: 'The New Other, Cuba',
+    title: 'El nuevo otro, Cuba',
     image: IMG('2026/05/kyoko01-e1779687767424-600x600.jpg'),
-    imageAlt: 'The New Other, Cuba',
+    imageAlt: 'El nuevo otro, Cuba',
     description:
-      '"We come to know ourselves through our relationships with others, and with another new other, our previous relationships become objective." — Ryu Murakami, from "KYOKO\'s trajectory"',
+      '"Llegamos a conocernos a nosotros mismos a través de nuestras relaciones con los demás, y con otro nuevo otro, nuestras relaciones anteriores se vuelven objetivas." — Ryu Murakami, de "La trayectoria de KYOKO"',
     href: '/es/murakami/kyoko/newother/',
   },
   {
-    title: 'The "wounded Japanese" inside me',
+    title: 'El "japonés herido" que hay en mí',
     image: IMG('2026/05/IMAGE0047-e1779688101635-768x768.jpg'),
-    imageAlt: 'The wounded Japanese inside me',
+    imageAlt: 'El japonés herido que hay en mí',
     description:
-      'The "wounded Japanese inside me" was a Japanese who felt a deep sense of guilt over the Pacific War, unable to feel proud of his country, unable to love it. An essay connecting to "The New Other, Cuba."',
+      'El "japonés herido que hay en mí" era un "japonés" que, como ciudadano de un país derrotado, cargaba con un sentimiento de culpa, no podía sentirse orgulloso de su país y no podía amarlo. Un ensayo que conecta con "El nuevo otro, Cuba."',
     href: '/es/murakami/kyoko/me/',
   },
   {
-    title: '"KYOKO" is the story of Ryu Murakami, himself.',
+    title: '"KYOKO" es la historia del propio Ryu Murakami.',
     image: IMG('2026/05/kyoko-dancin-BW-e1779687636421-768x768.jpg'),
-    imageAlt: 'KYOKO dancing',
+    imageAlt: 'KYOKO bailando',
     description:
-      '"I felt myself returning to the \'spirit\' I had when I wrote Almost Transparent Blue." — Ryu Murakami',
+      '"Sentí que regresaba al \'espíritu\' que tenía cuando escribí Azul casi transparente." — Ryu Murakami',
     href: '/es/murakami/kyoko/boku/',
   },
 ];
@@ -47,9 +47,9 @@ const trail = [
   <Header lang="es" />
   <main>
     <ProjectHero
-      kicker='THE STORY OF "HOPE" & "REGENERATE"'
+      kicker='LA HISTORIA DE LA "ESPERANZA" Y LA "REGENERACIÓN"'
       title="KYOKO (1995)"
-      subtitle="Because of You — Tokyo → New York → Miami → Havana."
+      subtitle="Because of You — Tokio → Nueva York → Miami → La Habana."
       image={`${base}images/murakami/hero_kyoko.jpg`}
       align="center"
       height={920}
@@ -62,20 +62,19 @@ const trail = [
     <section class="intro">
       <div class="intro-inner">
         <p class="opener-quote">
-          <em>"My only goal was to see him again, to say thank you and to dance
-          with him, to hear him say that he had made progress."</em>
+          <em>"Mi único objetivo era volver a verlo, darle las gracias y bailar
+          con él, oírle decir que había progresado."</em>
           <span class="speaker">— Kyoko</span>
         </p>
         <p class="stars">＊ ＊ ＊ ＊ ＊ ＊ ＊</p>
         <p class="opener-quote">
-          <em>"Good Luck Girl, you'll be fine. God is with you."</em>
+          <em>"Buena suerte, niña, todo te irá bien. Dios está contigo."</em>
           <span class="speaker">— Ralph Biggs</span>
         </p>
 
         <p class="prompt">
           <strong>
-            Ryu Murakami filmed the movie "KYOKO" and wrote the novel "KYOKO,"
-            which is set in Tokyo → New York → Miami → Havana.
+            Como novela es una "obra menor", pero, por decirlo a lo grande, es la obra que cambió mi vida. — Ryu Murakami
           </strong>
         </p>
 
@@ -91,23 +90,24 @@ const trail = [
 
         <p class="prompt">
           <strong>
-            From New York, we traveled along the East Coast of the United States
-            to Miami and then to Cuba, the "land of music and dance."
+            Desde Nueva York, recorrimos la costa este de los Estados Unidos
+            hasta Miami y luego hasta Cuba, la "tierra de la música y la danza."
           </strong>
         </p>
 
         <p class="body">
-          Twelve years ago, Jose, a GI and dancer, taught dance to 8-year-old Kyoko,
-          who was growing up in a military base town. Kyoko flies to America to
-          meet the man who taught her what is most important to her. On her
-          journey, which goes far beyond her wildest dreams, she passes like the
-          wind among immigrants, exiles, AIDS patients, and gay men.
+          Hace doce años, José, un soldado estadounidense y bailarín, le enseñó a
+          bailar a Kyoko, de 8 años, que crecía en un pueblo cercano a una base
+          militar. Kyoko vuela a Estados Unidos para encontrarse con el hombre que
+          le enseñó lo más importante para ella. En su viaje, que va mucho más
+          allá de sus sueños más descabellados, pasa como el viento entre
+          inmigrantes, exiliados, enfermos de SIDA y hombres homosexuales.
         </p>
       </div>
     </section>
 
     <section class="essay-section">
-      <h2 class="section-h">New York · Cuba · Japan</h2>
+      <h2 class="section-h">Nueva York · Cuba · Japón</h2>
     </section>
 
     <SubGrid cards={subCards} columns={3} />
@@ -115,14 +115,14 @@ const trail = [
     <section class="outro">
       <div class="outro-inner">
         <h2 class="section-h">Because of You</h2>
-        <p>Now, I am OK. I realized that there is a future only when I am on the way.</p>
+        <p>Ahora estoy bien. Me di cuenta de que solo hay futuro cuando estoy en camino.</p>
         <p>
-          It's unsettling and unstable while I'm on my way somewhere, but I think
-          it'll probably work out.
+          Es inquietante e inestable mientras voy de camino a algún lugar, pero
+          creo que probablemente saldrá bien.
         </p>
         <p class="closing">
-          Because the dance that José taught me is there, in my body —<br />
-          he lives in me.
+          Porque el baile que José me enseñó está ahí, en mi cuerpo —<br />
+          él vive en mí.
         </p>
       </div>
     </section>

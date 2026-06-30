@@ -23,7 +23,7 @@ Autor y Arreglista: José Luis Cortés
 
 <div class="murakami-cd-text-contents">
 
-In every piece of high-quality music, hope and despair are mixed together. Some house and rap were the same. Within a repetition that feels like eternity, there was a gentle resignation, and a desperate resistance, against a world growing colder and colder. NG La Banda's "house" is more energetic than that. It is a symbol of something Cubans, even in the midst of hardship, have not lost. This CD may have turned out to be, of all the releases on Murakami's Label so far, the most accessible.
+En toda música de alta calidad, la esperanza y la desesperación están mezcladas. Una parte del house y del rap eran así también. Dentro de una repetición que se siente como eternidad, había una suave resignación, y una resistencia desesperada, contra un mundo que se vuelve cada vez más frío. El "house" de NG La Banda es más enérgico que eso. Es el símbolo de algo que los cubanos, incluso en medio de la carencia, no han perdido. Quizá este CD haya resultado ser, de todos los lanzamientos del sello Murakami's hasta ahora, el más accesible.
 
 </div>
 

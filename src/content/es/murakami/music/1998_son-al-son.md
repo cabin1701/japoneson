@@ -26,21 +26,22 @@ Son al Son | Javier Olmo
 
 <div class="murakami-cd-text-contents">
 
-Javier came to the studio when he(Murakami) was searching for a singer to sing "Siboney" in the film KYOKO. He was the son of José "Pepe" Olmo, who had been side vocalist of Orquesta Aragón, and was a member of the National Choir.  
+Javier llegó al estudio cuando Murakami buscaba un cantante para cantar "Siboney" en la película KYOKO. Era el hijo de José "Pepe" Olmo, que había sido vocalista secundario de la Orquesta Aragón, y era miembro del Coro Nacional.
 
-Most Cuban singers have a powerful way of singing. But his voice and singing were simply natural, transparent, flowing like wind or water — a voice that seemed like it might drift away and disappear with the wind or water, with nothing forced about it, a voice you want to hear again and again. This album was published by Shueisha and is not available to the general public — it seems to be an extremely rare Album.  
+La mayoría de los cantantes cubanos cantan con mucha fuerza. Pero su voz y su canto eran simplemente naturales, transparentes, fluyendo como el viento o el agua — una voz que parecía poder alejarse y desaparecer con el viento o el agua, sin nada impuesto, una voz que uno quiere escuchar una y otra vez. Este álbum fue publicado por Shueisha y no está a la venta para el público general — parece ser un álbum extremadamente raro.
 
-I found this video on YouTube through an image search. When I reached out, it turned out to be a collector and DJ living in Cali, Colombia. The image used here was sent by him. In1996, Ryū Murakami recorded Javier Olmo's solo album "Historia de un Amor". I searched for it several times but couldn't find or obtain it. One day, searching with the feeling of "there's no way I'll find it anyway," I found it on Yahoo Auctions. It was strange.  
+Encontré este video en YouTube a través de una búsqueda de imágenes. Al ponerme en contacto, resultó ser un coleccionista y DJ que vive en Cali, Colombia. La imagen usada aquí me la envió él. En 1996, Ryū Murakami grabó el álbum solista de Javier Olmo, "Historia de un Amor". Lo busqué varias veces pero no pude encontrarlo ni obtenerlo. Un día, buscando con la sensación de "de todas formas no lo voy a encontrar," lo encontré en Yahoo Auctions. Fue extraño.
 
-I learned that his name was not "Jabiel" but "Javier." About a week after that, when I searched for Javier Olmo, Historia de un Amor came up.  
+Me enteré de que su nombre no era "Jabiel" sino "Javier." Aproximadamente una semana después, al buscar Javier Olmo, apareció Historia de un Amor.
 
-In the comments I found: "My brother!" and "My cousin! He held me in his arms when I was born." Since the liner notes of Historia de un Amor mentioned that Javier's father had twenty-five children all over the world, I thought it was entirely possible for them to be siblings or cousins.  
+En los comentarios encontré: "¡Mi hermano!" y "¡Mi prima! Me tuvo en sus brazos cuando nací." Como en el libreto de Historia de un Amor ponía que el padre de Javier tenía veinticinco hijos por todo el mundo, pensé que era perfectamente posible que fueran hermanos o primos.
 
-When I watched other videos on that account, in the comments I found a post from a cousin saying that Javier had passed away. It had been written around 2017, about seven years ago. The following day, I connected with the collector in Colombia, who sent me a photo of this unreleased Album.  
+Cuando vi otros videos de esa cuenta, en los comentarios encontré una publicación de una prima que decía que Javier había fallecido. Había sido escrita hace unos siete años, alrededor de 2017. Al día siguiente, contacté con el coleccionista de Colombia, que me envió una foto de este álbum sin publicar.
 
-All that day, I had a strange feeling.  
+Todo ese día, tuve una sensación extraña.
 
 -Seina
+
 </div>
 
 ---

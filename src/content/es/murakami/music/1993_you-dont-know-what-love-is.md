@@ -26,48 +26,48 @@ CHEEK TO CHEEK
 
 <div class="murakami-cd-text-contents">
 
-What kind of recording scene do people imagine when they listen to this Album ?
+¿Qué escena de grabación se imaginarán quienes escuchen este CD?
 
-Sunlight pouring in, a seaside cottage-style studio, drinking rum, the leader calling out, "Let's do one good take while the groove is on us," everyone happily and amiably… No way. Absolutely not.
+La luz del sol entrando a raudales, un estudio estilo cabaña a la orilla del mar, bebiendo ron, el líder soltando: "Hagamos una buena toma mientras el groove está con nosotros," todos felices y armoniosamente… Para nada. En absoluto.
 
-I, who was present at the recording, came away with my nerves utterly worn out.
+Yo, que estuve presente en la grabación, salí con los nervios completamente destrozados.
 
-Watching the video now, anyone who didn't know would surely think it was torture.
+Viendo el video ahora, cualquiera que no lo supiera seguramente pensaría que era una tortura.
 
-It's completely different from what jazz calls "ad lib." Improvisation — or what classical music calls *cadenza* — no, perhaps it fits best to use the stiff Japanese word "soku-kyō ensō" (improvised performance).
+Es completamente distinto de lo que el jazz llama "ad lib." Improvisación — o lo que la música clásica llama *cadenza* — no, quizá la palabra japonesa rígida "soku-kyō ensō" (interpretación improvisada) sea la que mejor encaja.
 
-Cuba's representative players (which means almost the world's representative players) — trumpeter Juan Munguía (of Irakere), *tres* guitarist Pancho Amat (of Adalberto Álvarez's group), alto and soprano saxophonist Hermán Velasco (of Pablo Milanés's group) and others — would do twenty, thirty takes for a single solo of merely twelve bars.
+Los intérpretes representativos de Cuba (lo que significa casi los intérpretes representativos del mundo) — el trompetista Juan Munguía (de Irakere), el guitarrista de *tres* Pancho Amat (del grupo de Adalberto Álvarez), el saxofonista alto y soprano Hermán Velasco (del grupo de Pablo Milanés) y otros — hacían veinte, treinta tomas para un solo de apenas doce compases.
 
-"Good solo, but in two places you went off the back rhythm."
+"Buen solo, pero en dos lugares te saliste del ritmo de fondo."
 
-"If you're going with that concept, the *sol* and *re* notes you played a moment ago are strange."
+"Si vas con ese concepto, las notas *sol* y *re* que tocaste hace un momento son raras."
 
-What I had thought was an amazing solo, the music director José Luis Cortés would mercilessly discard. But it was because he trusted the players.
+Lo que yo había pensado que era un solo asombroso, el director musical José Luis Cortés lo descartaba sin piedad. Pero era porque confiaba en los intérpretes.
 
-There has never been jazz like this anywhere.
+No ha habido jazz como este en ninguna parte.
 
-Xiomara Laugart, before the recording, was unusually frightened.
+Xiomara Laugart, antes de la grabación, estaba inusualmente asustada.
 
-"Can I really sing this?"
+"¿De verdad puedo cantar esto?"
 
-I said:
+Le dije:
 
-"I have listened to Sarah Vaughan, Ella Fitzgerald, Helen Merrill, Chris Connor, and Carmen McRae. Your voice and your power of expression do not lose to any of theirs."
+"He escuchado a Sarah Vaughan, a Ella Fitzgerald, a Helen Merrill, a Chris Connor y a Carmen McRae. Tu voz y tu fuerza expresiva no pierden ante ninguna de ellas."
 
-I kept saying so.
+Lo seguí diciendo.
 
-During the recording I didn't notice, but Xiomara's voice and way of singing carry something extremely serious and earnest. Put in the worst light, you could say it lacks playfulness — but to Cubans, music is fundamentally not a kind of play.
+Durante la grabación no lo noté, pero la voz y el modo de cantar de Xiomara llevan algo extremadamente serio y apremiante. Si se pone bajo la peor luz, podría decirse que le falta picardía — pero para los cubanos, la música no es, en lo esencial, una especie de juego.
 
-Well, I've touched on Cuba in many essays and interviews already, so with this CD, please simply enjoy, without reasoning it out, a certain sense of speed and an exhilarating stimulation.
+En fin, ya he tocado lo cubano en muchos ensayos y entrevistas, así que con este CD, por favor, simplemente disfruten, sin razonarlo, una cierta sensación de velocidad y un estímulo embriagador.
 
-What I'd especially recommend: in "Softly, as in a Morning Sunrise," Xiomara's middle-low register — soft, smooth, and yet with a noble, languid vocal. In "Fly Me to the Moon," the *tres* solo by Pancho Amat — the *tres* is an instrument used mainly in traditional *son*, and even Cubans at first did not believe it could play jazz.
+Lo que recomendaría especialmente: en "Softly, as in a Morning Sunrise," el registro medio-bajo de Xiomara — vocalmente suave, terso, y a la vez con una nobleza lánguida. En "Fly Me to the Moon," el solo de *tres* de Pancho Amat — el *tres* es un instrumento usado principalmente en el *son* tradicional, y al principio ni siquiera los cubanos creían que pudiera tocar jazz.
 
-In "Golden Earrings," Dagoberto's violin solo, and Xiomara's voice laden with grief. In "Autumn Leaves," José Luis Cortés's unbelievable flute, Feliciano Arango's bass solo with syncopation fully in effect, and on top of that Emilio Morales's piano solo evoking Bud Powell. And then, the overwhelming brass riff of "Cheek to Cheek"!
+En "Golden Earrings," el solo de violín de Dagoberto y la voz de Xiomara cargada de pesar. En "Autumn Leaves," la increíble flauta de José Luis Cortés, el solo de bajo de Feliciano Arango con la síncopa a fondo, y encima el solo de piano de Emilio Morales que evoca a Bud Powell. Y luego, ¡el arrollador riff de los metales de "Cheek to Cheek"!
 
-There is nothing left to say.
+No queda nada por decir.
 
-Please, just listen.  
-I feel, from the bottom of my heart, proud to have produced this music.
+Por favor, escúchenlo.
+Siento, desde el fondo del corazón, orgullo de haber producido esta música.
 
 </div>
 
@@ -163,7 +163,7 @@ MI CUERPO EXTRAÑA YA TU CALOR
 
 ## 5. YOU DON'T KNOW WHAT LOVE IS
 
-written by Don Raye  and Gene de Paul
+written by Don Raye  and Gene de Paul
 
 **(TÚ NO SABES LO QUE ES EL AMOR)**
 

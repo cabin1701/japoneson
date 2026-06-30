@@ -30,9 +30,9 @@ All Songs Written by José Luis Cortés
 
 ## Liner Notes
 
-This is NG La Banda's third studio recording in Japan. The concept of the new recording is "rock spirit" and "cool". In the past, great rock performances had an "awakening'' at the end of concentration and enthusiasm.
+Esta es la tercera grabación de estudio de NG La Banda hecha en Japón. El concepto de la nueva grabación es "espíritu rock" y "cool." En las grandes interpretaciones de rock del pasado había un "despertar" al fondo de la concentración y la pasión arrebatada.
 
-In other words, playing technique and density are the essence of "cool." Cool salsa. I think it points to the future of Latin music.
+Es decir, la técnica de ejecución y la densidad mismas son la esencia de lo "cool." Cool salsa. Creo que eso es lo que señala el futuro de la música latina.
 
 Ryu Murakami
 

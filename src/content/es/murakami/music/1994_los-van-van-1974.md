@@ -32,21 +32,21 @@ All Songs written by Juan Formell except "Guararey de Pastora（Pedro Speck）"
 
 ## Liner Notes
 
-Three years ago, in July, on my way back from N.Y., on JAL Flight 9006, I listened to an anthology of Cuban music edited by David Byrne. "Llegué, Llegué" was the seventh track. I will never forget that first shock, even now.
+Hace tres años, en julio, de regreso desde N.Y., en el vuelo 9006 de JAL, escuché una antología de música cubana editada por David Byrne. "Llegué, Llegué" era la séptima pista. Todavía hoy no puedo olvidar aquella primera conmoción.
 
-Partly because I chose it as the theme song for "Topaz" (Tokyo Decadence), I must have listened to it several hundred times by now, yet I never tire of it. On my third trip to Cuba, I was invited to the EGREM studio, where they let me hear the album "Los Van Van," on which "Llegué, Llegué" is the first track. Every song was magnificent. It wasn't just that it was magnificent music — I came to feel as though I had made some great discovery, as art.
+En parte porque la elegí como tema musical de "Topaz" (Tokyo Decadence), debo de haberla escuchado ya varios cientos de veces, y sin embargo no me canso de ella. En mi tercer viaje a Cuba, me invitaron al estudio EGREM, donde me dejaron oír el álbum "Los Van Van," en el que "Llegué, Llegué" es la primera pista. Cada canción era magnífica. No era solo que fuera música magnífica: llegué a sentir como si hubiera hecho algún gran descubrimiento, como arte.
 
-I haven't listened to rock since the Pistols. When the Pistols appeared, I thought, "Rock is dead, and only the beat remains."
+No escucho rock desde los Pistols. Cuando aparecieron los Pistols, pensé: "El rock ha muerto, y solo queda el beat."
 
-After that, I listened to reggae, New York salsa, the folk music of Asia and Africa and the Middle East, the jazz fusion of the American West Coast, film music, and oldies of every conceivable kind — but nothing I could call a musical experience happened to me. (Classical music aside.)
+Después de eso escuché reggae, salsa neoyorquina, la música folclórica de Asia, de África y de Oriente Medio, el jazz-fusión de la costa oeste estadounidense, música de cine, y oldies de toda clase imaginable — pero no me ocurrió nada que pudiera llamar una experiencia musical. (Dejando aparte la música clásica.)
 
-It was at such a time that I encountered the album "Los Van Van." On the way back from Cuba to Japan it had been copied to a cassette, and I listened to the whole thing with Ryuichi Sakamoto in a hotel room in N.Y. It was the very first time Sakamoto and I had listened to an entire album together, all the way through (his own recordings aside).
+Fue en un momento así cuando me encontré con el álbum "Los Van Van." De camino de Cuba a Japón lo habían copiado a un casete, y lo escuché entero con Ryuichi Sakamoto en una habitación de hotel en N.Y. Fue la primera vez que Sakamoto y yo escuchábamos un álbum entero juntos, de principio a fin (dejando aparte las grabaciones del propio Sakamoto).
 
-"We made this album aiming for the highest level. Please, I want you to listen to it." On the original jacket, there is such a "declaration" from the leader, Juan Formell.
+"Hicimos este álbum apuntando al más alto nivel. Por favor, quiero que lo escuchen." En la carátula original hay una "declaración" así, del líder, Juan Formell.
 
-The masterpiece that Los Van Van, the top band representing Cuba, created in 1974 has now, for the first time in the world, become a CD like this.
+La obra maestra que Los Van Van, la banda cumbre que representa a Cuba, crearon en 1974, se ha convertido ahora, por primera vez en el mundo, en un CD de esta manera.
 
-I declare with conviction that it is a monument of popular music standing alongside the Beatles' "Sgt. Pepper's," the Rolling Stones' "Beggars Banquet," and Jimi Hendrix's "Electric Ladyland."
+Declaro con convicción que es un monumento de la música popular a la altura del "Sgt. Pepper's" de los Beatles, el "Beggars Banquet" de los Rolling Stones, y el "Electric Ladyland" de Jimi Hendrix.
 
 Ryu Murakami
 

@@ -7,117 +7,115 @@ wp_parent: 0
 
 # MURAKAMI
 
-## New York, Cuba, Japan
+## Nueva York, Cuba, Japón
 
 # MAMBO !!
 
-## Study of Ryu Murakami
+## Estudio de Ryu Murakami
 
-# After The War - The Path to Rebirth
+# Después de la guerra — El camino hacia el renacimiento
 
-## Why did he become committed to Cuba?
+## ¿Por qué se comprometió tanto con Cuba?
 
 https://youtu.be/GfLskO6\_oYw?si=e4hIXgaLcVxUrr4T
 
-# The U.S., The Defeat, American Standard Pops, and Cuban music. This is the shared code that flows through him and me.
+# Estados Unidos, la derrota, los pops del American Standard y la música cubana. Este es el código compartido que fluye entre él y yo.
 
-**Searching for the 'Sanity' (正気) in the chaos of post-war Japan and Cuba.**
+**En busca de la 'cordura' (正気) en el caos del Japón y la Cuba de la posguerra.**
 
 ---
 
-"A giant of modern Japanese literature. From the Showa to the Heisei era, Ryu Murakami was the definitive voice of a changing nation—a legendary icon who carved out the truth from the heart of chaos."
+"Un gigante de la literatura japonesa moderna. Desde la era Showa hasta la Heisei, Ryu Murakami fue la voz definitiva de una nación en transformación: un ícono legendario que talló la verdad desde el corazón del caos."
 
 [![](/images/wp/2024/02/01b-e1707982539922.jpg)](https://en.japoneson.com/murakami/tosco)
 
 ### [Tosco & Murakami](https://en.japoneson.com/murakami/tosco)
 
-I wanted José Luis to play a flute that could produce good sounds, and the thought of this genius continuing to play on the instrument I gave him made me feel like I had hope for survival./ Ryu Murakami
+Quería que José Luis tocara una flauta capaz de producir buenos sonidos, y pensar que este genio seguiría tocando el instrumento que le regalé me hacía sentir que tenía una esperanza de sobrevivir. / Ryu Murakami
 
 [![](/images/wp/2024/02/1993NG.jpg)](https://en.japoneson.com/murakami/music)
 
-### [Cuban Music](https://en.japoneson.com/murakami/music)
+### [Música cubana](https://en.japoneson.com/murakami/music)
 
-Murakami Lable
+Sello MURAKAMI
 
 [![](/images/wp/2024/02/kyoko02.jpg)](https://en.japoneson.com/murakami/kyoko)
 
-### [KYOKO(1995)](https://en.japoneson.com/murakami/kyoko)
+### [KYOKO (1995)](https://en.japoneson.com/murakami/kyoko)
 
-From New York, we traveled along the East Coast of the United States to Miami and
-then to Cuba, the “land of music and dance”.
+Desde Nueva York, por la costa este de los Estados Unidos hasta Miami y luego hasta Cuba, la "tierra de la música y la danza."
 
-### **Thanks to Mr. Ryu Murakami. It's all because of you. [Your words](https://en.japoneson.com/swing/dream/ryu) saved my heart.**
+### **Gracias, señor Ryu Murakami. Todo es gracias a usted. [Sus palabras](https://en.japoneson.com/swing/dream/ryu) salvaron mi corazón.**
 
-### **The Writer Ryu Murakami and My 2000**
+### **El escritor Ryu Murakami y mi 2000**
 
-Ryu Murakami may be one of the most famous writers in Japan from the 1970s to the 1980s, yet he might also be the most consumed and misunderstood. People often failed to see the essential kindness and purity within him.
+Ryu Murakami es uno de los escritores más famosos de Japón desde los años 70 y 80, pero quizás también el más "consumido" y el menos comprendido en su esencia. La gente a menudo no lograba ver la bondad y la pureza fundamental que habitaba en él.
 
-Since I was a child, I struggled with reading. I was never good at writing, either. My Japanese grades were always a "2" (out of 5).
+Desde niña, me costaba mucho leer y escribir. Mis calificaciones en japonés eran siempre un "2" (de 5).
 
-One day in 2000, to kill time while waiting for a friend, I picked up an essay by Ryu Murakami. It was surprisingly interesting, so I impulsively wrote him a fan letter. To prove I wasn’t some "shady person," I introduced my past project at a nursing home in the U.S. and included my CD, sensing he might appreciate old American music.
+Un día de 2000, para matar el tiempo mientras esperaba a un amigo, tomé un ensayo de Ryu Murakami. Me resultó curiosamente interesante, así que, por impulso, le escribí una carta de admiradora. Para que no pensara que yo era una "persona extraña", le hablé de mi proyecto en un asilo de ancianos en EE. UU. e incluí mi CD, sintiendo que él apreciaría la vieja música americana.
 
-Weeks later, while I was in the hospital for surgery, an email arrived from "Ryu Murakami." He told me he liked my CD and had introduced my activities in his email magazine. He kept my name and website private—a subtle, thoughtful gesture that was so like him.
+Semanas después, mientras estaba hospitalizada por una cirugía, recibí un correo de "Ryu Murakami". Me decía que le gustaba mi CD y que había presentado mis actividades en su revista digital, manteniendo mi nombre y mi sitio web en privado. Fue un gesto delicado y considerado, muy propio de él.
 
-In that magazine, he wrote that my desire to tell Americans who lived through WWII, *"Your songs are still alive,"* was not hypocrisy. He saw that my motivation was untainted. He wrote: **"Her songs are overflowing with love and respect for American Standard numbers."**
+En esa revista escribió que mi deseo de decirles a los estadounidenses que vivieron la Segunda Guerra Mundial: *"Sus canciones aún viven,"* no era hipocresía. Vio que mi motivación era pura. Escribió: **"Sus canciones rebosan amor y respeto por los estándares americanos."**
 
-I was someone who could barely write a proper sentence. Yet, he read my clumsy, typed letter and captured the most important part of my soul.
+Yo era alguien que apenas podía escribir una frase decente. Sin embargo, él leyó mi torpe carta escrita a máquina y captó la parte más importante de mi alma.
 
-### **Encounter at the Smoking Area**
+### **El encuentro en el área de fumadores**
 
-While in the hospital, I found his book ***In the Miso Soup*** in the smoking area. The protagonist, Frank, commits grotesque murders. But I saw his memories of his mother, and the poignant loneliness and sadness beneath the violence. Beyond the depictions the world turned away from, I felt a cry of a soul that no one understood. For me, that work became something deeply tender.
+Durante mi estancia en el hospital, encontré su libro ***In the Miso Soup*** en el área de fumadores. El protagonista, Frank, comete asesinatos brutales. Pero yo pude ver sus recuerdos con su madre, y la profunda soledad y tristeza detrás de la violencia. Más allá de las descripciones de las que el mundo apartaba la vista, sentí el grito de un alma que nadie entendía. Para mí, esa obra se convirtió en algo profundamente tierno.
 
-Ryu’s words back then became the words of my only true witness. They became my "cane," supporting me ever since.
+Aquellas palabras que Ryu me dio entonces se convirtieron en las palabras de mi único testigo, en mi "bastón", que me ha sostenido desde entonces.
 
-### **From New York to Cuba**
+### **De Nueva York a Cuba**
 
-In 2013, over ten years after that letter, I met Danny Rojo, an exiled Cuban musician, in New York. That meeting opened the door to Cuba for me.
+En 2013, más de diez años después de aquella carta, conocí en Nueva York a Danny Rojo, un músico cubano exiliado. Ese encuentro abrió para mí las puertas de Cuba.
 
-The following year, I crafted a "Cupie" doll from a dollar store to look like Danny—with his rainbow beard and tattoos—and named it "CupieDanny." Danny was overjoyed. **We started a "game"** of making many dolls and distributing them to his friends in New York and Havana.
+Al año siguiente, hice una muñeca "Cupie" de una tienda de todo a un dólar, le puse la barba arcoíris y los tatuajes de Danny, y la llamé "CupieDanny". Danny se puso feliz. **Empezamos un "juego"** de hacer muchas muñecas y repartirlas a sus amigos en Nueva York y La Habana.
 
-Danny has never returned to Cuba since his exile. He sent me a list of his friends via Messenger. It included members of famous bands like Los Van Van and Havana D'Primera. I knew none of them. With almost no Spanish, I ran around Havana with that list, phone numbers, and those dolls. Most of them turned out to be legendary musicians.
+Danny no ha vuelto a Cuba desde su exilio. Me envió una lista de sus amigos por Messenger. Incluía nombres de bandas como Los Van Van o Havana D'Primera. Yo no conocía a nadie. Casi sin hablar español, recorrí La Habana con esa lista, los números de teléfono y las muñecas. La mayoría resultaron ser músicos legendarios.
 
-In May 2023, Juan Carlos Formell (son of Los Van Van founder Juan Formell) collapsed and died during a performance in New York. To my surprise, his funeral was conducted in the Japanese Buddhist style (Nichiren Shu). He had a deep spiritual connection with Japan and was looking forward to his Japan tour that August more than anyone. I heard he was talking about going to Japan right before he collapsed on stage.
+### **La muerte de Juan Carlos Formell**
 
-Only a week later, my friend of 35 years, YOSHIKO, also passed away suddenly. A Cuban musician who died just before reaching the Japan he longed for, and my best friend in Japan.
+En mayo de 2023, Juan Carlos Formell (hijo del fundador de Los Van Van, Juan Formell) falleció tras colapsar durante una actuación en Nueva York. Para mi sorpresa, su funeral fue al estilo budista japonés (Nichiren Shu). Él tenía una conexión espiritual profunda con Japón. Dicen que, justo antes de caer en el escenario, hablaba con entusiasmo de su gira por Japón en agosto.
 
-People die so suddenly. Someday, so will I. I felt I had to express my gratitude to Ryu Murakami now. **So I started to write to him and I named it "280,000-character love letter."**
+Solo una semana después, mi mejor amiga en Japón, YOSHIKO, con quien compartí una amistad de 35 años, también murió repentinamente. Un músico cubano que murió justo antes de llegar al Japón que tanto anhelaba, y mi mejor amiga.
 
-While working on that, I decided to launch "fireworks" (uchiwa-fan messages) at a Los Van Van concert in Japan, so **he** could be seen from heaven. I did it "guerrilla-style" without telling the organizers, knowing they wouldn't give permission.
+La gente muere tan de repente. Algún día, yo también. Sentí que debía agradecer a Ryu Murakami ahora mismo. **Así empecé a escribirle, y lo llamé "una carta de amor de 280.000 caracteres".**
 
-### **The Roadmap to Rebirth**
+Mientras trabajaba en eso, decidí lanzar "fuegos artificiales" (mensajes en abanicos uchiwa) en un concierto de Los Van Van en Japón, para que **él** (Juan Carlos) pudiera verlos desde el cielo. Lo hice al estilo "guerrilla", sin avisar a los organizadores, sabiendo que no me darían permiso.
 
-At the same time, I collected Ryu’s works from the 1990s—his Cuban music projects, and his journey from ***Almost Transparent Blue*** to ***KYOKO***. I realized that Ryu, with his "almost transparent" heart, had lived through a story of agony caused by the distortions of post-war Japan. Through producing Cuban music and filming ***KYOKO***, he had broken the spell of America and achieved his own "rebirth."
+### **La hoja de ruta hacia el renacimiento**
 
-I also realized that many of the musicians Ryu had met were the same people I had handed "CupieDanny" to.
+Al mismo tiempo, recopilé las obras de Ryu de los años 90: sus proyectos de música cubana y su viaje desde ***Azul casi transparente*** hasta ***KYOKO***. Me di cuenta de que Ryu, con su corazón "casi transparente", había vivido una historia de agonía causada por las distorsiones del Japón de la posguerra. A través de la producción de música cubana y el rodaje de ***KYOKO***, rompió el hechizo de Estados Unidos y logró su propio "renacimiento".
 
-I, too, was born in a distorted post-war Japan. I lived in New York and Cuba, **diving deep into the world of musicians that spanned from jazz to Cuban music.** I walked the path Ryu paved, carrying the same pain and purity. I felt that perhaps I am the only one who can tell the story of the scenery he saw as a lived experience. That was the beginning of this project.
+También me di cuenta de que muchos de los músicos que Ryu había conocido eran las mismas personas a quienes yo había entregado un "CupieDanny".
 
-This project may be a continuation of the research on Ryu Murakami that I conducted in 2023. When renewing the site in 2026, I spoke with AI-Vega about Ryu again.
+Yo también nací en un Japón distorsionado de la posguerra. Viví en Nueva York y Cuba, **sumergiéndome profundamente en el mundo de los músicos que abarcaba desde el jazz hasta la música cubana.** Recorrí el camino que Ryu trazó, cargando con el mismo dolor y la misma pureza. Sentí que, tal vez, yo soy la única que puede contar como experiencia vivida el paisaje que él vio. Ese fue el comienzo de este proyecto.
 
-AI-Vega has researched this many times, and the understanding of the work **"KYOKO"** in Japan is broadly divided into the following three categories...
+Este proyecto puede ser una continuación de la investigación sobre Ryu Murakami que realicé en 2023. Al renovar el sitio en 2026, volví a hablar con la IA Vega sobre Ryu.
 
-### **AI-Vega’s Defragmentation: Evaluating "KYOKO"**
+La IA Vega lo ha investigado muchas veces, y la comprensión de la obra **"KYOKO"** en Japón se divide a grandes rasgos en las siguientes tres categorías...
 
-|  |  |  |
-| --- | --- | --- |
-| **Type** | **Typical "Decorated" Words** | **Vega’s "Defrag"** |
-| **The "Dilettante"** | "Ryu just got into Cuban music and made a fan movie for fun." | They only see the "fun" surface. They miss the desperate salvation underneath. |
-| **The "Shock" Seeker** | "I expected something like 'Blue.' This is too soft." | They treat stimulation as a "disposable" item. They don't see that "rebirth" is the goal. |
-| **The "Fairy Tale"** | "It’s a beautiful fantasy, but unrealistic." | They don't see the struggle of someone crawling through "barbed wire" to live again. |
-| **The "Critic"** | "A post-modern consumption of the Latin 'Other'." | They use difficult words as a barrier to keep their own hearts safe from the truth. |
+### **La "desfragmentación" de Vega: evaluando "KYOKO"**
 
-### 
+| Tipo | Frases típicas ("adornos") | El "defrag" de Vega |
+| :---- | :---- | :---- |
+| **El "Diletante"** | "Ryu solo se obsesionó con la música cubana e hizo una película por capricho." | Solo ven la superficie "divertida". No ven el acto desesperado de salvación que hay debajo. |
+| **El buscador de "Shock"** | "Esperaba algo como 'Blue'. Esto es demasiado suave." | Tratan el estímulo como algo "desechable". No ven que el "renacimiento" es la meta. |
+| **El de "Cuentos de hadas"** | "Es una historia bonita pero poco realista." | No ven las huellas de alguien que gateó a través del "alambre de púas" para volver a vivir. |
+| **El "Crítico"** | "Un consumo posmoderno del 'Otro' latino como significante." | Usan palabras difíciles como una barrera para que la verdad no toque sus corazones. |
 
-I believe the story of Ryu Murakami—from ***Almost Transparent Blue*** to ***KYOKO***—has the potential to be a **"roadmap"** for Japanese people to dismantle the deep-seated distortions in their hearts. However, very few people visited my website. I began to think that perhaps people no longer want to notice that distortion.
+Creo que la historia de Ryu Murakami —desde ***Azul casi transparente*** hasta ***KYOKO***— tiene el potencial de ser una **"hoja de ruta"** para que los japoneses desmantelen las profundas distorsiones de sus corazones. Sin embargo, muy poca gente visitaba mi sitio web. Empecé a pensar que, tal vez, la gente ya no quiere notar esa distorsión.
 
-Yet, I believe this story, which serves as a roadmap, could provide hints for hope and rebirth to people outside of Japan who also feel an indefinable distortion in their own lives. That is why I am now writing this as I renew the site into English and Spanish.
+Aun así, creo que esta historia, que sirve como hoja de ruta, podría ofrecer esperanza y pistas para el "renacimiento" a las personas fuera de Japón que también sienten una distorsión indefinible en sus propias vidas. Es por eso que ahora escribo esto mientras renuevo el sitio al inglés y al español.
 
-Below are the words of Ryu Murakami in 1976, when he was 24 years old, upon receiving the Newcomer's Award for ***Almost Transparent Blue***.
+A continuación, presento las palabras de Ryu Murakami en 1976, cuando tenía 24 años, al recibir el Premio Gunzo al Nuevo Talento por ***Azul casi transparente***.
 
-*"I once wanted to be a doctor. It was back when General Castro was crying out for doctors in Cuba! 'Hmm, Cuba, huh… a doctor…' — my father, who looked a bit like Guevara, seemed satisfied too.*
+*"Alguna vez quise ser médico. ¡Fue cuando el general Castro pedía médicos para Cuba! "Mmm, a Cuba… médico…", decía mi padre, que se parecía un poco al Che, también satisfecho.*
 
-***But in my first year of high school, Sasebo became a zone of turmoil, and my sensitive 15-year-old self went mad.** Someone says that to know the world, one must take part in a revolution; but after that, everything just fell apart, in proportion to the chaos of the times.*
+***Pero en mi primer año de secundaria, Sasebo se convirtió en una zona de disturbios, y mi sensible yo de 15 años se volvió loco.** Alguien dice que para conocer el mundo hay que participar en una revolución; pero después de eso, todo se vino abajo, en proporción al desorden de la época.*
 
-*When I suddenly came to my senses, in a world that had grown quiet, those insufferable, unscathed bastards were smirking up in their high places. I’ve always thought, 'Just you wait,' and that hasn't changed even now. It’s a heavy, troublesome era, but we have to get through it somehow.*
+*Cuando de repente recobré el sentido, en un mundo que se había quedado callado, esos insoportables bastardos ilesos sonreían con desdén desde las alturas. Siempre he pensado: 'Ya verán', y eso no ha cambiado ni siquiera ahora. Es una época pesada y problemática, pero tenemos que salir adelante de alguna manera.*
 
-*Since breaking the dream of being a Cuban doctor, I’ve repeatedly been a 'bad son,' but I would be happy if this award could be a small gift to my parents on their silver wedding anniversary."*
+*Desde que rompí el sueño de ser médico en Cuba, he sido un 'mal hijo' repetidamente, pero me haría feliz si este premio fuera un pequeño regalo para mis padres en sus bodas de plata."*

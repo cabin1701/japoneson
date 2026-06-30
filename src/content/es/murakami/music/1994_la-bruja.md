@@ -28,42 +28,42 @@ All Songs Written by José Luis Cortés except "All of Me"
 
 <div class="murakami-cd-text-contents">
 
-When the Berlin Wall fell, what came to an end was not only the political structure called the Cold War. I feel that the genres and categories of music, too, crumbled into nothing with an audible sound. That is — the old opposing diagram of European culture versus American pop no longer exists, does it?
+Cuando cayó el Muro de Berlín, lo que llegó a su fin no fue solo la estructura política llamada Guerra Fría. Siento que los géneros y las categorías de la música, también, se desmoronaron en la nada con un sonido audible. Es decir — el viejo esquema opuesto de la cultura europea frente al pop estadounidense ya no existe, ¿verdad?
 
-For example, between Jimi Hendrix and Daniel Barenboim, there is, I think, no longer any boundary line as artists. There are only magnificent musicians, and the rest — the trash — who are not.
+Por ejemplo, entre Jimi Hendrix y Daniel Barenboim ya no hay, creo yo, ninguna línea fronteriza como artistas. Solo hay músicos magníficos, y el resto — la basura — que no lo son.
 
-Mainly because of the political confrontation with the United States, almost nothing is known about Cuba's musical situation. Even devoted Latin fans find it quite difficult to grasp accurate, current information.
+Principalmente por la confrontación política con Estados Unidos, casi nada se sabe sobre la situación musical de Cuba. Incluso los aficionados latinos más devotos encuentran muy difícil hacerse con información actual y precisa.
 
-Pre-revolutionary Cuba, as everyone knows, was a treasure house of beats and dance steps.
+La Cuba prerrevolucionaria, como todos saben, era un cofre de tesoros de ritmos y pasos de baile.
 
-It's still fresh in memory how rumba (in Cuba, *son*), mambo, cha-cha-chá, and others spread across the whole world.
+Todavía está fresco en la memoria cómo la rumba (en Cuba, el *son*), el mambo, el cha-cha-chá y otros se extendieron por todo el mundo.
 
-So, what about after the revolution?
+Y bien, ¿qué pasó después de la revolución?
 
-The music scene of post-revolutionary Cuba changed in various ways, but the greatest and most important difference from before the revolution concerns "education."
+La escena musical de la Cuba posrevolucionaria cambió de diversas maneras, pero la diferencia más grande e importante respecto de antes de la revolución tiene que ver con la "educación."
 
-Pre-revolutionary musicians had, for the most part, received no musical education. They needed to perform at nightclubs and cabarets as early as possible, to earn a living. After the revolution, Cuba established several arts universities, invited classical professors from Czechoslovakia and Hungary, and talented children received nearly ten years of education for free.
+Los músicos prerrevolucionarios, en su mayoría, no habían recibido educación musical. Necesitaban actuar en clubes nocturnos y cabarets lo antes posible, para ganarse la vida. Después de la revolución, Cuba estableció varias universidades de arte, invitó a profesores de clásico desde Checoslovaquia y Hungría, y los niños talentosos recibieron cerca de diez años de educación gratuita.
 
-Originally, the roots of Cuban music are a fusion of a Spanish lineage centered on Gypsy music and an African lineage centered on Nigeria; but after the revolution, classical technique was added to that. The orchestras that emerged from such a musical situation and took the leadership were "Los Van Van," led by Juan Formell, and "Irakere," led by Chucho Valdés.
+Originalmente, las raíces de la música cubana son una fusión de un linaje español centrado en la música gitana y un linaje africano centrado en Nigeria; pero después de la revolución, se le añadió la técnica clásica. Las orquestas que surgieron de tal situación musical y tomaron el liderazgo fueron "Los Van Van," liderada por Juan Formell, e "Irakere," liderada por Chucho Valdés.
 
-The two bands repeated experimental music — that is, fusions of rock and Cuban, of jazz and Afro-Cuban, and so on — and "Irakere" in particular drew attention at various jazz festivals and even won a Grammy.
+Las dos bandas repitieron música experimental — es decir, fusiones de rock y cubano, de jazz y afrocubano, y demás — e "Irakere," en particular, llamó la atención en varios festivales de jazz e incluso ganó un Grammy.
 
-And then, having passed through those two groups, a prodigy appears who forms his own band.
+Y entonces, tras haber pasado por esos dos grupos, aparece un niño prodigio que forma su propia banda.
 
-His name is José Luis Cortés, with the nickname "Tosco" — flutist, lyricist, composer, arranger, band leader (and dancer too). "Tosco" joined Los Van Van at eighteen and stayed for ten years. After that, six years in Irakere; the flute improvisations he left during that time are, every one of them, unbelievably magnificent.
+Su nombre es José Luis Cortés, con el apodo de "Tosco" — flautista, letrista, compositor, arreglista, líder de banda (y bailarín también). "Tosco" entró en Los Van Van a los dieciocho años y permaneció diez años. Después, seis años en Irakere; las improvisaciones de flauta que dejó durante ese tiempo son, todas y cada una, increíblemente magníficas.
 
-In '86, "Tosco" gathered friends of his own generation and repeated the jazz-fusion experiments known by the *SIGLO* and *CICLO* series. That group was called the New Cuban All-Stars, and was later given the formal name Nueva Generación La Banda (The Band of the New Generation). As is clear in baseball and boxing too, in Cuba — where the base is broad, the layers are thick, and there are senior heavyweight musicians like so many stars — to declare a "new generation" is no ordinary feat.
+En el 86, "Tosco" reunió a amigos de su propia generación y repitió los experimentos de jazz-fusión conocidos por las series *SIGLO* y *CICLO*. Ese grupo se llamó New Cuban All-Stars, y más tarde recibió el nombre formal de Nueva Generación La Banda (La Banda de la Nueva Generación). Como queda claro también en el béisbol y el boxeo, en Cuba — donde la base es amplia, las capas son gruesas, y hay músicos veteranos de peso como estrellas en el cielo — declarar una "nueva generación" no es una hazaña cualquiera.
 
-Without overwhelming talent and leadership, no one would follow.
+Sin un talento y un liderazgo arrolladores, nadie lo seguiría.
 
-"Tosco" had a frightening level of flute technique, a talent for composition and arrangement that included the methodologies of jazz and classical, an intense individuality, and on top of that, a love for Cuban music.
+"Tosco" tenía un nivel aterrador de técnica en la flauta, un talento para la composición y el arreglo que incluía las metodologías del jazz y de lo clásico, una individualidad intensa, y, encima de todo, un amor por la música cubana.
 
-Around him are gathered Cuba's representative vocalists and musicians. Among them, Miguel Ángel on keyboards, Feliciano Arango on bass, Calixto Oviedo on drums, the four horn players, and the vocalist Tony Calá have, without doubt, the finest talent in Cuba.
+A su alrededor se han reunido los vocalistas y músicos representativos de Cuba. Entre ellos, Miguel Ángel en los teclados, Feliciano Arango en el bajo, Calixto Oviedo en la batería, los cuatro instrumentistas de viento, y el vocalista Tony Calá tienen, sin duda, el mejor talento de Cuba.
 
-NG La Banda (Nueva Generación La Banda) is a super-band that combines the power of an African wild animal, the precision of a fine machine, and beautiful melody lines.  
-When genres and categories collapse, the real thing is sought. NG La Banda is something like Cuba's national baseball team.
+NG La Banda (Nueva Generación La Banda) es una superbanda que combina la potencia de un animal salvaje africano, la precisión de una máquina de precisión, y bellas líneas melódicas.
+Cuando los géneros y las categorías se derrumban, se busca lo auténtico. NG La Banda es algo así como el equipo nacional de béisbol de Cuba.
 
-Far surpassing the concept of "salsa," they reveal the true meaning the word "fusion" holds.
+Superando con creces el concepto de "salsa," revelan el verdadero significado que encierra la palabra "fusión."
 
 Ryu Murakami
 

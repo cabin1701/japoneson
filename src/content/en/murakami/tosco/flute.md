@@ -36,7 +36,7 @@ Okinawa doesn't really understand it himself, but he felt that ``music'' (the so
 
 > I wanted José Luis to play a flute that could produce good sounds, and the thought of this genius continuing to play on the instrument I gave him made me feel like I had hope for survival.
 >
-> — Ryu Murakami, from notes to [“The Man” who called “TOSCO”](https://en.japoneson.com/murakami/music/the-man-who-called-tosco/)
+> — Ryu Murakami, from notes to [“The Man” who called “TOSCO”](https://japoneson.com/en/murakami/music/the-man-who-called-tosco/)
 
 
 

@@ -23,7 +23,7 @@ Through these activities, I gradually came to realize the "wounded Japanese" wit
 
 In 2014, I went to Cuba for the first time and stayed for three weeks. The following year, in 2015, I stayed there for two months. I then lived in Cuba for about two years from 2016 to 2018.
 
-For me, living in Cuba is like what life would have been like if Japan had not surrendered to the United States in the Pacific War. It was an "example'' life of one possibility. As I lived there, I came to understand what the Japanese had lost by surrendering, and what we had gained by surrendering.
+For me, living in Cuba is like what life would have been like if Japan had not surrendered to the United States in the Pacific War. It was an "example'' life of one possibility. As I lived there, I came to understand what the Japanese had lost by surrendering, and what we had gained by surrendering. By understanding it, the knot comes undone. We are "liberated.''
 
 Cuba was a country quite different from Japan. There, I got frustrated, angry, cried, and laughed at the differences in Cuban people and life in Cuba. Many differences between "new others'' (Cubans) and "myself'' (Japanese) stemmed from history, climate, customs, and beliefs. By recognizing the differences, one's identity as a Japanese person emerges.
 
@@ -36,6 +36,12 @@ There was music. Music was a language for communication. The openness and kindne
 In Cuba, there were many difficult and unpleasant things. My Cuban friends said, "Cuba is not easy" and they were very caring and helped me.
 
 “Anything is an experience, I am enjoying new experiences,” I said with a smile. Through experience, people gain wisdom and the strength to live.
+
+In Ryu's words, I think this means that "the amount of information increased dramatically" and "the world expanded."
+
+People who had never been around me until then, ways of thinking, ways of living, customs, food, laws, the country's system, the way of understanding music — everything "existing,'' everything "taken for granted,'' all the "anticipated differences'' that had existed until then were utterly destroyed, and I had no choice but to expand myself.
+
+And so, "I'' destroyed many of the things inside me, and regenerated them.
 
 
 

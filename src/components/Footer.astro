@@ -7,14 +7,14 @@ const base = import.meta.env.BASE_URL;
 const prefix = `${base}${lang}/`;
 
 const t = lang === 'es'
-  ? { contact: 'Contacto', privacy: 'Política de privacidad', terms: 'Términos de uso' }
-  : { contact: 'Contact', privacy: 'Privacy Policy', terms: 'Terms of use' };
+  ? { tagline: 'SOLO LA MÚSICA ES INCAPAZ DE MENTIRME.', contact: 'Contacto', privacy: 'Política de privacidad', terms: 'Términos de uso' }
+  : { tagline: 'ONLY MUSIC IS INCAPABLE OF LYING TO ME.', contact: 'Contact', privacy: 'Privacy Policy', terms: 'Terms of use' };
 ---
 
 <footer class="site-footer">
   <hr class="rule" />
   <div class="container">
-    <p class="footer-tagline">ONLY MUSIC IS INCAPABLE OF LYING TO ME.</p>
+    <p class="footer-tagline">{t.tagline}</p>
     <ul class="footer-nav">
       <li><a href={`${prefix}contact/`}>{t.contact}</a></li>
       <li><a href={`${prefix}privacy-policy/`}>{t.privacy}</a></li>

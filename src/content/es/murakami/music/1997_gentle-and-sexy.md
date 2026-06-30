@@ -15,7 +15,7 @@ The BEST of LOS VAN VAN
 
 1.TE TRAIGO - Juan Formell  
 2.RESUELVE - Juan Formell  
-3.SOMOS LOS VAN VAN  - Juan Formell  
+3.SOMOS LOS VAN VAN  - Juan Formell  
 4.VINE A VERTE - I.Sardiñas  
 5.POR ENCIMA DEL NIVEL - Juan Formell  
 6.AY MAMA RECIBEME - Juan Formell  
@@ -23,29 +23,29 @@ The BEST of LOS VAN VAN
 8.LA HABANA SI - Juan Formell  
 9.EL BUENA GENTE - César Pedroso  
 10.POLVO DE ESTRELLAS - Juan Formell  
-11.CUATRO ANOS DE AUSENCIA  - César Pedroso  
+11.CUATRO ANOS DE AUSENCIA  - César Pedroso  
 12.ESO ESTA BUENO - César Pedroso
 
 ---
 
 <div class="murakami-cd-text-contents">
 
-## From Liner notes
+## De las notas del disco
 
-When compiling this best-of album, selecting from more than a dozen EGREM releases, I felt such overwhelming nostalgia that I almost cried. It's already been six years since my first trip to Cuba, and Los Van Van has always been the top band, still running at the front today.
+Al compilar este álbum recopilatorio, seleccionando de entre más de una docena de discos de EGREM, sentí una nostalgia tan abrumadora que casi se me escaparon las lágrimas. Ya han pasado seis años desde mi primer viaje a Cuba, y Los Van Van siempre ha sido la banda cumbre, y aún hoy va al frente.
 
-After deciding on Van Van's "Llegué, Llegué" as the theme song for the film *Topaz*, my friendship with the leader Juan Formell began. Van Van is about to mark thirty years since their formation, but Juan Formell's musical drive has, of course, not waned even now.
+Después de decidir "Llegué, Llegué" de Van Van como tema de la película *Topaz*, comenzó mi amistad con el líder, Juan Formell. Van Van está por cumplir treinta años desde su fundación, pero las ganas musicales de Juan Formell, por supuesto, no han decaído ni siquiera hoy.
 
-The twelve songs included here are, every one, masterpieces among masterpieces, deserving the word "gems."
+Las doce canciones aquí incluidas son, todas y cada una, obras maestras entre las obras maestras, dignas de la palabra "joyas."
 
-What I chose were works that will go down not only in the history of Cuban music, but in the history of the world's popular song.
+Lo que elegí son obras que quedarán no solo en la historia de la música cubana, sino en la historia de la canción popular del mundo.
 
-I remember Havana, September 1992. On the veranda of the Hotel Riviera, looking down over the deep blue sea spreading in a 180-degree panorama, I turned the compact stereo to maximum volume and listened to Van Van for hours. The music came into my body, and I was wrapped in a pleasure like obtaining orgasm for the first time through sex. Nothing extraneous existed; even self-consciousness vanished, and there was only the music and the sea.
+Recuerdo La Habana, septiembre de 1992. En la terraza del Hotel Riviera, contemplando el mar azul intenso que se extendía en una panorámica de 180 grados, puse el estéreo compacto al máximo volumen y escuché Van Van durante horas. La música entró en mi cuerpo, y me envolvió un placer parecido a obtener el orgasmo por primera vez a través del sexo. Nada superfluo existía; hasta la autoconciencia se desvaneció, y solo estaban la música y el mar.
 
-Since then, in live shows and in new releases, Van Van has not betrayed my expectations a single time.
+Desde entonces, ni en directo ni en los nuevos lanzamientos, Van Van me ha defraudado ni una sola vez.
 
-There is nothing more I have to say.  
-The highest level of experiment and achievement in Cuban music is right here.
+No queda nada más por decir.  
+El más alto nivel de experimento y de logro en la música cubana está aquí mismo.
 
 Ryu Murakami
 

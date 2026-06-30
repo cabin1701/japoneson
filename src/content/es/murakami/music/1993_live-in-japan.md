@@ -12,47 +12,47 @@ NG La Banda Live In Japan
 
 ---
 
-1-  Los Sitios Enteros  - José Luis Cortés -  
-2-  Que Venga La Fiera, Camará  -José Luis Cortes-  
-3-  Cha-cha-cha Cortés  - José Luis Cortés -  
-4-  Merengue Españo  - José Luis Cortés-  
-5-  ¿Por Que Tú Sufres Con Lo Que Yo Gozo? ~ Summertime  - José Luis Cortés -  
-6-  All Of Me  - S. Simons- G.Marks -  
-7-  No Se Puede Tapar El Sol  - José Luis Cortés -
+1-  Los Sitios Enteros  - José Luis Cortés -  
+2-  Que Venga La Fiera, Camará  -José Luis Cortes-  
+3-  Cha-cha-cha Cortés  - José Luis Cortés -  
+4-  Merengue Españo  - José Luis Cortés-  
+5-  ¿Por Que Tú Sufres Con Lo Que Yo Gozo? ~ Summertime  - José Luis Cortés -  
+6-  All Of Me  - S. Simons- G.Marks -  
+7-  No Se Puede Tapar El Sol  - José Luis Cortés -
 
 ---
 
 <div class="murakami-cd-text-contents">
 
-In the summer of 1993, I spent about a month together with NG La Banda. They did nine concerts in all — at Huis Ten Bosch in Nagasaki and at Shibuya On Air.
+En el verano de 1993, pasé alrededor de un mes junto con NG La Banda. Dieron nueve conciertos en total: en Huis Ten Bosch, en Nagasaki, y en Shibuya On Air.
 
-This live album is a recording of the August 11 performance — the final day at On Air.
+Este álbum en vivo es la grabación de la actuación del 11 de agosto, el último día en On Air.
 
-The live tour began on August 2, at Utrecht Plaza inside Huis Ten Bosch. Nagasaki — Sasebo — is my hometown, so listening to NG La Banda perform there gave me a strange feeling.
+La gira comenzó el 2 de agosto, en Utrecht Plaza, dentro de Huis Ten Bosch. Nagasaki — Sasebo — es mi ciudad natal, así que oír tocar a NG La Banda allí me daba una sensación extraña.
 
-In a sense, "Sasebo" and "Cuba" were the most distant pair of proper nouns inside me.
+En cierto sentido, "Sasebo" y "Cuba" eran el par de nombres propios más distantes dentro de mí.
 
-Sasebo is a base town, and I grew up seeing as everyday scenery the sight of adults bowing and scraping before the American military.
+Sasebo es una ciudad de base militar, y crecí viendo como escenografía cotidiana cómo los adultos hacían reverencias serviles ante el ejército estadounidense.
 
-Cuba — though the capital, Havana, is only a hundred kilometers from Miami and Key West — still holds, to this day, its ethnic pride and its independence against the great power of America. For me Sasebo was a symbol of the past; and because of the next film I was making, Cuba was even a symbol of the future.
+Cuba — aunque la capital, La Habana, esté apenas a cien kilómetros de Miami y Key West — sigue conservando hoy su orgullo étnico y su independencia frente a la gran potencia estadounidense. Para mí, Sasebo era un símbolo del pasado; y, por el siguiente filme que estaba haciendo, Cuba era incluso un símbolo del futuro.
 
-But at Huis Ten Bosch I ate *champon* (a Nagasaki noodle dish), *sara-udon* (crispy noodles with sauce), *ishidai* (striped beakfish), abalone, and lobster; then walked over to Utrecht Plaza, listened to NG La Banda's rehearsal, took a swim in the pool afterward, changed into a suit, returned to the venue, and drank, ate, and danced — a cabaret life I enjoyed to the full.
+Pero en Huis Ten Bosch comí *champon* (un plato de fideos de Nagasaki), *sara-udon* (fideos crujientes con salsa), *ishidai* (pez beso de bandas), abulón y langosta; luego caminé hasta Utrecht Plaza, escuché el ensayo de NG La Banda, después di un baño en la piscina, me cambié al traje, volví al lugar, y bebí, comí y bailé: una vida de cabaret que disfruté a fondo.
 
-Who could imagine that such a luxury existed — eating the local *sara-udon*, or sashimi of *ishidai* caught in Ōmura Bay, and then watching NG La Banda?
+¿Quién podría imaginar que existiera semejante lujo: comer el *sara-udon* del lugar, o sashimi de *ishidai* pescado en la bahía de Ōmura, y luego ver a NG La Banda?
 
-The truth is, around that time, a serious crisis had arrived concerning the next film, and my nerves were worn down.
+La verdad es que por aquellos días había llegado una crisis seria con el siguiente filme, y tenía los nervios destrozados.
 
-I had been worrying whether I would even be able to produce the event; but, thanks to *sara-udon* and *ishidai* and NG La Banda, little by little I was able to become free of all that.
+Me preocupaba si siquiera podría producir el evento; pero, gracias al *sara-udon*, al *ishidai* y a NG La Banda, poco a poco fui pudiendo liberarme de todo eso.
 
-NG La Banda's overwhelming playing told me: "Forward — that's all there is."
+La interpretación arrolladora de NG La Banda me dijo: "Adelante — no hay otra cosa."
 
-At that time, I thought of Cuba, and I felt as though I understood how, and why, music as beautiful and strong as NG La Banda's and others like them could come into being. I've written it many times, but I came to feel it in my bones: the Cuban people are not just brightly and giddily drunk on music, dancing carefree.
+En ese momento pensé en Cuba, y sentí como si comprendiera cómo y por qué pudo nacer una música tan bella y tan fuerte como la de NG La Banda y bandas como ellos. Lo he escrito muchas veces, pero llegué a sentirlo en los huesos: el pueblo cubano no anda simplemente borracho de música, bailando despreocupado y a la ligera.
 
-They are in a serious situation that peaceful Japanese could not understand even if they died and were reborn. If you played to such people the kind of thing that, in Japan, can't even be called "music" — enka, pop, jazz, the kind that just sticks to sentimentality and reinforces the in-group feeling — they might die of sheer despair.
+Están en una situación seria que un japonés en paz no podría comprender ni aunque muriera y volviera a nacer. Si a esa gente le pusieras lo que en Japón ni siquiera puede llamarse "música" — el enka, el pop, el jazz, esa clase de cosa que solo se pega al sentimentalismo y refuerza el sentimiento de pertenencia al grupo — quizá morirían de pura desesperación.
 
-Now, about this live album: as it was also their first multi-track recording, NG La Banda displays a precision beyond precision, an unbelievable drive. The seven tracks, from the opening "I'll Take You to the Rumba" to the closing "You Can't Hide the Sun," were chosen by myself and the leader, José Luis Cortés. I take pride that those who came to the concerts will of course understand — and so too will those poor people who, even now, have never heard NG La Banda live — the magnificence of their ensemble and their beat.
+Ahora, sobre este álbum en vivo: como fue además su primera grabación multipista, NG La Banda muestra una precisión más allá de la precisión, un drive increíble. Las siete pistas, desde la inicial "Te llevo a la rumba" hasta la última "No se puede ocultar el sol," las elegimos yo y el líder, José Luis Cortés. Me enorgullece pensar que los que vinieron a los conciertos lo entenderán por supuesto — y también lo entenderán esas pobres personas que, aún hoy, no han escuchado en vivo a NG La Banda — la magnificencia de su ensamble y de su pulso.
 
-Turn the volume up, listen, and try dancing — like a Cuban, positively, and elegantly.
+Suban el volumen, escuchen, y prueben a bailar — como un cubano, de manera positiva, y elegante.
 
 ¡Ataca, Chicho!
 

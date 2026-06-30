@@ -1,22 +1,22 @@
 ---
-title: "RYU MURAKAMI's BOOKS"
+title: "Libros de Ryu Murakami"
 slug: books
 wp_id: 15953
 wp_parent: 19793
 ---
 
-**RYU MURAKAMI's writings have been published more than 100 times since 1976 in Japan.****This is a list translated and published worldwide.**
+**Las obras de Ryu Murakami se han publicado más de 100 veces desde 1976 en Japón.****Esta es una lista de las traducciones publicadas en todo el mundo.**
 
-[English](https://en.japoneson.com/en/ryu/works/books#english) - [Spanish](https://en.japoneson.com/en/ryu/works/books#spanish) - [French](https://en.japoneson.com/en/ryu/works/books#french) - [Italian](https://en.japoneson.com/en/ryu/works/books#italian) - [German](https://en.japoneson.com/en/ryu/works/books#german) - [Russian](https://en.japoneson.com/en/ryu/works/books#russian)  
-[Turkish](https://en.japoneson.com/en/ryu/works/books#turkish) - [Greek](https://en.japoneson.com/en/ryu/works/books#greek) - [Croatia](https://en.japoneson.com/en/ryu/works/books#croatia) - [Portugues](https://en.japoneson.com/en/ryu/works/books#portugues)- [Catalan](https://en.japoneson.com/en/ryu/works/books#catalan) - [Dutch](https://en.japoneson.com/en/ryu/works/books#dutch)
+[Inglés](https://en.japoneson.com/en/ryu/works/books#english) - [Español](https://en.japoneson.com/en/ryu/works/books#spanish) - [Francés](https://en.japoneson.com/en/ryu/works/books#french) - [Italiano](https://en.japoneson.com/en/ryu/works/books#italian) - [Alemán](https://en.japoneson.com/en/ryu/works/books#german) - [Ruso](https://en.japoneson.com/en/ryu/works/books#russian)  
+[Turco](https://en.japoneson.com/en/ryu/works/books#turkish) - [Griego](https://en.japoneson.com/en/ryu/works/books#greek) - [Croata](https://en.japoneson.com/en/ryu/works/books#croatia) - [Portugués](https://en.japoneson.com/en/ryu/works/books#portugues)- [Catalán](https://en.japoneson.com/en/ryu/works/books#catalan) - [Neerlandés](https://en.japoneson.com/en/ryu/works/books#dutch)
 
-You can find books published in Japan on the [Japanese page](https://japoneson.com/ja/ryu/works/books).
+Puedes encontrar los libros publicados en Japón en la [página en japonés](https://japoneson.com/ja/ryu/works/books).
 
 ---
 
 ## 
 
-## English
+## Inglés
 
 Almost Transparent Blue  
 Coin Locker Babies  
@@ -28,13 +28,13 @@ In the Miso Soup
 From the Fatherland with Love  
 Tokyo Decadence: 15 Stories
 
-## Spanish
+## Español
 
 Azul casi transparente  
 Los chicos de las taquillas  
 Sopa de miso
 
-## French
+## Francés
 
 Bleu presque transparent  
 La guerre commence au-delà de la mer  
@@ -50,7 +50,7 @@ Parasites
 Thanatos  
 Topaze
 
-## Italian
+## Italiano
 
 Blu quasi trasparente  
 69 Sixty-nine  
@@ -58,7 +58,7 @@ Piercing
 Audition  
 Tokyo Soup
 
-## German
+## Alemán
 
 Coin Locker Babys  
 Superhits der Shōwa-Ära  
@@ -67,7 +67,7 @@ In der Misosuppe
 "In Liebe, dein Vaterland II: Der Untergang  
 In Liebe, Dein Vaterland I: Die Invasion"
 
-## Russian
+## Ruso
 
 Vse ottenki golubogo  
 69 (Sixty-Nine)  
@@ -86,31 +86,33 @@ Vojna nachinaetsya za morem
 Hity epohi Seva  
 Monologi o naslazhdenii, apatii i smerti
 
-## Turkish
+## Turco
 
 Yok Yere…  
-Seffaf Mavi  
-Gecenin Dibi  
-Romanian  
-În supa miso
+Şeffaf Mavi  
+Gecenin Dibi
 
-## Greek
+## Rumano
+
+În supă miso
+
+## Griego
 
 Σχεδόν διάφανο γαλάζιο
 
-## Croatia
+## Croata
 
 U miso-juhi
 
-## Portugues
+## Portugués
 
 Audicao  
 Miso Soup
 
-## Catalan
+## Catalán
 
 Pírcing
 
-## Dutch
+## Neerlandés
 
 De karaokeoorlog
