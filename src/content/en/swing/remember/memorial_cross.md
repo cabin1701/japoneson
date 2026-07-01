@@ -5,7 +5,15 @@ wp_id: 17874
 wp_parent: 1022
 ---
 
-## MEMORIAL CROSS For Fallen Soldiers of the Korean War
+Donald Versaw (see "Introduction"), whose encounter first inspired me to create this booklet, belonged to the American Descendants of Bataan & Corregidor Memorial Society. That year, by a strange coincidence, their convention was held in Norfolk, Virginia — a sister city of Kitakyushu — so I took part as both a singer and a friend of former POWs.
+
+Through an introduction from the 24th Infantry Division veterans' association there, I met Mr. David Valley. Mr. Valley had served as a guard for General Douglas MacArthur, who commanded GHQ as Supreme Commander. Norfolk is also home to the MacArthur Memorial, where General MacArthur rests together with his wife. Through Mr. Valley's introduction, I also met the museum's director and curators.
+
+After Norfolk, I visited Mr. Valley again in San Diego, California. Later, in Los Angeles, I also met Ms. Monica Lewis. That journey — through Hawaii, New York, Virginia, and California, tracing America's side of World War II and the Korean War as a Japanese woman — became a strange and profound experience, as if I were being guided by unseen souls.
+
+I hope to write about that journey on another occasion. This introduction has grown long, but from here begins the content of the booklet.
+
+---
 
 ![](/images/wp/2024/04/memorial-cross-scaled-e1713441095325.jpg)
 
@@ -88,6 +96,18 @@ Tom Thiel
 NEVER FORGOTTEN: My Facebook friend and fellow singer / humanitarian Shoko "Seina" Shiraishi, who is devoted to preserving and performing the American pop and jazz hits of my own mid-century era, sent me these lovely photos taken on Christmas Day 2012. Seina visited the Korean War Memorial Cross in her hometown of Kokura, Japan, and -- as a sweet gesture of remembrance and gratitude to our soldiers and their sacrifices, and to my own 1951 troop-entertainment tour of the frontlines in Korea with Danny Kaye -- played two of my songs on-site via her iPhone. The tunes were "The Song is You" and "I'll Be Seeing You," which both appeared on my 1957 album SING IT TO THE MARINES. To learn more about Seina, her music and her good work, please visit her on Facebook.
 
 Love to you, Seina! oxo, Monica
+
+---
+
+## Stars Who Entertained the Troops
+
+Many American singers and stars traveled to the front to entertain the troops. Bob Hope, mentioned earlier, was a major American star who ran entertainment tours for nearly 60 years, from World War II through the Korean War, the Vietnam War, and even the Gulf War. In 1954, Marilyn Monroe, while on her honeymoon in Japan with former baseball player Joe DiMaggio, traveled on to Korea by way of Fukuoka to entertain the troops.
+
+This kind of troop-entertainment activity also took place among Japanese forces during the Pacific War. Hamako Watanabe, the singer famous for "Soshu Yakyoku" and "Itsuka Kimi Saikou," was in Tianjin on an entertainment tour when the war ended, and spent a year afterward living in a POW camp. After the war, she also devoted herself to campaigning for the release of war criminals held at Muntinlupa Prison in the Philippines. Many other Japanese singers — Mitsuko Mori, Taro Shoji, Ichiro Fujiyama, and others — also traveled to the front to entertain troops.
+
+Monica Lewis, a Hollywood star and singer through the 1940s and 1950s, traveled to Korea with Danny Kaye (the actor whose name inspired the stage name of the Japanese comedian Kei Tani) in the fall of 1951, at the height of her career, on a tour entertaining troops at the front. Now 90 years old (as of February 2013), she still thinks of the soldiers of that time and shares her memories online. When I searched for the Korean War on Facebook, I discovered her thoughts on the Korean War veterans and we began exchanging messages.
+
+These tours by stars visiting soldiers at the front can also be seen in films such as the Bette Midler film *For the Boys*.
 
 ---
 

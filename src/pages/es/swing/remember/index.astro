@@ -8,16 +8,16 @@ const base = import.meta.env.BASE_URL;
 const IMG = (p: string) => `/images/wp/${p}`;
 
 const contents = [
-  { label: 'Introduction', href: `${base}es/swing/remember/preface/` },
-  { label: 'TIMELINE: war and events around Kitakyushu City', href: `${base}es/swing/remember/preface/#timeline` },
-  { label: 'KOKURA: Army Arsenal', href: `${base}es/swing/remember/kokura/` },
-  { label: 'MOJI: Departure, Air Raids, and Allied POWs', href: `${base}es/swing/remember/moji/` },
-  { label: 'The Great Yawata Air Raid (Aug 8, 1945)', href: `${base}es/swing/remember/yahata/` },
-  { label: 'The Atomic Bomb over Kokura: August 9, 1945', href: `${base}es/swing/remember/atomicbomb/` },
-  { label: 'KOKURA MEMORIAL CROSS | For Fallen Soldiers of the Korean War', href: `${base}es/swing/remember/memorial_cross/` },
-  { label: 'MOJI: World Peace Pagoda', href: `${base}es/swing/remember/pagoda/` },
-  { label: 'The friendship between Dutch ex-POWs and Mizumaki Town', href: `${base}es/swing/remember/mizumaki/` },
-  { label: 'Towards the Future / Seina', href: `${base}es/swing/remember/future/` },
+  { label: 'Introducción', href: `${base}es/swing/remember/preface/` },
+  { label: 'CRONOLOGÍA: guerra y eventos en torno a la ciudad de Kitakyushu', href: `${base}es/swing/remember/preface/#timeline` },
+  { label: 'KOKURA: Arsenal del Ejército', href: `${base}es/swing/remember/kokura/` },
+  { label: 'MOJI: Partida, bombardeos aéreos y prisioneros aliados', href: `${base}es/swing/remember/moji/` },
+  { label: 'El gran bombardeo aéreo de Yahata (8 de agosto de 1945)', href: `${base}es/swing/remember/yahata/` },
+  { label: 'La bomba atómica sobre Kokura: 9 de agosto de 1945', href: `${base}es/swing/remember/atomicbomb/` },
+  { label: 'CRUZ CONMEMORATIVA DE KOKURA | Por los soldados caídos en la Guerra de Corea', href: `${base}es/swing/remember/memorial_cross/` },
+  { label: 'MOJI: Pagoda de la Paz Mundial', href: `${base}es/swing/remember/pagoda/` },
+  { label: 'La amistad entre los ex prisioneros de guerra neerlandeses y la ciudad de Mizumaki', href: `${base}es/swing/remember/mizumaki/` },
+  { label: 'Hacia el futuro / Seina', href: `${base}es/swing/remember/future/` },
 ];
 
 const trail = [
@@ -30,9 +30,9 @@ const trail = [
   <Header lang="es" />
   <main>
     <ProjectHero
-      kicker="Wartime and Postwar Kitakyushu"
+      kicker="Kitakyushu en tiempos de guerra y posguerra"
       title="We Remember You"
-      subtitle="A booklet for the 50th anniversary of the merger of Moji, Kokura, Tobata, Yawata, and Wakamatsu — 2013."
+      subtitle="Un folleto por el 50.º aniversario de la fusión de Moji, Kokura, Tobata, Yawata y Wakamatsu — 2013."
       image={`${base}images/swing/hero_remember.jpg`}
       image="/images/swing/hero_memorial.jpg"
       align="center"
@@ -50,35 +50,35 @@ const trail = [
 
     <section class="essay">
       <div class="essay-inner">
-       
-        <h2>Towards the Future:</h2>
-        
+
+        <h2>Hacia el futuro:</h2>
+
 
         <div class="cover-image">
           <img src={IMG('2026/05/kitakyushuu-768x768.jpg')} alt="Kitakyushu — We Remember You" loading="lazy" />
         </div>
 
         <p>
-          In 1963, the five cities of Moji, Kokura, Tobata, Yawata, and Wakamatsu merged to form Kitakyushu City. This booklet was published in 2013 to mark the 50th anniversary of that merger.
+          En 1963, las cinco ciudades de Moji, Kokura, Tobata, Yawata y Wakamatsu se fusionaron para formar la ciudad de Kitakyushu. Este folleto se publicó en 2013 para conmemorar el 50.º aniversario de esa fusión.
         </p>
         <p>
-          Through my project "<a href={`${base}es/swing/dream/`}>I Have a Dream… Seina</a>", I encountered a U.S. Marine veteran who had been captured in the Philippines during WWII. He was brought to Moji Port and forced to work as a prisoner of war in a coal mine in Fukuoka Prefecture.
+          A través de mi proyecto "<a href={`${base}es/swing/dream/`}>I Have a Dream… Seina</a>", conocí a un veterano de la Marina de EE. UU. que había sido capturado en Filipinas durante la Segunda Guerra Mundial. Fue llevado al puerto de Moji y obligado a trabajar como prisionero de guerra en una mina de carbón de la prefectura de Fukuoka.
         </p>
         <p>
-          Moji is my hometown. It was from this elderly American man that I learned the hidden pieces of the history of the city where I was born and raised.
+          Moji es mi ciudad natal. Fue gracias a este anciano estadounidense que aprendí las partes ocultas de la historia de la ciudad donde nací y crecí.
         </p>
         <p>
-          This booklet documents not only the stories of Allied prisoners of war but also the broader history of Kitakyushu before and after the Pacific War. It is a tribute to those who lost their lives in my hometown and to the soldiers who departed from our shores for the battlefields of South Asia, never to return.
+          Este folleto no solo documenta las historias de los prisioneros de guerra aliados, sino también la historia más amplia de Kitakyushu antes y después de la Guerra del Pacífico. Es un tributo a quienes perdieron la vida en mi ciudad natal y a los soldados que partieron desde nuestras costas hacia los campos de batalla del sur de Asia, para no regresar jamás.
         </p>
         <p>
-          This is my message to the future: we must never forget this history.
+          Este es mi mensaje para el futuro: nunca debemos olvidar esta historia.
         </p>
       </div>
     </section>
 
     <section class="contents">
       <div class="contents-inner">
-        <h3 class="contents-title">Contents</h3>
+        <h3 class="contents-title">Índice</h3>
         <ul>
           {contents.map((c) => (
             <li><a href={c.href}>{c.label}</a></li>
@@ -91,7 +91,7 @@ const trail = [
       <div class="essay-inner">
         <hr class="rule" />
         <p class="photo-credit">
-          Photography cooperation: Kazumichi Kidera (<a href="https://www.fuweb.co.jp/" target="_blank" rel="noopener noreferrer">FU. photo & design</a>)
+          Colaboración fotográfica: Kazumichi Kidera (<a href="https://www.fuweb.co.jp/" target="_blank" rel="noopener noreferrer">FU. photo & design</a>)
         </p>
       </div>
     </section>

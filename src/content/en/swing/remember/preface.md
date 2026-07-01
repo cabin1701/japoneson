@@ -7,8 +7,6 @@ wp_parent: 1022
 
 ![](/images/wp/2024/04/preface_don_seina.jpg)
 
-## Introduction
-
 In 1999, through my musical activities in the United States, I met Donald Versaw, a U.S. Marine veteran living in California. During the Pacific War, he was forced to work as a prisoner of war in a coal mine in Iizuka. In 2011, I happened to discover that in the fall of 2010, at the age of 89, he had visited Japan as part of the Japanese government's invitation program for former POWs. Realizing he was still alive, I immediately contacted the relevant organizations.
 
 As I researched POWs online, I learned that many were transported by ship from the south, entering Japan through Moji. Those who survived the journey to Moji were then sent to camps across the country. Kitakyushu was where the highest number of POWs in all of Japan lost their lives.
@@ -39,7 +37,7 @@ Angels Swing, Sein
 | 1863 1864 | [Shimonoseki campaign](https://en.wikipedia.org/wiki/Shimonoseki_campaign), (The combined fleet of Britain, France, the Netherlands, and the United States). [Takasugi Shinsaku](https://en.wikipedia.org/wiki/Takasugi_Shinsaku) formed [Kiheitai.](https://en.wikipedia.org/wiki/Kiheitai) |
 | 1875 | [Maresuke Nogi](https://en.wikipedia.org/wiki/Nogi_Maresuke) leads the 14th Regiment and is assigned to Kokura. He suppressed the Akizuki Rebellion and the Hagi Rebellion. |
 | 1894 | [First Sino-Japanese war](https://en.wikipedia.org/wiki/First_Sino-Japanese_War). The war between Japan and China was mainly over the Korean Peninsula. According to the [Treaty of Shimonoseki](https://en.wikipedia.org/wiki/Treaty_of_Shimonoseki) concluded in Japan’s favor, Qing Dynasty paid reparations. Using this reparation money, the Japanese government built a government-run steelworks in Yahata Village, Fukuoka Prefecture. This was the birth of the Yawata Steel Works. |
-| 1898 | [The 12th Division](https://en.wikipedia.org/wiki/12th_Division_(Imperial_Japanese_Army)) Headquarters opens in Kokura. The following year, in 1932, [Ogai Mori](https://en.wikipedia.org/wiki/Mori_%C5%8Cgai) was appointed military medical chief. |
+| 1898 | [The 12th Division](https://en.wikipedia.org/wiki/12th_Division_(Imperial_Japanese_Army)) Headquarters opens in Kokura. The following year (Meiji 32, 1899), [Ogai Mori](https://en.wikipedia.org/wiki/Mori_%C5%8Cgai) was appointed military medical chief. |
 | 1904 | [Russo-Japanese War](https://en.wikipedia.org/wiki/Russo-Japanese_War). A war between Japan and Russia that centered on the [Korean Peninsula](https://en.wikipedia.org/wiki/Geography_of_Korea) and [Manchuria](https://en.wikipedia.org/wiki/Manchuria). [The 12th Division](https://en.wikipedia.org/wiki/12th_Division_(Imperial_Japanese_Army)) was dispatched from Kokura. |
 | 1914 | [World War I](https://en.wikipedia.org/wiki/World_War_I). The first world war in human history. |
 | 1931 | [Manchurian Incident](https://en.wikipedia.org/wiki/Mukden_incident). Promotion of Japanese militarism. Farewell of soldiers departing from Moji Port. |

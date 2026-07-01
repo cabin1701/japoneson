@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Introducción"
 slug: preface
 wp_id: 17727
 wp_parent: 1022
@@ -7,51 +7,48 @@ wp_parent: 1022
 
 ![](/images/wp/2024/04/preface_don_seina.jpg)
 
-## Introduction
+En 1999, conocí a Donald Versaw, un veterano estadounidense retirado que vivía en California, a través de mis actividades musicales en Estados Unidos. Durante la Guerra del Pacífico, había sido obligado a trabajar como prisionero de guerra en una mina de carbón en Iizuka. En 2011, por pura casualidad, descubrí que en el otoño de 2010, a sus 89 años, había visitado Japón dentro de un programa del gobierno japonés de invitación a antiguos prisioneros de guerra estadounidenses. Al saber que aún vivía, contacté de inmediato con las organizaciones correspondientes. Investigando sobre los prisioneros de guerra en internet, aprendí que muchos eran transportados por barco desde el sur y entraban por Moji; los que llegaban con vida a Moji eran enviados desde allí a campos de todo el país. Kitakyushu fue el lugar donde murió el mayor número de prisioneros de guerra de todo Japón.
 
-In 1999, through my musical activities in the United States, I met Donald Versaw, a U.S. Marine veteran living in California. During the Pacific War, he was forced to work as a prisoner of war in a coal mine in Iizuka. In 2011, I happened to discover that in the fall of 2010, at the age of 89, he had visited Japan as part of the Japanese government's invitation program for former POWs. Realizing he was still alive, I immediately contacted the relevant organizations.
+Esto me llevó a empezar a investigar aquella guerra, y uno tras otro fueron surgiendo hechos, nombres de lugares y personas que yo no conocía; mi curiosidad no tenía fin, y noche tras noche, ya en la cama, buscaba información con el iPhone en la mano. Descubrí que en el sudeste asiático y en Siberia todavía hoy descansan los restos de más de un millón de japoneses que nunca pudieron regresar a casa, y quise experimentar por mí misma lo que es la "recuperación de restos"; así participé en una expedición de recuperación de restos en Okinawa organizada por el alpinista Ken Noguchi. También participé en un programa de invitación a ciudadanos neerlandeses en la ciudad de Mizumaki, organizado por el Ministerio de Asuntos Exteriores de Japón y el gobierno de los Países Bajos, y así aprendí por qué los Países Bajos e Indonesia estaban relacionados con la Guerra del Pacífico. Supe también que la Guerra de Corea, iniciada en 1950, tuvo un enorme impacto económico en Kitakyushu (la llamada "bonanza de la Guerra de Corea"). Cada vez que aprendía algo nuevo, surgía otra pregunta que me llevaba a seguir buscando, y sin darme cuenta, la historia de aquella época se fue completando como un rompecabezas.
 
-As I researched POWs online, I learned that many were transported by ship from the south, entering Japan through Moji. Those who survived the journey to Moji were then sent to camps across the country. Kitakyushu was where the highest number of POWs in all of Japan lost their lives.
+Al conocer la Guerra del Pacífico (la Gran Guerra del Asia Oriental) desde tantos ángulos distintos, y al conocer cómo era Kitakyushu en aquella época, comprendí que mi propia vida se sostenía apenas gracias a una cadena de coincidencias, y que existe una enorme cantidad de historia y de vidas que nuestra generación ha olvidado. Quise crear un folleto que sirviera como punto de partida para que las personas de veinte a cuarenta años conocieran la historia y las vidas de aquella época.
 
-This discovery led me to begin researching the war. One after another, events, place names, and individuals I had never known surfaced. My interest was relentless; night after night, I stayed awake in bed, searching on my iPhone. I learned that the remains of over a million Japanese who cannot return home still lie in Southeast Asia and Siberia. Driven by a desire to experience "remains recovery," I joined an expedition in Okinawa led by mountaineer Ken Noguchi. I also participated in a Dutch invitation program in Mizumaki, organized by the Ministry of Foreign Affairs and the Dutch government, where I learned why the Netherlands and Indonesia were connected to the Pacific War. I discovered the significant economic impact (the Korean War windfall) that the Korean War, which began in 1950, had on Kitakyushu. Every time I learned something, it sparked new questions, and before I knew it, the history of that era began to fit together like a puzzle.
+Este folleto no explica la historia con todo detalle. La guerra tiene informaciones, ideologías, experiencias y sentimientos completamente distintos según el país o la posición de cada persona. Si alguna palabra o suceso les llama la atención, búsquenlo en su computadora o teléfono. Las palabras clave para buscar están resaltadas con otro color dentro del texto. Si al buscar encuentran algo más que no conocían, vuelvan a buscarlo. Aprovechen también Wikipedia y otros recursos. Estoy segura de que encontrarán muchas ideas, valores y descubrimientos distintos.
 
-By seeing the Pacific War (Great East Asia War) from various perspectives and learning about Kitakyushu during that time, I realized that my own life was barely connected through many coincidences. I became aware of the vast amount of history and many lives that our generation has forgotten. I wanted to create a booklet that would serve as a catalyst for people in their 20s to 40s to learn about the history and the lives of that era.
+Viví siete años en Nueva York, después recorrí India y el sudeste asiático con una mochila a la espalda, y viví doce años en el área metropolitana de Tokio. Hoy me apasiona la historia de Japón, del mundo y de Kitakyushu, la ciudad donde nací y crecí. Con Kitakyushu como mi eje, estoy conectada con personas de todo el mundo, más allá de las épocas, las generaciones y las fronteras.
 
-This booklet does not explain history in minute detail. War involves vastly different information, ideologies, experiences, and emotions depending on each country and perspective. If a word or event catches your interest, please search for it on your computer or smartphone. Keywords for searching are highlighted in color within the text. If you find something new beyond that, search again. Please make use of Wikipedia and other resources. You will find a wealth of different thoughts, values, and discoveries.
+Felicidades por el 50.º aniversario de la fundación de la ciudad de Kitakyushu.
 
-After living in New York for seven years, backpacking through India and Southeast Asia, and living in the Tokyo metropolitan area for twelve years, I am now captivated by the history of Japan, the world, and my hometown, Kitakyushu. With my roots in Kitakyushu, I am connected to people all over the world, transcending eras, generations, and borders.
-
-Congratulations on the 50th anniversary of Kitakyushu City.
-
-February 10, 2013  
-Angels Swing, Sein
+10 de febrero de 2013  
+Angels Swing, Seina
 
 <a id="timeline"></a>
 
-## War History and Events in and around Kitakyushu
+## Historia de la guerra y sucesos en los alrededores de Kitakyushu
 
-(Supervised by Akio Yamamoto)
+(Supervisión: Akio Yamamoto)
 
-###### The wars in which Japan was mainly involved and the environment in Kitakyushu at the time are as follows:
+###### A continuación se presentan, principalmente, las guerras en las que participó Japón y la situación de Kitakyushu en cada época:
 
 |  |  |
 | --- | --- |
-| 1863 1864 | [Shimonoseki campaign](https://en.wikipedia.org/wiki/Shimonoseki_campaign), (The combined fleet of Britain, France, the Netherlands, and the United States). [Takasugi Shinsaku](https://en.wikipedia.org/wiki/Takasugi_Shinsaku) formed [Kiheitai.](https://en.wikipedia.org/wiki/Kiheitai) |
-| 1875 | [Maresuke Nogi](https://en.wikipedia.org/wiki/Nogi_Maresuke) leads the 14th Regiment and is assigned to Kokura. He suppressed the Akizuki Rebellion and the Hagi Rebellion. |
-| 1894 | [First Sino-Japanese war](https://en.wikipedia.org/wiki/First_Sino-Japanese_War). The war between Japan and China was mainly over the Korean Peninsula. According to the [Treaty of Shimonoseki](https://en.wikipedia.org/wiki/Treaty_of_Shimonoseki) concluded in Japan’s favor, Qing Dynasty paid reparations. Using this reparation money, the Japanese government built a government-run steelworks in Yahata Village, Fukuoka Prefecture. This was the birth of the Yawata Steel Works. |
-| 1898 | [The 12th Division](https://en.wikipedia.org/wiki/12th_Division_(Imperial_Japanese_Army)) Headquarters opens in Kokura. The following year, in 1932, [Ogai Mori](https://en.wikipedia.org/wiki/Mori_%C5%8Cgai) was appointed military medical chief. |
-| 1904 | [Russo-Japanese War](https://en.wikipedia.org/wiki/Russo-Japanese_War). A war between Japan and Russia that centered on the [Korean Peninsula](https://en.wikipedia.org/wiki/Geography_of_Korea) and [Manchuria](https://en.wikipedia.org/wiki/Manchuria). [The 12th Division](https://en.wikipedia.org/wiki/12th_Division_(Imperial_Japanese_Army)) was dispatched from Kokura. |
-| 1914 | [World War I](https://en.wikipedia.org/wiki/World_War_I). The first world war in human history. |
-| 1931 | [Manchurian Incident](https://en.wikipedia.org/wiki/Mukden_incident). Promotion of Japanese militarism. Farewell of soldiers departing from Moji Port. |
-| 1933 | Army Arsenal Kokura Arsenal opens. Kitakyushu became a major base for munitions factories. |
-| 1937 | [The Second Sino-Japanese War](https://en.wikipedia.org/wiki/Second_Sino-Japanese_War) breaks out. Japan and China are at full-scale war. Shift to wartime control. Soldiers from all over the country gathered in Kitakyushu, near China. New construction and expansion of munitions-related factories continue in Kitakyushu City. |
-| 1939 | [World War II](https://en.wikipedia.org/wiki/World_War_II) begins |
-| 1941 | In December, Japan entered [the Pacific War](https://en.wikipedia.org/wiki/Pacific_War). |
-| 1943 | **Allied POWs**: Prisoners of war entering through Moji Port were sent to labor in various locations across Fukuoka Prefecture. The Moji YMCA was converted into a POW camp. |
-| 1944 | **War Impact on Daily Life**: Animals at the Itozu Amusement Park (zoo) were culled, and the site was turned into a farm. Schoolchildren were evacuated from Kitakyushu. In June, the Yawata Steel Works was targeted in the first U.S. air raid on the Japanese mainland. |
-| 1945 | **End of the War**: Atomic bombs were dropped on Hiroshima and Nagasaki in August. The Pacific War ended. |
-| 1946 | **Occupation**: General [Douglas MacArthur](https://en.wikipedia.org/wiki/Douglas_MacArthur) established GHQ ([SCAP](https://en.wikipedia.org/wiki/Supreme_Commander_for_the_Allied_Powers)). Allied occupation forces were stationed throughout Kitakyushu. |
-| 1950 | **[Korean War](https://en.wikipedia.org/wiki/Korean_War)**: The Kokura Army Arsenal became the HQ for the U.S. 24th Infantry Division. Moji Port served as a critical shipping hub for soldiers and supplies. Kokura became a processing center for UN soldiers killed in action. In 1951, the Memorial Cross was erected on Mt. Adachi, facing the Korean Peninsula, to honor the souls of unknown soldiers. |
-| 1958 | **World Peace Pagoda**: The only Burmese-style pagoda in Japan was erected in Moji to pray for world peace and commemorate those who died in WWII. |
+| 1863 | Incidente del bombardeo de barcos extranjeros en Shimonoseki ([Guerra de Shimonoseki](https://en.wikipedia.org/wiki/Shimonoseki_campaign)). Takasugi Shinsaku organiza el [Kiheitai](https://en.wikipedia.org/wiki/Kiheitai). |
+| 1864 | La flota combinada de Gran Bretaña, Francia, los Países Bajos y Estados Unidos bombardea Shimonoseki. |
+| 1875 | [Nogi Maresuke](https://en.wikipedia.org/wiki/Nogi_Maresuke) (más tarde general) es destinado a Kokura al mando del 14.º Regimiento. Sofoca la Rebelión de Akizuki y la Rebelión de Hagi. |
+| 1894 | [Primera Guerra Sino-Japonesa](https://en.wikipedia.org/wiki/First_Sino-Japanese_War). Guerra entre Japón y la dinastía Qing, principalmente por el control de la península de Corea. Según el [Tratado de Shimonoseki](https://en.wikipedia.org/wiki/Treaty_of_Shimonoseki), firmado en condiciones favorables para Japón, China pagó una indemnización de guerra. Con ese dinero, el gobierno japonés construyó una acería estatal en la aldea de Yahata, en la prefectura de Fukuoka: así nacieron las Acerías de Yawata. |
+| 1898 | Se inaugura en Kokura el cuartel general de la 12.ª División. Al año siguiente (era Meiji 32, 1899), [Mori Ogai](https://en.wikipedia.org/wiki/Mori_%C5%8Cgai) asume como jefe médico militar. |
+| 1904 | [Guerra Ruso-Japonesa](https://en.wikipedia.org/wiki/Russo-Japanese_War). Guerra entre Japón y Rusia cuyo escenario principal fueron la [península de Corea](https://en.wikipedia.org/wiki/Geography_of_Korea) y [Manchuria](https://en.wikipedia.org/wiki/Manchuria). La 12.ª División partió desde Kokura. |
+| 1914 | [Primera Guerra Mundial](https://en.wikipedia.org/wiki/World_War_I). La primera guerra mundial de la historia de la humanidad. |
+| 1931 | [Incidente de Manchuria](https://en.wikipedia.org/wiki/Mukden_incident). Avance del militarismo japonés. Despedida de los soldados que partían desde el puerto de Moji. |
+| 1933 | Se inaugura el Arsenal del Ejército de Kokura. Kitakyushu se convierte en un gran centro de fábricas de municiones. |
+| 1937 | Estalla la [Segunda Guerra Sino-Japonesa](https://en.wikipedia.org/wiki/Second_Sino-Japanese_War). Japón y China entran en guerra total. Se pasa a un régimen de control de tiempos de guerra. Soldados de todo el país se concentran en Kitakyushu, cercana a China. Continúan la construcción y ampliación de fábricas relacionadas con municiones en la ciudad. |
+| 1939 | Comienza la [Segunda Guerra Mundial](https://en.wikipedia.org/wiki/World_War_II). |
+| 1941 | En diciembre, Japón entra en la [Guerra del Pacífico](https://en.wikipedia.org/wiki/Pacific_War). |
+| 1943 | **Prisioneros aliados**: los prisioneros de guerra que entraban por el puerto de Moji son enviados a trabajar a distintos lugares de la prefectura de Fukuoka. El YMCA de Moji se convierte en campo de prisioneros. |
+| 1944 | **La guerra en la vida cotidiana**: en el parque de atracciones Itozu (zoológico) de Kokura se sacrifica a los animales y el terreno se convierte en granja. Hacia el final de la guerra, las cinco ciudades de Kitakyushu son designadas ciudades de evacuación y los escolares son evacuados a los distritos de Munakata y Miyako. En junio, las Acerías de Yawata sufren el primer bombardeo aéreo estadounidense sobre suelo japonés continental. |
+| 1945 | **Fin de la guerra**: en agosto, bombas atómicas sobre Hiroshima y Nagasaki. Termina la Guerra del Pacífico. |
+| 1946 | **Ocupación**: el general [Douglas MacArthur](https://en.wikipedia.org/wiki/Douglas_MacArthur) desembarca en Japón y establece el GHQ ([SCAP](https://en.wikipedia.org/wiki/Supreme_Commander_for_the_Allied_Powers)). Las fuerzas de ocupación aliadas se estacionan por toda Kitakyushu. |
+| 1950 | **[Guerra de Corea](https://en.wikipedia.org/wiki/Korean_War)**: el Arsenal del Ejército de Kokura se convierte en el cuartel general de la 24.ª División de Infantería del Ejército de EE. UU., y gran cantidad de material y soldados son enviados a Corea del Sur desde el puerto de Moji. Kokura se convierte en centro de procesamiento de los soldados de la ONU caídos en combate. En 1951, se erige la Cruz Conmemorativa al pie del monte Adachi, mirando hacia la península de Corea, para honrar el descanso de los soldados desconocidos. |
+| 1958 | **Pagoda de la Paz Mundial**: se erige en Moji el único templo de estilo birmano de Japón, para orar por la paz mundial y honrar a los caídos de la Segunda Guerra Mundial. |
 
 ---

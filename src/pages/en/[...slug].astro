@@ -71,7 +71,7 @@ const trail = buildBreadcrumb(entry, all, import.meta.env.BASE_URL);
       slideshowDuration={entry.data.hero_slideshow_duration}
     />
   )}
-  <main class={`container page-${entry.data.slug}${buildPath(entry, all).startsWith('murakami/music/') ? ' page-album' : ''}`}>
+  <main class={`container page-${entry.data.slug}${buildPath(entry, all).startsWith('murakami/music/') ? ' page-album' : ''}${buildPath(entry, all).startsWith('swing/remember/') ? ' page-booklet' : ''}`}>
     <Breadcrumb trail={trail} lang="en" />
     <article>
       {!(entry.data.hero_image || (entry.data.hero_slideshow && entry.data.hero_slideshow.length > 0)) && <h1>{entry.data.title}</h1>}

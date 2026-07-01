@@ -9,7 +9,7 @@ export async function getStaticPaths() {
   const posts = (await getCollection('essay', ({ data }) => data.lang === 'es' && !data.draft))
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
   return posts.map((post, i) => ({
-    params: { slug: post.id.replace(/^en\//, '') },
+    params: { slug: post.id.replace(/^(en|es)\//, '') },
     props: {
       post,
       newer: posts[i - 1] || null,

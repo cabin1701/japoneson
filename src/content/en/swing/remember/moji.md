@@ -97,4 +97,5 @@ In late November 1944, four "Hell Ships" arrived at Moji simultaneously. Approxi
 
 Shimonoseki Quarantine Station Ruins (2006)
 
-[caption id="attachment\_17603" align="aligncenter" width="600"]![](/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg) 下関検疫所跡（2006年時点）[/caption]
+![](/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg)
+*Shimonoseki Quarantine Station Ruins (2006)*

@@ -1,54 +1,53 @@
 ---
-title: "Kokura Army Arsenal"
+title: "Arsenal del Ejército de Kokura"
 slug: kokura
 wp_id: 17786
 wp_parent: 1022
 ---
 
-## Kokura Army Arsenal
-
 ![](/images/wp/2024/04/kokura01_-737x1024.jpg)
 
-**■ Its Roots**  
-Originally, the Tokyo Army Arsenal in Koishikawa, Tokyo, suffered catastrophic damage during the [Great Kanto Earthquake](https://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake). In the search for a new site, Hiroshima and Kokura remained as the final candidates. Kokura City campaigned vigorously, even appealing to military elders from the region, and successfully attracted the facility. This move was driven by the city’s decline following the 1925 military disarmament, which saw the relocation of the 12th Division Headquarters and its main forces.
+**■ Sus orígenes**  
+En su día, el Arsenal del Ejército de Tokio, en Koishikawa, sufrió daños catastróficos a causa del [Gran Terremoto de Kanto](https://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake). Al buscar un nuevo emplazamiento, Hiroshima y Kokura quedaron como las dos candidatas finales. La ciudad de Kokura hizo una campaña muy activa, apelando incluso a los veteranos militares de la región, y logró atraer la instalación. Detrás de esta campaña estaba el declive de la ciudad tras el desarme militar de 1925, que se llevó consigo el cuartel general de la 12.ª División y su grueso de tropas.
 
-**■ Establishment of the Kokura Arsenal**  
-In 1927, it was decided that the new arsenal would be built in the former castle grounds on the left bank of the Murasaki River. The military consolidated the Kokura Weapon Factory (established in 1916) into the new facility and cleared the barracks and training grounds of the 14th Infantry Regiment, which had been stationed there since 1875. This secured a site of 68 hectares. Today, this area covers most of Jonai, all of Otemachi, and Kanda 1-chome. It officially opened in 1933 as the Kokura Arsenal of the Army Ordnance Department. In 1940, the name was changed to the Kokura Army Arsenal due to organizational restructuring.
+**■ Establecimiento del Arsenal de Kokura**  
+En 1927 se decidió que el nuevo arsenal se construiría en los terrenos del antiguo castillo, en la orilla izquierda del río Murasaki. El ejército incorporó a la nueva instalación la Fábrica de Armamento de Kokura (establecida en 1916) y retiró los cuarteles y campos de instrucción del 14.º Regimiento de Infantería, allí destacado desde 1875, asegurando así un terreno de 68 hectáreas. Hoy esa zona cubre gran parte de Jonai, la totalidad de Otemachi y Kanda 1-chome. Abrió oficialmente en 1933 como el Arsenal de Kokura del Departamento de Artillería del Ejército. En 1940, por una reorganización militar, pasó a llamarse Arsenal del Ejército de Kokura.
 
-**■ Overview**  
-The Kokura Army Arsenal consisted of three manufacturing plants. It produced a wide range of equipment, from leather goods and cast steel to rifles, machine guns, autocannons, artillery shells, vehicles, and even light tanks. Toward the end of WWII, it also manufactured "balloon bombs" designed to fly to the U.S. mainland. It was one of the largest comprehensive weapon manufacturing facilities in Western Japan. At its peak, the workforce—including military personnel and civilian employees—is said to have reached 40,000.
+**■ Resumen**  
+El Arsenal del Ejército de Kokura contaba con tres plantas de fabricación. Producía una amplísima variedad de equipo: desde artículos de cuero y acero fundido hasta rifles, ametralladoras, cañones automáticos, proyectiles de artillería, vehículos e incluso tanques ligeros. Hacia el final de la Segunda Guerra Mundial fabricó también las "bombas globo" diseñadas para volar hasta el territorio continental de Estados Unidos. Era una de las mayores instalaciones integrales de fabricación de armamento del oeste de Japón. En su momento de mayor actividad, su plantilla —entre militares y civiles— alcanzó, según se dice, las 40.000 personas.
 
-**■ The Great War and the Arsenal**  
-During WWII, the No. 2 Manufacturing Plant was hit during a U.S. air raid, claiming the lives of many members of the Women's Volunteer Corps (Joshi Teishintai). In August 1945, near the end of the war, the city center of Kokura—with the arsenal at its heart—became the primary target for the second atomic bomb after Hiroshima. Following the end of the war on August 15, the arsenal ceased operations. Machine tools were removed as war reparations, and part of the U.S. 32nd Infantry Division was stationed there. In 1946, the U.S. 24th Infantry Division took over, establishing its headquarters in the former main building. When the Korean War broke out, this division was immediately deployed to the front lines. Even after WWII ended, peace did not immediately return to this land.
+**■ La guerra y el Arsenal**  
+Durante la Segunda Guerra Mundial, la Planta de Fabricación N.º 2 del arsenal fue alcanzada por un bombardeo estadounidense, y numerosas integrantes del Cuerpo Voluntario Femenino (Joshi Teishintai) perdieron la vida. En agosto de 1945, cerca ya del final de la guerra, el centro urbano de Kokura —con el arsenal en su corazón— se convirtió en el objetivo principal de la segunda bomba atómica, después de Hiroshima. Tras el fin de la guerra el 15 de agosto, el arsenal cesó sus operaciones. Las máquinas herramienta fueron retiradas como reparaciones de guerra, y parte de la 32.ª División de Infantería de EE. UU. quedó estacionada allí. En 1946, la 24.ª División de Infantería de EE. UU. tomó el relevo, estableciendo su cuartel general en el antiguo edificio principal del arsenal. Cuando estalló la Guerra de Corea, esta división partió de inmediato hacia el frente. Ni siquiera terminada la Segunda Guerra Mundial llegó pronto la paz a esta tierra.
 
 ![](/images/wp/2024/04/kokura02_.jpg)
 
-## Target Information Sheet (From U.S. Military Records)
+---
 
-Excerpt from "Air Raids on Kitakyushu" by Yoshishige Okuzumi and Yoichi Kudo  
-Note: Do not carry this onto aircraft during sorties. This is a translation from Japanese translated material.
+## 〈Secreto〉 Ficha de información del objetivo
 
-Do not bring it on board when flying out.
+Extracto de "Los bombardeos aéreos de Kitakyushu", de Yoshishige Okuzumi y Yoichi Kudo (documento de las fuerzas armadas de EE. UU.).  
+Nota: no llevar a bordo de la aeronave durante las misiones. Esta es una traducción a partir del material original en japonés.
 
-**1. Summary**  
-The Kokura Arsenal is one of the largest in Japan and is perhaps the most important regarding the manufacture of light automatic weapons, small anti-aircraft guns, and anti-tank guns. It is closely integrated with Japan Iron & Steel (Yawata), Watanabe Iron Works in Fukuoka, and several other plants in Northern Kyushu. It also manufactures combat vehicles.
+**1. Resumen**  
+El Arsenal de Kokura es uno de los mayores de Japón y, probablemente, el más importante en cuanto a la fabricación de armas automáticas ligeras, cañones antiaéreos pequeños y cañones antitanque. Está estrechamente integrado con Nippon Steel (Yawata), la Fábrica de Hierro Watanabe de Fukuoka y varias otras plantas del norte de Kyushu. También fabrica vehículos de combate.
 
-**2. Description of Facilities**  
-The total target area is 4,140 feet by 2,040 feet, centered on a north-south axis. Thirty-six buildings, each covering over 20,000 square feet, occupy 33% of this area. Three overhead cranes connect the railroad sidings to the storage area in the southeast corner of the complex.
+**2. Descripción de las instalaciones**  
+El área total del objetivo es de 4140 por 2040 pies, centrada en un eje norte-sur. Treinta y seis edificios, cada uno de más de 20.000 pies cuadrados, ocupan el 33 % de esa área. Tres grúas aéreas conectan los apartaderos ferroviarios con el área de almacenamiento, en la esquina sureste del complejo.
 
-Information provided by POWs indicates that the plant consists of three separate departments arranged in parallel strips running north to south: (1) **Ammunition Department**: Located on the east side, closest to the river. (2) **Artillery Department**: Two rows of buildings extending through the center of the complex. (3) **Combat Vehicle Manufacturing**: Reported to be located in the western section of the site. Approximately 22 barrack-like buildings at the northern end of this area serve as military quarters.
+La información aportada por prisioneros de guerra indica que la planta consta de tres departamentos separados, dispuestos en franjas paralelas de norte a sur: (1) **Departamento de Municiones**: en el lado este, el más cercano al río. (2) **Departamento de Artillería**: dos hileras de edificios que atraviesan el centro del complejo. (3) **Fabricación de vehículos de combate**: se informa que se encuentra en la sección oeste del terreno. Unos 22 edificios de estilo barracón, en el extremo norte de esta área, sirven de alojamiento militar.
 
-Of the major buildings, 71% are steel-framed and 29% are concrete-framed. Secondary buildings are also generally steel-framed, with wooden-framed structures interspersed. Walls consist of corrugated iron, concrete, or asbestos. Most roofs are covered with corrugated iron or asbestos, with only a few flat roofs believed to be concrete. Numerous smaller buildings have combustible roofing. Virtually all floors are concrete. The majority of the buildings are single-story.
+De los edificios principales, el 71 % tiene estructura de acero y el 29 % de hormigón. Los edificios secundarios también son, por lo general, de estructura de acero, mezclados con algunas construcciones de madera. Las paredes son de chapa ondulada, hormigón o fibrocemento. La mayoría de los techos están cubiertos de chapa ondulada o fibrocemento; solo unos pocos techos planos parecen ser de hormigón. Numerosos edificios pequeños tienen techos combustibles. Prácticamente todos los suelos son de hormigón. La mayoría de los edificios son de una sola planta.
 
-**3. Importance**  
-As an arsenal with such diverse activities, production rates are unknown, but it likely produces thousands of machine guns of all types per month. Its importance as one of the two or three largest arsenals in Japan is evident. While basic steel or copper production is not performed here, secondary metal processing is extensive.
+**3. Importancia**  
+Al tratarse de un arsenal con actividades tan diversas, se desconocen sus ritmos de producción exactos, pero es probable que fabrique miles de ametralladoras de todo tipo al mes. Su importancia, como uno de los dos o tres arsenales más grandes de Japón, resulta evidente. Aunque no se realiza aquí producción básica de acero o cobre, el procesamiento secundario de metales es extenso.
 
-The arsenal is known to produce 6.5mm and 7.7mm light machine guns, 7.7mm heavy machine guns, 20mm anti-aircraft and anti-tank guns, and ammunition. It has been reported that mixed poison gas shells are produced, filled, and stored in basements. The most critical processes are the machining and assembly of weapons. Forging and pressing are also significant.
+Se sabe que el arsenal produce ametralladoras ligeras de 6,5 mm y 7,7 mm, ametralladoras pesadas de 7,7 mm, cañones antiaéreos y antitanque de 20 mm, y munición. Se ha informado que también se fabrican, se cargan y se almacenan en sótanos proyectiles de gas venenoso mixto. Los procesos más críticos son el mecanizado y el montaje de las armas. La forja y el prensado también son significativos.
 
-Damaged machine tools are difficult to replace and could stall production for months. Damage to assembly and machining facilities would have an immediate effect.
+Las máquinas herramienta dañadas son difíciles de reemplazar y podrían detener la producción durante meses. Los daños a las instalaciones de montaje y mecanizado tendrían un efecto inmediato.
 
-*XXI Bomber Command A-2, Target Section* *June 10, 1945*
+*XXI Bomber Command A-2, Sección de Objetivos* *10 de junio de 1945*
 
 ---
 
-[caption id="attachment\_17607" align="aligncenter" width="895"]![](/images/wp/2024/04/kokura03-1.jpg) Kokura city area immediately after the war[/caption]
+![](/images/wp/2024/04/kokura03-1.jpg)
+*La zona urbana de Kokura inmediatamente después de la guerra*

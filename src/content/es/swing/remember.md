@@ -1,5 +1,5 @@
 ---
-title: "Wartime and Postwar Kitakyushu"
+title: "Kitakyushu en tiempos de guerra y posguerra"
 slug: remember
 hero_title_color: "#a5c5dd"
 wp_id: 1022
@@ -7,38 +7,38 @@ wp_parent: 108
 ---
 
 
-## Towards the Future:
+## Hacia el futuro:
 
 
 ![](/images/wp/2026/05/kitakyushuu-768x768.jpg)
 
-In 1963, the five cities of Moji, Kokura, Tobata, Yawata, and Wakamatsu merged to form Kitakyushu City. This booklet was published in 2013 to mark the 50th anniversary of that merger.
+En 1963, las cinco ciudades de Moji, Kokura, Tobata, Yawata y Wakamatsu se fusionaron para formar la ciudad de Kitakyushu. Este folleto se publicó en 2013 para conmemorar el 50.º aniversario de esa fusión.
 
-Through my project “[I Have a Dream… Seina](https://en.japoneson.com/swing/dream "I Have a Dream… Seina")“, I encountered a U.S. Marine veteran who had been captured in the Philippines during WWII. He was brought to Moji Port and forced to work as a prisoner of war in a coal mine in Fukuoka Prefecture.
+A través de mi proyecto “[I Have a Dream… Seina](https://en.japoneson.com/swing/dream "I Have a Dream… Seina")“, conocí a un veterano de la Marina de EE. UU. que había sido capturado en Filipinas durante la Segunda Guerra Mundial. Fue llevado al puerto de Moji y obligado a trabajar como prisionero de guerra en una mina de carbón de la prefectura de Fukuoka.
 
-Moji is my hometown. It was from this elderly American man that I learned the hidden pieces of the history of the city where I was born and raised.
+Moji es mi ciudad natal. Fue gracias a este anciano estadounidense que aprendí las partes ocultas de la historia de la ciudad donde nací y crecí.
 
-This booklet documents not only the stories of Allied prisoners of war but also the broader history of Kitakyushu before and after the Pacific War. It is a tribute to those who lost their lives in my hometown and to the soldiers who departed from our shores for the battlefields of South Asia, never to return.
+Este folleto no solo documenta las historias de los prisioneros de guerra aliados, sino también la historia más amplia de Kitakyushu antes y después de la Guerra del Pacífico. Es un tributo a quienes perdieron la vida en mi ciudad natal y a los soldados que partieron desde nuestras costas hacia los campos de batalla del sur de Asia, para no regresar jamás.
 
-This is my message to the future: we must never forget this history.
-
----
-
-## Contents
-
-* [Introduction](https://en.japoneson.com/swing/remember/preface "Introduction ~ War history and events around Kitakyushu-city")
-* [**TIMELINE:** war and events around Kitakyushu City](https://en.japoneson.com/swing/remember/preface#timeline)
-* [KOKURA: Army Arsenal](https://en.japoneson.com/swing/remember/kokura "Kokura Army Arsenal")
-* [MOJI: Departure, Air Raids, and Allied POWs](https://en.japoneson.com/swing/remember/moji "MOJI | To the battlefield, Air Raid, Prisoners of War")
-* [The Great Yawata Air Raid (Aug 8, 1945)](https://en.japoneson.com/swing/remember/yahata "YAHATA Air Raid, 1945.8.8")
-* [The Atomic Bomb over Kokura: August 9, 1945](https://en.japoneson.com/swing/remember/atomicbomb "KOKURA | Atomic bomb above Kokura 1945.8.9")
-* [KOKURA MEMORIAL CROSS | For Fallen Soldiers of the Korean War](https://en.japoneson.com/swing/remember/memorial_cross "MEMORIAL CROSS | For Fallen Soldiers of the Korean War")
-* [MOJI: World Peace Pagoda](https://en.japoneson.com/swing/remember/pagoda "MOJI | World Peace Pagoda")
-* [The friendship between Dutch ex-POWs and Mizumaki Town](https://en.japoneson.com/swing/remember/mizumaki "The friendship between Dutch ex-POWs and Mizumaki Town")
-* [Towards the Future / Seina](https://en.japoneson.com/swing/remember/future "To the Future / Seina")
+Este es mi mensaje para el futuro: nunca debemos olvidar esta historia.
 
 ---
 
-Photography cooperation: Kazumichi Kidera（[FU. photo & design](https://www.fuweb.co.jp/)）
+## Índice
+
+* [Introducción](https://en.japoneson.com/swing/remember/preface "Introducción ~ Historia de la guerra y eventos en torno a la ciudad de Kitakyushu")
+* [**CRONOLOGÍA:** guerra y eventos en torno a la ciudad de Kitakyushu](https://en.japoneson.com/swing/remember/preface#timeline)
+* [KOKURA: Arsenal del Ejército](https://en.japoneson.com/swing/remember/kokura "Arsenal del Ejército de Kokura")
+* [MOJI: Partida, bombardeos aéreos y prisioneros aliados](https://en.japoneson.com/swing/remember/moji "MOJI | Hacia el frente, bombardeo aéreo, prisioneros de guerra")
+* [El gran bombardeo aéreo de Yahata (8 de agosto de 1945)](https://en.japoneson.com/swing/remember/yahata "Bombardeo aéreo de YAHATA, 1945.8.8")
+* [La bomba atómica sobre Kokura: 9 de agosto de 1945](https://en.japoneson.com/swing/remember/atomicbomb "KOKURA | Bomba atómica sobre Kokura, 1945.8.9")
+* [CRUZ CONMEMORATIVA DE KOKURA | Por los soldados caídos en la Guerra de Corea](https://en.japoneson.com/swing/remember/memorial_cross "CRUZ CONMEMORATIVA | Por los soldados caídos en la Guerra de Corea")
+* [MOJI: Pagoda de la Paz Mundial](https://en.japoneson.com/swing/remember/pagoda "MOJI | Pagoda de la Paz Mundial")
+* [La amistad entre los ex prisioneros de guerra neerlandeses y la ciudad de Mizumaki](https://en.japoneson.com/swing/remember/mizumaki "La amistad entre los ex prisioneros de guerra neerlandeses y la ciudad de Mizumaki")
+* [Hacia el futuro / Seina](https://en.japoneson.com/swing/remember/future "Hacia el futuro / Seina")
+
+---
+
+Colaboración fotográfica: Kazumichi Kidera（[FU. photo & design](https://www.fuweb.co.jp/)）
 
 ![](/images/wp/2026/05/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9657-768x512.jpg)

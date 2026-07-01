@@ -1,40 +1,38 @@
 ---
-title: "The friendship between Dutch ex-POWs and Mizumaki Town"
+title: "La amistad entre los ex prisioneros de guerra neerlandeses y la ciudad de Mizumaki"
 slug: mizumaki
 wp_id: 17914
 wp_parent: 1022
 ---
 
-## Friendship between Dutch ex-POWs and Mizumaki Town
-
-During the Pacific War (Great East Asia War), many prisoners of war were forced to labor in the coal mines of Mizumaki, Onga District (at the Orio POW Branch Camp). Mizumaki held a large number of Dutch prisoners, 53 of whom lost their lives there. Immediately following Japan's defeat and just before the GHQ war crimes investigation, the Nittan Takamatsu Coal Mine hurriedly erected a cross as a memorial.
+Durante la Guerra del Pacífico (la Gran Guerra del Asia Oriental), numerosos prisioneros de guerra fueron obligados a trabajar en las minas de carbón de Mizumaki, distrito de Onga (en el Campo Sucursal de Prisioneros de Orio). En Mizumaki hubo un gran número de prisioneros neerlandeses, de los cuales 53 perdieron la vida allí. Justo después de la derrota de Japón, y poco antes de la investigación de crímenes de guerra del GHQ, la compañía minera Nittan Takamatsu erigió apresuradamente una cruz en su memoria.
 
 ![](/images/wp/2024/04/adf3679deedf4acae1b94e272d7007df-1024x682.jpg)
 
-**■ The Bond Between a Dutch Survivor and the Local Community**
+**■ El vínculo entre un superviviente neerlandés y la comunidad local**
 
-Dolf Winkler, a Dutch survivor and former prisoner at the camp, suffered from severe nightmares for 40 years after the war—what we now recognize as PTSD. Following the advice of a mental health counselor to face the source of his suffering, he decided to visit Mizumaki in 1985. Guided by author Eidai Hayashi, Mr. Winkler was led to the neglected and dilapidated cross. When he initially approached the town office for help, he was turned away because the cross was a religious symbol.
+Dolf Winkler, superviviente neerlandés y antiguo prisionero del campo, sufrió durante 40 años después de la guerra pesadillas severas —lo que hoy reconocemos como TEPT (trastorno de estrés postraumático)—. Siguiendo el consejo de un psicólogo de enfrentarse al origen de su sufrimiento, decidió visitar Mizumaki en 1985. Guiado por el escritor Eidai Hayashi, el Sr. Winkler fue conducido hasta la cruz, entonces abandonada y en ruinas. Cuando acudió primero a la oficina municipal en busca de ayuda, fue rechazado porque la cruz era un símbolo religioso.
 
-Eventually, he sought help from Shoji Kurokawa, who then consulted his older brother, Hiroshi. Hiroshi said, "It’s wrong for no one to take care of it since it's here in Mizumaki. Let’s do it ourselves, as brothers." The Kurokawa brothers took over the management of the memorial. When the weathered cross required repair, a local construction company owner stepped forward, saying, "My own brother died in the war; let me do this as a memorial service." The restoration was completed, and the names of the 53 men who died in Mizumaki, as well as the 871 Dutch prisoners who perished in camps across Japan, are now engraved on the monument.
+Finalmente, buscó la ayuda de Shoji Kurokawa, quien a su vez consultó a su hermano mayor, Hiroshi. Hiroshi dijo: "Está mal que nadie se ocupe de ella, estando aquí en Mizumaki. Hagámoslo nosotros, como hermanos." Los hermanos Kurokawa se hicieron cargo del mantenimiento del memorial. Cuando la cruz, ya deteriorada por la intemperie, necesitó reparación, el dueño de una constructora local se ofreció diciendo: "Mi propio hermano murió en la guerra; déjenme hacer esto como un servicio conmemorativo." Se completó la restauración, y hoy están grabados en el monumento los nombres de los 53 hombres que murieron en Mizumaki, así como los de los 871 prisioneros neerlandeses que perecieron en campos de toda Japón.
 
-**■ From Resentment to Exchange**
+**■ Del resentimiento al intercambio**
 
-Since 1987, a flower-laying ceremony has been held annually. Mr. Winkler visited Mizumaki many times, and many others followed from the Netherlands. Visitors included former POWs and bereaved families with strong anti-Japanese sentiments, individuals born to Japanese fathers and Dutch mothers during the war, and those who were forced into internment camps in Indonesia. Gradually, the town office also began to actively cooperate in the memorial services and international exchanges.
+Desde 1987 se celebra anualmente una ceremonia de ofrenda floral. El Sr. Winkler visitó Mizumaki muchas veces, y muchos otros lo siguieron desde los Países Bajos. Entre los visitantes hubo antiguos prisioneros de guerra y familiares con fuertes sentimientos antijaponeses, personas nacidas de padre japonés y madre neerlandesa durante la guerra, y quienes habían sido forzados a campos de internamiento en Indonesia. Poco a poco, la oficina municipal también comenzó a colaborar activamente en los servicios conmemorativos y los intercambios internacionales.
 
-When Mr. Winkler first arrived in Japan, he never showed a smile. However, through his interactions with the people of Mizumaki, he slowly began to open up. He even started engaging with the local children. In his will, he requested that his ashes be scattered next to the Memorial Cross in Mizumaki. In 2009, both Dolf Winkler and Hiroshi Kurokawa, who had protected the cross together, passed away.
+Cuando el Sr. Winkler llegó por primera vez a Japón, nunca mostraba una sonrisa. Sin embargo, a través de sus interacciones con la gente de Mizumaki, poco a poco comenzó a abrirse. Incluso empezó a relacionarse con los niños del lugar. En su testamento, pidió que sus cenizas fueran esparcidas junto a la Cruz Conmemorativa en Mizumaki. En 2009 fallecieron, el mismo año, tanto Dolf Winkler como Hiroshi Kurokawa, quien había protegido la cruz junto a él.
 
-The friendship cultivated by Mr. Winkler and Hiroshi Kurokawa continues to serve as a bridge, healing the hearts of those in the Netherlands who still harbor bitterness from the war. Today, the bond lives on through annual homestay programs for junior high school students and cultural exchange events at local elementary schools.
+La amistad cultivada por el Sr. Winkler y Hiroshi Kurokawa sigue sirviendo de puente, sanando los corazones de quienes en los Países Bajos todavía guardan amargura por la guerra. Hoy, ese vínculo continúa vivo a través de los programas anuales de intercambio con estudiantes de secundaria y los eventos de intercambio cultural en las escuelas primarias locales.
 
 ---
 
-**■ Personal Reflections (2012)**
-
-In 2011, I learned about the Memorial Cross in Mizumaki, and in 2012, I visited the current representative, Hidetoshi Kurokawa, to participate in the flower-laying ceremony and exchange events. I served as a volunteer interpreter for the exchange program at an elementary school and was struck by the incredible energy of the children. Second graders greeted me in English and peppered me with endless questions during lunch.
-
-I wondered how much these children truly knew about the dark history of the war and the POW issues that many adults try to avoid. Yet, their earnest hospitality seemed to breathe new life into the hearts of the Dutch visitors who had resented Japan for so long. Those once called "war victims" left Mizumaki with smiles on their faces.
-
-I also saw a video online of Dutch junior high school students who had visited Mizumaki on a homestay. Witnessing the smiles of these children, I was amazed by what the Kurokawa brothers and the people of Mizumaki had nurtured over the years. I heard that Mizumaki has one of the highest participation rates in the Japan Overseas Cooperation Volunteers (JOCV).
-
-Though I previously had no connection to the Netherlands, the activities of Mr. Winkler and Mr. Kurokawa—who transformed hatred and suffering into children’s smiles—allowed me to experience a new kind of international exchange. The friendship they grew has passed the torch to a new generation. The history and the lives of the Dutch prisoners will surely continue to live in a corner of the hearts of the children raised in Mizumaki as they head toward the future.
-
 ![](/images/wp/2024/04/IMG_1324-e1713448175376.jpg)
+
+**■ Reflexiones personales (2012)**
+
+En 2011 supe de la Cruz Conmemorativa en Mizumaki, y en 2012 visité al entonces representante, Hidetoshi Kurokawa, para participar en la ceremonia de ofrenda floral y en los eventos de intercambio. Serví como intérprete voluntaria en el programa de intercambio de una escuela primaria, y me sorprendió la increíble energía de los niños. Los alumnos de segundo grado me saludaron en inglés y me llenaron de preguntas sin parar durante el almuerzo.
+
+Me pregunté cuánto sabían realmente estos niños sobre la oscura historia de la guerra y los problemas de los prisioneros que tantos adultos prefieren evitar. Y sin embargo, su hospitalidad sincera parecía insuflar nueva vida en los corazones de los visitantes neerlandeses que durante tanto tiempo habían resentido a Japón. Aquellos a quienes antes se llamaba "víctimas de guerra" partían de Mizumaki con una sonrisa.
+
+También vi en internet un video de estudiantes neerlandeses de secundaria que habían visitado Mizumaki en un programa de estadía con familias locales. Al ver las sonrisas de esos niños, quedé asombrada por lo que los hermanos Kurokawa y la gente de Mizumaki habían cultivado a lo largo de los años. Escuché que Mizumaki tiene una de las tasas de participación más altas del país en el Cuerpo de Voluntarios de Cooperación en el Extranjero de Japón (JOCV).
+
+Aunque antes no tenía ninguna conexión con los Países Bajos, las actividades del Sr. Winkler y el Sr. Kurokawa —quienes transformaron el odio y el sufrimiento en sonrisas infantiles— me permitieron vivir un nuevo tipo de intercambio internacional. La amistad que ellos hicieron crecer ha pasado la antorcha a una nueva generación. La historia y las vidas de los prisioneros neerlandeses seguramente seguirán viviendo, en un rincón del corazón, en los niños que crecen en Mizumaki, mientras avanzan hacia el futuro.

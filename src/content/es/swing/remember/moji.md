@@ -1,100 +1,101 @@
 ---
-title: "MOJI | Shipping for Southern Battlefields / Air Raid /Arriving of POWs"
+title: "MOJI | Embarque hacia los campos de batalla del sur / Bombardeo aéreo / Llegada de prisioneros de guerra"
 slug: moji
 wp_id: 17810
 wp_parent: 1022
 ---
 
-## Departing from Moji Port to the battlefield
+## Partida desde el puerto de Moji hacia el frente
 
-Moji Port, located in close proximity to mainland China, flourished as a major coal shipping hub before the war. It was a bustling trading port where domestic firms congregated. However, during the war, it transformed into a critical base for supplying personnel and resources to the front lines. Between January 1942 and August 1945, during the Pacific War, 761 transport ships departed from Moji. While other ports like Yokohama and Kobe were also used, Moji Port accounted for approximately 45% of all military vessels departing from Japan.
+El puerto de Moji, situado muy cerca del continente chino, floreció antes de la guerra como un gran puerto de embarque de carbón, un puerto comercial donde se concentraban las empresas del país. Sin embargo, durante la guerra se transformó en una base crítica para el envío de personal y recursos al frente. Entre enero de 1942 y agosto de 1945, durante la Guerra del Pacífico, 761 buques de transporte zarparon desde Moji. Existían otros puertos como Yokohama o Kobe, pero Moji llegó a representar cerca del 45 % de todos los buques militares que partían de Japón.
 
-At that time, the city was so overwhelmed with soldiers awaiting deployment that local inns reached capacity, and many stayed overnight in private residences. The town was filled with soldiers and their families seeing them off. This atmosphere is depicted in war literature such as Ashihei Hino’s *Soil and Soldiers*. (Nishinippon Shimbun, August 12, 2011)
+En aquella época, la ciudad estaba tan desbordada de soldados a la espera de embarque que las posadas no daban abasto y muchos debían pasar la noche en casas particulares. Las calles se llenaban de soldados y de las familias que salían a despedirlos. Este ambiente aparece retratado en obras de la literatura de guerra como *Tierra y soldados*, de Ashihei Hino. (Nishinippon Shimbun, 12 de agosto de 2011)
 
-##### Table: Japanese army deployed to the south from Moji Port (from Moji Port Monument Construction Committee website)
+##### Tabla: soldados del ejército japonés enviados al sur desde el puerto de Moji (según el sitio web del Comité de Construcción del Monumento a los Soldados que Partieron desde el Puerto de Moji)
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | **Region** | **Dispatched Troops** | **War Dead** | **Survivor** | **Death Rate** |
-| Philippines | 466,000 | 368,700 | 97,300 | 79％ |
-| Borneo | 29,000 | 10,400 | 18,600 | 35％ |
-| Celebes | 19,000 | 1,300 | 17,700 | 7％ |
-| Eastern New Guinea | 140,200 | 110,000 | 30,200 | 73％ |
-| West New Guinea | 53,700 | 1,800 | 51,900 | 3％ |
-| Sunda | 169,100 | 51,600 | 17,500 | 75％ |
-| Java | 42,600 | 2,200 | 40,400 | 52％ |
-| Sumatra | 61,500 | 2,000 | 59,500 | 3％ |
-| French Indochina | 96,500 | 6,100 | 90,400 | 6％ |
-| Thailand | 110,800 | 4,800 | 106,000 | 4％ |
-| Burma | 230,800 | 160,400 | 70,400 | 69％ |
-| Malay Peninsula | 91,700 | 6,900 | 84,800 | 8％ |
-| Andaman Nicobar | 11,400 | 700 | 10,700 | 6％ |
-| Central Pacific | 139,600 | 91,000 | 48,600 | 65％ |
-| **Subtotal** | **1,561,900** | **817,900** | **744,000** | **52％** |
-|  | Taiwan | 155,300 | 27,200 | 128,100 | 18％ |
-| Okinawa | 108,500 | 67,600 | 40,900 | 62％ |
-| **Subtotal** | **263,800** | **94,800** | **169,000** | **36％** |
-|  | **Grand Total** | **1,825,700** | **912,700** | **913,000** | **50％** |
-
----
-
-**■ Moji City Air Raid: June 29, 1945**  
-The urban areas of Moji and Shimonoseki serve as transportation gateways between Kitakyushu and southern Honshu, significantly impacting industrial production. As highly concentrated and flammable urban targets, they were designated as high-priority objectives. Striking these centers was intended to cripple the economic capacity of the entire industrial complex within a 10-mile radius.
-
-*Photo Captions: Left - Moji city area before the air raid / Right - U.S. military reconnaissance photograph taken on June 29, 1945, to assess the effectiveness of the raid. The white areas indicate scorched earth.* (owned by the Maxwell Air Force Base Historical Archives)
-
-[![](/images/wp/2024/04/moji02-1-1024x394.jpg)](/images/wp/2024/04/moji02-1.jpg)
-
-The destruction of these two cities and their complex transportation infrastructure severely disrupted Japan’s economy and military production. Ferry facilities were insufficient to replace damaged railway networks for several weeks. Disrupting the 10-hour freight transport link (via the Kanmon Tunnel and its marshaling yard) had significant consequences, effectively eliminating alternatives like piers and water transport.
-
-Other critical effects included:
-
-1. Threatening the supply lines and provisions for troops in Manchuria.
-2. Disrupting the adjacent industrial zone on Hikoshima.
-3. Severely impacting nearby transshipment hubs, such as Wakamatsu Port.
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Región** | **Tropas enviadas** | **Caídos en combate** | **Sobrevivientes** | **Tasa de mortalidad** |
+| Filipinas | 466 000 | 368 700 | 97 300 | 79 % |
+| Borneo | 29 000 | 10 400 | 18 600 | 35 % |
+| Célebes | 19 000 | 1300 | 17 700 | 7 % |
+| Nueva Guinea Oriental | 140 200 | 110 000 | 30 200 | 73 % |
+| Nueva Guinea Occidental | 53 700 | 1800 | 51 900 | 3 % |
+| Sonda | 169 100 | 51 600 | 17 500 | 75 % |
+| Java | 42 600 | 2200 | 40 400 | 52 % |
+| Sumatra | 61 500 | 2000 | 59 500 | 3 % |
+| Indochina francesa | 96 500 | 6100 | 90 400 | 6 % |
+| Tailandia | 110 800 | 4800 | 106 000 | 4 % |
+| Birmania | 230 800 | 160 400 | 70 400 | 69 % |
+| Península malaya | 91 700 | 6900 | 84 800 | 8 % |
+| Andamán y Nicobar | 11 400 | 700 | 10 700 | 6 % |
+| Pacífico central | 139 600 | 91 000 | 48 600 | 65 % |
+| **Subtotal** | **1 561 900** | **817 900** | **744 000** | **52 %** |
+| Taiwán | 155 300 | 27 200 | 128 100 | 18 % |
+| Okinawa | 108 500 | 67 600 | 40 900 | 62 % |
+| **Subtotal** | **263 800** | **94 800** | **169 000** | **36 %** |
+| **Total general** | **1 825 700** | **912 700** | **913 000** | **50 %** |
 
 ---
 
-##### **Moji Port and Allied POWs**
+**■ Bombardeo aéreo de la ciudad de Moji: 29 de junio de 1945**  
+Las zonas urbanas de Moji y Shimonoseki funcionan como puertas de transporte entre Kitakyushu y el sur de Honshu, con un fuerte impacto en la producción industrial. Al ser objetivos urbanos altamente concentrados e inflamables, fueron designados como objetivos prioritarios. Atacar estos centros buscaba paralizar la capacidad económica de todo el complejo industrial en un radio de 10 millas (16 km).
 
-*(In collaboration with [POW Research Network Japan](http://www.powresearch.jp/en/index.html) – Taeko Sasamoto)*
+![](/images/wp/2024/04/moji02-1-1024x394.jpg)
 
-During World War II, the Japanese military captured approximately 130,000 Allied soldiers (American, British, Dutch, Australian, Canadian, Indian, New Zealander, etc.) across the Asia-Pacific as prisoners of war. More than 30,000 were transported to Japan by ship to address domestic labor shortages. Nearly 70 POW transport vessels of various sizes arrived in Japan, the majority of which entered Moji Port. From there, POWs were sent by train from Mojiko Station or Shimonoseki Station to various labor sites across Japan, including coal mines, shipyards, and factories.
+*Pies de foto: izquierda, la zona urbana de Moji antes del bombardeo aéreo; derecha, fotografía de reconocimiento tomada por el ejército estadounidense el 29 de junio de 1945 para evaluar los efectos del ataque. Las áreas blancas indican tierra calcinada.* (Archivo Histórico de la Base Aérea Maxwell)
 
-Moji Port just after the end of the war (U.S. National Archives)
+La destrucción de estas dos ciudades y de su complejo sistema de transporte alteró gravemente la economía y la producción militar de Japón. Las instalaciones de transbordadores no bastaban para sustituir, ni siquiera en varias semanas, la red ferroviaria dañada. Interrumpir el enlace de transporte de mercancías de 10 horas (a través del túnel de Kanmon y su patio de maniobras) tuvo consecuencias significativas, eliminando de hecho alternativas como los muelles y el transporte fluvial.
+
+Otros efectos críticos fueron:
+
+1. Poner en riesgo las líneas de suministro y las provisiones de las tropas en Manchuria.
+2. Perturbar la zona industrial contigua de Hikoshima.
+3. Afectar gravemente a los centros de transbordo cercanos, como el puerto de Wakamatsu.
+
+---
+
+##### **El puerto de Moji y los prisioneros de guerra aliados**
+
+*(en colaboración con la Red de Investigación sobre Prisioneros de Guerra de Japón — Taeko Sasamoto)*
+
+Durante la Segunda Guerra Mundial, el ejército japonés capturó como prisioneros de guerra a unos 130 000 soldados aliados (estadounidenses, británicos, neerlandeses, australianos, canadienses, indios, neozelandeses, etc.) en toda la región de Asia-Pacífico. Más de 30 000 fueron transportados a Japón por barco para paliar la escasez de mano de obra interna. Cerca de 70 buques de transporte de prisioneros, de distintos tamaños, llegaron a Japón, y la mayoría entró por el puerto de Moji. Desde allí, los prisioneros eran enviados en tren desde la estación de Mojikō o la estación de Shimonoseki a distintos lugares de trabajo forzado en todo Japón: minas de carbón, astilleros y fábricas.
+
+El puerto de Moji justo después del fin de la guerra (Archivos Nacionales de EE. UU.)
 
 ![](/images/wp/2024/04/bdc2957c1cb038467124b44d9d9535c8-230x300.jpg)
 
-##### **Prisoners Arriving at Moji Port on "Hell Ships"**
+##### **Los prisioneros que llegaban al puerto de Moji en los "barcos infernales"**
 
-The vessels that transported these prisoners are often referred to as "Hell Ships" due to the horrific conditions during their voyages. POWs were crammed into dark cargo holds with minimal food, water, or sanitation. The lack of basic facilities led to the rapid spread of infectious diseases such as dysentery, resulting in numerous deaths. Additionally, many of these unmarked ships were torpedoed or bombed by Allied forces, causing heavy casualties. It is estimated that over 10,000 POWs perished during these voyages.
+Los buques que transportaban a estos prisioneros eran conocidos como "Hell Ships" (barcos infernales) por las condiciones espantosas de la travesía. Los prisioneros eran hacinados en bodegas oscuras con muy poca comida, agua o higiene. La falta de instalaciones básicas provocó la rápida propagación de enfermedades infecciosas como la disentería, causando numerosas muertes. Además, muchos de estos barcos, sin marcas distintivas, fueron torpedeados o bombardeados por las fuerzas aliadas, causando numerosas víctimas. Se calcula que más de 10 000 prisioneros murieron durante estas travesías.
 
-POWs who survived the journey to Moji were often on the brink of death. Many died on board just before they could land. One witness provided the following testimony:
+Los prisioneros que sobrevivían hasta llegar a Moji solían estar al borde de la muerte. Muchos morían a bordo justo antes de poder desembarcar. Un testigo dejó el siguiente testimonio:
 
-*"Along the quay, coffins overflowing from the warehouse were stacked two or three high in long rows. Some lids wouldn’t close properly, and hands protruded from the coffins. It was an eerie sight. The prisoners who came ashore staggered to their feet, their faces deathly pale. Looking as if they might die at any moment, they were lined up in columns and led away by Japanese soldiers."*
+*"A lo largo del muelle, ataúdes que desbordaban del almacén se apilaban en hileras de dos y tres niveles. Algunas tapas no cerraban bien, y de los ataúdes sobresalían manos. Era una escena espantosa. Los prisioneros que desembarcaban se ponían en pie tambaleándose, con el rostro mortalmente pálido. Parecían a punto de morir en cualquier momento; los alinearon en columnas y los soldados japoneses se los llevaron."*
 
-Those who died upon arrival at Moji Port were cremated on the beach or at the municipal crematorium in Maruyama Town. Those capable of walking were sent to camps throughout Japan, while the critically ill were taken to Kokura Army Hospital, Shimonoseki Quarantine Station, or Moji Camp.
+Quienes morían al llegar al puerto de Moji eran incinerados en la playa o en el crematorio municipal de Maruyama-chō. Los que podían caminar eran enviados a campos por todo Japón, mientras que los casos más graves eran trasladados al Hospital Militar de Kokura, a la Estación de Cuarentena de Shimonoseki o al campo de Moji.
 
-##### **Moji POW Camp**
+##### **El campo de prisioneros de Moji**
 
-This camp opened on November 27, 1942, utilizing the YMCA building in Kusunoki-cho, Moji City (now Oimatsu-cho, Moji Ward). Its designation changed over time, but its final official name was "Fukuoka POW Camp No. 4 Branch Camp."
+Este campo abrió el 27 de noviembre de 1942, utilizando el edificio del YMCA en Kusunoki-chō, ciudad de Moji (hoy Oimatsu-chō, distrito de Moji). Su designación cambió con el tiempo, pero su nombre oficial final fue "Campo de Prisioneros de Fukuoka N.º 4, Sucursal".
 
-Moji POW camp immediately after the end of the war | Moji YMCA
+El campo de prisioneros de Moji inmediatamente después del fin de la guerra | YMCA de Moji
 
 ![](/images/wp/2024/04/POWMoji_500-300x257.jpg)
 
-Approximately 300 prisoners, including British, American, and Dutch nationals, were interred here. They were primarily forced into hard labor as cargo handlers at Moji Port and the warehouses surrounding Sotohama Station. A former British POW who spent two and a half years in Moji recalled suffering from brutal labor, hunger, and violence from guards, though he also noted that some Japanese individuals showed kindness.
+Cerca de 300 prisioneros, entre británicos, estadounidenses y neerlandeses, quedaron internados aquí. Eran obligados principalmente a trabajos forzados como estibadores en el puerto de Moji y en los almacenes cercanos a la estación de Sotohama. Un antiguo prisionero británico que pasó dos años y medio en Moji recordaba haber sufrido trabajos brutales, hambre y violencia por parte de los guardias, aunque también señaló que algunos japoneses mostraron amabilidad.
 
-The camp also served as temporary housing for seriously ill patients from transport ships, and many deaths occurred here. By the end of the war, 191 prisoners had died at this camp. Including the 93 who died on transport ships just before landing, the death toll reached 284 (303 according to other sources). Their remains were initially stored at the camp and later moved to Hongan-ji Temple. After the temple was destroyed by fire, they were moved to a mass grave at Daiyuji Temple in Shoji-cho in May 1945. After the war, these remains were recovered by Allied Occupation Forces and interred at the British Commonwealth War Cemetery in Yokohama.
+El campo también sirvió como alojamiento temporal para los pacientes graves procedentes de los buques de transporte, y allí ocurrieron numerosas muertes. Al final de la guerra, 191 prisioneros habían muerto en este campo. Sumando los 93 que murieron a bordo de los buques justo antes de desembarcar, el total de víctimas llegó a 284 (303 según otras fuentes). Sus restos se guardaron primero en el campo y luego se trasladaron al templo Hongan-ji. Tras el incendio de ese templo, en mayo de 1945 fueron trasladados a una fosa común en el templo Daiyū-ji, en Shōji-chō. Después de la guerra, las fuerzas de ocupación aliadas recuperaron estos restos y los enterraron en el Cementerio de Guerra de la Mancomunidad Británica en Yokohama.
 
-Immediately after the end of the war, the town of Moji became a burnt-out ruin. Daiyuji Temple at the foot of the mountain, and a mass graveyard halfway up the mountain (owned by the U.S. National Archives)
+Inmediatamente después del fin de la guerra, la ciudad de Moji quedó reducida a ruinas calcinadas. El templo Daiyū-ji al pie de la montaña, y un cementerio común a media ladera (Archivos Nacionales de EE. UU.)
 
 ![](/images/wp/2024/04/5f76d588738d3a1c857b3b20f4c74de2.jpg)
 
-##### **Shimonoseki Quarantine Station**
+##### **Estación de Cuarentena de Shimonoseki**
 
-In late November 1944, four "Hell Ships" arrived at Moji simultaneously. Approximately 60 prisoners suffering from infectious diseases, including dysentery, were placed in the isolation ward of the Shimonoseki Quarantine Station in Enoura-cho, Hikoshima, located across the strait from Moji. This facility operated as a branch of the Moji camp, though its exact period of operation remains unclear. Local residents recall that after a period of relative calm, the POWs were transferred to a second camp near Hikoshima, but further details remain unknown.
+A finales de noviembre de 1944, cuatro "barcos infernales" llegaron a Moji al mismo tiempo. Cerca de 60 prisioneros que padecían enfermedades infecciosas, incluida la disentería, fueron internados en el pabellón de aislamiento de la Estación de Cuarentena de Shimonoseki, en Enoura-chō, Hikoshima, al otro lado del estrecho frente a Moji. Esta instalación funcionaba como una dependencia del campo de Moji, aunque no está claro durante cuánto tiempo estuvo en operación. Según recuerdan los vecinos de la zona, tras un período de relativa calma los prisioneros fueron trasladados a un segundo campo cerca de Hikoshima, pero no se conocen más detalles.
 
-Shimonoseki Quarantine Station Ruins (2006)
+Ruinas de la Estación de Cuarentena de Shimonoseki (2006)
 
-[caption id="attachment\_17603" align="aligncenter" width="600"]![](/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg) 下関検疫所跡（2006年時点）[/caption]
+![](/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg)
+*Ruinas de la Estación de Cuarentena de Shimonoseki (2006)*

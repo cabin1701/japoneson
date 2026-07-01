@@ -686,6 +686,38 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     margin-top: -0.5rem;
   }
 
+  /* === Booklet (Angels Swing / We Remember You chapters) === */
+  /* Image caption: em on its own line within an image paragraph */
+  main.page-booklet article p:has(> img) em {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9rem;
+    color: var(--color-muted);
+    margin-top: 0.4rem;
+  }
+  /* Caption pattern: ![]() immediately followed by a separate caption paragraph */
+  main.page-booklet article p:has(> img:only-child) + p {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--color-muted);
+    margin-top: -0.5rem;
+  }
+  /* Section headings (h5) and intro lines (h6): browser defaults are tiny.
+     Original WP theme rendered these at readable size (h5 navy bold sections). */
+  main.page-booklet article h5 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--color-navy);
+    margin: 2rem 0 0.75rem;
+  }
+  main.page-booklet article h6 {
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    margin: 1.5rem 0 0.75rem;
+  }
+
   /* === Timeline page (light, simple) === */
   main.page-timeline article table {
     width: 100%;

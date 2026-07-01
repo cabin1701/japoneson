@@ -5,8 +5,6 @@ wp_id: 17786
 wp_parent: 1022
 ---
 
-## Kokura Army Arsenal
-
 ![](/images/wp/2024/04/kokura01_-737x1024.jpg)
 
 **■ Its Roots**  
@@ -51,4 +49,5 @@ Damaged machine tools are difficult to replace and could stall production for mo
 
 ---
 
-[caption id="attachment\_17607" align="aligncenter" width="895"]![](/images/wp/2024/04/kokura03-1.jpg) Kokura city area immediately after the war[/caption]
+![](/images/wp/2024/04/kokura03-1.jpg)
+*Kokura city area immediately after the war*

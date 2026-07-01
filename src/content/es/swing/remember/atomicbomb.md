@@ -1,64 +1,60 @@
 ---
-title: "The Atomic Bomb over Kokura | August 9, 1945, Morning"
+title: "La bomba atómica sobre Kokura | 9 de agosto de 1945, por la mañana"
 slug: atomicbomb
 wp_id: 17854
 wp_parent: 1022
 ---
 
-## The Atomic Bomb over Kokura August 9, 1945, Morning
+**A las 9:45 de la mañana del 9 de agosto**, el bombardero B-29 "Bockscar", con la bomba de plutonio "**Fat Man**" a bordo, llegó sobre Kokura. "**Fat Man**" era un arma completamente distinta y mucho más potente que "**Little Boy**", la bomba de uranio lanzada sobre Hiroshima.
 
-**At 9:45 AM on August 9**, the B-29 bomber "Bockscar," carrying the plutonium bomb "**Fat Man**," arrived over Kokura. "**Fat Man**" was an entirely different and far more powerful weapon compared to "**Little Boy**," the uranium bomb dropped on Hiroshima.
-
-The primary target for this second atomic bomb was the Kokura Army Arsenal and its surrounding urban area. However, due to several factors—smoke from the previous day's Yawata Air Raid, thick clouds, and intentional smoke screens created by workers at the Yawata Steel Works (by burning coal tar)—the "Bockscar" was unable to visually confirm the target. After three failed bombing runs, the aircraft diverted to its secondary target, Nagasaki, where the bomb was eventually dropped.
+El objetivo principal de esta segunda bomba atómica era el Arsenal del Ejército de Kokura y su zona urbana circundante. Sin embargo, debido a varios factores —el humo del bombardeo de Yahata del día anterior, densas nubes y cortinas de humo creadas intencionalmente por los trabajadores de las Acerías de Yawata (quemando alquitrán de hulla)— el "Bockscar" no pudo confirmar visualmente el objetivo. Tras tres intentos de bombardeo fallidos, la aeronave se desvió hacia su objetivo secundario, Nagasaki, donde finalmente se lanzó la bomba.
 
 ![](/images/wp/2024/04/nagasaki.jpg)
 
-Atomic Bomb above Kokura on the morning of August 9th, 1945
+La bomba atómica sobre Kokura, en la mañana del 9 de agosto de 1945
 
-from [[](https://www.amazon.com/Wars-End-Eyewitness-Account-Americas/dp/0380788748)*[**War's End: An Eyewitness Account of America's Last Atomic Mission**](https://www.amazon.com/Wars-End-Eyewitness-Account-Americas/dp/0380788748)*/Charles W. Sweeney, James A. Antonucci, Marion K. Antonucci ]
+De [*War's End: An Eyewitness Account of America's Last Atomic Mission*](https://www.amazon.com/Wars-End-Eyewitness-Account-Americas/dp/0380788748), de Charles W. Sweeney, James A. Antonucci y Marion K. Antonucci:
 
-   Kokura lay ahead. Jim Van Pelt had picked it up on his radar screen a few minutes earlier. It was 9:45 A.M. The skies were still hazy, as reported earlier, but they were now mixed with broken clouds.  
-As we arrived at the IP, some landmarks were reasonably visible-the river, buildings, even streets and parks-so we thought here was a good chance to sight the target, the Kokura arsenal.  
-I started our bomb run when Beahan suddenly yelled, "I can't see it! I can't see it! There's smoke obscuring the target." The fires resulting from the bombing of Yawata the night before were still burning out of control, and heavy smoke was being lifted across Kokura by winds that had shifted direction since George Marquart had radioed his weather report.  
-As we bore in on the aiming point, Beahan repeated, "I can't see it!" The great Kokura arsenal was safely hidden by the smoke and haze.  
-I yelled into my intercom, "No drop. Repeat, no drop."  
-I banked the airplane sharply to the left and swung around to the south to begin a return approach to the IP. Flak bursts started all around us—to the left, ahead, to the right, and behind us.  
-A moment later tail gunner Pappy Dehart yelled, "Flak! Wide but altitude is perfect." Everyone saw it.  
-"Roger that, Pappy," I replied. They were crawling the flak up toward us as they tried to zero in on our airplane. I was now doing something a bomber pilot rarely, if ever, does— making a second run on a target. Second runs gave antiaircraft guns second chances.  
-I changed my altitude to 31,000 feet to try to confuse the enemy flak fusing.  
-As I proceeded toward the aiming point, Pappy broke in again. "This damn flak is right on our tail and getting closer." His voice now sounded a note of panic.  
-"Forget it, Pappy. We're on a bomb run," I said evenly, trying to keep my attention on the approach to the aiming point.  
-I waited for Beahan's signal that he could see the target. I hoped he had picked it up through a break in the smoke and haze. I hoped we could catch a break on this mission.  
-"I can't see it!" he yelled again.  
-I wheeled into another steep turn as I barked, "No drop. Repeat, no drop."  
-Ed Buckley, our radar operator, reported, "Major, Jap Zeros coming up.  
-Looks like about ten."  
-I decided to take us up another 1,000 feet to try to throw the antiaircraft gunners off again, and then approach from a different angle. Maybe from a different angle we might have a chance of finding a hole in the cover.  
-Beahan and Van Pelt were frantically calculating the run approach data.  
-The bursts of flak were breaking very close to the airplane, causing it to jump.  
-The third run was no more successful than the first two. The aiming point was still obscured. Kuharek reported that our fuel situation was very critical. We had enough to get to our secondary target, Nagasaki, and make one run. But we wouldn't make it back to Okinawa, the closest American base. We would fall short by about fifty miles.  
-Ed Buckley broke in over the intercom,"Fighters below and climbing to meet us."  
-Jake Beser, who was monitoring Japanese radio frequencies, confirmed increased activity on the Japanese fighter-director bands.  
-I wasn't as concerned about the Zeros as I was about the flak. Like horseshoes and grenades, close might be good enough if a burst caught us just right. If we hung around any longer, it would only be a matter of time.  
-Our gunner, Ray Gallagher, muttered into his intercom, "Let's get the hell out of here." Abe Spitzer, our radio operator, kept saying, "What about Nagasaki?  
-What about Nagasaki?"  
-"Cut the chatter," I ordered sharply.  
-I again banked sharply to set us on a southerly direction toward our secondary target.
+Kokura estaba delante de nosotros. Jim Van Pelt lo había captado en su pantalla de radar unos minutos antes. Eran las 9:45 de la mañana. El cielo seguía brumoso, como se había informado antes, pero ahora se mezclaba con nubes dispersas.  
+Al llegar al punto inicial, algunos puntos de referencia eran razonablemente visibles —el río, edificios, incluso calles y parques—, así que pensamos que teníamos una buena oportunidad de avistar el objetivo, el arsenal de Kokura.  
+Comencé nuestra pasada de bombardeo cuando Beahan gritó de repente: "¡No lo veo! ¡No lo veo! Hay humo que oculta el objetivo." Los incendios provocados por el bombardeo de Yawata la noche anterior seguían ardiendo fuera de control, y el viento, que había cambiado de dirección desde que George Marquart transmitió por radio su parte meteorológico, arrastraba una espesa humareda sobre Kokura.  
+Mientras nos acercábamos al punto de mira, Beahan repitió: "¡No lo veo!" El gran arsenal de Kokura quedaba a salvo, oculto por el humo y la bruma.  
+Grité por el intercomunicador: "No se lanza. Repito, no se lanza."  
+Incliné el avión bruscamente hacia la izquierda y viré hacia el sur para iniciar un nuevo acercamiento al punto inicial. Estallidos de fuego antiaéreo comenzaron a rodearnos por todas partes: a la izquierda, delante, a la derecha y detrás de nosotros.  
+Un momento después, el artillero de cola Pappy Dehart gritó: "¡Fuego antiaéreo! Desviado, pero la altitud es perfecta." Todos lo vieron.  
+"Entendido, Pappy," respondí. Estaban ajustando el fuego antiaéreo tratando de dar en el blanco con nuestro avión. Yo estaba a punto de hacer algo que un piloto de bombardero rara vez hace, si es que alguna vez lo hace: intentar una segunda pasada sobre el objetivo. Una segunda pasada le daba a la artillería antiaérea una segunda oportunidad.  
+Cambié mi altitud a 31 000 pies para tratar de confundir el sistema de espoleta antiaérea del enemigo.  
+Mientras avanzábamos hacia el punto de mira, Pappy volvió a interrumpir: "Este maldito fuego antiaéreo nos sigue justo detrás y se acerca cada vez más." Su voz sonaba ahora con un dejo de pánico.  
+"Olvídalo, Pappy. Estamos en pasada de bombardeo," dije con calma, tratando de mantener la atención en el acercamiento al punto de mira.  
+Esperé la señal de Beahan de que podía ver el objetivo. Esperaba que lo hubiera encontrado a través de un claro entre el humo y la bruma. Esperaba que tuviéramos un golpe de suerte en esta misión.  
+"¡No lo veo!" volvió a gritar.  
+Giré en otro viraje cerrado mientras ladraba: "No se lanza. Repito, no se lanza."  
+Ed Buckley, nuestro operador de radar, informó: "Mayor, cazas japoneses Zero acercándose. Parecen unos diez."  
+Decidí subir otros 1000 pies para tratar de despistar de nuevo a los artilleros antiaéreos, y luego aproximarnos desde un ángulo distinto. Quizás desde otro ángulo tendríamos alguna posibilidad de encontrar un hueco en la cobertura de nubes.  
+Beahan y Van Pelt calculaban frenéticamente los datos de aproximación.  
+Las explosiones de fuego antiaéreo estallaban muy cerca del avión, haciéndolo saltar.  
+La tercera pasada no tuvo más éxito que las dos primeras. El punto de mira seguía oculto. Kuharek informó que nuestra situación de combustible era muy crítica. Teníamos suficiente para llegar a nuestro objetivo secundario, Nagasaki, y hacer una pasada. Pero no lograríamos regresar a Okinawa, la base estadounidense más cercana. Nos quedaríamos cortos por unas cincuenta millas.  
+Ed Buckley interrumpió por el intercomunicador: "Cazas abajo, subiendo a nuestro encuentro."  
+Jake Beser, que monitoreaba las frecuencias de radio japonesas, confirmó un aumento de actividad en las bandas de control de caza japonesas.  
+No me preocupaban tanto los Zero como el fuego antiaéreo. Como en el juego de herraduras o con las granadas, estar cerca podía bastar si un estallido nos alcanzaba en el lugar correcto. Si nos quedábamos más tiempo, solo sería cuestión de tiempo.  
+Nuestro artillero, Ray Gallagher, masculló por el intercomunicador: "Larguémonos de aquí de una vez." Abe Spitzer, nuestro operador de radio, seguía repitiendo: "¿Y Nagasaki? ¿Qué hay de Nagasaki?"  
+"Corten la charla," ordené con firmeza.  
+Volví a inclinar bruscamente el avión para ponernos rumbo sur, hacia nuestro objetivo secundario.
 
 ---
 
-## **The Legacy of Peace in Kokura**
+## **El legado de paz en Kokura**
 
-**The "Bell of Nagasaki" Replica** In Katsuyama Park, the former site of the Kokura Army Arsenal, stands a replica of the "**Bell of Nagasaki**," presented by Nagasaki City. Every year on **August 9**, a memorial service is held here to honor the victims and pray for peace.
+**La réplica de la "Campana de Nagasaki"** En el parque Katsuyama, antiguo emplazamiento del Arsenal del Ejército de Kokura, se alza una réplica de la "**Campana de Nagasaki**", obsequiada por la ciudad de Nagasaki. Cada año, el **9 de agosto**, se celebra allí un servicio conmemorativo en honor a las víctimas y para orar por la paz.
 
 ![](/images/wp/2024/04/8b562a72b78400543d86a87809689380-e1713415887609.jpg)
 
 ---
 
-**■ The Manhattan Project**  
-In 1942, the United States launched the Manhattan Project to develop the atomic bomb. Following the death of President Roosevelt in April 1945, Vice President Harry S. Truman became the President of the United States. On July 16, 1945, the world's first nuclear test (the Trinity test) was conducted in New Mexico. In August, atomic bombs were dropped on Hiroshima and Nagasaki.
+**■ El Proyecto Manhattan**  
+En 1942, Estados Unidos puso en marcha el Proyecto Manhattan para desarrollar la bomba atómica. Tras la muerte del presidente Roosevelt en abril de 1945, el vicepresidente Harry S. Truman asumió la presidencia de Estados Unidos. El 16 de julio de 1945 se realizó en Nuevo México la primera prueba nuclear de la historia (la prueba Trinity). En agosto, se lanzaron bombas atómicas sobre Hiroshima y Nagasaki.
 
-**■ Visit by the Grandson of President Truman**  
-In 2012, Clifton Truman Daniel, the grandson of President Truman, visited Hiroshima and Nagasaki to attend the peace memorial ceremonies. This marked the first time a descendant of the Truman family participated in these ceremonies since the atomic bombings.
+**■ La visita del nieto del presidente Truman**  
+En 2012, Clifton Truman Daniel, nieto del presidente Truman, visitó Hiroshima y Nagasaki para asistir a las ceremonias conmemorativas de la paz. Fue la primera vez que un descendiente de la familia Truman participaba en estas ceremonias desde los bombardeos atómicos.
 
 ![](/images/wp/2024/04/cb21c53e01edf9fb25f6ab527a681e99-e1713416580285-762x1024.jpg)

@@ -5,8 +5,6 @@ wp_id: 17854
 wp_parent: 1022
 ---
 
-## The Atomic Bomb over Kokura August 9, 1945, Morning
-
 **At 9:45 AM on August 9**, the B-29 bomber "Bockscar," carrying the plutonium bomb "**Fat Man**," arrived over Kokura. "**Fat Man**" was an entirely different and far more powerful weapon compared to "**Little Boy**," the uranium bomb dropped on Hiroshima.
 
 The primary target for this second atomic bomb was the Kokura Army Arsenal and its surrounding urban area. However, due to several factors—smoke from the previous day's Yawata Air Raid, thick clouds, and intentional smoke screens created by workers at the Yawata Steel Works (by burning coal tar)—the "Bockscar" was unable to visually confirm the target. After three failed bombing runs, the aircraft diverted to its secondary target, Nagasaki, where the bomb was eventually dropped.

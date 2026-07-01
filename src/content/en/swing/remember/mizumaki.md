@@ -5,8 +5,6 @@ wp_id: 17914
 wp_parent: 1022
 ---
 
-## Friendship between Dutch ex-POWs and Mizumaki Town
-
 During the Pacific War (Great East Asia War), many prisoners of war were forced to labor in the coal mines of Mizumaki, Onga District (at the Orio POW Branch Camp). Mizumaki held a large number of Dutch prisoners, 53 of whom lost their lives there. Immediately following Japan's defeat and just before the GHQ war crimes investigation, the Nittan Takamatsu Coal Mine hurriedly erected a cross as a memorial.
 
 ![](/images/wp/2024/04/adf3679deedf4acae1b94e272d7007df-1024x682.jpg)
