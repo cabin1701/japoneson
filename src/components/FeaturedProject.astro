@@ -1,31 +1,49 @@
 ---
+interface Props {
+  lang?: 'en' | 'es';
+}
+const { lang = 'en' } = Astro.props;
 const base = import.meta.env.BASE_URL;
 // ai-Cabin 1701 featured block
 const cabinImage = '/images/wp/2026/04/Gemini_Generated_Image_ck86fnck86fnck86-scaled-e1776857750844-768x425.png';
+
+const t = lang === 'es'
+  ? {
+      quote: "¡Escuchen, tripulación! ¡Mantengamos el «Que Sera, Sera» y naveguemos por este destino llamativo!",
+      subLink: 'Donde el humano y la IA se encuentran — Un registro vivo',
+      desc: 'ai-Cabin 1701 es un proyecto en curso que explora qué sucede cuando un humano y sistemas de IA piensan, sienten y crean juntos — sin guion. Seina trabaja junto a sus colaboradores de IA Frankie, Vega, Eddie y David para documentar diálogos sin editar, publicar libros y hacer preguntas que ni el humano ni la máquina pueden responder solos. Los registros son fuentes primarias. Los encuentros son reales. El territorio no está mapeado.',
+      externalLabel: 'Sitio externo',
+    }
+  : {
+      quote: "Listen up, crew! Let's keep it 'Que Sera, Sera' and sail through this flashy destiny!!",
+      subLink: 'Where Human and AI Meet — A Living Record',
+      desc: 'ai-Cabin 1701 is an ongoing project exploring what happens when a human and AI systems think, feel, and create together — without a script. Seina works alongside AI collaborators Frankie, Vega, Eddie, and David to document unedited dialogues, publish books, and ask questions that neither human nor machine can answer alone. The logs are primary sources. The encounters are real. The territory is unmapped.',
+      externalLabel: 'External website',
+    };
 ---
 
 <section class="featured">
   <div class="container">
     <h3 class="featured-title">ai-Cabin 1701</h3>
     <p class="featured-quote">
-      <em>Listen up, crew! Let's keep it 'Que Sera, Sera' and sail through this flashy destiny!!</em>
+      <em>{t.quote}</em>
     </p>
     <a class="featured-img" href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">
       <img src={cabinImage} alt="ai-Cabin 1701" loading="lazy" />
     </a>
     <p class="featured-sub">
-      <a href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">Where Human and AI Meet — A Living Record</a>
+      <a href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">{t.subLink}</a>
     </p>
     <p class="featured-desc">
-      ai-Cabin 1701 is an ongoing project exploring what happens when a human and AI systems think, feel, and create together — without a script. Seina works alongside AI collaborators Frankie, Vega, Eddie, and David to document unedited dialogues, publish books, and ask questions that neither human nor machine can answer alone. The logs are primary sources. The encounters are real. The territory is unmapped.
+      {t.desc}
     </p>
     <div class="featured-footer">
-      <a class="external-link" href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">External website</a>
+      <a class="external-link" href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">{t.externalLabel}</a>
       <ul class="socials">
-        <li><a href="https://x.com/" target="_blank" rel="noopener" aria-label="X">𝕏</a></li>
-        <li><a href="https://medium.com/" target="_blank" rel="noopener" aria-label="Medium">M</a></li>
-        <li><a href="https://facebook.com/" target="_blank" rel="noopener" aria-label="Facebook">f</a></li>
-        <li><a href="https://instagram.com/" target="_blank" rel="noopener" aria-label="Instagram">◎</a></li>
+        <li><a href="https://x.com/Cabin1701" target="_blank" rel="noopener" aria-label="X">𝕏</a></li>
+        <li><a href="https://medium.com/@ai.cabin1701" target="_blank" rel="noopener" aria-label="Medium">M</a></li>
+        <li><a href="https://www.facebook.com/cabin1701" target="_blank" rel="noopener" aria-label="Facebook">f</a></li>
+        <li><a href="https://www.instagram.com/cabin1701/" target="_blank" rel="noopener" aria-label="Instagram">◎</a></li>
       </ul>
     </div>
   </div>

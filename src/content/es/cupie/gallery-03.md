@@ -1,11 +1,11 @@
 ---
-title: "Gallery - Adventure"
+title: "Galería - Aventura"
 slug: gallery-03
 wp_id: 21926
 wp_parent: 21239
 ---
 
-# Adventure
+# Aventura
 
 ![](/images/wp/2026/06/IMG_5222_500.jpg)
 ![](/images/wp/2026/06/IMG_5314-768x576.jpg)

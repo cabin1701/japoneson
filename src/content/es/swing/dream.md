@@ -7,37 +7,37 @@ wp_parent: 108
 
 # I Have a Dream...Seina
 
-## The Songs For Nursing Homes in The U.S.
+## Las canciones para los asilos de ancianos en EE. UU.
 
-## It Had Started by My Thoughts...
+## Todo comenzó con mis pensamientos...
 
-## 3500 nursing homes in the United States.
+## 3500 asilos de ancianos en Estados Unidos.
 
-In 1992, I came across an album titled G.I.Jo. There was a recording on the album by Jo Stafford,who was one of the most popular singers during WWII.
+En 1992, me encontré con un álbum titulado G.I.Jo. Había una grabación en el álbum de Jo Stafford, quien fue una de las cantantes más populares durante la Segunda Guerra Mundial.
 
-On that album, she sang about the war and life during that time. My heart was taken by those songs. Since then, I set my focus on music from the WWII era, and listened to many of those songs. For a person born long after the war, it was difficult to understand the feeling of that era.
+En ese álbum, ella cantaba sobre la guerra y la vida en aquella época. Mi corazón quedó cautivado por esas canciones. Desde entonces, enfoqué mi atención en la música de la era de la Segunda Guerra Mundial, y escuché muchas de esas canciones. Para una persona nacida mucho después de la guerra, era difícil comprender el sentimiento de aquella época.
 
-The music that era was very beautiful, romantic, and sentimental. And the music reflected the wartime sentiment, when lovers had to part and prayed to reunite. I could feel that they had no other choice except praying. Through these songs, I was able to understand the heartaches and the emotions that people experienced.
+La música de esa era era muy hermosa, romántica y sentimental. Y la música reflejaba el sentimiento de guerra, cuando los amantes tenían que separarse y rezaban por reencontrarse. Podía sentir que no les quedaba otra opción más que rezar. A través de estas canciones, pude comprender las penas y las emociones que la gente vivió.
 
-There are songs that are still loved and cherished today. However, there are some songs that have been forgotten by people. Further, there are songs that endure today, but are not appreciated for their true meaning and the era they come from.
+Hay canciones que todavía son amadas y atesoradas hoy. Sin embargo, hay algunas canciones que la gente ha olvidado. Además, hay canciones que perduran hasta hoy, pero no son apreciadas por su verdadero significado y la época de la que provienen.
 
-The reason why those songs endure today is probably because of the many prayers put into these songs.
+La razón por la que esas canciones perduran hoy es probablemente por las muchas oraciones puestas en ellas.
 
-As a singer who truly loves the music from this era, I want to tell them that their songs are still breathing and alive. I know that Japan and the U.S were fighting during WWII. But now, I want them to know the songs are still loved by many people in Japan.
+Como cantante que verdaderamente ama la música de esta era, quiero decirles que sus canciones todavía respiran y están vivas. Sé que Japón y EE. UU. estaban en guerra durante la Segunda Guerra Mundial. Pero ahora, quiero que sepan que sus canciones todavía son amadas por muchas personas en Japón.
 
-For those who still feel pain, remembering that time, I’d like to offer my songs, with warmth, love…..and my prayers.
+Para quienes todavía sienten dolor al recordar aquella época, me gustaría ofrecer mis canciones, con calidez, amor... y mis oraciones.
 
-Leonard Gaskin (bass),
+Leonard Gaskin (contrabajo),
 
-Artie Baker (Clarinet & Tenor Sax),
+Artie Baker (Clarinete y Saxo Tenor),
 
-Toya (piano), Grady Tate (drums),
+Toya (piano), Grady Tate (batería),
 
 Ron Roulier (piano),
 
-Howard Kimbo (Tenor Sax)
+Howard Kimbo (Saxo Tenor)
 
-Seina (Vocals)
+Seina (Voz)
 
 [![](/images/wp/2026/05/ryu-1.jpg)](https://en.japoneson.com/swing/dream/ryu)
 
@@ -50,4 +50,4 @@ https://youtu.be/FY-yB9-tC8U?si=-kLkV7\_CG5rtAtjY
 
 .
 
- https://youtu.be/3iOpyhnJ3bk?si=97r0-BM7CmYQMJgQ
+ https://youtu.be/3iOpyhnJ3bk?si=97r0-BM7CmYQMJgQ

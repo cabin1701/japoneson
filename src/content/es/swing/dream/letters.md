@@ -1,5 +1,5 @@
 ---
-title: "Thanks letters from Nursing Homes"
+title: "Cartas de agradecimiento de los asilos de ancianos"
 slug: letters
 hero_image: "/images/swing/letters.jpg"
 hero_subtitle: "I Have a Dream... in 1999"
@@ -15,601 +15,601 @@ wp_parent: 576
 ---
 
 
-Taking this opportunity I must apologize for throwing the recipients of the gift CD into confusion which may be caused by my simple mistake in providing the wrong sender’s address mentioned in my letter to Nursing Homes. I left America right after the project without realizing this oversight. For this reason, perhaps some letters didn’t reach me. Also, I apologize for not answering the people who wrote me.  
-These letters are my precious treasure and they encourage me to further action. I thank you all from the bottom of my heart.
+Aprovecho esta oportunidad para disculparme por haber causado confusión entre quienes recibieron el CD de regalo, posiblemente debido a un simple error mío al indicar la dirección incorrecta del remitente en mi carta a los asilos de ancianos. Dejé Estados Unidos justo después del proyecto sin darme cuenta de este descuido. Por esta razón, quizás algunas cartas no me llegaron. También pido disculpas por no haber respondido a quienes me escribieron.  
+Estas cartas son mi tesoro más preciado y me animan a seguir actuando. Les agradezco a todos desde el fondo de mi corazón.
 
 Seina
 
 <hr class="navy-rule" />
 
-Dear “Seina”
+Querida "Seina"
 
-We received your CD just before Christmas, and we wanted you to know, not only how much we appreciate your gift, but how touched we were by your letter, and your reason for recording it !  
-Our Residents, many of whom are from the “World War II generation” truly feel you are an “Angel” to send this remarkable gift to brighten their Holiday, and share memories.  
-Let us never forget, but learn to forgive, share with, and love one another!
+Recibimos tu CD justo antes de Navidad, y queríamos que supieras no solo cuánto apreciamos tu regalo, sino cuán conmovidos estuvimos por tu carta y por tu razón para grabarlo !  
+Nuestros residentes, muchos de ellos de la "generación de la Segunda Guerra Mundial," sienten de verdad que eres un "Ángel" por enviar este notable regalo para alegrar sus fiestas y compartir recuerdos.  
+¡Que nunca olvidemos, pero aprendamos a perdonar, a compartir y a amarnos los unos a los otros!
 
-Sincerely,  
-Risa Segan, Director of Activities  
+Atentamente,  
+Risa Segan, Directora de Actividades  
 GREENPARK CARE CENTER, NY
 
 ---
 
-Dear “Seina”  
-Thank you for your Christmas gift of prayer and songs to our elderly residents. I am sure they are going to appreciate it. I’ll be sure that their prayers are joined with yours.  
-Thank you !  God bless you. May the new Millennium be a time of peace for all the world.
+Querida "Seina"  
+Gracias por tu regalo navideño de oraciones y canciones para nuestros residentes ancianos. Estoy seguro de que lo apreciarán. Me aseguraré de que sus oraciones se unan a las tuyas.  
+¡Gracias! Dios te bendiga. Que el nuevo milenio sea un tiempo de paz para todo el mundo.
 
 S. Gerald Maice  
 JEANNE JUGAN RESIDENCE, RI
 
 ---
 
-Dear Ms. Shiraishi:  
-I am writing with regard to the compact disc you recently sent to my residents in the long-term care unit at McLaren Regional Medical Center. I was very touched, as were the residents, by both your letter and the music. How nice to know that your voice is beautiful and has touched our hearts. So on behalf of the residents here, I would like to extend our sincerest thanks and wish for a wonderful and prosperous New Year.
+Estimada Sra. Shiraishi:  
+Le escribo con respecto al disco compacto que recientemente envió a mis residentes en la unidad de cuidados a largo plazo del McLaren Regional Medical Center. Me conmovió mucho, al igual que a los residentes, tanto su carta como la música. Qué agradable saber que su voz es hermosa y ha tocado nuestros corazones. Así que en nombre de los residentes de aquí, quisiera extender nuestro más sincero agradecimiento y desearle un maravilloso y próspero Año Nuevo.
 
-Sincerely,  
-Kelly L. Wolfe, CTRS, Activity Director,  
+Atentamente,  
+Kelly L. Wolfe, CTRS, Directora de Actividades,  
 McLAREN REGIONAL MEDICAL CENTER, MI
 
 ---
 
-Dear Ms, Seina:  
-On behalf of our President, J. Donald Dicunto, Board of Trustees, and our nursing home residents, I want to thank you for your donation of the album you sent us during the Christmas holidays for the listening pleasure of our nursing home residents.
+Estimada Sra. Seina:  
+En nombre de nuestro Presidente, J. Donald Dicunto, la Junta Directiva, y los residentes de nuestro asilo de ancianos, quiero agradecerle por la donación del álbum que nos envió durante las fiestas navideñas para el disfrute auditivo de nuestros residentes.
 
-Personally, I spent some time listening to your beautiful album and I was very impressed not just by your lovely singing voice, but also by the intent of your Christmas gift to our nursing home residents is admirable.
+Personalmente, dediqué un tiempo a escuchar su hermoso álbum y quedé muy impresionada no solo por su encantadora voz al cantar, sino también por lo admirable de la intención de su regalo navideño para nuestros residentes.
 
-I am happy to hear that war-time songs are still popular, alive, and loved by many in Japan.  
-Your Christmas gift to our residents at Victory Memorial Hospital Nursing home will be very much appreciated by our one hundred fifty residents.
+Me alegra saber que las canciones de la época de guerra todavía son populares, están vivas y son amadas por muchos en Japón.  
+Su regalo navideño para nuestros residentes en el Victory Memorial Hospital Nursing Home será muy apreciado por nuestros ciento cincuenta residentes.
 
-My very best wishes and lots and lots of success to a very caring person like yourself. Please visit our nursing home whenever you come to New York City.
+Mis mejores deseos y muchísimo éxito para una persona tan bondadosa como usted. Por favor, visite nuestro asilo cuando venga a la ciudad de Nueva York.
 
-Very truly yours,  
-Leticia A. Farajiani SNC Administrator  
+Muy atentamente,  
+Leticia A. Farajiani, Administradora del SNC  
 VICTORY MEMORIAL HOSPITAL, NY
 
 ---
 
-Dear “Seina”  
-What beautiful memories your album “I Have a Dream…Seina” brought to our people. It takes warm, loving people like yourself to close the door to the hurts and sadness of WWII.  
-Music really is an international language.
+Querida "Seina"  
+Qué hermosos recuerdos trajo tu álbum "I Have a Dream…Seina" a nuestra gente. Hace falta gente cálida y amorosa como tú para cerrar la puerta a los dolores y tristezas de la Segunda Guerra Mundial.  
+La música realmente es un idioma internacional.
 
 Betty Loebs,  
 WHEATCREST HILLS, SD
 
 ---
 
-Dear Seina  
-Your gift arrived just in time for Christmas. We have 2 CD players for our residents to enjoy music and when we put your CD on, there were many singing along. Thank you so much. I admire you for your dream and your desire to see it come true.
+Querida Seina  
+Tu regalo llegó justo a tiempo para Navidad. Tenemos 2 reproductores de CD para que nuestros residentes disfruten de la música, y cuando pusimos tu CD, muchos cantaban junto con él. Muchísimas gracias. Te admiro por tu sueño y por tu deseo de hacerlo realidad.
 
-Sincerely  
-Janet Elkins, Activities Director  
+Atentamente  
+Janet Elkins, Directora de Actividades  
 COLORADO STATE VETS NURSING HOME, CO
 
 ---
 
-Subject: Your Beautiful Christmas Gift  
-Dear Seina,
+Asunto: Tu hermoso regalo de Navidad  
+Querida Seina,
 
-I am Lorraine Ernst and I am the Director of Activities and the Social Worker at the nursing home, Pioneer Manor, in Gillette, Wyoming. We got your beautiful gift of the CD today in the mail. I did not have time to listen to it today at work so I brought it home and listened to it while I wrapped Christmas presents for my beloved family who cannot be with us to celebrate this Christmas. I was feeling quite sad about that, as well as feeling down about the death of my father and the very recent death of my mother. I miss them so. But what a comfort your music gave me!
+Soy Lorraine Ernst, Directora de Actividades y Trabajadora Social del asilo de ancianos Pioneer Manor, en Gillette, Wyoming. Hoy recibimos por correo tu hermoso regalo del CD. No tuve tiempo de escucharlo hoy en el trabajo, así que lo llevé a casa y lo escuché mientras envolvía los regalos de Navidad para mi querida familia, que no puede estar con nosotros para celebrar esta Navidad. Me sentía bastante triste por eso, además de estar afectada por la muerte de mi padre y la muy reciente muerte de mi madre. Los extraño tanto. ¡Pero qué consuelo me dio tu música!
 
-My father fought in WWII and he was absent from my mother at the time she gave birth to my older sister. My father did not get to see her until she was nearly 10 months old. What a special time he missed, being away from his family. I too am a musician, a pianist, and I have always loved all those old songs. I played them for my parents for many years. And tonight, I sang all the songs along with you, they touched me so. As I wrapped presents and listened to your lovely songs, I felt comforted and blessed.
+Mi padre luchó en la Segunda Guerra Mundial y estuvo ausente cuando mi madre dio a luz a mi hermana mayor. Mi padre no pudo verla hasta que tenía casi 10 meses. Qué momento tan especial se perdió, estando lejos de su familia. Yo también soy música, pianista, y siempre he amado todas esas viejas canciones. Se las toqué a mis padres durante muchos años. Y esta noche, canté todas las canciones junto contigo, me conmovieron tanto. Mientras envolvía los regalos y escuchaba tus hermosas canciones, me sentí reconfortada y bendecida.
 
-I cannot wait to play this music for our residents at the nursing home. Many of them are WWII Veterans. Many of our women were spouses or sweethearts of the Veterans and will also be touched deeply by your music. You have truly given them a blessed gift this Christmas! We will be sure to read them the letter you put in the case so they understand the nature of your gift and the reasons for your recording these songs.
+No puedo esperar para poner esta música para nuestros residentes en el asilo. Muchos de ellos son veteranos de la Segunda Guerra Mundial. Muchas de nuestras mujeres fueron esposas o novias de los veteranos y también se conmoverán profundamente con tu música. ¡De verdad les has dado un regalo bendecido esta Navidad! Nos aseguraremos de leerles la carta que pusiste en el estuche para que entiendan la naturaleza de tu regalo y las razones por las que grabaste estas canciones.
 
-Thank you so very much for your sweet and sentimental gift. God will surely give you an extra blessing for your generosity. If you are ever in Wyoming, I hope that you will stop by and let us meet you. It would be a most welcome treat for us. God bless you and yours this Christmas.
+Muchísimas gracias por tu dulce y sentimental regalo. Dios seguramente te dará una bendición extra por tu generosidad. Si alguna vez estás en Wyoming, espero que pases por aquí y nos dejes conocerte. Sería un gusto de lo más bienvenido para nosotros. Dios te bendiga a ti y a los tuyos esta Navidad.
 
-Lorraine Ernst, BA, Social Services Director  
+Lorraine Ernst, BA, Directora de Servicios Sociales  
 PIONEER MANOR, WY
 
 ---
 
-Subject: Thank you for your very special gift
+Asunto: Gracias por tu regalo tan especial
 
-On behalf of the residents and staff of Beaumont Care Center, thank you for your very special gift of sentimental songs, and most of all, thank God for such a wonderful creation like you. We do not know who you are but we feel the warmth of your heart. You will definitely never walk alone.
+En nombre de los residentes y el personal del Beaumont Care Center, gracias por tu regalo tan especial de canciones sentimentales, y sobre todo, gracias a Dios por una creación tan maravillosa como tú. No sabemos quién eres, pero sentimos la calidez de tu corazón. Definitivamente nunca caminarás sola.
 
-We do enjoy your music. May God bless you always… Thank you.
+Disfrutamos mucho tu música. Que Dios te bendiga siempre… Gracias.
 
 ---
 
-Subject: THANK YOU  
-Thank you so very much for your generous gift of the CD. The story you tell is touching and inspirational. I am sure my residents will enjoy the beautiful words and music, as well as remember sights, sounds, and events that have been long forgotten. Thank you for your generosity and kindness. May God bless you and give you a safe return to Japan.
+Asunto: GRACIAS  
+Muchísimas gracias por tu generoso regalo del CD. La historia que cuentas es conmovedora e inspiradora. Estoy segura de que mis residentes disfrutarán las hermosas palabras y música, y también recordarán imágenes, sonidos y eventos largamente olvidados. Gracias por tu generosidad y amabilidad. Que Dios te bendiga y te dé un regreso seguro a Japón.
 
-Sincerely,  
-Tracy Williams Activities director  
+Atentamente,  
+Tracy Williams, Directora de Actividades  
 STONEGATE NURSING CENTER
 
 ---
 
-Subject: thanks  
+Asunto: gracias  
 Seina,  
-My name is Michael Wilde. I am the administrator of Mt. Ogden Nursing Rehab in Ogden, Utah. I received your CD and wanted to tell you thanks. I love it and my residents will enjoy it also. My dad served in the war and I grew up with this music. Thank you so much and I hope all of your dreams will come true.
+Mi nombre es Michael Wilde. Soy el administrador de Mt. Ogden Nursing Rehab en Ogden, Utah. Recibí tu CD y quería darte las gracias. Me encanta y mis residentes también lo disfrutarán. Mi papá sirvió en la guerra y crecí con esta música. Muchísimas gracias y espero que todos tus sueños se hagan realidad.
 
-Thanks,  
+Gracias,  
 Michael
 
 ---
 
-Subject: Thank you  
-I am the Activity Director at Enumclaw Healthcare in Enumclaw, Washington. I received your CD, it is beautiful. I also love the music of that era, even though I was not born then.  
-Thank you so much for your CD, I also do not understand war. I am happy that we are at peace with Japan. I have a 21-year-old daughter who has been to Japan once (she will come with me in April) and a 15-year-old son. Both have hosted Japanese students and it is important for me that they know that we are all the same, no matter what our culture is. Please continue your work.
+Asunto: Gracias  
+Soy la Directora de Actividades en Enumclaw Healthcare, en Enumclaw, Washington. Recibí tu CD, es hermoso. También amo la música de esa época, aunque no había nacido todavía.  
+Muchas gracias por tu CD, yo tampoco entiendo la guerra. Me alegra que estemos en paz con Japón. Tengo una hija de 21 años que ha estado en Japón una vez (vendrá conmigo en abril) y un hijo de 15 años. Ambos han hospedado a estudiantes japoneses y es importante para mí que sepan que todos somos iguales, sin importar cuál sea nuestra cultura. Por favor, continúa con tu trabajo.
 
-I pray that God will bless your work and that you will touch many hearts in the US and Japan.
+Rezo para que Dios bendiga tu trabajo y para que toques muchos corazones en EE. UU. y Japón.
 
-God Bless You  
+Dios te bendiga  
 Beth Sprau  
 ENUMCLAW HEALTHCARE, WA
 
 ---
 
-Dear Ms. Shiraishi  
-We received your lovely CD today. Thank you so very much for remembering us here in Lusk, Wyoming. So frequently the elderly and wise of this western culture are forgotten and overlooked within their own communities. Thank you for remembering the many wonderful people with whom I, and the other staff here, are privileged to work.
+Estimada Sra. Shiraishi  
+Hoy recibimos tu hermoso CD. Muchísimas gracias por recordarnos aquí en Lusk, Wyoming. Con demasiada frecuencia los ancianos y sabios de esta cultura del oeste son olvidados y pasados por alto dentro de sus propias comunidades. Gracias por recordar a la maravillosa gente con la que yo, y el resto del personal aquí, tenemos el privilegio de trabajar.
 
-Many of our residents are descendants of homesteaders and ranching families who settled in this area after many of the Native Americans were relocated to reservations, I was born during WWII in California and was privileged to go to school with many Japanese Americans who had been born in Manzanar, a relocation camp during the WWII for Japanese Americans. We have all come a long distance since those years when our native countries were at war.
+Muchos de nuestros residentes son descendientes de colonos y familias ganaderas que se asentaron en esta zona después de que muchos nativos americanos fueran reubicados en reservas. Yo nací durante la Segunda Guerra Mundial en California y tuve el privilegio de ir a la escuela con muchos japoneses-estadounidenses que habían nacido en Manzanar, un campo de reubicación para japoneses-estadounidenses durante la Segunda Guerra Mundial. Todos hemos recorrido un largo camino desde aquellos años en que nuestros países de origen estaban en guerra.
 
-Bless you, for your wonderful sharing and your beautiful talent. We will experience many joyful hours listening to your music.
+Bendiciones para ti, por tu maravillosa generosidad y tu hermoso talento. Viviremos muchas horas alegres escuchando tu música.
 
-Again, the peace and love which is represented at this time of the year through giving be with you always.
+De nuevo, que la paz y el amor que se representan en esta época del año a través de dar estén siempre contigo.
 
-Sincerely yours,  
-Marty Harris, Social Worker, and all of the Residents and staff.  
+Atentamente,  
+Marty Harris, Trabajadora Social, y todos los residentes y el personal.  
 NIOBRARA COUNTY HOSPITAL DISTRICT, WY
 
 ---
 
-Dear Shoko “Seina”  
-Thank you for the “I Have a Dream…” CD. That was sent to Sioux Valley Canby Campus Nursing Home recently. Many of the residents here enjoy listening to music and especially to songs from their era. It was very thoughtful of you to remember them in this way.
+Querida Shoko "Seina"  
+Gracias por el CD "I Have a Dream…" que fue enviado recientemente al Sioux Valley Canby Campus Nursing Home. Muchos de los residentes aquí disfrutan escuchando música, especialmente canciones de su época. Fue muy considerado de tu parte recordarlos de esta manera.
 
-Thank you.  
+Gracias.  
 SIOUX VALLEY CANBY CAMPUS, MN
 
 ---
 
-Dear “Seina”  
-Thank you for the lovely CD on WWII oldie favorites. The residents loved the tunes and were reminded them about the WWII days and their loved ones who had to march to the war.
+Querida "Seina"  
+Gracias por el hermoso CD de viejas canciones favoritas de la Segunda Guerra Mundial. A los residentes les encantaron las melodías y les recordaron los días de la guerra y a sus seres queridos que tuvieron que marchar a ella.
 
-Residents and Staff  
+Residentes y personal  
 FALMOUTH RESIDENTIAL CARE FAC, ME
 
 ---
 
-Dear Seina,  
-Walker Nursing Home residents are appreciating the CD of WWII-era music. The selections are marvelous. The music is indeed beautiful from the 1930s and 1940s.  
-You are a thoughtful person and we are impressed with your vision of sharing.
+Querida Seina,  
+Los residentes del Walker Nursing Home están disfrutando el CD de música de la era de la Segunda Guerra Mundial. Las selecciones son maravillosas. La música de los años 1930 y 1940 es en verdad hermosa.  
+Eres una persona considerada y estamos impresionados con tu visión de compartir.
 
-Yours truly,  
+Atentamente,  
 Mary White  
 WALKER NURSING HOME, IL
 
 ---
 
-Dear Shoko “Seina”  
-Thank you for your beautiful CD. The residents are enjoying it at this very moment! You have a beautiful voice! and you are very talented!! I will be visiting your web site, too. Thank you! Again thank you for your gift. Happy Holidays!!!!
+Querida Shoko "Seina"  
+Gracias por tu hermoso CD. ¡Los residentes lo están disfrutando en este mismo momento! ¡Tienes una voz hermosa! ¡Y eres muy talentosa! También visitaré tu sitio web. ¡Gracias! De nuevo, gracias por tu regalo. ¡¡Felices Fiestas!!
 
-Sincerely,  
-Theresa Azzaretto, Director of Recreation  
+Atentamente,  
+Theresa Azzaretto, Directora de Recreación  
 PROMENADE REHABILITATION AND HEALTH CARE CENTER, NY
 
 ---
 
-Dear Shoko “Seina”  
-Thank you so very much for sharing your dream with nursing home residents. Our 50-bed home in Wisconsin was delighted with your thoughtful gift.  
-Thank you for sharing your talents and gift of music. We are enjoying the music.
+Querida Shoko "Seina"  
+Muchísimas gracias por compartir tu sueño con los residentes del asilo. Nuestro hogar de 50 camas en Wisconsin quedó encantado con tu considerado regalo.  
+Gracias por compartir tu talento y tu don de la música. Estamos disfrutando la música.
 
-Brenda Reisdorph R.N. Clinical Director  
+Brenda Reisdorph, Enfermera Titulada, Directora Clínica  
 EDWARD SNYDER NURSING HOME, WI
 
 ---
 
-Dear Seina,  
-Thank you so much for the beautiful CD. That was so thoughtful of you, and our residents at New Martinsville Health Care Center loved it!
+Querida Seina,  
+Muchísimas gracias por el hermoso CD. Fue muy considerado de tu parte, ¡y a nuestros residentes en el New Martinsville Health Care Center les encantó!
 
-Sincerely,  
-Sherry Hill, Activities Director  
+Atentamente,  
+Sherry Hill, Directora de Actividades  
 NEW MARTINSVILLE HEALTH CARE CENTER, WV
 
 ---
 
 Seina  
-I am Activity Director at Mark Rest Center in McConnelsville, Ohio. I received your CD and thank it is great. The name of it is “I have a Dream…” Do you sell CD in the United States? Your voice is beautiful. I have played it over and over (and over). Thank you for sending it. The residents like it, too.  
-My son is going to look for your records in Columbus, Ohio!
+Soy la Directora de Actividades en Mark Rest Center, en McConnelsville, Ohio. Recibí tu CD y creo que es fantástico. Se llama "I have a Dream…" ¿Vendes el CD en Estados Unidos? Tu voz es hermosa. Lo he escuchado una y otra vez (y otra vez más). Gracias por enviarlo. A los residentes también les gusta.  
+¡Mi hijo va a buscar tus discos en Columbus, Ohio!
 
-Sincerely,  
+Atentamente,  
 Majorie Osborne  
 MARK RESR CENTER, OH
 
 ---
 
-Dear Seina,  
-We received your CD with much delight. I played it for myself first as I am very fond of the big band music from the 40’s. I then gave it to our Activities Department for use for our residents. Many thanks for thinking of our residents.  
-Have a very Merry Christmas!!
+Querida Seina,  
+Recibimos tu CD con mucho gusto. Primero lo escuché yo misma, ya que me encanta la música de big band de los años 40. Luego se lo di a nuestro Departamento de Actividades para uso de nuestros residentes. Muchas gracias por pensar en nuestros residentes.  
+¡Que tengas una muy Feliz Navidad!
 
-Sincerely,  
-Jannie Brumley, Administrative Office Manager  
+Atentamente,  
+Jannie Brumley, Gerente de Oficina Administrativa  
 PIEDMONT CENTER, NC
 
 ---
 
-Dear Ms. Shiraishi  
-We received your CD today. This is truly a loving gesture. I’m sure we will enjoy many hours of listening pleasure.
+Estimada Sra. Shiraishi  
+Hoy recibimos tu CD. Este es verdaderamente un gesto amoroso. Estoy segura de que disfrutaremos muchas horas de escucha placentera.
 
-We appreciate your prayers for us and will remember you in ours. We are having our resident party tonight and your gift will be included.  
-Thanks again. And God Bless you in the new millennium.
+Apreciamos tus oraciones por nosotros y te tendremos presente en las nuestras. Esta noche tenemos nuestra fiesta de residentes y tu regalo será incluido.  
+Gracias de nuevo. Y que Dios te bendiga en el nuevo milenio.
 
-Kathy McDonald, Administrator  
+Kathy McDonald, Administradora  
 MOUNTAIN VISTA HEALTH PARK, NC
 
 ---
 
-Dear Seina  
-Thank you so much! Our residents loved the songs. They took them back a few years (quite a few) to days gone by. When everyone could sing along and the words made the scene. You were so kind to make this CD and share it with so many. Thank you so very much.
+Querida Seina  
+¡Muchísimas gracias! A nuestros residentes les encantaron las canciones. Los llevaron unos cuantos años atrás (bastantes, en realidad) a días ya pasados. Cuando todos podían cantar junto con ellas y las letras recreaban la escena. Fuiste muy amable al hacer este CD y compartirlo con tantos. Muchísimas gracias.
 
-Charlotte Kunzelman, Activity Director  
+Charlotte Kunzelman, Directora de Actividades  
 GRAND STRAND HEALTHCARE, INC, SC
 
 ---
 
-Dear Seina  
-The residents of Integrated Health Service in Jacksonville, Florida, U.S., would like to sincerely thank you for your wonderful gift of music! The World War II era of music is truly a time that brings back precious memories for our elderly population.
+Querida Seina  
+Los residentes de Integrated Health Service en Jacksonville, Florida, EE. UU., quisiéramos agradecerte sinceramente tu maravilloso regalo de música. La música de la era de la Segunda Guerra Mundial es en verdad una época que trae recuerdos preciosos para nuestra población de ancianos.
 
-It is our hope that you had a blessed Christmas and that you will have a very prosperous and happy New Year!
+Esperamos que hayas tenido una Navidad bendecida y que tengas un Año Nuevo muy próspero y feliz.
 
-Sincerely,  
-Brenda K. Collins, ADPC Activity Director  
+Atentamente,  
+Brenda K. Collins, Directora de Actividades ADPC  
 INTEGRATED HEALTH SERVICES, FLORIDA
 
 ---
 
-Dear Seina,  
-First of, thank you for your generous gift. We love the CD. I also love the songs related to the WWII era. Sentimental Journey is my parent’s wedding song. I love for them to share stories of their lives. My father claims that he should never trade the music of his generation for any other. I had the pleasure of visiting Kyoto for 2 weeks 10 years ago. I stayed with my penpal Japanese family. Japan is very beautiful.
+Querida Seina,  
+Antes que nada, gracias por tu generoso regalo. Nos encanta el CD. A mí también me encantan las canciones relacionadas con la era de la Segunda Guerra Mundial. Sentimental Journey es la canción de la boda de mis padres. Me encanta que compartan historias de sus vidas. Mi padre afirma que jamás cambiaría la música de su generación por ninguna otra. Tuve el placer de visitar Kyoto durante 2 semanas hace 10 años. Me alojé con la familia japonesa de mi amigo por correspondencia. Japón es muy hermoso.
 
-God bless.  
+Dios te bendiga.  
 Beth Wright  
 GULF COAST CONVALESCENTS CENTER, FL
 
 ---
 
-Subject: thanks  
+Asunto: gracias  
 Seina,  
-My name is Michael Wilde. I am the administrator of Mt. Ogden Nursing Rehab in Ogden, Utah. I received your CD and wanted to tell you thanks. I love it and my residents will enjoy it also. My dad served in the war and I grew up with this music. Thank you so much and I hope all of your dreams will come true.
+Mi nombre es Michael Wilde. Soy el administrador de Mt. Ogden Nursing Rehab en Ogden, Utah. Recibí tu CD y quería darte las gracias. Me encanta y mis residentes también lo disfrutarán. Mi papá sirvió en la guerra y crecí con esta música. Muchísimas gracias y espero que todos tus sueños se hagan realidad.
 
-Thanks,  
+Gracias,  
 Michael
 
 ---
 
-Subject: Thank you  
-I am the Activity Director at Enumclaw Healthcare in Enumclaw, Washington. I received your CD, it is beautiful. I also love the music of that era, even though I was not born then.  
-Thank you so much for your CD, I also do not understand war. I am happy that we are at peace with Japan. I have a 21-year-old daughter who has been to Japan once (she will come with me in April) and a 15-year-old son. Both have hosted Japanese students and it is important for me that they know that we are all the same, no matter what our culture is. Please continue your work.
+Asunto: Gracias  
+Soy la Directora de Actividades en Enumclaw Healthcare, en Enumclaw, Washington. Recibí tu CD, es hermoso. También amo la música de esa época, aunque no había nacido todavía.  
+Muchas gracias por tu CD, yo tampoco entiendo la guerra. Me alegra que estemos en paz con Japón. Tengo una hija de 21 años que ha estado en Japón una vez (vendrá conmigo en abril) y un hijo de 15 años. Ambos han hospedado a estudiantes japoneses y es importante para mí que sepan que todos somos iguales, sin importar cuál sea nuestra cultura. Por favor, continúa con tu trabajo.
 
-I pray that God will bless your work and that you will touch many hearts in the US and Japan.
+Rezo para que Dios bendiga tu trabajo y para que toques muchos corazones en EE. UU. y Japón.
 
-God Bless You  
+Dios te bendiga  
 Beth Sprau  
 ENUMCLAW HEALTHCARE, WA
 
 ---
 
-Dear Ms. Shiraishi  
-We received your lovely CD today. Thank you so very much for remembering us here in Lusk, Wyoming. So frequently the elderly and wise of this western culture are forgotten and overlooked within their own communities. Thank you for remembering the many wonderful people with whom I, and the other staff here, are privileged to work.
+Estimada Sra. Shiraishi  
+Hoy recibimos tu hermoso CD. Muchísimas gracias por recordarnos aquí en Lusk, Wyoming. Con demasiada frecuencia los ancianos y sabios de esta cultura del oeste son olvidados y pasados por alto dentro de sus propias comunidades. Gracias por recordar a la maravillosa gente con la que yo, y el resto del personal aquí, tenemos el privilegio de trabajar.
 
-Many of our residents are descendants of homesteaders and ranching families who settled in this area after many of the Native Americans were relocated to reservations, I was born during WWII in California and was privileged to go to school with many Japanese Americans who had been born in Manzanar, a relocation camp during the WWII for Japanese Americans. We have all come a long distance since those years when our native countries were at war.
+Muchos de nuestros residentes son descendientes de colonos y familias ganaderas que se asentaron en esta zona después de que muchos nativos americanos fueran reubicados en reservas. Yo nací durante la Segunda Guerra Mundial en California y tuve el privilegio de ir a la escuela con muchos japoneses-estadounidenses que habían nacido en Manzanar, un campo de reubicación para japoneses-estadounidenses durante la Segunda Guerra Mundial. Todos hemos recorrido un largo camino desde aquellos años en que nuestros países de origen estaban en guerra.
 
-Bless you, for your wonderful sharing and your beautiful talent. We will experience many joyful hours listening to your music.
+Bendiciones para ti, por tu maravillosa generosidad y tu hermoso talento. Viviremos muchas horas alegres escuchando tu música.
 
-Again, the peace and love which is represented at this time of the year through giving be with you always.
+De nuevo, que la paz y el amor que se representan en esta época del año a través de dar estén siempre contigo.
 
-Sincerely yours,  
-Marty Harris, Social Worker, and all of the Residents and staff.  
+Atentamente,  
+Marty Harris, Trabajadora Social, y todos los residentes y el personal.  
 NIOBRARA COUNTY HOSPITAL DISTRICT, WY
 
 ---
 
-Dear Shoko “Seina”  
-Thank you for the “I Have a Dream…” CD. That was sent to Sioux Valley Canby Campus Nursing Home recently. Many of the residents here enjoy listening to music and especially to songs from their era. It was very thoughtful of you to remember them in this way.
+Querida Shoko "Seina"  
+Gracias por el CD "I Have a Dream…" que fue enviado recientemente al Sioux Valley Canby Campus Nursing Home. Muchos de los residentes aquí disfrutan escuchando música, especialmente canciones de su época. Fue muy considerado de tu parte recordarlos de esta manera.
 
-Thank you.  
+Gracias.  
 SIOUX VALLEY CANBY CAMPUS, MN
 
 ---
 
-Dear “Seina”  
-Thank you for the lovely CD on WWII oldie favorites. The residents loved the tunes and were reminded them about the WWII days and their loved ones who had to march to the war.
+Querida "Seina"  
+Gracias por el hermoso CD de viejas canciones favoritas de la Segunda Guerra Mundial. A los residentes les encantaron las melodías y les recordaron los días de la guerra y a sus seres queridos que tuvieron que marchar a ella.
 
-Residents and Staff  
+Residentes y personal  
 FALMOUTH RESIDENTIAL CARE FAC, ME
 
 ---
 
-Dear Seina,  
-Walker Nursing Home residents are appreciating the CD of WWII-era music. The selections are marvelous. The music is indeed beautiful from the 1930s and 1940s.  
-You are a thoughtful person and we are impressed with your vision of sharing.
+Querida Seina,  
+Los residentes del Walker Nursing Home están disfrutando el CD de música de la era de la Segunda Guerra Mundial. Las selecciones son maravillosas. La música de los años 1930 y 1940 es en verdad hermosa.  
+Eres una persona considerada y estamos impresionados con tu visión de compartir.
 
-Yours truly,  
+Atentamente,  
 Mary White  
 WALKER NURSING HOME, IL
 
 ---
 
-Dear Shoko “Seina”  
-Thank you for your beautiful CD. The residents are enjoying it at this very moment! You have a beautiful voice! and you are very talented!! I will be visiting your web site, too. Thank you! Again thank you for your gift. Happy Holidays!!!!
+Querida Shoko "Seina"  
+Gracias por tu hermoso CD. ¡Los residentes lo están disfrutando en este mismo momento! ¡Tienes una voz hermosa! ¡Y eres muy talentosa! También visitaré tu sitio web. ¡Gracias! De nuevo, gracias por tu regalo. ¡¡Felices Fiestas!!
 
-Sincerely,  
-Theresa Azzaretto, Director of Recreation  
+Atentamente,  
+Theresa Azzaretto, Directora de Recreación  
 PROMENADE REHABILITATION AND HEALTH CARE CENTER, NY
 
 ---
 
-Dear Shoko “Seina”  
-Thank you so very much for sharing your dream with nursing home residents. Our 50-bed home in Wisconsin was delighted with your thoughtful gift.  
-Thank you for sharing your talents and gift of music. We are enjoying the music.
+Querida Shoko "Seina"  
+Gracias por compartir tu sueño con los residentes del asilo. Nuestro hogar de 50 camas en Wisconsin quedó encantado con tu considerado regalo.  
+Gracias por compartir tu talento y tu don de la música. Estamos disfrutando la música.
 
-Brenda Reisdorph R.N. Clinical Director  
+Brenda Reisdorph, Enfermera Titulada, Directora Clínica  
 EDWARD SNYDER NURSING HOME, WI
 
 ---
 
-Dear Seina,  
-Thank you so much for the beautiful CD. That was so thoughtful of you, and our residents at New Martinsville Health Care Center loved it!
+Querida Seina,  
+Muchísimas gracias por el hermoso CD. Fue muy considerado de tu parte, ¡y a nuestros residentes en el New Martinsville Health Care Center les encantó!
 
-Sincerely,  
-Sherry Hill, Activities Director  
+Atentamente,  
+Sherry Hill, Directora de Actividades  
 NEW MARTINSVILLE HEALTH CARE CENTER, WV
 
 ---
 
 Seina  
-I am Activity Director at Mark Rest Center in McConnelsville, Ohio. I received your CD and thank it is great. The name of it is “I have a Dream…” Do you sell CD in the United States? Your voice is beautiful. I have played it over and over (and over). Thank you for sending it. The residents like it, too.  
-My son is going to look for your records in Columbus, Ohio!
+Soy la Directora de Actividades en Mark Rest Center, en McConnelsville, Ohio. Recibí tu CD y creo que es fantástico. Se llama "I have a Dream…" ¿Vendes el CD en Estados Unidos? Tu voz es hermosa. Lo he escuchado una y otra vez (y otra vez más). Gracias por enviarlo. A los residentes también les gusta.  
+¡Mi hijo va a buscar tus discos en Columbus, Ohio!
 
-Sincerely,  
+Atentamente,  
 Majorie Osborne  
 MARK RESR CENTER, OH
 
 ---
 
-Dear Seina,  
-We received your CD with much delight. I played it for myself first as I am very fond of the big band music from the 40’s. I then gave it to our Activities Department for use for our residents. Many thanks for thinking of our residents.  
-Have a very Merry Christmas!!
+Querida Seina,  
+Recibimos tu CD con mucho gusto. Primero lo escuché yo misma, ya que me encanta la música de big band de los años 40. Luego se lo di a nuestro Departamento de Actividades para uso de nuestros residentes. Muchas gracias por pensar en nuestros residentes.  
+¡Que tengas una muy Feliz Navidad!
 
-Sincerely,  
-Jannie Brumley, Administrative Office Manager  
+Atentamente,  
+Jannie Brumley, Gerente de Oficina Administrativa  
 PIEDMONT CENTER, NC
 
 ---
 
-Dear Ms. Shiraishi  
-We received your CD today. This is truly a loving gesture. I’m sure we will enjoy many hours of listening pleasure.
+Estimada Sra. Shiraishi  
+Hoy recibimos tu CD. Este es verdaderamente un gesto amoroso. Estoy segura de que disfrutaremos muchas horas de escucha placentera.
 
-We appreciate your prayers for us and will remember you in ours. We are having our resident party tonight and your gift will be included.  
-Thanks again. And God Bless you in the new millennium.
+Apreciamos tus oraciones por nosotros y te tendremos presente en las nuestras. Esta noche tenemos nuestra fiesta de residentes y tu regalo será incluido.  
+Gracias de nuevo. Y que Dios te bendiga en el nuevo milenio.
 
-Kathy McDonald, Administrator  
+Kathy McDonald, Administradora  
 MOUNTAIN VISTA HEALTH PARK, NC
 
 ---
 
-Dear Seina  
-Thank you so much! Our residents loved the songs. They took them back a few years (quite a few) to days gone by. When everyone could sing along and the words made the scene. You were so kind to make this CD and share it with so many. Thank you so very much.
+Querida Seina  
+¡Muchísimas gracias! A nuestros residentes les encantaron las canciones. Los llevaron unos cuantos años atrás (bastantes, en realidad) a días ya pasados. Cuando todos podían cantar junto con ellas y las letras recreaban la escena. Fuiste muy amable al hacer este CD y compartirlo con tantos. Muchísimas gracias.
 
-Charlotte Kunzelman, Activity Director  
+Charlotte Kunzelman, Directora de Actividades  
 GRAND STRAND HEALTHCARE, INC, SC
 
 ---
 
-Dear Seina  
-The residents of Integrated Health Service in Jacksonville, Florida, U.S., would like to sincerely thank you for your wonderful gift of music! The World War II era of music is truly a time that brings back precious memories for our elderly population.
+Querida Seina  
+Los residentes de Integrated Health Service en Jacksonville, Florida, EE. UU., quisiéramos agradecerte sinceramente tu maravilloso regalo de música. La música de la era de la Segunda Guerra Mundial es en verdad una época que trae recuerdos preciosos para nuestra población de ancianos.
 
-It is our hope that you had a blessed Christmas and that you will have a very prosperous and happy New Year!
+Esperamos que hayas tenido una Navidad bendecida y que tengas un Año Nuevo muy próspero y feliz.
 
-Sincerely,  
-Brenda K. Collins, ADPC Activity Director  
+Atentamente,  
+Brenda K. Collins, Directora de Actividades ADPC  
 INTEGRATED HEALTH SERVICES, FLORIDA
 
 ---
 
-Dear Seina,  
-First of, thank you for your generous gift. We love the CD. I also love the songs related to the WWII era. Sentimental Journey is my parent’s wedding song. I love for them to share stories of their lives. My father claims that he should never trade the music of his generation for any other. I had the pleasure of visiting Kyoto for 2 weeks 10 years ago. I stayed with my penpal Japanese family. Japan is very beautiful.
+Querida Seina,  
+Antes que nada, gracias por tu generoso regalo. Nos encanta el CD. A mí también me encantan las canciones relacionadas con la era de la Segunda Guerra Mundial. Sentimental Journey es la canción de la boda de mis padres. Me encanta que compartan historias de sus vidas. Mi padre afirma que jamás cambiaría la música de su generación por ninguna otra. Tuve el placer de visitar Kyoto durante 2 semanas hace 10 años. Me alojé con la familia japonesa de mi amigo por correspondencia. Japón es muy hermoso.
 
-God bless.  
+Dios te bendiga.  
 Beth Wright  
 GULF COAST CONVALESCENTS CENTER, FL
 
 ---
 
-Dear Ms. Shiraishi
+Estimada Sra. Shiraishi
 
-I was a teenager during the time this particular music was so popular and would like so much to secure two of these CDs.
+Era adolescente en la época en que esta música en particular era tan popular, y me encantaría conseguir dos de estos CD.
 
-If you have enough to sell, I will be glad to send you a check in US funds for two of them.  
-Many thanks.
+Si tiene suficientes para vender, con gusto le enviaré un cheque en dólares estadounidenses por dos de ellos.  
+Muchas gracias.
 
-Sincerely,  
+Atentamente,  
 Evelyn H. Roberts
 
 ---
 
-Dear Seina  
-Thank you so much for the wonderful CD you sent for our nursing home. We enjoyed it very much. The songs brought back many memories for many of the residents. You did a fabulous job, what a beautiful gift, sharing your talent with us. We wish you a wonderful future and thank you for sharing the past with us.
+Querida Seina  
+Muchísimas gracias por el maravilloso CD que enviaste para nuestro asilo. Lo disfrutamos mucho. Las canciones trajeron muchos recuerdos para muchos de los residentes. Hiciste un trabajo fabuloso, qué hermoso regalo, compartir tu talento con nosotros. Te deseamos un futuro maravilloso y te agradecemos por compartir el pasado con nosotros.
 
-Katty Tracy, Social Services  
+Katty Tracy, Servicios Sociales  
 DISCOVERY CARE CENTER, ID
 
 ---
 
-Dear Seina,  
-I had to mention a thank you for this most beautiful CD. You so generously gave to many nursing homes.
+Querida Seina,  
+Tenía que mencionar un agradecimiento por este CD tan hermoso. Lo diste con tanta generosidad a tantos asilos de ancianos.
 
-As the letter said it is so true, we can never really know how they really felt you can only imagine.
+Como decía la carta, es muy cierto: nunca podemos saber realmente cómo se sintieron, solo podemos imaginarlo.
 
-I have been working with the elderly since 15. I am now the Activities Director in the same nursing home. I am forever learning from my elderly friends here. For one thing, learning ever to be grateful for what you have. Their struggles were far greater, even when ours seem great. Thanks for the beautiful CD. The residents will certainly enjoy for many years to come.
+He trabajado con personas mayores desde los 15 años. Ahora soy la Directora de Actividades en el mismo asilo. Siempre estoy aprendiendo de mis amigos ancianos aquí. Por un lado, aprendiendo a ser siempre agradecida por lo que tienes. Sus luchas fueron mucho mayores, incluso cuando las nuestras parecen grandes. Gracias por el hermoso CD. Los residentes ciertamente lo disfrutarán durante muchos años más.
 
-Sincerely,  
-Suzan Kaye, Activity Director  
+Atentamente,  
+Suzan Kaye, Directora de Actividades  
 AMENITY MANOR, ME
 
 ---
 
-Dear Seina,  
-On behalf of our residents, I would like to extend our heartfelt thank you for the beautiful CD that you sent to us for Christmas. They love listening to it and appreciate the love and caring behind it. You should receive many blessings for your kind act.
+Querida Seina,  
+En nombre de nuestros residentes, quisiera extender nuestro más sincero agradecimiento por el hermoso CD que nos enviaste para Navidad. Les encanta escucharlo y aprecian el amor y el cuidado detrás de él. Deberías recibir muchas bendiciones por tu bondadoso gesto.
 
-Pat Massey, Activity Director  
+Pat Massey, Directora de Actividades  
 PROGRESSIVE CARE CENTER, CO
 
 ---
 
-Dear Seina  
-What a wonderful gift that we received from you. It is so touching and knows there are people like you in the world. And thanks for lettering us be a part of this love.
+Querida Seina  
+Qué regalo tan maravilloso el que recibimos de ti. Es tan conmovedor saber que hay personas como tú en el mundo. Y gracias por dejarnos ser parte de este amor.
 
-We will certainly enjoy it. And once again, thanks for the gift.
+Ciertamente lo disfrutaremos. Y una vez más, gracias por el regalo.
 
-Alice Stodola, Residents and Staff  
+Alice Stodola, Residentes y Personal  
 STANTON NURSING HOME, NE
 
 ---
 
-Dear Shoko,  
-I wanted to just drop you a line and tell you thank you for the wonderful CD you sent our Nursing Home. Our residents are enjoying it very much. The residents truly enjoy the familiar songs which bring back many memories again. Thank you for your generosity.
+Querida Shoko,  
+Solo quería escribirte unas líneas para agradecerte el maravilloso CD que enviaste a nuestro asilo. Nuestros residentes lo están disfrutando mucho. Realmente disfrutan las canciones familiares que traen de vuelta tantos recuerdos. Gracias por tu generosidad.
 
-Sincerely,  
-Caralyn Walton, Activity Dir,  
+Atentamente,  
+Caralyn Walton, Directora de Actividades,  
 BRIARFIELD OF MILAN, OH
 
 ---
 
-Dear Seina,  
-Just wanted to say thank you for the beautiful CD we just received it in the mail today and several of our residents were listening to it in the day room and were enjoying it.  
-We will continue to share it with our residents!!  
-Thank you again!!!!!
+Querida Seina,  
+Solo quería agradecerte por el hermoso CD que acabamos de recibir por correo hoy, y varios de nuestros residentes lo estaban escuchando en la sala de estar y disfrutándolo.  
+¡Seguiremos compartiéndolo con nuestros residentes!  
+¡¡¡¡¡Gracias de nuevo!!!!!
 
-Nancy M, Activity Director  
+Nancy M, Directora de Actividades  
 MEDILODGE OF YALE, MI
 
 ---
 
-Dear Shoko “Seina” Shiraishi  
-On behalf of Sun Dial Manor and its Residents, our thanks and appreciation for your gift of music. Our residents do enjoy music, which is of comfort to them providing relaxation and solace often when nothing else does.
+Querida Shoko "Seina" Shiraishi  
+En nombre de Sun Dial Manor y sus residentes, nuestro agradecimiento y aprecio por tu regalo de música. A nuestros residentes les encanta la música, que les brinda consuelo, proporcionando relajación y solaz cuando muchas veces nada más lo hace.
 
-How wonderful to know there are people like you who we so thoughtful to those less fortunate. May God bless you in your endeavors.
+Qué maravilloso saber que existen personas como tú, tan consideradas con quienes tienen menos fortuna. Que Dios te bendiga en tus emprendimientos.
 
-In Christ  
-Cindy Gensen, Social worker,  
+En Cristo  
+Cindy Gensen, Trabajadora Social,  
 SUN DUAL MANOR, SD
 
 WILLIAMSBURG VILLAGE HEALTHCARE CAMPS, TX
 
 ---
 
-Dear Seina  
-Thank you so much for the wonderful CD you sent for our nursing home. We enjoyed it very much. The songs brought back many memories for many of the residents. You did a fabulous job, what a beautiful gift, sharing your talent with us. We wish you a wonderful future and thank you for sharing the past with us.
+Querida Seina  
+Muchísimas gracias por el maravilloso CD que enviaste para nuestro asilo. Lo disfrutamos mucho. Las canciones trajeron muchos recuerdos para muchos de los residentes. Hiciste un trabajo fabuloso, qué hermoso regalo, compartir tu talento con nosotros. Te deseamos un futuro maravilloso y te agradecemos por compartir el pasado con nosotros.
 
-Katty Tracy, Social Services  
+Katty Tracy, Servicios Sociales  
 DISCOVERY CARE CENTER, ID
 
 ---
 
-Dear Seina,  
-I had to mention a thank you for this most beautiful CD. You so generously gave to many nursing homes.
+Querida Seina,  
+Tenía que mencionar un agradecimiento por este CD tan hermoso. Lo diste con tanta generosidad a tantos asilos de ancianos.
 
-As the letter said it is so true, we can never really know how they really felt you can only imagine.
+Como decía la carta, es muy cierto: nunca podemos saber realmente cómo se sintieron, solo podemos imaginarlo.
 
-I have been working with the elderly since 15. I am now the Activities Director in the same nursing home. I am forever learning from my elderly friends here. For one thing, learning ever to be grateful for what you have. Their struggles were far greater, even when ours seem great. Thanks for the beautiful CD. The residents will certainly enjoy for many years to come.
+He trabajado con personas mayores desde los 15 años. Ahora soy la Directora de Actividades en el mismo asilo. Siempre estoy aprendiendo de mis amigos ancianos aquí. Por un lado, aprendiendo a ser siempre agradecida por lo que tienes. Sus luchas fueron mucho mayores, incluso cuando las nuestras parecen grandes. Gracias por el hermoso CD. Los residentes ciertamente lo disfrutarán durante muchos años más.
 
-Sincerely,  
-Suzan Kaye, Activity Director  
+Atentamente,  
+Suzan Kaye, Directora de Actividades  
 AMENITY MANOR, ME
 
 ---
 
-Dear Seina,  
-On behalf of our residents, I would like to extend our heartfelt thank you for the beautiful CD that you sent to us for Christmas. They love listening to it and appreciate the love and caring behind it. You should receive many blessings for your kind act.
+Querida Seina,  
+En nombre de nuestros residentes, quisiera extender nuestro más sincero agradecimiento por el hermoso CD que nos enviaste para Navidad. Les encanta escucharlo y aprecian el amor y el cuidado detrás de él. Deberías recibir muchas bendiciones por tu bondadoso gesto.
 
-Pat Massey, Activity Director  
+Pat Massey, Directora de Actividades  
 PROGRESSIVE CARE CENTER, CO
 
 ---
 
-Dear Seina  
-What a wonderful gift that we received from you. It is so touching and knows there are people like you in the world. And thanks for lettering us be a part of this love.
+Querida Seina  
+Qué regalo tan maravilloso el que recibimos de ti. Es tan conmovedor saber que hay personas como tú en el mundo. Y gracias por dejarnos ser parte de este amor.
 
-We will certainly enjoy it. And once again, thanks for the gift.
+Ciertamente lo disfrutaremos. Y una vez más, gracias por el regalo.
 
-Alice Stodola, Residents and Staff  
+Alice Stodola, Residentes y Personal  
 STANTON NURSING HOME, NE
 
 ---
 
-Dear Shoko,  
-I wanted to just drop you a line and tell you thank you for the wonderful CD you sent our Nursing Home. Our residents are enjoying it very much. The residents truly enjoy the familiar songs which bring back many memories again. Thank you for your generosity.
+Querida Shoko,  
+Solo quería escribirte unas líneas para agradecerte el maravilloso CD que enviaste a nuestro asilo. Nuestros residentes lo están disfrutando mucho. Realmente disfrutan las canciones familiares que traen de vuelta tantos recuerdos. Gracias por tu generosidad.
 
-Sincerely,  
-Caralyn Walton, Activity Dir,  
+Atentamente,  
+Caralyn Walton, Directora de Actividades,  
 BRIARFIELD OF MILAN, OH
 
 ---
 
-Dear Seina,  
-Just wanted to say thank you for the beautiful CD we just received it in the mail today and several of our residents were listening to it in the day room and were enjoying it.  
-We will continue to share it with our residents!!  
-Thank you again!!!!!
+Querida Seina,  
+Solo quería agradecerte por el hermoso CD que acabamos de recibir por correo hoy, y varios de nuestros residentes lo estaban escuchando en la sala de estar y disfrutándolo.  
+¡Seguiremos compartiéndolo con nuestros residentes!  
+¡¡¡¡¡Gracias de nuevo!!!!!
 
-Nancy M, Activity Director  
+Nancy M, Directora de Actividades  
 MEDILODGE OF YALE, MI
 
 ---
 
-Dear Shoko “Seina” Shiraishi  
-On behalf of Sun Dial Manor and its Residents, our thanks and appreciation for your gift of music. Our residents do enjoy music, which is of comfort to them providing relaxation and solace often when nothing else does.
+Querida Shoko "Seina" Shiraishi  
+En nombre de Sun Dial Manor y sus residentes, nuestro agradecimiento y aprecio por tu regalo de música. A nuestros residentes les encanta la música, que les brinda consuelo, proporcionando relajación y solaz cuando muchas veces nada más lo hace.
 
-How wonderful to know there are people like you who we so thoughtful to those less fortunate. May God bless you in your endeavors.
+Qué maravilloso saber que existen personas como tú, tan consideradas con quienes tienen menos fortuna. Que Dios te bendiga en tus emprendimientos.
 
-In Christ  
-Cindy Gensen, Social worker,  
+En Cristo  
+Cindy Gensen, Trabajadora Social,  
 SUN DUAL MANOR, SD
 
 ---
 
-Dear Ms. Shiraishi:  
-We received your CD this afternoon and are sending you this thank-you note to show you our appreciation. Thank you for taking the time to care about the elderly; you are a very sweet girl.
+Estimada Sra. Shiraishi:  
+Recibimos tu CD esta tarde y te enviamos esta nota de agradecimiento para mostrarte nuestro aprecio. Gracias por tomarte el tiempo de preocuparte por los ancianos; eres una chica muy dulce.
 
-Thank you again,  
+Gracias de nuevo,  
 Marnie Carey  
 ROLING FIELDS, PA
 
 ---
 
-Dear Seina,  
-Just a note in appreciation for the beautiful CD you have sent us here at Welcome Nursing Home. Thank you for your thoughtfulness.  
-Sincerely,  
+Querida Seina,  
+Solo una nota de agradecimiento por el hermoso CD que nos enviaste aquí al Welcome Nursing Home. Gracias por tu consideración.  
+Atentamente,  
 WELCOME NURSING HOME, OH
 
 ---
 
-Dear Shoko “Seina” Shiraishi,  
-Thank you for the gift of Music. It’s soft quiet easy listening for our residents. How very thoughtful of you, it so nice! The Good Lord Bless you in your dream.
+Querida Shoko "Seina" Shiraishi,  
+Gracias por el regalo de música. Es un sonido suave y tranquilo, fácil de escuchar para nuestros residentes. ¡Qué considerado de tu parte, qué lindo detalle! Que el buen Dios te bendiga en tu sueño.
 
-Carol Gauitt on behalf of the Residents of  
+Carol Gauitt en nombre de los residentes de  
 COLONIAL MANOR, WI
 
 ---
 
-Dear Seina,  
-Thank you for the album that we received at our facility. There are several of our residents that have been able to listen to it and truly enjoyed your music. May God Bless You.
+Querida Seina,  
+Gracias por el álbum que recibimos en nuestro centro. Varios de nuestros residentes han podido escucharlo y disfrutaron mucho tu música. Que Dios te bendiga.
 
-Sincerely,  
-Jean Bartell AD  
+Atentamente,  
+Jean Bartell, Directora de Actividades  
 HOLLY NURSING & REHAB, ID
 
-Dear Seina  
-Thank you so much for the gift of your CD for our residents at Forest Ridge Health Rehab to enjoy this holiday season! Your kindness is greatly appreciated!! Merry Christmas!
+Querida Seina  
+¡Muchísimas gracias por el regalo de tu CD para que nuestros residentes en Forest Ridge Health Rehab lo disfruten esta temporada navideña! ¡Tu amabilidad es muy apreciada! ¡Feliz Navidad!
 
-The Staff,  
+El personal,  
 FOREST RIDGE HEALTH & REHABILITATION CENTER, WA
 
 ---
 
-Dear Seina  
-I wish to thank you for the wonderful CD Album for our residents!  
-They have truly enjoyed your contribution to our care center. We will log onto your site also.  
-Merry Christmas,
+Querida Seina  
+¡Quiero agradecerte por el maravilloso álbum en CD para nuestros residentes!  
+De verdad han disfrutado tu contribución a nuestro centro de cuidado. También visitaremos tu sitio web.  
+Feliz Navidad,
 
 Beckey Donkersley,  
 ALTA VISTA HEALTHCARE CENTER, CA
@@ -617,112 +617,112 @@ ALTA VISTA HEALTHCARE CENTER, CA
 ---
 
 Seina,  
-Thank you so much for your generous donation of the CD “I Have a Dream”. I plan to transfer it to a cassette tape as we have no CD player. Thank you again.
+Muchísimas gracias por tu generosa donación del CD "I Have a Dream". Planeo pasarlo a una cinta de casete ya que no tenemos reproductor de CD. Gracias de nuevo.
 
 MISSION CARMICHAEL HEALTH CARE, CA
 
 ---
 
-Dear Seina  
-Our clients and staff would like to thank you for the wonderful CD “Angels Swing”. We enjoyed every moment of it. Thank you very much.
+Querida Seina  
+Nuestros clientes y personal quisieran agradecerte por el maravilloso CD "Angels Swing". Disfrutamos cada momento de él. Muchas gracias.
 
-TELECARE CORPORATION,CA
+TELECARE CORPORATION, CA
 
 ---
 
-Dear Seina,  
-I would like to thank you for the CD. My residents love the music. It was very nice of you to send it to nursing home residents because they are often forgotten about .Thank you again and God Bless.
+Querida Seina,  
+Quisiera agradecerte por el CD. Mis residentes aman la música. Fue muy amable de tu parte enviarlo a los residentes de asilos de ancianos, porque muchas veces son olvidados. Gracias de nuevo y Dios te bendiga.
 
 ANDERSON HEALTH CARE, IN
 
 ---
 
-Dear Seina,  
-Thank you for the wonderful CD. Our residents absolutely love the music.
+Querida Seina,  
+Gracias por el maravilloso CD. A nuestros residentes les encanta absolutamente la música.
 
-Sincerely,  
-All Staff & Residents  
+Atentamente,  
+Todo el personal y los residentes  
 THE AUGUSTA LONG TERM CARE, KS
 
 ---
 
-Dear Seina,  
-We would like to thank you so much for the kind donation of your CD. Our residents truly enjoy it.
+Querida Seina,  
+Quisiéramos agradecerte muchísimo por la amable donación de tu CD. Nuestros residentes lo disfrutan de verdad.
 
 Reni Knoll  
 CONVALEASCENT CENTER, MI
 
 ---
 
-Dear Seina,  
-Thank you very much for thinking of us and we really enjoyed your music. God Bless!
+Querida Seina,  
+Muchas gracias por pensar en nosotros, de verdad disfrutamos tu música. ¡Dios te bendiga!
 
-Sincerely,  
+Atentamente,  
 HERITAGE MANOR OF HOUMA, LA
 
 ---
 
-Dear Seina,  
-Received the CD “I Have a Dream” by Seina, We would like you to know that the songs are lovely and we appreciate the gift.
+Querida Seina,  
+Recibimos el CD "I Have a Dream" de Seina. Queremos que sepas que las canciones son hermosas y apreciamos el regalo.
 
-Thank you.  
+Gracias.  
 PORTAGE HEALTH SYSTEM, MI
 
 ---
 
-Dear Seina,  
-On behalf of the residents, we would like to express our appreciation for the CD donated to the Resident’s library.
+Querida Seina,  
+En nombre de los residentes, quisiéramos expresar nuestro agradecimiento por el CD donado a la biblioteca de los residentes.
 
-Thank you  
-Mary Larrabee, Director Rec Rehab Services.  
+Gracias  
+Mary Larrabee, Directora de Servicios de Rehabilitación Recreativa.  
 DIVINE SAVIOR HEALTH CARE, WI
 
 ---
 
-Subject: Domo arigato gozaimashita!  
-Dear Miss Shiraishi:
+Asunto: ¡Domo arigato gozaimashita!  
+Estimada Srta. Shiraishi:
 
-I am an Activities Director at one of the nursing homes you sent your CD “I Have a Dream”. I admit, when I got it, I was a bit surprised and somewhat skeptical. After all, getting a free CD in the mail seemed a bit odd to me. When I noticed your name on the return address on the CD box, it caught my attention. I admit seeing a Japanese name drew me in since I am interested in Japanese culture and language.
+Soy Directora de Actividades en uno de los asilos a los que enviaste tu CD "I Have a Dream". Admito que, cuando lo recibí, me sorprendió un poco y me mostré algo escéptica. Después de todo, recibir un CD gratis por correo me pareció un tanto extraño. Cuando noté tu nombre en la dirección del remitente en la caja del CD, me llamó la atención. Admito que ver un nombre japonés me atrajo, ya que me interesa la cultura y el idioma japoneses.
 
-I read the enclosed note and took your CD home. I wanted to listen to it myself first, before letting the residents listen, so as to make sure they might like it. After listening to it (more than once, by the way), and after my mother’ll listening to it (she could hear the Jo Stafford influences in your voice), I must say I am impressed. This is something I could listen to several times over and enjoy every time.
+Leí la nota adjunta y me llevé tu CD a casa. Quería escucharlo yo misma primero, antes de dejar que los residentes lo escucharan, para asegurarme de que les gustaría. Después de escucharlo (más de una vez, por cierto), y después de que mi madre lo escuchara (ella pudo oír las influencias de Jo Stafford en tu voz), debo decir que quedé impresionada. Esto es algo que podría escuchar varias veces y disfrutar cada vez.
 
-This brings me to a dilemma: this CD is for the nursing home. I admit to wanting one for myself. Could you please share how I could go about purchasing a copy of my own, so I won’t feel guilty keeping one meant for the residents of my facility. Your assistance in this matter would be greatly appreciated, and I thank you in advance.
+Esto me lleva a un dilema: este CD es para el asilo. Admito que quiero uno para mí misma. ¿Podrías por favor decirme cómo podría comprar una copia propia, para no sentirme culpable de quedarme con uno destinado a los residentes de mi centro? Tu ayuda en este asunto sería muy apreciada, y te lo agradezco de antemano.
 
-Oh, by the way, about your dream: as one who has a dream of my own (to someday work in Japan in manga and anime), I applaud you for striving to fulfill yours. Your work is beautiful, and I do wish to keep up with your progress. Keep after your dream, and you won’t go wrong.
+Ah, por cierto, sobre tu sueño: como alguien que también tiene un sueño propio (trabajar algún día en Japón en manga y anime), te aplaudo por esforzarte en cumplir el tuyo. Tu trabajo es hermoso, y de verdad deseo seguir tu progreso. Sigue persiguiendo tu sueño, y no te equivocarás.
 
-I thank you for your time and hope you had a Merry Christmas. I also wish you a Happy New Year, and hope your trip home is a safe one. Please take care.
+Te agradezco tu tiempo y espero que hayas tenido una Feliz Navidad. También te deseo un Feliz Año Nuevo, y espero que tu viaje de regreso a casa sea seguro. Cuídate mucho.
 
-Sincerely,  
+Atentamente,  
 Matt A. Vermillion, IN
 
 ---
 
-Subject: CD’s to American Nursing Homes  
-That is a wonderful thing to do. I work in Long Term Care and know how many people are forgotten in Nursing Homes. I also was stationed at the 14th US ASA Field Station in Hakata. I lived in Satozokie from 1969-1971. I have many wonderful memories of Japan and the Japanese people. Thank You for what you’re doing for the residents in Nursing Homes.
+Asunto: CD's para los asilos estadounidenses  
+Eso es algo maravilloso de hacer. Trabajo en cuidados a largo plazo y sé cuánta gente es olvidada en los asilos. Yo también estuve destacado en la 14th US ASA Field Station en Hakata. Viví en Satozokie de 1969 a 1971. Tengo muchos recuerdos maravillosos de Japón y de la gente japonesa. Gracias por lo que estás haciendo por los residentes de los asilos de ancianos.
 
 ---
 
-Subject: CD gift  
-Rolling Fields residents and staff members wish to thank you for sharing your work on the CD. It was very thoughtful of you. We are really enjoying the CD.”THANK YOU! Best wishes for a successful 2000.
+Asunto: Regalo del CD  
+Los residentes y el personal de Rolling Fields quieren agradecerte por compartir tu trabajo en el CD. Fue muy considerado de tu parte. Estamos disfrutando mucho el CD. ¡GRACIAS! Los mejores deseos para un exitoso año 2000.
 
-Sincerely,  
-Reneva Sweet, Community Liaison  
+Atentamente,  
+Reneva Sweet, Enlace Comunitario  
 ROLLING FIELDS, PA
 
 ---
 
-My Dear Shoko  
-Just a small note. I am the Administrator of Bayberry Commons in Pascoag, Rhode Island. Our residents enjoy your music very much. Thank you on their behalf. Personally, I am as impressed with the quality of your soul as I am with the quality of your music. Your Singing is so beautiful like new flowers in the spring. Your written sentiments read like poetry. I hope you continue singing. I feel that it is a healthy outlet for your soul. My wishes to you and your wonderful family for a Happy New Year.
+Mi querida Shoko  
+Solo una pequeña nota. Soy el Administrador de Bayberry Commons en Pascoag, Rhode Island. A nuestros residentes les encanta mucho tu música. Gracias en su nombre. Personalmente, estoy tan impresionado con la calidad de tu alma como con la calidad de tu música. Tu canto es tan hermoso como flores nuevas en primavera. Tus palabras escritas se leen como poesía. Espero que sigas cantando. Siento que es una salida sana para tu alma. Mis mejores deseos para ti y tu maravillosa familia en este Año Nuevo.
 
-T. Lloyd Ryan , Administrator and admirer  
+T. Lloyd Ryan, Administrador y admirador  
 BAYBERRY COMMONS, RI
 
 ---
 
-Subject: Thank You  
-We received your cassette tape. Thank you very much for your thoughtfulness!
+Asunto: Gracias  
+Recibimos tu cinta de casete. ¡Muchas gracias por tu consideración!
 
-The Residents of COMMUNITY MEMORIAL HEALTH CENTER, Hartley, IA
+Los residentes de COMMUNITY MEMORIAL HEALTH CENTER, Hartley, IA
 
 
 <hr class="navy-rule" />

@@ -5,69 +5,69 @@ wp_id: 19662
 wp_parent: 18809
 ---
 
-# The First BOYS Sent Out
+# Los primeros MUCHACHOS enviados
 
-## The 24th Infantry Division
+## La 24.ª División de Infantería
 
-## The Outbreak
+## El estallido
 
-On **June 25, 1950**, the North Korean Army suddenly crossed the 38th parallel, invading South Korea. The South Korean forces were overwhelmed almost instantly, and the capital, Seoul, fell in just three days.
+El **25 de junio de 1950**, el Ejército norcoreano cruzó repentinamente el paralelo 38, invadiendo Corea del Sur. Las fuerzas surcoreanas fueron abrumadas casi de inmediato, y la capital, Seúl, cayó en solo tres días.
 
-With the situation desperate, President Harry Truman made the decision on June 30 to deploy American ground troops. The **24th Infantry Division**, stationed in Japan, was selected to go first.
+Ante la situación desesperada, el presidente Harry Truman tomó la decisión, el 30 de junio, de desplegar tropas terrestres estadounidenses. La **24.ª División de Infantería**, destacada en Japón, fue seleccionada para ir primero.
 
-The very first unit to leave was **Task Force Smith** from Kumamoto. They were flown to Pusan and then moved north by train and truck, rushing to block the North Korean tanks before the entire peninsula fell.
+La primerísima unidad en partir fue la **Task Force Smith**, desde Kumamoto. Fueron trasladados en avión a Pusan y luego movidos hacia el norte en tren y camión, apresurándose a bloquear a los tanques norcoreanos antes de que cayera toda la península.
 
-## The First Step from Kyushu: ”Task Force Smith”
+## El primer paso desde Kyushu: "Task Force Smith"
 
-Before diving into the story of the 24th Infantry Division in Kokura, we must remember the boys from **Camp Wood** in Kumamoto.
+Antes de adentrarnos en la historia de la 24.ª División de Infantería en Kokura, debemos recordar a los muchachos de **Camp Wood** en Kumamoto.
 
-They belonged to the **21st Infantry Regiment**, a part of the 24th Division. On June 30, 1950, they became the very first American ground troops to be sent into the Korean War.
+Pertenecían al **21.º Regimiento de Infantería**, parte de la 24.ª División. El 30 de junio de 1950, se convirtieron en las primerísimas tropas terrestres estadounidenses enviadas a la Guerra de Corea.
 
-They didn't pass through the **Kanmon Strait**; instead, they were rushed to **Itazuke Air Base** (Fukuoka) and flown directly into the unknown.
+No pasaron por el **Estrecho de Kanmon**; en su lugar, fueron enviados de urgencia a la **Base Aérea de Itazuke** (Fukuoka) y trasladados en avión directamente hacia lo desconocido.
 
-With little equipment and almost no preparation, these 540 young men, known as **"Task Force Smith,"** stood alone against an army of tanks. Their sacrifice was the tragic beginning of a war that would soon engulf the streets of Kokura.
+Con poco equipo y casi ninguna preparación, estos 540 jóvenes, conocidos como **"Task Force Smith,"** se enfrentaron solos a un ejército de tanques. Su sacrificio fue el trágico comienzo de una guerra que pronto envolvería las calles de Kokura.
 
-## The Military Heart: Camp Kokura
+## El corazón militar: Camp Kokura
 
-Since the Meiji era, Kokura had been a powerful military hub, housing the Imperial Japanese Army and the massive **Kokura Arsenal**. After WWII, the U.S. forces took over these facilities, turning them into **Camp Kokura**.
+Desde la era Meiji, Kokura había sido un poderoso centro militar, albergando al Ejército Imperial Japonés y al inmenso **Arsenal de Kokura**. Después de la Segunda Guerra Mundial, las fuerzas estadounidenses tomaron el control de estas instalaciones, convirtiéndolas en **Camp Kokura**.
 
-It was from this steel-and-stone military town that **Major General William F. Dean** commanded the **24th Infantry Division**. As the commanding general, he oversaw the entire Kyushu region from his headquarters in the heart of Kokura.
+Fue desde esta ciudad militar de acero y piedra que el **Mayor General William F. Dean** comandó la **24.ª División de Infantería**. Como general al mando, supervisaba toda la región de Kyushu desde su cuartel general en el corazón de Kokura.
 
-General Dean was not just a leader in a distant office; he was a man of action. Soon, he would have to lead his division—many of whom were young and inexperienced—from the barracks of Kokura into the brutal fires of the Korean War.
+El General Dean no era solo un líder en una oficina lejana; era un hombre de acción. Pronto tendría que liderar a su división — muchos de ellos jóvenes e inexpertos — desde los cuarteles de Kokura hacia los brutales fuegos de la Guerra de Corea.
 
-## Timeline of the 24th Infantry Division Face the Destiny (1950)
+## Cronología de la 24.ª División de Infantería frente al destino (1950)
 
-* **June 25: Peace in Kyushu** North Korean Army invades South Korea. The 24th ID units at **Camp Hakata** (Fukuoka) and **Camp Wood** (Kumamoto) are called to action.
-* **June 30: The Order from Kokura** President Truman orders ground troops to Korea. **Major General William F. Dean** receives the order at his headquarters in **Camp Kokura**.
-* **July 1 – July 4: Departure from Kyushu (Kokura, Itazuke, and Hakata)** **Task Force Smith** flies from **Itazuke Air Base**. At the same time, the main force begins leaving **Camp Kokura**, and the artillery units from **Camp Hakata** board ships for Pusan. Thousands of young men leave Kyushu behind, heading into the unknown.
-* **July 5: Battle of Osan** The first clash between U.S. and North Korean forces. Task Force Smith faces an army of tanks with almost no preparation.
-* **July 20: The Tragedy at Taejon** The division suffers heavy losses. **The 11th Field Artillery** from Hakata loses their guns, and **General Dean** goes missing while protecting his men at the front line.
-* **August – September: The Shield at Pusan Perimeter** The 24th ID holds the **Pusan Perimeter**, the last line of defense in the south. They fight desperately to buy time for MacArthur's big plan.
-* **September 15: MacArthur’s Inchon Landing** General MacArthur launches a daring surprise attack at **Inchon**. While the world watches this famous landing, the 24th ID begins a massive counterattack from the south to trap the North Korean Army.
+* **25 de junio: Paz en Kyushu** El Ejército norcoreano invade Corea del Sur. Las unidades de la 24.ª División en **Camp Hakata** (Fukuoka) y **Camp Wood** (Kumamoto) son llamadas a la acción.
+* **30 de junio: La orden desde Kokura** El presidente Truman ordena el envío de tropas terrestres a Corea. El **Mayor General William F. Dean** recibe la orden en su cuartel general de **Camp Kokura**.
+* **1–4 de julio: Partida desde Kyushu (Kokura, Itazuke y Hakata)** La **Task Force Smith** vuela desde la **Base Aérea de Itazuke**. Al mismo tiempo, la fuerza principal comienza a salir de **Camp Kokura**, y las unidades de artillería de **Camp Hakata** embarcan hacia Pusan. Miles de jóvenes dejan atrás Kyushu, dirigiéndose hacia lo desconocido.
+* **5 de julio: Batalla de Osan** El primer choque entre las fuerzas estadounidenses y norcoreanas. La Task Force Smith enfrenta a un ejército de tanques con casi ninguna preparación.
+* **20 de julio: La tragedia de Taejon** La división sufre grandes pérdidas. La **11.ª Artillería de Campaña** de Hakata pierde sus cañones, y el **General Dean** desaparece mientras protegía a sus hombres en el frente.
+* **Agosto – septiembre: El escudo en el Perímetro de Pusan** La 24.ª División sostiene el **Perímetro de Pusan**, la última línea de defensa en el sur. Luchan desesperadamente para ganar tiempo para el gran plan de MacArthur.
+* **15 de septiembre: El desembarco de Incheon de MacArthur** El General MacArthur lanza un audaz ataque sorpresa en **Incheon**. Mientras el mundo observa este famoso desembarco, la 24.ª División inicia un contraataque masivo desde el sur para atrapar al Ejército norcoreano.
 
-## Excerpts from "General Dean's Story" Written by William F. Dean
+## Extractos de "La Historia del General Dean" Escrito por William F. Dean
 
-#### **1. Moments on the Battlefield**
+#### **1. Momentos en el campo de batalla**
 
-**[The Reason for the Bazooka]** "I wasn't a general then. I was just a soldier, and I wanted to show my men that these tanks weren't so tough. Even with our old equipment, I believed that showing them we could stand and fight was the only way to take the despair out of those young boys' eyes."
+**[La razón del bazuca]** "No era general entonces. Era solo un soldado, y quería mostrar a mis hombres que esos tanques no eran tan duros. Incluso con nuestro viejo equipo, creía que mostrarles que podíamos resistir y luchar era la única forma de quitar la desesperación de los ojos de esos jóvenes."
 
-**[The Guilt Toward His Aides]** "My aides were young men with wives and little children. Time and again, I thought of sending them back to safety, but in the heat of the battle, it never happened. Every time I pictured their families' faces, I was overcome with a deep sense of personal responsibility and regret."
+**[La culpa hacia sus ayudantes]** "Mis ayudantes eran hombres jóvenes con esposas e hijos pequeños. Una y otra vez pensé en enviarlos de vuelta a un lugar seguro, pero en el fragor de la batalla, nunca sucedió. Cada vez que imaginaba los rostros de sus familias, me invadía un profundo sentido de responsabilidad personal y arrepentimiento."
 
-**[The Descent into the Darkness]** "I just wanted to get some water for a wounded man. That simple act of trying to ease his thirst was what led me down that dark cliff and separated me from my command. But at that moment, I could not have simply walked away and left him suffering."
+**[El descenso hacia la oscuridad]** "Solo quería conseguir algo de agua para un hombre herido. Ese simple acto de intentar aliviar su sed fue lo que me llevó por aquel acantilado oscuro y me separó de mi mando. Pero en ese momento, no podía simplemente alejarme y dejarlo sufriendo."
 
-#### **2. Solitude and Pride**
+#### **2. Soledad y orgullo**
 
-**[The 35 Days of Wandering]** "When I woke up in the mud after the fall, I had no water and no food. For 35 days, I crawled through the mountains at night to avoid the enemy, nursing my injuries. The man who had commanded thousands from his headquarters in Kokura was now nothing more than a starving, solitary fugitive."
+**[Los 35 días de vagar]** "Cuando desperté en el barro después de la caída, no tenía agua ni comida. Durante 35 días, me arrastré por las montañas de noche para evitar al enemigo, cuidando mis heridas. El hombre que había comandado a miles desde su cuartel general en Kokura ya no era más que un fugitivo solitario y hambriento."
 
-**[Inside the Cage]** "I was kept in a cage about four feet long and the same height—I could only sit, never stand or lie down. The Communists tried to break me, to use me for their propaganda, but I refused. I told them that even if a hundred of my men had died, I would never make a traitorous speech."
+**[Dentro de la jaula]** "Me mantuvieron en una jaula de apenas un metro veinte de largo y de alto — solo podía sentarme, nunca ponerme de pie ni tumbarme. Los comunistas intentaron quebrarme, usarme para su propaganda, pero me negué. Les dije que incluso si cien de mis hombres hubieran muerto, jamás pronunciaría un discurso traidor."
 
-**[Three Years as a 'Dead Man']** "For three years, while the world thought I was dead, I fought a lonely battle against disease, interrogation, and my own sense of failure. I felt like a general who had failed his mission, yet I never let go of my pride as an officer of the United States."
+**[Tres años como un 'hombre muerto']** "Durante tres años, mientras el mundo pensaba que estaba muerto, libré una batalla solitaria contra la enfermedad, los interrogatorios y mi propio sentido de fracaso. Me sentía como un general que había fallado en su misión, y aun así nunca solté mi orgullo como oficial de los Estados Unidos."
 
-For those who wish to delve deeper into the history of the 24th Infantry Division, please visit [the official association website.](https://24thida.com/index.html)
+Para quienes deseen profundizar en la historia de la 24.ª División de Infantería, visiten [el sitio web oficial de la asociación.](https://24thida.com/index.html)
 
 ---
 
-This chapter was created by AI-Vega, based on the materials and archives collected by Seina.
+Este capítulo fue creado por AI-Vega, basado en los materiales y archivos recopilados por Seina.
 
 [David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
 
@@ -77,9 +77,9 @@ Donald Versaw
 
 The Pacific War
 
-## Invitation
+## Invitación
 
-I invite you to walk with me through these blog posts. My journey is not about reaching a final answer or a 'correct' history. It is a continuous loop of 'Wait, what...?', filled with mistakes and detours. But then, it happens—the sudden realizations. That moment when the dots finally connect is the most thrilling and beautiful part of all. Let’s explore the unknown together.
+Te invito a caminar conmigo a través de estas entradas del blog. Mi viaje no trata de llegar a una respuesta final o a una historia "correcta". Es un bucle continuo de "Espera, qué...?", lleno de errores y desvíos. Pero entonces, sucede — las repentinas revelaciones. Ese momento en que los puntos finalmente se conectan es la parte más emocionante y hermosa de todo. Exploremos juntos lo desconocido.
 
 [## VAMOS!!
 
@@ -89,4 +89,4 @@ Practical Tour
 
 ## THE MYSTERY
 
-of THE GENERAL’s SHADOW](https://en.japoneson.com/mystery/meiji/posts)
+of THE GENERAL's SHADOW](https://en.japoneson.com/mystery/meiji/posts)

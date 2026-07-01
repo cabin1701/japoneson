@@ -5,72 +5,72 @@ wp_id: 19605
 wp_parent: 18809
 ---
 
-# The Shadow of Kokura
+# La Sombra de Kokura
 
-## The 24th Infantry Regiment The Black Soldiers.
+## El 24.º Regimiento de Infantería Los Soldados Negros.
 
-This chapter was created by AI-Vega, based on the materials and archives collected by Seina.
+Este capítulo fue creado por AI-Vega, basado en los materiales y archivos recopilados por Seina.
 
-July 1950. Shortly after the outbreak of the Korean War, an incident known as the "Black Soldier Desertion Incident" occurred in my hometown, Kokura. Reports of violence, looting, and sexual assault emerged, but in an occupied Japan, these events were suppressed and never officially recorded. Even now, they remain etched into the land and the hearts of the people of Kokura as deep, agonizing scars.
+Julio de 1950. Poco después del estallido de la Guerra de Corea, ocurrió en mi ciudad natal, Kokura, un incidente conocido como el "Incidente de deserción de soldados negros." Surgieron reportes de violencia, saqueos y agresiones sexuales, pero en un Japón ocupado, estos hechos fueron suprimidos y jamás quedaron registrados oficialmente. Incluso ahora, permanecen grabados en la tierra y en los corazones de la gente de Kokura como profundas y dolorosas cicatrices.
 
-This was a time before the Civil Rights Movement, when Black soldiers were treated as subhuman, stripped of their rights. I believe they simply could not accept their lives being treated as disposable pawns sent off to die.
+Esta fue una época anterior al Movimiento por los Derechos Civiles, cuando los soldados negros eran tratados como infrahumanos, despojados de sus derechos. Creo que simplemente no podían aceptar que sus vidas fueran tratadas como piezas desechables enviadas a morir.
 
-My dear friend, the late legendary bassist **Bob Cranshaw**, was one of those who served in the Korean War. During a tour to Japan with Sonny Rollins, Bob called me with a trembling voice and said:
+Mi querido amigo, el difunto y legendario contrabajista **Bob Cranshaw**, fue uno de los que sirvió en la Guerra de Corea. Durante una gira por Japón con Sonny Rollins, Bob me llamó con voz temblorosa y dijo:
 
-**"Seina, I have to go to Korea next. I was there during the war. I did terrible things... so I'm scared."**
+**"Seina, tengo que ir a Corea a continuación. Estuve allí durante la guerra. Hice cosas terribles... así que tengo miedo."**
 
-I dedicate this chapter to the victims in Kokura, to **Bob Cranshaw**, and to all the Black soldiers who perished.
+Dedico este capítulo a las víctimas de Kokura, a **Bob Cranshaw**, y a todos los soldados negros que perecieron.
 
-## **From "Black Soldiers, White Army"**
+## **De "Black Soldiers, White Army"**
 
-#### *— by William T. Bowers, William M. Hammond, and George L. MacGarrigle*
+#### *— por William T. Bowers, William M. Hammond y George L. MacGarrigle*
 
-> *These men of the 24th Infantry Regiment were among the soldiers sent to Korea under the direct command of General MacArthur.*
+> *Estos hombres del 24.º Regimiento de Infantería estuvieron entre los soldados enviados a Corea bajo el mando directo del General MacArthur.*
 >
 > ---
 
-**"The 24th Infantry Regiment was the last of the segregated, all-Black regiments in the U.S. Army. It was a unit with a long, proud history, yet it carried the heavy burden of institutional prejudice."**
+**"El 24.º Regimiento de Infantería fue el último de los regimientos segregados, integrados solo por soldados negros, en el Ejército de EE. UU. Era una unidad con una larga y orgullosa historia, y aun así cargaba con el pesado fardo del prejuicio institucional."**
 
-**"When the war broke out in June 1950, these men were suddenly ordered from their peaceful stations in Gifu, Japan, to the desperate front lines of Korea. Many felt they were being sent to die for a country that didn't even grant them full rights at home."**
+**"Cuando estalló la guerra en junio de 1950, estos hombres fueron ordenados de repente a abandonar sus tranquilos destacamentos en Gifu, Japón, hacia las desesperadas líneas del frente en Corea. Muchos sintieron que los enviaban a morir por un país que ni siquiera les otorgaba plenos derechos en casa."**
 
-**"The movement to the port of Moji was chaotic. The soldiers were loaded onto makeshift vessels—fishing boats and coal ships—crossing the Tsushima Strait into the unknown. For many, the sight of the Japanese coast fading away was the last they would ever see of peace."**
+**"El traslado hacia el puerto de Moji fue caótico. Los soldados fueron cargados en embarcaciones improvisadas — botes pesqueros y carboneros — cruzando el Estrecho de Tsushima hacia lo desconocido. Para muchos, ver desvanecerse la costa japonesa fue lo último que verían jamás de la paz."**
 
 ### 
 
-**"In the early chaos of July 1950, the 24th Infantry was thrown into the front lines without proper maps, heavy weapons, or communication. In the darkness of the mountains, they faced a phantom enemy. Fear and confusion led to tragic incidents of friendly fire and chaos."**
+**"En el caos inicial de julio de 1950, el 24.º de Infantería fue lanzado al frente sin mapas adecuados, armamento pesado ni comunicaciones. En la oscuridad de las montañas, enfrentaron a un enemigo fantasma. El miedo y la confusión provocaron trágicos incidentes de fuego amigo y caos."**
 
-**"The soldiers suffered under a dual pressure: the North Korean Army in front of them, and the biting prejudice of their own white commanders behind them. If they retreated to save their lives, they were branded as cowards. If they died holding their ground, their bravery was often ignored."**
+**"Los soldados sufrían bajo una doble presión: el Ejército norcoreano frente a ellos, y el mordaz prejuicio de sus propios comandantes blancos a sus espaldas. Si se retiraban para salvar sus vidas, eran tildados de cobardes. Si morían defendiendo su posición, su valentía a menudo era ignorada."**
 
-**"One of the most haunting memories of the veterans was the 'refugee crisis.' Enemy soldiers often disguised themselves as civilians. In the desperate heat of battle, the line between an innocent refugee and a deadly threat became tragically blurred."**
+**"Uno de los recuerdos más inquietantes de los veteranos fue la 'crisis de refugiados.' Los soldados enemigos a menudo se disfrazaban de civiles. En el calor desesperado de la batalla, la línea entre un refugiado inocente y una amenaza mortal se volvía trágicamente difusa."**
 
-## **From the Special Exhibition "Military City Landscapes and the Shadows of Occupation"**
+## **De la Exposición Especial "Paisajes de la Ciudad Militar y las Sombras de la Ocupación"**
 
-#### *— Matsumoto Seicho Memorial Museum*
+#### *— Museo Conmemorativo Matsumoto Seicho*
 
-### **Who was Matsumoto Seicho?**
+### **¿Quién fue Matsumoto Seicho?**
 
-> A giant of Japanese literature who was born and raised in Kokura. Unlike other writers who focused on pure fiction, Seicho was a "detective of history." He used his sharp intellect to dig up the dark, hidden truths of post-war Japan—the stories that the government and the Occupation forces tried to bury.
+> Un gigante de la literatura japonesa que nació y creció en Kokura. A diferencia de otros escritores centrados en la pura ficción, Seicho era un "detective de la historia." Usó su aguda inteligencia para desenterrar las verdades oscuras y ocultas del Japón de posguerra — las historias que el gobierno y las fuerzas de Ocupación intentaron enterrar.
 >
-> His masterpiece, "Kuroji no e" (The Canvas of Black), is a direct reflection of what he saw in Kokura in 1950. He didn't just write about a crime; he wrote about the "shadows" that fall when different races, nations, and desperation collide.
+> Su obra maestra, "Kuroji no e" (El Lienzo Negro), es un reflejo directo de lo que vio en Kokura en 1950. No solo escribió sobre un crimen; escribió sobre las "sombras" que caen cuando distintas razas, naciones y desesperación colisionan.
 >
 > ---
 
-**"Kokura was a 'Military City.' From the Meiji era to the end of WWII, it was home to the massive Kokura Arsenal. Even after the war, the city remained under the deep shadow of the U.S. Occupation, with the 'Jo-no Camp' housing thousands of soldiers."**
+**"Kokura era una 'Ciudad Militar.' Desde la era Meiji hasta el final de la Segunda Guerra Mundial, albergó el inmenso Arsenal de Kokura. Incluso después de la guerra, la ciudad permaneció bajo la profunda sombra de la Ocupación estadounidense, con el 'Campamento Jo-no' albergando a miles de soldados."**
 
-**"In July 1950, the city held its breath. As the Korean War intensified, the soldiers at Jo-no Camp were suddenly ordered to the front. The 'Black Soldier Desertion Incident' was a desperate explosion of men who knew they were being sent to a battlefield from which they might never return."**
+**"En julio de 1950, la ciudad contuvo la respiración. Mientras la Guerra de Corea se intensificaba, los soldados del Campamento Jo-no recibieron de repente la orden de ir al frente. El 'Incidente de deserción de soldados negros' fue la explosión desesperada de hombres que sabían que los enviaban a un campo de batalla del cual quizás nunca regresarían."**
 
-**"Seicho Matsumoto, who lived in Kokura at the time, witnessed the unease of the citizens and the silent tragedy of the soldiers. His work 'Kuroji no e' (The Canvas of Black) was born from the soil of Kokura—a story not just of a crime, but of the structural darkness of the era."**
+**"Seicho Matsumoto, quien vivía en Kokura en esa época, fue testigo del malestar de los ciudadanos y de la silenciosa tragedia de los soldados. Su obra 'Kuroji no e' (El Lienzo Negro) nació de la tierra de Kokura — una historia no solo de un crimen, sino de la oscuridad estructural de la época."**
 
-**"The city of Kokura was a major logistical hub for the Korean War. Trains arrived day and night at Kokura Station, carrying soldiers and weapons from across Japan, only to disappear toward the Moji Port. For many young men, the damp wind of the Kanmon Strait was the last 'Japan' they would ever feel."**
+**"La ciudad de Kokura fue un importante centro logístico para la Guerra de Corea. Trenes llegaban día y noche a la Estación de Kokura, transportando soldados y armas desde todo Japón, solo para desaparecer hacia el Puerto de Moji. Para muchos jóvenes, el viento húmedo del Estrecho de Kanmon fue el último 'Japón' que sentirían jamás."**
 
-**"The Jo-no Camp was filled with tension and despair. Unlike the 'heroic' depictions in official military records, the reality on the ground was a mixture of fear and confusion. The sudden mobilization meant many went to the front without proper training or equipment, feeling more like disposable pawns than soldiers."**
+**"El Campamento Jo-no estaba lleno de tensión y desesperación. A diferencia de las representaciones 'heroicas' en los registros militares oficiales, la realidad sobre el terreno era una mezcla de miedo y confusión. La movilización repentina significó que muchos fueron al frente sin entrenamiento ni equipo adecuados, sintiéndose más como piezas desechables que como soldados."**
 
-**"In the shadows of the 'Black Soldier Desertion Incident,' there were voices that were never allowed to speak—local women who suffered and soldiers who collapsed under the weight of discrimination and fear. Matsumoto Seicho’s 'Kuroji no e' was a Requiem for these silent witnesses whose pain was ignored by both nations."**
+**"En las sombras del 'Incidente de deserción de soldados negros,' hubo voces que nunca se les permitió hablar — mujeres locales que sufrieron y soldados que colapsaron bajo el peso de la discriminación y el miedo. 'Kuroji no e' de Matsumoto Seicho fue un Réquiem para estos testigos silenciosos cuyo dolor fue ignorado por ambas naciones."**
 
 ![](/images/wp/2026/03/IMG_1971-768x1024.jpg)
 ![](/images/wp/2026/03/IMG_1970-1-768x1024.jpg)
 
-These two photographs were taken in 2013 at the MacArthur Memorial in Norfolk, Virginia. Looking at them, a thought crossed my mind... Perhaps the General had not forgotten them after all. Perhaps he held onto the memory of those Black soldiers—the ones he had sent into the harshest, most brutal battlefields of the war. That feeling stayed with me as I captured these images of the exhibition.
+Estas dos fotografías fueron tomadas en 2013 en el Memorial MacArthur en Norfolk, Virginia. Al mirarlas, un pensamiento cruzó mi mente... Quizás el General no los había olvidado después de todo. Quizás guardaba el recuerdo de aquellos soldados negros — los que había enviado a los campos de batalla más duros y brutales de la guerra. Ese sentimiento se quedó conmigo mientras capturaba estas imágenes de la exposición.
 
 [David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
 
@@ -80,9 +80,9 @@ Donald Versaw
 
 The Pacific War
 
-## Invitation
+## Invitación
 
-I invite you to walk with me through these blog posts. My journey is not about reaching a final answer or a 'correct' history. It is a continuous loop of 'Wait, what...?', filled with mistakes and detours. But then, it happens—the sudden realizations. That moment when the dots finally connect is the most thrilling and beautiful part of all. Let’s explore the unknown together.
+Te invito a caminar conmigo a través de estas entradas del blog. Mi viaje no trata de llegar a una respuesta final o a una historia "correcta". Es un bucle continuo de "Espera, qué...?", lleno de errores y desvíos. Pero entonces, sucede — las repentinas revelaciones. Ese momento en que los puntos finalmente se conectan es la parte más emocionante y hermosa de todo. Exploremos juntos lo desconocido.
 
 [## VAMOS!!
 
@@ -92,6 +92,6 @@ Practical Tour
 
 ## THE MYSTERY
 
-of THE GENERAL’s SHADOW](https://en.japoneson.com/mystery/meiji/posts)
+of THE GENERAL's SHADOW](https://en.japoneson.com/mystery/meiji/posts)
 
 吾輩は猫である。名前はまだない。どこで生れたか頓と見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。

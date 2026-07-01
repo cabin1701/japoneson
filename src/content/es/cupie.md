@@ -5,55 +5,55 @@ wp_id: 21239
 wp_parent: 0
 ---
 
-# We ❤️ Cupie Danny
+# Amamos ❤️ a Cupie Danny
 
 ## Danny Rojo & Seina
 
-## Everybody Loves Cupie Danny!!
+## ¡Todos aman a Cupie Danny!!
 
-It all started with a 100-yen shop Cupie doll that looked exactly like Danny Rojo from behind! Driven by raw, untamed imagination, ballpoint pen tattoos, and rainbow-colored whiskers, "Cupie Danny" was born—a tiny, naked adventurer ready to capture hearts from New York to Cuba.
+¡Todo comenzó con una muñeca Cupie de una tienda de 100 yenes que se parecía exactamente a Danny Rojo de espaldas! Impulsado por una imaginación cruda y desatada, tatuajes de bolígrafo y bigotes de colores del arcoíris, nació "Cupie Danny" — un diminuto aventurero desnudo listo para conquistar corazones desde Nueva York hasta Cuba.
 
 ![](/images/wp/2026/05/IMG_6001-600x800.jpg)
 https://youtu.be/yPEICcvPreQ?si=zfp0XDBT5G0Y2DT9
 ![](/images/wp/2026/05/IMG_7346-600x800.jpg)
 
-## Gallery
+## Galería
 
 [![](/images/wp/2018/04/QPD160.jpg)](https://en.japoneson.com/cupie/gallery-01)
 
-### [Musicians & Celebrities](https://en.japoneson.com/cupie/gallery-01)
+### [Músicos y Celebridades](https://en.japoneson.com/cupie/gallery-01)
 
 [![](/images/wp/2018/04/QPD074.jpg)](https://en.japoneson.com/cupie/gallery-02)
 
-### [Friends & Family](https://en.japoneson.com/cupie/gallery-02)
+### [Amigos y Familia](https://en.japoneson.com/cupie/gallery-02)
 
 [![](/images/wp/2026/06/bath-1-1-1024x1024.jpg)](https://en.japoneson.com/cupie/gallery-03)
 
-### [Travels & Aventure](https://en.japoneson.com/cupie/gallery-03)
+### [Viajes y Aventuras](https://en.japoneson.com/cupie/gallery-03)
 
-In November 2013, while staying in East Harlem (Spanish Harlem), New York, I met Danny Rojo performing at a restaurant near where I was staying.
+En noviembre de 2013, mientras me alojaba en East Harlem (Spanish Harlem), Nueva York, conocí a Danny Rojo tocando en un restaurante cerca de donde me hospedaba.
 
-Lots of tattoos, bald head, iridescent beard. But when I heard his singing voice, I liked the voice. When I look at SNS, I think that it is for promotional purposes, there are naked photos.
+Muchos tatuajes, cabeza rapada, barba tornasolada. Pero cuando escuché su voz al cantar, me gustó. Al ver sus redes sociales, pensé que era con fines promocionales, hay fotos desnudo.
 
-One day, I found a Cupie doll that looks like Danny　Rojo from the back at a 100-yen shop(1 dollar shop). Of course, it's a Cupie doll so he's naked.
+Un día, encontré una muñeca Cupie que se parecía a Danny　Rojo de espaldas en una tienda de 100 yenes (tienda de 1 dólar). Por supuesto, es una muñeca Cupie, así que está desnudo.
 
 ### 
 
-I drew a tattoo with momentum, added a rainbow-colored mustache, and drew thick eyebrows with a ballpoint pen. When I sent the photo to Danny, who lives in New York, he seemed to like it a lot.
+Dibujé un tatuaje con impulso, añadí un bigote de colores del arcoíris, y dibujé cejas gruesas con bolígrafo. Cuando le envié la foto a Danny, que vive en Nueva York, pareció gustarle mucho.
 
-I named it "Cupie Danny" because I thought it would be easier to remember if it resembled "Cutie Honey" from the Japanese manga that most Japanese know.
+Lo llamé "Cupie Danny" porque pensé que sería más fácil de recordar si se parecía a "Cutie Honey" del manga japonés que la mayoría de los japoneses conocen.
 
-Two months later, I went to New York with lots of Cupie Danny and materials for making Cupie Danny. After that, I went to Mexico, Guatemala, Cuba, and Miami.
+Dos meses después, fui a Nueva York con muchos Cupie Danny y materiales para hacer Cupie Danny. Después de eso, fui a México, Guatemala, Cuba y Miami.
 
 ![](/images/wp/2019/06/allQPD.jpg)
 
-## Tribute to Juan-Carlos Formell
+## Homenaje a Juan-Carlos Formell
 
 ![](/images/wp/2026/05/uchiwa09.jpeg)
 
-May 27th, 2023 (in NY, May 26th). My Facebook feed was flooded with posts about the death of Juan-Carlos Formell, who suddenly collapsed on stage in New York. I don’t know him in person, but many of my friends are his friends. The next day, I was informed that my longtime friend Yoshiko had passed away. Their sudden death made me realize that it might not be the “usual thing” that “I am living” at all.I made a fan to commemorate him.　Hice un abanico para conmemorarlo.
+27 de mayo de 2023 (en NY, 26 de mayo). Mi feed de Facebook se inundó de publicaciones sobre la muerte de Juan-Carlos Formell, quien se desplomó de repente en un escenario en Nueva York. No lo conozco en persona, pero muchos de mis amigos son amigos suyos. Al día siguiente, me informaron que mi amiga de toda la vida, Yoshiko, había fallecido. Su muerte repentina me hizo comprender que quizás "estar viva" no sea, después de todo, algo "normal". Hice un abanico para conmemorarlo.
 
-Please raise the “fireworks of fan” together that can be seen from the sky.
+Por favor, levanten juntos los "fuegos artificiales de abanico" que se pueden ver desde el cielo.
 
 ![](/images/wp/2026/05/IMG_3907-600x479.jpeg)
 
@@ -63,6 +63,6 @@ Please raise the “fireworks of fan” together that can be seen from the sky.
 
 ![](/images/wp/2026/06/en0922a-e1677590034846.jpg)
 
-## [001 – “Mom!! Who is he?”](https://en.japoneson.com/mom-who-is-he/ "001 – “Mom!! Who is he?”")
+## [001 – "Mom!! Who is he?"](https://en.japoneson.com/mom-who-is-he/ "001 – "Mom!! Who is he?"")
 
-[Seina](https://en.japoneson.com/author/seina/ "Posts by Seina")09/22/2022
+[Seina](https://en.japoneson.com/author/seina/ "Posts by Seina")22/09/2022

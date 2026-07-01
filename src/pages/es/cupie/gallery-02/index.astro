@@ -16,16 +16,16 @@ interface Person {
 }
 
 const family: Person[] = [
-  { name: 'Papa Danny Rojo',    place: 'New York', image: IMG('2018/04/QPD001Danny.jpg'),                qpd: 'QPD001' },
-  { name: 'Grandpa',            place: 'Cuba',     image: IMG('2018/04/QPD200-e1780188818137-768x768.jpg'), qpd: 'QPD200' },
-  { name: 'Grandma',            place: 'Cuba',     image: IMG('2019/06/QPD120.jpg'),                     qpd: 'QPD120' },
-  { name: 'Aunt',               place: 'Miami',    image: IMG('2019/06/QPDtania-1-768x768.jpg'),         qpd: 'QPD189' },
-  { name: 'Aunt',               place: 'Cuba',     image: IMG('2019/06/QPDdaiela-1-768x768.jpg'),        qpd: 'QPD121' },
-  { name: 'Cousin',             place: 'New York', image: IMG('2019/06/QPD079.jpg'),                     qpd: 'QPD079' },
-  { name: 'Cousin',             place: 'Miami',    image: IMG('2018/04/QPD191.jpg'),                     qpd: 'QPD191' },
-  { name: 'Cousin',             place: 'Miami',    image: IMG('2018/04/QPD192-768x682.jpg'),             qpd: 'QPD192' },
-  { name: 'Cousin',             place: 'Miami',    image: IMG('2018/04/QPD193-768x750.jpg'),             qpd: 'QPD193' },
-  { name: "aunt's mother",      place: 'Miami',    image: IMG('2018/04/QPD190.jpg'),                     qpd: 'QPD190' },
+  { name: 'Papá Danny Rojo',    place: 'New York', image: IMG('2018/04/QPD001Danny.jpg'),                qpd: 'QPD001' },
+  { name: 'Abuelo',             place: 'Cuba',     image: IMG('2018/04/QPD200-e1780188818137-768x768.jpg'), qpd: 'QPD200' },
+  { name: 'Abuela',             place: 'Cuba',     image: IMG('2019/06/QPD120.jpg'),                     qpd: 'QPD120' },
+  { name: 'Tía',                place: 'Miami',    image: IMG('2019/06/QPDtania-1-768x768.jpg'),         qpd: 'QPD189' },
+  { name: 'Tía',                place: 'Cuba',     image: IMG('2019/06/QPDdaiela-1-768x768.jpg'),        qpd: 'QPD121' },
+  { name: 'Prima',              place: 'New York', image: IMG('2019/06/QPD079.jpg'),                     qpd: 'QPD079' },
+  { name: 'Prima',              place: 'Miami',    image: IMG('2018/04/QPD191.jpg'),                     qpd: 'QPD191' },
+  { name: 'Prima',              place: 'Miami',    image: IMG('2018/04/QPD192-768x682.jpg'),             qpd: 'QPD192' },
+  { name: 'Prima',              place: 'Miami',    image: IMG('2018/04/QPD193-768x750.jpg'),             qpd: 'QPD193' },
+  { name: "Madre de la tía",    place: 'Miami',    image: IMG('2018/04/QPD190.jpg'),                     qpd: 'QPD190' },
 ];
 
 const friends: Person[] = [
@@ -37,7 +37,7 @@ const friends: Person[] = [
   { name: 'Delta Apple',         place: 'New York',        image: IMG('2018/04/QPD089.jpg'),                qpd: 'QPD89'  },
   { name: 'Annia',               place: 'New York',        image: IMG('2026/06/QPD112.jpg'),                qpd: 'QPD112' },
   { name: 'Akemi',               place: 'New York',        image: IMG('2026/06/QPD117.jpg'),                qpd: 'QPD117' },
-  { name: 'Cousin',              place: 'Miami',           image: IMG('2026/05/QPD119.jpg') },
+  { name: 'Prima',               place: 'Miami',           image: IMG('2026/05/QPD119.jpg') },
   { name: 'Arístides',           place: 'New York',        image: IMG('2026/06/QPD118.jpg'),                qpd: 'QPD118' },
   { name: 'Ernesto Lago',        place: 'New York',        image: IMG('2026/06/QPD127.jpg'),                qpd: 'QPD127' },
   { name: 'Maritza',             place: 'New York',        image: IMG('2026/06/QPD128Maritza-e1780294706454.jpg'), qpd: 'QPD128' },
@@ -59,15 +59,15 @@ const friends: Person[] = [
 
 const trail = [
   { slug: 'cupie', title: 'CUPIE DANNY', path: `${base}es/cupie/` },
-  { slug: 'gallery-02', title: 'FRIENDS & FAMILY', path: `${base}es/cupie/gallery-02/` },
+  { slug: 'gallery-02', title: 'AMIGOS Y FAMILIA', path: `${base}es/cupie/gallery-02/` },
 ];
 ---
 
-<Layout title="Gallery — Friends & Family — Japonéson" lang="es">
+<Layout title="Galería — Amigos y Familia — Japonéson" lang="es">
   <Header lang="es" />
   <main>
     <ProjectHero
-      title="Friends & Family"
+      title="Amigos y Familia"
       titleFont="'Fredoka', sans-serif"
       titleWeight={600}
       titleSize="70px"
@@ -83,7 +83,7 @@ const trail = [
     </div>
 
     <section class="gallery-wrap">
-      <h2 class="sect-h">Family</h2>
+      <h2 class="sect-h">Familia</h2>
       <div class="gallery-grid">
         {family.map((p) => (
           <figure class="g-card">
@@ -97,7 +97,7 @@ const trail = [
         ))}
       </div>
 
-      <h2 class="sect-h">Friends</h2>
+      <h2 class="sect-h">Amigos</h2>
       <div class="gallery-grid">
         {friends.map((p) => (
           <figure class="g-card">

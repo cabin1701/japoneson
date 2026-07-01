@@ -1,13 +1,13 @@
 ---
-title: "Gallery - Musicians y Celebrities"
+title: "Galería - Músicos y Celebridades"
 slug: gallery-01
 wp_id: 21798
 wp_parent: 21239
 ---
 
-# Musician & Celebrities
+# Músicos y Celebridades
 
-## Musician & Celebrities
+## Músicos y Celebridades
 
 ![](/images/wp/2018/04/QPD071.jpg)
 
@@ -151,7 +151,7 @@ QPD156
 
 ![](/images/wp/2018/04/QPD114.jpg)
 
-### Giovanni Hidalgo percussionist
+### Giovanni Hidalgo percusionista
 
 ![](/images/wp/2019/06/QPD027luisito-1-768x768.jpg)
 
@@ -171,13 +171,13 @@ QPD158
 
 ![](/images/wp/2026/06/QPD074.jpg)
 
-### Gillian Cura Singer
+### Gillian Cura Cantante
 
 QPD074
 
 ![](/images/wp/2026/06/QPD077.jpg)
 
-### Yusnier Sanchez Bustamante Percussionist
+### Yusnier Sanchez Bustamante Percusionista
 
 QPD077
 
@@ -213,7 +213,7 @@ QPD136
 
 ![](/images/wp/2026/06/QPD170.jpg)
 
-### Jose Luis percussionist
+### Jose Luis percusionista
 
 QPD170
 

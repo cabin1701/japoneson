@@ -1,40 +1,40 @@
 ---
-title: "Terms and Conditions"
+title: "Términos y Condiciones"
 slug: terms-and-conditions
 wp_id: 14657
 wp_parent: 0
 ---
 
 
-**Last Updated: June, 2026**
+**Última actualización: junio de 2026**
 
-Please read these terms and conditions carefully before using our service.
+Por favor, lea estos términos y condiciones cuidadosamente antes de usar nuestro servicio.
 
 ---
 
-### 01. ACKNOWLEDGEMENT
-By accessing or using this space, you agree to be bound by these Terms and Conditions. These terms apply to all visitors, users, and others who access the service.
+### 01. RECONOCIMIENTO
+Al acceder o usar este espacio, usted acepta quedar vinculado por estos Términos y Condiciones. Estos términos se aplican a todos los visitantes, usuarios y demás personas que accedan al servicio.
 
-### 02. INTERPRETATION & DEFINITIONS
-The words in this document follow specific meanings defined under these conditions, regardless of whether they appear in singular or plural form.
+### 02. INTERPRETACIÓN Y DEFINICIONES
+Las palabras en este documento siguen significados específicos definidos bajo estas condiciones, sin importar si aparecen en forma singular o plural.
 
-### 03. THIRD-PARTY LINKS
-This service may contain links to external websites that are not operated by us. We have no control over, and assume no responsibility for, the content or privacy policies of any third-party sites.
+### 03. ENLACES DE TERCEROS
+Este servicio puede contener enlaces a sitios web externos que no son operados por nosotros. No tenemos control ni asumimos responsabilidad alguna por el contenido o las políticas de privacidad de ningún sitio de terceros.
 
-### 04. TERMINATION
-Access to the service may be terminated immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach these Terms and Conditions.
+### 04. TERMINACIÓN
+El acceso al servicio puede ser terminado de inmediato, sin previo aviso ni responsabilidad, por cualquier motivo, incluyendo, entre otros, el incumplimiento de estos Términos y Condiciones.
 
-### 05. LIMITATION OF LIABILITY
-To the maximum extent permitted by applicable law, in no event shall we be liable for any special, incidental, or consequential damages arising out of or in connection with your use of the service.
+### 05. LIMITACIÓN DE RESPONSABILIDAD
+En la máxima medida permitida por la ley aplicable, en ningún caso seremos responsables de daños especiales, incidentales o consecuentes que surjan de, o estén relacionados con, su uso del servicio.
 
-### 06. GOVERNING LAW
-The laws of Japan shall govern these Terms and your use of the service. Your use of the space may also be subject to other local or international laws.
+### 06. LEY APLICABLE
+Las leyes de Japón regirán estos Términos y su uso del servicio. Su uso de este espacio también puede estar sujeto a otras leyes locales o internacionales.
 
-### 07. CHANGES TO THESE TERMS
-We reserve the right to modify or replace these Terms at any time. By continuing to access our service after those revisions become effective, you agree to be bound by the revised terms.
+### 07. CAMBIOS A ESTOS TÉRMINOS
+Nos reservamos el derecho de modificar o reemplazar estos Términos en cualquier momento. Al continuar accediendo a nuestro servicio después de que esas revisiones entren en vigor, usted acepta quedar vinculado por los términos revisados.
 
-### 08. CONTACT
-If you have any questions about these Terms and Conditions, please contact us:
+### 08. CONTACTO
+Si tiene alguna pregunta sobre estos Términos y Condiciones, por favor contáctenos:
 
-**Email:** contact[@]cabin1701.com
-delete [ ] when you email me.
+**Correo electrónico:** contact[@]cabin1701.com
+elimine los [ ] al enviarme un correo.

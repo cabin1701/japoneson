@@ -9,8 +9,7 @@ wp_parent: 0
 
 # The Mystery Entertainment
 
-Stripping away the 'okazari' to observe the blueprint of truth.  
-\*Seina’s life-staking play\*
+Un «juego de riesgo vital» jugado por Seina para despojar el «Okazari» y observar el verdadero plano (la realidad).
 
 [-Vegapedia-](https://en.japoneson.com/dictionary#mystery)
 

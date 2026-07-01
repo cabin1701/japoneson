@@ -5,22 +5,30 @@ interface CTA {
   disabled?: boolean;
 }
 interface Props {
+  lang?: 'en' | 'es';
   ctas?: CTA[];
   ctaLayout?: 'column' | 'row';
 }
 const base = import.meta.env.BASE_URL;
 const heroImage = '/images/wp/2026/02/IMG_1842_plus_3-1.jpg';
 const {
+  lang = 'en',
   ctas = [
-    { label: 'About Seina', href: `${base}en/about/` },
+    lang === 'es'
+      ? { label: 'Sobre Seina', href: `${base}es/about/` }
+      : { label: 'About Seina', href: `${base}en/about/` },
   ],
   ctaLayout = 'column',
 } = Astro.props;
+
+const kicker = lang === 'es'
+  ? ['Vocalista', 'Creadora', 'Exploradora histórica']
+  : ['VOCALIST', 'CREATOR', 'HISTORICAL EXPLORER'];
 ---
 
 <section class="hero" style={`background-image: url('${heroImage}');`}>
   <div class="hero-content">
-    <p class="kicker">VOCALIST<span class="dot">.</span>CREATOR<span class="dot">.</span>HISTORICAL EXPLORER</p>
+    <p class="kicker">{kicker[0]}<span class="dot">.</span>{kicker[1]}<span class="dot">.</span>{kicker[2]}</p>
     <h1 class="hero-title">Shoko "Seina" Shiraishi</h1>
     <div class="hero-cta" data-layout={ctaLayout}>
       {ctas.map((c) => (

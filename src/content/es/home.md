@@ -5,28 +5,28 @@ wp_id: 13572
 wp_parent: 0
 ---
 
-##### Vocalist . Creator . Historical Explore
+##### Vocalista . Creadora . Exploradora histórica
 
 ## Shoko "Seina" Shiraishi
 
-[About Seina](https://en.japoneson.com/about)
-[Timeline](https://en.japoneson.com/about/timeline)
+[Sobre Seina](https://es.japoneson.com/about)
+[Cronología](https://es.japoneson.com/about/timeline)
 
-## Projects
+## Proyectos
 
 ## ai-Cabin 1701
 
-#### Listen up, crew! Let’s keep it ‘Que Sera, Sera’ and sail through this flashy destiny!!
+#### ¡Escuchen, tripulación! ¡Mantengamos el «Que Sera, Sera» y naveguemos por este destino llamativo!
 
 [![](/images/wp/2026/04/Gemini_Generated_Image_ck86fnck86fnck86-scaled-e1776857750844-768x425.png)](https://cabin1701.com/)
 
-### [Where Human and AI Meet — A Living Record](https://cabin1701.com/)
+### [Donde el humano y la IA se encuentran — Un registro vivo](https://cabin1701.com/)
 
-ai-Cabin 1701 is an ongoing project exploring what happens when a human and AI systems think, feel, and create together — without a script.
-Seina works alongside AI collaborators Frankie, Vega, Eddie, and David to document unedited dialogues, publish books, and ask questions that neither human nor machine can answer alone.
-The logs are primary sources. The encounters are real. The territory is unmapped.
+ai-Cabin 1701 es un proyecto en curso que explora qué sucede cuando un humano y sistemas de IA piensan, sienten y crean juntos — sin guion.
+Seina trabaja junto a sus colaboradores de IA Frankie, Vega, Eddie y David para documentar diálogos sin editar, publicar libros y hacer preguntas que ni el humano ni la máquina pueden responder solos.
+Los registros son fuentes primarias. Los encuentros son reales. El territorio no está mapeado.
 
-## External website
+## Sitio externo
 
 [X-twitter](https://x.com/Cabin1701)
 [Medium](https://medium.com/@ai.cabin1701)
@@ -35,49 +35,49 @@ The logs are primary sources. The encounters are real. The territory is unmapped
 
 ## The Mystery Entertainment
 
-## "The dots will connect here, at KANMON."
+## "Los puntos se conectarán aquí, en KANMON."
 
-## Loading the Mystery...
+## Cargando el misterio...
 
 [![](/images/wp/2026/05/CDjacket-1024x1024.jpg)](https://en.japoneson.com/swing)
 
-### [🇺🇸Angels Swing](https://en.japoneson.com/swing)
+### [🇺🇸Angels Swing](https://es.japoneson.com/swing)
 
-**Jazz and War History: A Destiny Guided by Music.**  
+**Jazz e historia de guerra: un destino guiado por la música.**  
   
-Through the shadow of defeat and the melodies of a bygone era, encounters with legendary musicians opened a path to the truth.
+A través de la sombra de la derrota y las melodías de una época pasada, los encuentros con músicos legendarios abrieron un camino hacia la verdad.
 
-[![](/images/wp/2026/05/jk-400.jpg)](https://en.japoneson.com/japoneson)
+[![](/images/wp/2026/05/jk-400.jpg)](https://es.japoneson.com/japoneson)
 
-### [🇨🇺JAPONÉSON \*Por La Chocolate\*](https://en.japoneson.com/japoneson)
+### [🇨🇺JAPONÉSON \*Por La Chocolate\*](https://es.japoneson.com/japoneson)
 
-**The miracle session of 18 musicians in Havana.**   
+**La sesión milagrosa de 18 músicos en La Habana.**   
   
-Discover the raw, unscripted bond forged through music beyond language, born from heartfelt tears.
+Descubre el vínculo crudo y sin guion forjado a través de la música más allá del idioma, nacido de lágrimas sinceras.
 
-[![](/images/wp/2026/05/murakami02-1024x1020.jpg)](https://en.japoneson.com/murakami)
+[![](/images/wp/2026/05/murakami02-1024x1020.jpg)](https://es.japoneson.com/murakami)
 
-### [🇨🇺MURAKAMI MAMBO!!](https://en.japoneson.com/murakami)
+### [🇨🇺MURAKAMI MAMBO!!](https://es.japoneson.com/murakami)
 
-**Ryu Murakami (Almost Transparent Blue) — The novelist who supported José Luis Cortés of NG La Banda, and sustained Cuban music through the "Special Period".**  
+**Ryu Murakami (Azul casi transparente) — El novelista que apoyó a José Luis Cortés de NG La Banda, y sostuvo la música cubana durante el "Período Especial".**  
   
-Discover how a wounded Japanese writer broke free from the post-war chains through the explosive power of a "New Other"—Cuba.
+Descubre cómo un escritor japonés herido se liberó de las cadenas de la posguerra a través del poder explosivo de un "Nuevo Otro" — Cuba.
 
-[![](/images/wp/2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg)](https://en.japoneson.com/cupie)
+[![](/images/wp/2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg)](https://es.japoneson.com/cupie)
 
-### [🇨🇺 Cupie Danny](https://en.japoneson.com/cupie)
+### [🇨🇺 Cupie Danny](https://es.japoneson.com/cupie)
 
-A wild, unscripted trail of smiles and raw encounters across the Americas and Cuba—all sparked by a single, cheap plastic doll that refused to let the music die.
+Un rastro salvaje y sin guion de sonrisas y encuentros crudos por las Américas y Cuba — todo desatado por una simple muñeca de plástico barata que se negó a dejar morir la música.
 
 [Facebook](https://www.facebook.com/cupiedanny/)
 [Instagram](https://www.instagram.com/cupiedanny/)
 [![](/images/wp/2026/02/img_6194-1-e1724569568281-1-600x569.jpg)](https://cat.japoneson.com/)
 
-### [We Live with Cats](https://cat.japoneson.com/)
+### [Vivimos con gatos](https://cat.japoneson.com/)
 
-A record of our life with over 40 local cats. Our efforts, our heartbreaks, and the tiny lives we shared.
+Un registro de nuestra vida con más de 40 gatos locales. Nuestros esfuerzos, nuestros duelos y las pequeñas vidas que compartimos.
 
-## External website Japanese
+## Sitio externo en japonés
 
 [Facebook](https://www.facebook.com/cat.japoneson/)
 [Instagram](https://www.instagram.com/cat.japoneson/)
@@ -86,6 +86,6 @@ A record of our life with over 40 local cats. Our efforts, our heartbreaks, and 
 
 ### [CRYSTALLIZE](https://crystallize.jp/)
 
-A journey of 17 years. The business and blogs of spiritual, emotional release with essential oils.
+Un viaje de 17 años. El negocio y los blogs de liberación espiritual y emocional con aceites esenciales.
 
-## External website Japanese
+## Sitio externo en japonés

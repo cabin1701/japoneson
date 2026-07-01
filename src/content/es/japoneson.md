@@ -22,19 +22,19 @@ wp_parent: 0
 
 </div>
 
-#### **"I want to make memories with all of you! That’s why I want to do this recording!"**
+#### **"¡Quiero crear recuerdos con todos ustedes! ¡Por eso quiero hacer esta grabación!"**
 
-Unable to convey my feelings in my broken Spanish, I burst into tears.
+Incapaz de transmitir mis sentimientos en mi español quebrado, rompí a llorar.
 
-Cuban men are naturally protective and incredibly kind to the vulnerable—to women, to the elderly. Seeing me cry, they rallied around me with fierce support.
+Los hombres cubanos son naturalmente protectores e increíblemente amables con los vulnerables — con las mujeres, con los ancianos. Al verme llorar, se agruparon a mi alrededor con un apoyo feroz.
 
-Seventeen Cuban musicians, plus one Spaniard. Easygoing and a bit (maybe a lot) irresponsible—that’s Cuban men for you. Two of them didn’t even show up on the day of the recording. But hey, it was *only* two. After returning to Japan, I even flew back to Cuba once more. To this day, it feels like an absolute miracle that we pulled off such a complex session.
+Diecisiete músicos cubanos, más un español. Despreocupados y un poco (quizás mucho) irresponsables — así son los hombres cubanos. Dos de ellos ni siquiera se presentaron el día de la grabación. Pero bueno, fueron *solo* dos. Después de volver a Japón, incluso regresé a Cuba una vez más. Hasta el día de hoy, parece un milagro absoluto que hayamos logrado una sesión tan compleja.
 
-Life in Cuba was brutal. But from the bottom of my heart, thank you for those deeply, deeply precious, and beautiful memories.
+La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos recuerdos profunda, profundamente preciosos y hermosos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eyTI3snVV8w?start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Musicians
+## Músicos
 
 <div class="musicians-grid">
 

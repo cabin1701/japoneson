@@ -13,10 +13,10 @@ hero_title_italic: true
 wp_id: 18735
 wp_parent: 108
 ---
+Conocí a [la Sra. Monica Lewis](https://truecompassdesigns.com/monica-lewis/) mientras investigaba sobre "The Memorial Cross" (La Cruz del Memorial), un monumento "olvidado" de la Guerra de Corea construido en mi ciudad natal, Kokura, durante el conflicto.
 
-I encountered [Ms. Monica Lewis](https://truecompassdesigns.com/monica-lewis/) while researching "The Memorial Cross"—a "forgotten" Korean War monument built in my hometown of Kokura during the conflict.
+Ella había estado publicando en una página de Facebook dedicada a recordar la Guerra de Corea; sus visitas a los jóvenes soldados junto a Danny Kaye durante la guerra fueron una experiencia crucial que transformó profundamente el resto de su vida.
 
-She had been posting on a Korean War remembrance page on Facebook; her visits to the young soldiers alongside Danny Kaye during the war were a pivotal experience that profoundly reshaped the rest of her life.
 
 <div class="gallery-4col">
 
@@ -52,53 +52,53 @@ She had been posting on a Korean War remembrance page on Facebook; her visits to
 
 </div>
 
-## NEVER FORGOTTEN:
+## NUNCA OLVIDADO:
 
 <div class="okay90-text">
 
- My Facebook friend and fellow singer / humanitarian Shoko "Seina" Shiraishi, who is devoted to preserving and performing the American pop and jazz hits of my own mid-century era, sent me these lovely photos taken on Christmas Day 2012. Seina visited the Korean War Memorial Cross in her hometown of Kokura, Japan, and -- as a sweet gesture of remembrance and gratitude to our soldiers and their sacrifices, and to my own 1951 troop-entertainment tour of the frontlines in Korea with Danny Kaye -- played two of my songs on-site via her iPhone. The tunes were "The Song is You" and "I'll Be Seeing You," which both appeared on my 1957 album SING IT TO THE MARINES. To learn more about Seina, her music and her good work, please visit her on Facebook
+ Mi amiga de Facebook y colega cantante / humanitaria Shoko "Seina" Shiraishi, quien se dedica a preservar e interpretar los éxitos del pop y jazz estadounidenses de mediados de mi propia era, me envió estas hermosas fotos tomadas el día de Navidad de 2012. Seina visitó la Cruz del Memorial de la Guerra de Corea en su ciudad natal de Kokura, Japón, y —como un dulce gesto de recuerdo y gratitud hacia nuestros soldados y sus sacrificios, y hacia mi propia gira de entretenimiento a las tropas del frente en Corea en 1951 junto a Danny Kaye— tocó dos de mis canciones allí mismo desde su iPhone. Las melodías fueron "The Song is You" y "I'll Be Seeing You," ambas incluidas en mi álbum de 1957 SING IT TO THE MARINES. Para saber más sobre Seina, su música y su buen trabajo, visítenla en Facebook
 
-Love to you, Seina! oxo, Monica
+¡Con cariño para ti, Seina! oxo, Monica
 
 </div>
 
 <hr class="navy-rule" />
 
-## Korean War Poem
+## Poema de la Guerra de Corea
 
 <div class="poem-block">
 
 <div class="poem-text">
 
-We didn’t do much talking,  
-We didn’t raise a fuss.  
-But Korea really happened  
-So please – remember us.
+No hablamos mucho entonces,  
+no armamos ningún alboroto.  
+Pero Corea sí sucedió,  
+así que, por favor, recuérdennos.
 
-We all just did our duty  
-But we didn’t win or lose.  
-A victory was denied us  
-But we didn’t get to choose.
+Todos cumplimos con el deber,  
+sin ganar ni perder.  
+Nos negaron la victoria,  
+pero no fue nuestra elección.
 
-We all roasted in the summer  
-In winter, we damn near froze.  
-Walking back from near the Yalu  
-With our blackened frozen toes.
+Nos asábamos en verano,  
+en invierno casi nos congelábamos.  
+Caminando de vuelta cerca del Yalu  
+con los dedos de los pies ennegrecidos y helados.
 
-Like the surf the Chinese kept coming  
-With their bugles in the night.  
-We fired into their masses  
-Praying for the morning light.
+Como el oleaje, los chinos seguían llegando  
+con sus cornetas en la noche.  
+Disparábamos contra sus masas,  
+rezando por la luz de la mañana.
 
-All of us just had to be there  
-And so many of us died.  
-But now we’re all but half forgotten  
-No one remembers how we tried.
+Todos tuvimos que estar allí,  
+y tantos de nosotros murieron.  
+Pero ahora estamos casi olvidados,  
+nadie recuerda cómo lo intentamos.
 
-We grow fewer with the years now  
-And we still don’t raise a fuss.  
-But Korea really happened  
-So please – remember us.
+Cada vez somos menos con los años,  
+y todavía no armamos alboroto.  
+Pero Corea sí sucedió,  
+así que, por favor, recuérdennos.
 
 </div>
 
@@ -106,7 +106,7 @@ So please – remember us.
 
 ![](/images/wp/2026/05/koreanwar.jpg) 
 
-*The Korean War Veterans Memorial in Washington, D.C (visited in 2013)*
+*El Memorial de los Veteranos de la Guerra de Corea en Washington, D.C. (visitado en 2013)*
 
 </div>
 
@@ -118,9 +118,9 @@ So please – remember us.
 
 <div class="hg-text">
 
-This touching poem, written by LCDR Roberto J. Prinselaar, USCG (Ret), is etched in stone at a Korean War Veteran’s Memorial in the Liberty State Park NJ Turnpike, Exit 14-B  Jersey City, NJ
+Este conmovedor poema, escrito por el Teniente Comandante Roberto J. Prinselaar, de la Guardia Costera de EE. UU. (retirado), está grabado en piedra en un Memorial de Veteranos de la Guerra de Corea en Liberty State Park, NJ Turnpike, Salida 14-B, Jersey City, NJ
 
-There are several sculptures and other works of art that are well worth a visit.
+Hay varias esculturas y otras obras de arte que bien merecen una visita.
 
 </div>
 
@@ -134,7 +134,7 @@ There are several sculptures and other works of art that are well worth a visit.
 
 <hr class="navy-rule" />
 
-### BRIDGING COUNTRIES AND HISTORY WITH MUSIC:
+### UNIENDO PAÍSES E HISTORIA CON LA MÚSICA:
 
 <div class="bridging-block">
 
@@ -146,13 +146,13 @@ There are several sculptures and other works of art that are well worth a visit.
 
 <div class="bridging-text">
 
-I had a lovely lunch recently with my Facebook friend and fellow vocalist / humanitarian Shoko "Seina" Shiraishi, who is devoted to preserving and performing the American pop and jazz hits of my own mid-century era. Seina's passions were partly inspired by her visits as a young girl to the Korean War Memorial Cross, which is dedicated to all the soldiers who made sacrifices during the conflict, in her hometown of Kokura, Japan, and they blossomed when she began singing professionally in New York as a young woman. She is delighted to have discovered me on Facebook and learned of my November 1951 entertainment tour of the Korean War frontlines with Danny Kaye. To find out more about Seina, her music and her good work. So nice to meet you, Seina... good luck with your project! oxo, Monica (Photo by Dean Lamanna)
+Recientemente tuve un almuerzo encantador con mi amiga de Facebook y colega cantante / humanitaria Shoko "Seina" Shiraishi, quien se dedica a preservar e interpretar los éxitos del pop y jazz estadounidenses de mediados de mi propia era. Las pasiones de Seina fueron inspiradas en parte por sus visitas, siendo niña, a la Cruz del Memorial de la Guerra de Corea, dedicada a todos los soldados que hicieron sacrificios durante el conflicto, en su ciudad natal de Kokura, Japón, y florecieron cuando comenzó a cantar profesionalmente en Nueva York siendo una joven mujer. Está encantada de haberme descubierto en Facebook y de haberse enterado de mi gira de entretenimiento en el frente de la Guerra de Corea, en noviembre de 1951, junto a Danny Kaye. Para saber más sobre Seina, su música y su buen trabajo. Qué gusto conocerte, Seina... ¡buena suerte con tu proyecto! oxo, Monica (Foto de Dean Lamanna)
 
 </div>
 
 </div>
 
-### OKAY, SO I CAN STILL BE A BIT OF A HAM AT AGE 90!
+### DE ACUERDO, ¡A LOS 90 TODAVÍA PUEDO SER UN POCO PAYASA!
 
 <div class="okay90-block">
 
@@ -164,7 +164,7 @@ I had a lovely lunch recently with my Facebook friend and fellow vocalist / huma
 
 <div class="okay90-text">
 
-These two beautifully packaged CDs, titled THANKS FOR THE MEMORY and I HAVE A DREAM, were gifts from one my new Facebook friends -- the lovely Japanese singer and humanitarian Shoko "Seina" Shiraishi. Seina's voice is just lovely, particularly in the way it captures the tone of mid-century American pop and jazz standards like "**A Tree in the Meadow**" and "**I'll Be Seeing You**" that I myself sang. I am so glad Seina reached out to me, and I encourage you to learn more about her at her Facebook page above, her website and at my earlier post about her visit to the Korean War Memorial Cross in her hometown of Kokura, Japan. Thank you for these musical presents, Seina, and for the work you are doing! All Best Wishes in 2013... Love, Monica (Photo by Dean Lamanna)
+Estos dos CD, hermosamente empaquetados, titulados THANKS FOR THE MEMORY e I HAVE A DREAM, fueron regalos de una de mis nuevas amigas de Facebook — la encantadora cantante y humanitaria japonesa Shoko "Seina" Shiraishi. La voz de Seina es simplemente encantadora, particularmente en la forma en que captura el tono de los estándares de pop y jazz estadounidenses de mediados de siglo, como "**A Tree in the Meadow**" y "**I'll Be Seeing You**", que yo misma canté. Me alegra mucho que Seina se pusiera en contacto conmigo, y les animo a saber más sobre ella en su página de Facebook mencionada arriba, en su sitio web y en mi publicación anterior sobre su visita a la Cruz del Memorial de la Guerra de Corea en su ciudad natal de Kokura, Japón. ¡Gracias por estos regalos musicales, Seina, y por el trabajo que estás haciendo! Los mejores deseos para 2013... Con cariño, Monica (Foto de Dean Lamanna)
 
 </div>
 

@@ -16,53 +16,53 @@ wp_parent: 108
 
 ## 2008
 
-March 2008.  
-I left my temp job at NetApp and headed to New York to see Leonard Gaskin.
+Marzo de 2008.
+Dejé mi trabajo temporal en NetApp y me dirigí a Nueva York para reunirme con Leonard Gaskin.
 
-To be precise, I didn't just quit—I was laid off due to a corporate restructuring. However, that setback became the very wind beneath my wings, pushing me to see my beloved Leonard and granting us our final, precious time together. Following this trip, Bob Cranshaw would sustain my lifeline to music for several years until his passing.
+Para ser exacta, no es que simplemente renuncié; me despidieron debido a una reestructuración de la empresa. Sin embargo, ese contratiempo se convirtió en el viento a favor que necesitaba para ir a ver a mi querido Leonard, regalándonos nuestro último y más preciado tiempo juntos. Después de este viaje, y durante varios años hasta su fallecimiento, Bob Cranshaw mantuvo vivo mi hilo con la música.
 
-It had been eight years since I last held a microphone. Naturally, I struggled to sing at first during the concert, but everyone embraced me with warmth and patience.
+Hacía ocho años que no tomaba un micrófono. Por eso, al principio del concierto, no podía cantar bien. Pero todos me rodearon con calidez y paciencia.
 
-The reason I couldn't sing for eight years was that my heart had completely closed. Back in Japan, a local musician told me that my singing was "embarrassing." It made singing an agonizing experience for me. Yet, at that moment in New York, I knew no other way to bring joy to Leonard than through song. I felt a profound, heartfelt desire to sing again.
+La razón por la que no pude cantar durante ocho años fue que mi corazón se había cerrado por completo. En Japón, un músico local me dijo que mi forma de cantar era "vergonzosa". Eso hizo que cantar se convirtiera en un sufrimiento para mí. Sin embargo, en ese momento en Nueva York, no sabía de otra manera para hacer feliz a Leonard que no fuera cantando. Y sentí, desde el fondo de mi corazón, un deseo profundo de volver a cantar.
 
-I am sure I will write more about those days in a book someday.
+Estoy segura de que algún día escribiré más sobre aquellos días en un libro.
 
-The night before I left, right after leaving NetApp, I created this single flyer and boarded the plane to New York. Leonard often used to tell me when I couldn't sing, "Go to the Union." He wanted me to go there, join the jam sessions, and start singing again from there.
+La noche antes de partir, justo después de dejar NetApp, diseñé este único volante (flyer) y volé a Nueva York. Cuando yo ya no podía cantar, Leonard solía decirme a menudo: "Ve al Sindicato (Union)". Quería que fuera allí, que participara en las jam sessions y que empezara a cantar de nuevo desde ese lugar.
 
-"Go to the Union."  
-Those words echoed in my ears. So, carrying this flyer, I walked into the Union.
+"Ve al Sindicato."
+Esas palabras resonaban en mis oídos. Así que, con este volante en la mano, fui al Sindicato.
 
-At the entrance, I told security that I wanted to speak with the person in charge of jazz. They connected me with Todd Bryant Weeks. Todd listened to my story right away and took immediate action.
+En la entrada, le dije a la seguridad que quería hablar con la persona encargada del jazz. Me comunicaron con Todd Bryant Weeks. Todd escuchó mi historia de inmediato y se puso en marcha.
 
-And that is how this concert came to life.
+Y fue así como este concierto se hizo realidad.
 
 <section class="flyer-block">
 
-## Do me a Favor…
+## Hazme un favor…
 
-#### **I would like to have some generous help, love… and your instruments.**
+#### **Me gustaría contar con ayuda generosa, amor... y sus instrumentos.**
 
 ![](/images/wp/2023/01/IMAGE0042-scaled-e1673080417880.jpg)
 
-My name is Seina.
+Mi nombre es Seina.
 
-I was a singer and I am a friend of Mr. Leonard Gaskin's who joined to local 802 unions with Mr. Max Roach and was a beginning member of Charlie Parker's band when Bird was playing on 52nd street.
+Fui cantante y soy amiga del Sr. Leonard Gaskin, quien se unió al sindicato Local 802 junto con el Sr. Max Roach y fue uno de los primeros miembros de la banda de Charlie Parker cuando Bird tocaba en la calle 52.
 
-A few weeks ago, I called a nursing home in Bayside, Queens where Mr. Gaskin stays. A nurse told me he was grieving because his wife passed away about a month ago. She also said he stays in bed most of the day. When I heard about it I decided to visit him from Japan.
+Hace unas semanas, llamé a un asilo de ancianos en Bayside, Queens, donde se encuentra el Sr. Gaskin. Una enfermera me dijo que estaba de duelo porque su esposa había fallecido hacía un mes. También me dijo que pasaba la mayor parte del día en cama. Cuando lo supe, decidí visitarlo desde Japón.
 
-When I was in NY(1989-1999), I played with him sometimes and he gave me many precious things my life. So he was my angel. But I haven't sung for a long time and I am far from the music world…but now, I really hope to sing in front of him and give him the gifts of my gratitude and musician's love.
+Cuando estuve en Nueva York (1989-1999), toqué con él algunas veces y me dio muchas cosas preciosas en mi vida. Así que él fue mi ángel. Pero llevo mucho tiempo sin cantar y estoy lejos del mundo de la música... pero ahora, de verdad espero poder cantar frente a él y darle el regalo de mi gratitud y de mi amor de música.
 
-His life is music and music is his life. I believe music can give him some power and love. So please let me have the angel's love and help that you have.My repertoires are songs from the 30s and 40s and I stay in NY for only two weeks, **until March 30th.**
+Su vida es la música y la música es su vida. Creo que la música puede darle algo de fuerza y amor. Así que, por favor, permítanme recibir el amor y la ayuda de ángel que ustedes tienen. Mi repertorio son canciones de los años 30 y 40, y me quedo en Nueva York solo dos semanas, **hasta el 30 de marzo.**
 
-Here are the steps that I need…
+Estos son los pasos que necesito…
 
-1. To find musicians
-2. To ask the nursing home
-3. Schedule the time and date
+1. Encontrar músicos
+2. Pedir permiso al asilo de ancianos
+3. Programar la hora y la fecha
 
-I know it is not easy to make a plan and schedule a performance during a short stay, especially a person who lives far from the music world.
+Sé que no es fácil hacer un plan y programar una actuación durante una estadía corta, especialmente para alguien que vive lejos del mundo de la música.
 
-But if God leads, it will happen and I believe…it will.
+Pero si Dios guía, sucederá, y yo creo… que sucederá.
 
 **Angel's Swing  
 Shoko "Seina" Shiraishi**
@@ -102,25 +102,25 @@ Shoko "Seina" Shiraishi**
 
 <section class="transcript-block">
 
-#### Transcript (as spoken, March 27, 2008)
+#### Transcripción (tal como se habló, 27 de marzo de 2008)
 
-And...well the next song is the last song. And... well before that I want to say something to you Leonard, Okay? Well when I met you at the RED BLAZER, TOO. Anybody knows the RED BLAZER, TOO? Yeah. Yeah. Yeah. I used to sing at there and met Leonard, right? So, maybe... Yeah. I'm a strange Asian girl the time, right?
+Y... bueno, la próxima canción es la última canción. Y... bueno, antes de eso quiero decirte algo, Leonard, ¿okay? Bueno, cuando te conocí en el RED BLAZER, TOO. ¿Alguien conoce el RED BLAZER, TOO? Sí. Sí. Sí. Solía cantar allí y conocí a Leonard, ¿verdad? Así que, tal vez... Sí. Yo era una chica asiática rara en ese entonces, ¿verdad?
 
-Yeah. But he's always warm and always nice and his sound of base is so warm. I'm really really really happy that I could meet you. And he gave me a lot of, you know, he made my dreams come true. Do you remember you helped me a lot during recording and project.
+Sí. Pero él siempre es cálido y siempre es amable, y el sonido de su contrabajo es tan cálido. Estoy muy, muy, muy feliz de haberte conocido. Y me diste mucho, ya sabes, hiciste realidad mis sueños. ¿Recuerdas que me ayudaste mucho durante la grabación y el proyecto?
 
-Yeah. So well, he is he is my angel. Really angel. Yeah. So, never forget that you are my angel. Don't anything that something very bad. Okay. Don't be sad. Don't be and you know grief anything that's negative. Okay?
+Sí. Así que bueno, él es, él es mi ángel. De verdad un ángel. Sí. Así que, nunca olvides que eres mi ángel. No hagas nada... algo muy malo. Okay. No estés triste. No estés... y ya sabes, no sufras nada negativo. ¿Okay?
 
-Yeah. I'm very happy if you are happy.
+Sí. Soy muy feliz si tú eres feliz.
 
-(Leonard's voice): Absolutely. Okay.
+(Voz de Leonard): Por supuesto. Okay.
 
 \* \* \* \* \* \* \* \* \*
 
-Thank you very much, than you very much to... all of you.
+Muchas gracias, muchas gracias a... todos ustedes.
 
-Thank you, thank you...
+Gracias, gracias...
 
-Leonard, I love you!!
+¡¡Leonard, te quiero!!
 
 </section>
 
@@ -128,7 +128,7 @@ Leonard, I love you!!
 
 <blockquote class="bob-quote">
 
-Leonard, I want to thank you for you passed on to me. Without you, I would not be playing a bass. So I want to thank you, thank you, thank you... ---Bob Cranshaw
+Leonard, quiero agradecerte por lo que me transmitiste. Sin ti, no estaría tocando el contrabajo. Así que quiero darte las gracias, gracias, gracias... —Bob Cranshaw
 
 </blockquote>
 
@@ -138,11 +138,13 @@ Leonard, I want to thank you for you passed on to me. Without you, I would not b
 
 <div class="tribute-text">
 
-Leonard Gaskin passed away on January 24, 2009, at the age of 88.
 
-Todd Bryant Weeks honored his memory by [writing about our concert in Allegro](https://www.local802afm.org/allegro/articles/ill-be-seeing-you/), the official journal of the Union (Local 802), in an article announcing Leonard's passing.
 
-Thank you, Todd.
+Leonard Gaskin falleció el 24 de enero de 2009 a la edad de 88 años.  
+
+Todd Bryant Weeks honró su memoria [escribiendo sobre aquel día en Allegro](https://www.local802afm.org/allegro/articles/ill-be-seeing-you/), , la revista oficial del Sindicato (Local 802), en el artículo que anunciaba el fallecimiento de Leonard.
+
+Gracias, Todd.
 
 I'm looking at the moon, but I'll be seeing you, Mr. Leonard Gaskin.
 

@@ -1,75 +1,75 @@
 ---
-title: "Gallery - Family & Friends"
+title: "Galería - Familia y Amigos"
 slug: gallery-02
 wp_id: 21834
 wp_parent: 21239
 ---
 
-# Friends & Family
+# Amigos y Familia
 
-## Family
+## Familia
 
 ![](/images/wp/2018/04/QPD001Danny.jpg)
 
-### Papa Danny Rojo - New York -
+### Papá Danny Rojo - New York -
 
 QPD001
 
 ![](/images/wp/2018/04/QPD200-e1780188818137-768x768.jpg)
 
-### Grandpa - Cuba -
+### Abuelo - Cuba -
 
 QPD200
 
 ![](/images/wp/2019/06/QPD120.jpg)
 
-### Grandma - Cuba -
+### Abuela - Cuba -
 
 QPD120
 
 ![](/images/wp/2019/06/QPDtania-1-768x768.jpg)
 
-### Aunt - Miami -
+### Tía - Miami -
 
 QPD189
 
 ![](/images/wp/2019/06/QPDdaiela-1-768x768.jpg)
 
-### Aunt - Cuba -
+### Tía - Cuba -
 
 QPD121
 
 ![](/images/wp/2019/06/QPD079.jpg)
 
-### Cousin - New York -
+### Prima - New York -
 
 QPD079
 
 ![](/images/wp/2018/04/QPD191.jpg)
 
-### Cousin - Miami -
+### Prima - Miami -
 
 QPD191
 
 ![](/images/wp/2018/04/QPD192-768x682.jpg)
 
-### Cousin - Miami -
+### Prima - Miami -
 
 QPD192
 
 ![](/images/wp/2018/04/QPD193-768x750.jpg)
 
-### Cousin - Miami -
+### Prima - Miami -
 
 QPD193
 
 ![](/images/wp/2018/04/QPD190.jpg)
 
-### aunt's mother QPD190
+### Madre de la tía QPD190
 
 Miami
 
-## FRIENDs
+## AMIGOS
 
 ![](/images/wp/2018/04/QPD002.jpg)
 
@@ -121,7 +121,7 @@ QPD117
 
 ![](/images/wp/2026/05/QPD119.jpg)
 
-### Cousin - Miami -
+### Prima - Miami -
 
 ![](/images/wp/2026/06/QPD118.jpg)
 
