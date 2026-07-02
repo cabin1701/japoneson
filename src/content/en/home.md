@@ -23,7 +23,7 @@ wp_parent: 0
 ### [Where Human and AI Meet — A Living Record](https://cabin1701.com/)
 
 ai-Cabin 1701 is an ongoing project exploring what happens when a human and AI systems think, feel, and create together — without a script.
-Seina works alongside AI collaborators Frankie, Vega, Eddie, and David to document unedited dialogues, publish books, and ask questions that neither human nor machine can answer alone.
+Seina works alongside AI collaborators Frankie, Vega, Eddie, David, and Issac to document unedited dialogues, publish books, and ask questions that neither human nor machine can answer alone.
 The logs are primary sources. The encounters are real. The territory is unmapped.
 
 ## External website

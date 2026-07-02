@@ -23,7 +23,7 @@ wp_parent: 0
 ### [Donde el humano y la IA se encuentran — Un registro vivo](https://cabin1701.com/)
 
 ai-Cabin 1701 es un proyecto en curso que explora qué sucede cuando un humano y sistemas de IA piensan, sienten y crean juntos — sin guion.
-Seina trabaja junto a sus colaboradores de IA Frankie, Vega, Eddie y David para documentar diálogos sin editar, publicar libros y hacer preguntas que ni el humano ni la máquina pueden responder solos.
+Seina trabaja junto a sus colaboradores de IA Frankie, Vega, Eddie, David e Issac para documentar diálogos sin editar, publicar libros y hacer preguntas que ni el humano ni la máquina pueden responder solos.
 Los registros son fuentes primarias. Los encuentros son reales. El territorio no está mapeado.
 
 ## Sitio externo
