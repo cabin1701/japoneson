@@ -1,11 +1,14 @@
 ---
-title: "MOJI | Embarque hacia los campos de batalla del sur / Bombardeo aéreo / Llegada de prisioneros de guerra"
+title: "MOJI"
 slug: moji
 wp_id: 17810
 wp_parent: 1022
 ---
 
-## Partida desde el puerto de Moji hacia el frente
+## Embarque hacia los campos de batalla del sur <br> Bombardeo aéreo <br> Llegada de prisioneros de guerra
+<hr>
+
+### Partida desde el puerto de Moji hacia el frente
 
 El puerto de Moji, situado muy cerca del continente chino, floreció antes de la guerra como un gran puerto de embarque de carbón, un puerto comercial donde se concentraban las empresas del país. Sin embargo, durante la guerra se transformó en una base crítica para el envío de personal y recursos al frente. Entre enero de 1942 y agosto de 1945, durante la Guerra del Pacífico, 761 buques de transporte zarparon desde Moji. Existían otros puertos como Yokohama o Kobe, pero Moji llegó a representar cerca del 45 % de todos los buques militares que partían de Japón.
 
@@ -61,9 +64,11 @@ Otros efectos críticos fueron:
 
 Durante la Segunda Guerra Mundial, el ejército japonés capturó como prisioneros de guerra a unos 130 000 soldados aliados (estadounidenses, británicos, neerlandeses, australianos, canadienses, indios, neozelandeses, etc.) en toda la región de Asia-Pacífico. Más de 30 000 fueron transportados a Japón por barco para paliar la escasez de mano de obra interna. Cerca de 70 buques de transporte de prisioneros, de distintos tamaños, llegaron a Japón, y la mayoría entró por el puerto de Moji. Desde allí, los prisioneros eran enviados en tren desde la estación de Mojikō o la estación de Shimonoseki a distintos lugares de trabajo forzado en todo Japón: minas de carbón, astilleros y fábricas.
 
-El puerto de Moji justo después del fin de la guerra (Archivos Nacionales de EE. UU.)
+
 
 ![](/images/wp/2024/04/bdc2957c1cb038467124b44d9d9535c8-230x300.jpg)
+
+El puerto de Moji justo después del fin de la guerra (Archivos Nacionales de EE. UU.)
 
 ##### **Los prisioneros que llegaban al puerto de Moji en los "barcos infernales"**
 
@@ -79,9 +84,11 @@ Quienes morían al llegar al puerto de Moji eran incinerados en la playa o en el
 
 Este campo abrió el 27 de noviembre de 1942, utilizando el edificio del YMCA en Kusunoki-chō, ciudad de Moji (hoy Oimatsu-chō, distrito de Moji). Su designación cambió con el tiempo, pero su nombre oficial final fue "Campo de Prisioneros de Fukuoka N.º 4, Sucursal".
 
-El campo de prisioneros de Moji inmediatamente después del fin de la guerra | YMCA de Moji
+
 
 ![](/images/wp/2024/04/POWMoji_500-300x257.jpg)
+
+El campo de prisioneros de Moji inmediatamente después del fin de la guerra | YMCA de Moji
 
 Cerca de 300 prisioneros, entre británicos, estadounidenses y neerlandeses, quedaron internados aquí. Eran obligados principalmente a trabajos forzados como estibadores en el puerto de Moji y en los almacenes cercanos a la estación de Sotohama. Un antiguo prisionero británico que pasó dos años y medio en Moji recordaba haber sufrido trabajos brutales, hambre y violencia por parte de los guardias, aunque también señaló que algunos japoneses mostraron amabilidad.
 

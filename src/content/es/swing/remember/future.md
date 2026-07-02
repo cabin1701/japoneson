@@ -1,11 +1,14 @@
 ---
-title: "Hacia el futuro / Seina"
+title: "Hacia el futuro"
 slug: future
 wp_id: 17933
 wp_parent: 1022
 ---
 
+## Seina
+
 ![](/images/wp/2026/05/W9Q9732-768x512.jpg)
+---
 
 A partir de mi encuentro con Donald Versaw, antiguo prisionero de guerra aliado y ex marine estadounidense, comencé a sentir, casi con ingenuidad, el deseo de "crear un memorial para los prisioneros de guerra aliados en el puerto de Moji". Muchos de los prisioneros que llegaron al puerto de Moji murieron en Japón, una tierra extranjera, sin volver jamás a su hogar. La gente del lugar desconocía esa historia... Escuché que incluso en Estados Unidos, la existencia de prisioneros de guerra dentro de Japón durante la Guerra del Pacífico permaneció largo tiempo sin salir a la luz. Pensé, a mi manera: ¿qué significa ser olvidado, después de haber arriesgado la vida por el propio país?
 

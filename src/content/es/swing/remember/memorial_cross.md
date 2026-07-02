@@ -1,9 +1,11 @@
 ---
-title: "CRUZ CONMEMORATIVA | Por los soldados caídos en la Guerra de Corea"
+title: "CRUZ CONMEMORATIVA"
 slug: memorial_cross
 wp_id: 17874
 wp_parent: 1022
 ---
+
+## Por los soldados caídos en la Guerra de Corea
 
 Donald Versaw (véase "Introducción"), cuyo encuentro fue lo que originalmente me inspiró a crear este folleto, pertenecía a la American Descendants of Bataan & Corregidor Memorial Society. Ese año, por una extraña coincidencia, su convención se celebró en Norfolk, Virginia —ciudad hermanada con Kitakyushu—, así que participé como cantante y como amiga de antiguos prisioneros de guerra.
 

@@ -1,9 +1,11 @@
 ---
-title: "La bomba atómica sobre Kokura | 9 de agosto de 1945, por la mañana"
+title: "La bomba atómica sobre Kokura"
 slug: atomicbomb
 wp_id: 17854
 wp_parent: 1022
 ---
+
+## 9 de agosto de 1945, por la mañana
 
 **A las 9:45 de la mañana del 9 de agosto**, el bombardero B-29 "Bockscar", con la bomba de plutonio "**Fat Man**" a bordo, llegó sobre Kokura. "**Fat Man**" era un arma completamente distinta y mucho más potente que "**Little Boy**", la bomba de uranio lanzada sobre Hiroshima.
 

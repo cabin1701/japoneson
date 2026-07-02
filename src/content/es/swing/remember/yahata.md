@@ -1,11 +1,11 @@
 ---
-title: "El gran bombardeo aéreo de Yahata | 8 de agosto de 1945"
+title: "El gran bombardeo aéreo de Yahata"
 slug: yahata
 wp_id: 17840
 wp_parent: 1022
 ---
 
-## El gran bombardeo aéreo de Yahata | 8 de agosto de 1945
+##  8 de agosto de 1945
 
 El objetivo fue una zona residencial donde vivían numerosos empleados de las Acerías de Yawata y sus familias. Las áreas hoy conocidas como Edamitsu, Chuo, Ogura y Maeda, en el distrito de Yahatahigashi, quedaron reducidas a cenizas. Según la *Historia de la ciudad de Yawata (continuación)* y la *Historia de la ciudad de Kitakyushu*, publicadas por la antigua ciudad de Yawata, hubo unas 2500 víctimas entre muertos y heridos, 52 562 personas afectadas y unas 14 000 viviendas dañadas o destruidas. Según el *Mapa de daños de guerra en las ciudades de Japón* (editado por el Primer Ministerio de Desmovilización), el número de fallecidos fue de 1785. (Fuente: [Nishinippon Shimbun Word Box](https://www.nishinippon.co.jp/wordbox/6295/))
 

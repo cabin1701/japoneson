@@ -1,9 +1,11 @@
 ---
-title: "MEMORIAL CROSS | For Fallen Soldiers of the Korean War"
+title: "MEMORIAL CROSS "
 slug: memorial_cross
 wp_id: 17874
 wp_parent: 1022
 ---
+
+## For Fallen Soldiers of the Korean War
 
 Donald Versaw (see "Introduction"), whose encounter first inspired me to create this booklet, belonged to the American Descendants of Bataan & Corregidor Memorial Society. That year, by a strange coincidence, their convention was held in Norfolk, Virginia — a sister city of Kitakyushu — so I took part as both a singer and a friend of former POWs.
 

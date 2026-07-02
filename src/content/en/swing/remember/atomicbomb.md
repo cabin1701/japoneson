@@ -1,9 +1,11 @@
 ---
-title: "The Atomic Bomb over Kokura | August 9, 1945, Morning"
+title: "The Atomic Bomb over Kokura "
 slug: atomicbomb
 wp_id: 17854
 wp_parent: 1022
 ---
+
+## August 9, 1945, Morning
 
 **At 9:45 AM on August 9**, the B-29 bomber "Bockscar," carrying the plutonium bomb "**Fat Man**," arrived over Kokura. "**Fat Man**" was an entirely different and far more powerful weapon compared to "**Little Boy**," the uranium bomb dropped on Hiroshima.
 

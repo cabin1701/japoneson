@@ -26,6 +26,28 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
   </head>
   <body>
     <slot />
+    <script is:inline>
+      // Press page: click a thumbnail to view it enlarged (simple lightbox)
+      document.addEventListener('DOMContentLoaded', () => {
+        const gallery = document.querySelector('main.page-press article');
+        if (!gallery) return;
+        const box = document.createElement('div');
+        box.className = 'press-lightbox';
+        const big = document.createElement('img');
+        box.appendChild(big);
+        document.body.appendChild(box);
+        gallery.querySelectorAll('img').forEach((img) => {
+          img.addEventListener('click', () => {
+            big.src = img.currentSrc || img.src;
+            box.classList.add('open');
+          });
+        });
+        box.addEventListener('click', () => box.classList.remove('open'));
+        document.addEventListener('keydown', (e) => {
+          if (e.key === 'Escape') box.classList.remove('open');
+        });
+      });
+    </script>
   </body>
 </html>
 
@@ -832,5 +854,55 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     color: inherit;           /* 色（調整欄） */
     font-family: inherit;     /* フォント（調整欄） */
     margin: 1.25rem 0 0.5rem;
+  }
+
+  /* === Press page: simple clickable thumbnail gallery (EN/ES common) === */
+  main.page-press article p {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    max-width: 1000px;
+    margin: 2rem auto;
+  }
+  main.page-press article img {
+    width: 100%;
+    height: 200px;
+    max-width: none;
+    object-fit: cover;
+    object-position: top;
+    margin: 0;
+    cursor: zoom-in;
+    border-radius: 2px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+    transition: transform 0.15s ease;
+  }
+  main.page-press article img:hover {
+    transform: scale(1.03);
+  }
+  @media (max-width: 768px) {
+    main.page-press article p {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  /* Lightbox overlay (created by inline script on press pages) */
+  .press-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.85);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+    padding: 2rem;
+  }
+  .press-lightbox.open {
+    display: flex;
+  }
+  .press-lightbox img {
+    max-width: 90vw;
+    max-height: 90vh;
+    object-fit: contain;
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.5);
   }
 </style>

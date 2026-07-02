@@ -1,5 +1,5 @@
 ---
-title: "Press"
+title: "Prensa"
 slug: press
 wp_id: 21759
 wp_parent: 731

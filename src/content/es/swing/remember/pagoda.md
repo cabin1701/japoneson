@@ -1,11 +1,11 @@
 ---
-title: "MOJI | La Pagoda de la Paz Mundial de Moji"
+title: "MOJI, MEKARI"
 slug: pagoda
 wp_id: 17906
 wp_parent: 1022
 ---
 
-## MOJI, MEKARI La Pagoda de la Paz Mundial
+## La Pagoda de la Paz Mundial
 
 ![](/images/wp/2024/04/pagoda01.jpg)
 

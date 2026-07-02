@@ -10,6 +10,7 @@ const otherLangLabel = lang === 'en' ? 'Español' : 'English';
 
 type NavItem = {
   label: string;
+  labelEs?: string;       // Spanish label; falls back to `label` when absent
   path?: string;          // relative to prefix (e.g. 'about/'); omit for header-only items
   href?: string;          // absolute URL override
   children?: NavItem[];
@@ -18,9 +19,10 @@ type NavItem = {
 const nav: NavItem[] = [
   {
     label: 'About',
+    labelEs: 'Sobre',
     path: 'about/',
     children: [
-      { label: 'Press', path: 'about/press/' },
+      { label: 'Press', labelEs: 'Prensa', path: 'about/press/' },
 
     ],
   },
@@ -39,7 +41,7 @@ const nav: NavItem[] = [
       { label: "I'll Be Seeing You, Mr. Leonard Gaskin", path: 'swing/leonard-gaskin/' },
       { label: 'Thanks for the Memory', path: 'swing/memory/' },
       {
-        label: 'Wartime and Postwar Kitakyushu',
+        label: 'We Remember You',
         path: 'swing/remember/',
         children: [
           { label: 'Introduction', path: 'swing/remember/preface/' },
@@ -53,27 +55,29 @@ const nav: NavItem[] = [
           { label: 'Toward the Future / Seina', path: 'swing/remember/future/' },
         ],
       },
-      { label: '"For The Boys" — Tribute to Monica Lewis', path: 'swing/for-the-boys/' },
+      { label: '"For The Boys" — Tribute to Monica Lewis', labelEs: '"For The Boys" — Tributo a Monica Lewis', path: 'swing/for-the-boys/' },
     ],
   },
   { label: 'JAPONÉSON', path: 'japoneson/' },
   {
     label: 'Mystery',
+    labelEs: 'Misterio',
     path: 'mystery/',
     children: [
       {
         label: "The General's Shadow",
+        labelEs: 'La Sombra del General',
         path: 'mystery/macarthur/',
         children: [
-          { label: 'The 24th Infantry Division', path: 'mystery/macarthur/korea-24th/' },
-          { label: 'The Black Soldiers', path: 'mystery/macarthur/korea-black-soldiers/' },
+          { label: 'The 24th Infantry Division', labelEs: 'La 24.ª División de Infantería', path: 'mystery/macarthur/korea-24th/' },
+          { label: 'The Black Soldiers', labelEs: 'Los Soldados Negros', path: 'mystery/macarthur/korea-black-soldiers/' },
           { label: '— David Valley', path: 'mystery/macarthur/david-valley/' },
           { label: '— Donald Versaw', path: 'mystery/macarthur/donald-versaw/' },
         ],
       },
-      { label: 'Meiji', path: 'mystery/meiji/' },
-      { label: 'Heike', path: 'mystery/hieke/' },
-      { label: 'Ancient', path: 'mystery/ancient/' },
+      { label: 'Meiji', labelEs: 'La Restauración Meiji', path: 'mystery/meiji/' },
+      { label: 'Heike', labelEs: 'La Historia de los Heike', path: 'mystery/hieke/' },
+      { label: 'Ancient', labelEs: 'Susurros Antiguos', path: 'mystery/ancient/' },
     ],
   },
   {
@@ -119,18 +123,23 @@ const nav: NavItem[] = [
     label: 'Cupie Danny',
     path: 'cupie/',
     children: [
-      { label: 'Gallery — Musicians & Celebrities', path: 'cupie/gallery-01/' },
-      { label: 'Gallery — Family & Friends', path: 'cupie/gallery-02/' },
-      { label: 'Gallery — Adventure', path: 'cupie/gallery-03/' },
-      { label: 'Theater', path: 'cupie/theater/' },
+      { label: 'Gallery — Musicians & Celebrities', labelEs: 'Galería — Músicos y Celebridades', path: 'cupie/gallery-01/' },
+      { label: 'Gallery — Family & Friends', labelEs: 'Galería — Familia y Amigos', path: 'cupie/gallery-02/' },
+      { label: 'Gallery — Adventure', labelEs: 'Galería — Aventura', path: 'cupie/gallery-03/' },
+      { label: 'Theater', labelEs: 'Teatro', path: 'cupie/theater/' },
     ],
   },
-  { label: 'Essay', path: 'essay/' },
+  { label: 'Essay', labelEs: 'Ensayos', path: 'essay/' },
 ];
 
 function resolve(item: NavItem): string {
   if (item.href) return item.href;
   return item.path ? `${prefix}${item.path}` : '#';
+}
+
+// Show Spanish label on ES pages when provided; otherwise fall back to English.
+function label(item: NavItem): string {
+  return lang === 'es' && item.labelEs ? item.labelEs : item.label;
 }
 ---
 
@@ -138,28 +147,26 @@ function resolve(item: NavItem): string {
   <div class="header-inner">
     <div class="logo-row">
       <a class="logo" href={prefix}>Shoko "Seina" Shiraishi</a>
-      {lang === 'en'
-        ? <span class="lang-link lang-link-disabled" aria-disabled="true">Español — próximamente</span>
-        : <a class="lang-link" href={`${base}${otherLang}/`}>{otherLangLabel}</a>}
+      <a class="lang-link" href={`${base}${otherLang}/`}>{otherLangLabel}</a>
     </div>
     <nav aria-label="Primary" class="primary-nav">
       <ul class="nav-root">
         {nav.map((n) => (
           <li class={n.children ? 'has-sub' : ''}>
             <a href={resolve(n)}>
-              {n.label}{n.children && <span class="caret"> ▾</span>}
+              {label(n)}{n.children && <span class="caret"> ▾</span>}
             </a>
             {n.children && (
               <ul class="sub">
                 {n.children.map((c) => (
                   <li class={c.children ? 'has-sub' : ''}>
                     <a href={resolve(c)}>
-                      {c.label}{c.children && <span class="caret-r">›</span>}
+                      {label(c)}{c.children && <span class="caret-r">›</span>}
                     </a>
                     {c.children && (
                       <ul class="sub sub-2">
                         {c.children.map((g) => (
-                          <li><a href={resolve(g)}>{g.label}</a></li>
+                          <li><a href={resolve(g)}>{label(g)}</a></li>
                         ))}
                       </ul>
                     )}

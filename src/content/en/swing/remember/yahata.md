@@ -1,11 +1,11 @@
 ---
-title: "The Great Yahata Air Raid | August 8, 1945"
+title: "The Great Yahata Air Raid "
 slug: yahata
 wp_id: 17840
 wp_parent: 1022
 ---
 
-## The Great Yahata Air Raid | August 8, 1945
+## August 8, 1945
 
 The target was a residential area where many employees of the Yawata Steel Works and their families lived. The areas currently known as Edamitsu, Chuo, Ogura, and Maeda in Yahatahigashi Ward were reduced to ashes. According to the *Yawata City History (Sequel)* and *Kitakyushu City History*, there were approximately 2,500 casualties, 52,562 people affected, and approximately 14,000 homes damaged or destroyed. According to the *Japanese Urban War Damage Map* (edited by the First Ministry of Demobilization), the death toll was 1,785. (Source:  [Nishinippon Shimbun Word Box](https://www.nishinippon.co.jp/wordbox/6295/))
 

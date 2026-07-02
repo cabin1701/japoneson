@@ -1,11 +1,15 @@
 ---
-title: "MOJI | Shipping for Southern Battlefields / Air Raid /Arriving of POWs"
+title: "MOJI"
 slug: moji
 wp_id: 17810
 wp_parent: 1022
 ---
 
-## Departing from Moji Port to the battlefield
+## Shipping for Southern Battlefields <br> Air Raid <br>Arriving of POWs
+
+---
+
+### Departing from Moji Port to the battlefield
 
 Moji Port, located in close proximity to mainland China, flourished as a major coal shipping hub before the war. It was a bustling trading port where domestic firms congregated. However, during the war, it transformed into a critical base for supplying personnel and resources to the front lines. Between January 1942 and August 1945, during the Pacific War, 761 transport ships departed from Moji. While other ports like Yokohama and Kobe were also used, Moji Port accounted for approximately 45% of all military vessels departing from Japan.
 
@@ -41,9 +45,10 @@ At that time, the city was so overwhelmed with soldiers awaiting deployment that
 **■ Moji City Air Raid: June 29, 1945**  
 The urban areas of Moji and Shimonoseki serve as transportation gateways between Kitakyushu and southern Honshu, significantly impacting industrial production. As highly concentrated and flammable urban targets, they were designated as high-priority objectives. Striking these centers was intended to cripple the economic capacity of the entire industrial complex within a 10-mile radius.
 
-*Photo Captions: Left - Moji city area before the air raid / Right - U.S. military reconnaissance photograph taken on June 29, 1945, to assess the effectiveness of the raid. The white areas indicate scorched earth.* (owned by the Maxwell Air Force Base Historical Archives)
 
 [![](/images/wp/2024/04/moji02-1-1024x394.jpg)](/images/wp/2024/04/moji02-1.jpg)
+
+*Photo Captions: Left - Moji city area before the air raid / Right - U.S. military reconnaissance photograph taken on June 29, 1945, to assess the effectiveness of the raid. The white areas indicate scorched earth.* (owned by the Maxwell Air Force Base Historical Archives)
 
 The destruction of these two cities and their complex transportation infrastructure severely disrupted Japan’s economy and military production. Ferry facilities were insufficient to replace damaged railway networks for several weeks. Disrupting the 10-hour freight transport link (via the Kanmon Tunnel and its marshaling yard) had significant consequences, effectively eliminating alternatives like piers and water transport.
 
@@ -61,9 +66,11 @@ Other critical effects included:
 
 During World War II, the Japanese military captured approximately 130,000 Allied soldiers (American, British, Dutch, Australian, Canadian, Indian, New Zealander, etc.) across the Asia-Pacific as prisoners of war. More than 30,000 were transported to Japan by ship to address domestic labor shortages. Nearly 70 POW transport vessels of various sizes arrived in Japan, the majority of which entered Moji Port. From there, POWs were sent by train from Mojiko Station or Shimonoseki Station to various labor sites across Japan, including coal mines, shipyards, and factories.
 
-Moji Port just after the end of the war (U.S. National Archives)
+
 
 ![](/images/wp/2024/04/bdc2957c1cb038467124b44d9d9535c8-230x300.jpg)
+
+Moji Port just after the end of the war (U.S. National Archives)
 
 ##### **Prisoners Arriving at Moji Port on "Hell Ships"**
 
@@ -82,6 +89,8 @@ This camp opened on November 27, 1942, utilizing the YMCA building in Kusunoki-c
 Moji POW camp immediately after the end of the war | Moji YMCA
 
 ![](/images/wp/2024/04/POWMoji_500-300x257.jpg)
+
+Moji POW camp immediately after the end of the war | Moji YMCA　
 
 Approximately 300 prisoners, including British, American, and Dutch nationals, were interred here. They were primarily forced into hard labor as cargo handlers at Moji Port and the warehouses surrounding Sotohama Station. A former British POW who spent two and a half years in Moji recalled suffering from brutal labor, hunger, and violence from guards, though he also noted that some Japanese individuals showed kindness.
 
