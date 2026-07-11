@@ -1,5 +1,13 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { slug as githubSlug } from 'github-slugger';
+
+function generateEssayId({ entry }: { entry: string }) {
+  const parts = entry.split('/');
+  const top = parts[0];
+  const filename = parts[parts.length - 1].replace(/\.md$/, '');
+  return `${top}/${githubSlug(filename)}`;
+}
 
 const en = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/en' }),
@@ -55,7 +63,7 @@ const es = defineCollection({
 });
 
 const essay = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/essay' }),
+  loader: glob({ pattern: '**/*.md', base: './src/content/essay', generateId: generateEssayId }),
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
