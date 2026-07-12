@@ -13,7 +13,7 @@ const base = import.meta.env.BASE_URL;
 const home = `${base}${lang}/`;
 ---
 
-<nav class="breadcrumb" aria-label="Breadcrumb">
+<nav class="breadcrumb" aria-label="Breadcrumb" data-pagefind-ignore>
   <ol>
     <li><a href={home}>HOME</a></li>
     {trail.slice(0, -1).map((c) => (

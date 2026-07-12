@@ -1,0 +1,167 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import EssaySidebar from '../../components/EssaySidebar.astro';
+
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title="Search – JAPONÉSON" lang="en">
+  <Header lang="en" />
+
+  <div class="essay-shell">
+    <main class="essay-list">
+      <header class="search-header">
+        <h1 class="search-title">Search</h1>
+        <form class="search-form" role="search" id="search-form">
+          <input
+            id="search-input"
+            type="search"
+            name="q"
+            placeholder="search titles and full text…"
+            autocomplete="off"
+          />
+        </form>
+        <p class="search-status" id="search-status"></p>
+      </header>
+
+      <ul class="search-results" id="search-results"></ul>
+    </main>
+
+    <EssaySidebar lang="en" />
+  </div>
+
+  <Footer lang="en" />
+</Layout>
+
+<script define:vars={{ base, lang: 'en' }}>
+  async function init() {
+    const { search } = await import(`${base}pagefind/pagefind.js`);
+    await search.init?.();
+
+    const input = document.getElementById('search-input');
+    const status = document.getElementById('search-status');
+    const results = document.getElementById('search-results');
+
+    async function run(q) {
+      results.innerHTML = '';
+      if (!q) {
+        status.textContent = '';
+        return;
+      }
+      status.textContent = 'Searching…';
+      const res = await search(q, { filters: { lang } });
+      status.textContent = `${res.results.length} result${res.results.length === 1 ? '' : 's'} for "${q}"`;
+      for (const r of res.results) {
+        const data = await r.data();
+        const li = document.createElement('li');
+        li.className = 'search-item';
+        li.innerHTML = `
+          <a href="${data.url}" class="search-link">
+            <span class="search-link-title">${data.meta.title || data.url}</span>
+            <span class="search-excerpt">${data.excerpt}</span>
+          </a>`;
+        results.appendChild(li);
+      }
+    }
+
+    const params = new URLSearchParams(location.search);
+    const initialQ = params.get('q') || '';
+    input.value = initialQ;
+    run(initialQ);
+
+    let t;
+    input.addEventListener('input', () => {
+      clearTimeout(t);
+      const q = input.value;
+      const url = new URL(location.href);
+      if (q) url.searchParams.set('q', q);
+      else url.searchParams.delete('q');
+      history.replaceState(null, '', url);
+      t = setTimeout(() => run(q), 150);
+    });
+
+    document.getElementById('search-form').addEventListener('submit', (e) => e.preventDefault());
+  }
+  init();
+</script>
+
+<style>
+  .essay-shell {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3.5rem 1.5rem 5rem;
+    display: grid;
+    grid-template-columns: 1fr 260px;
+    gap: 3.5rem;
+  }
+  @media (max-width: 900px) {
+    .essay-shell {
+      grid-template-columns: 1fr;
+    }
+  }
+  .search-header {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+  .search-title {
+    font-size: 1.8rem;
+    margin: 0 0 1rem;
+    font-weight: 600;
+    color: var(--color-navy, #213265);
+  }
+  .search-form input {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 1rem;
+    padding: 0.6rem 0.9rem;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+  }
+  .search-form input:focus {
+    outline: none;
+    border-color: var(--color-accent, #d00000);
+  }
+  .search-status {
+    margin: 0.75rem 0 0;
+    font-style: italic;
+    font-size: 0.85rem;
+    opacity: 0.7;
+  }
+  .search-results {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+  .search-item {
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.12);
+    padding-bottom: 1rem;
+  }
+  .search-item:last-child { border-bottom: none; }
+  .search-link {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    text-decoration: none;
+    color: inherit;
+  }
+  .search-link:hover .search-link-title { text-decoration: underline; }
+  .search-link-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--color-accent, #d00000);
+  }
+  .search-excerpt {
+    font-size: 0.9rem;
+    opacity: 0.8;
+  }
+  .search-excerpt :global(mark) {
+    background: rgba(208, 0, 0, 0.18);
+    color: inherit;
+  }
+</style>

@@ -7,11 +7,14 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && pagefind --site dist --output-path dist/pagefind",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
     "astro": "^7.0.2"
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.2"
   }
 }

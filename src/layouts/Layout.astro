@@ -24,7 +24,7 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
       href="https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@400;500;600&family=Baumans&family=Changa:wght@400;500;600&family=Cherry+Swash:wght@400;700&family=Cinzel:wght@400;500;600;700&family=Cinzel+Decorative:wght@400;700&family=Gabriela&family=Pathway+Gothic+One&family=Simonetta:ital,wght@0,400;0,900;1,400;1,900&family=Ysabeau+SC:wght@400;500;600;700&family=Cormorant+Infant:ital,wght@0,400;0,700;1,400;1,700&family=Fredoka:wght@400;500;600;700&family=Akaya+Telivigala&family=Gafata&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap"
     />
   </head>
-  <body>
+  <body data-pagefind-filter={`lang:${lang}`}>
     <slot />
     <script is:inline>
       // Press page: click a thumbnail to view it enlarged (simple lightbox)

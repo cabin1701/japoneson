@@ -18,6 +18,7 @@ const recent = all
 
 const slugOf = (id: string) => id.replace(/^(en|es)\//, '');
 const essayHref = lang === 'es' ? `${base}es/essay/` : `${base}en/essay/`;
+const searchHref = lang === 'es' ? `${base}es/search/` : `${base}en/search/`;
 
 const fmtDate = (d: Date) =>
   lang === 'es'
@@ -83,7 +84,7 @@ const monthLabel = (key: string) => {
 };
 ---
 
-<aside class="essay-sidebar" lang={lang}>
+<aside class="essay-sidebar" lang={lang} data-pagefind-ignore>
   <section class="side-section">
     <h3 class="side-title">{labels.about}</h3>
     <p class="side-about">{aboutCopy}</p>
@@ -154,7 +155,7 @@ const monthLabel = (key: string) => {
 
   <section class="side-section">
     <h3 class="side-title">{labels.search}</h3>
-    <form class="side-search" action={essayHref} method="get" role="search">
+    <form class="side-search" action={searchHref} method="get" role="search">
       <input
         type="search"
         name="q"
