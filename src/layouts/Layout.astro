@@ -1,9 +1,16 @@
 ---
 interface Props {
   title?: string;
+  description?: string;
   lang?: 'en' | 'es';
 }
-const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
+const {
+  title = 'Shoko "Seina" Shiraishi',
+  description = 'Shoko "Seina" Shiraishi — writer, musician, and creator based in Japan. Essays, music, mystery research, and stories.',
+  lang = 'en',
+} = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImageURL = new URL(`${import.meta.env.BASE_URL}favicon.png`, Astro.site);
 ---
 
 <!doctype html>
@@ -17,6 +24,17 @@ const { title = 'Shoko "Seina" Shiraishi', lang = 'en' } = Astro.props;
     <link rel="shortcut icon" href={`${import.meta.env.BASE_URL}favicon.ico`} />
     <link rel="apple-touch-icon" href={`${import.meta.env.BASE_URL}favicon.png`} />
     <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:image" content={ogImageURL} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageURL} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
