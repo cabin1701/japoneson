@@ -9,7 +9,7 @@ wp_parent: 19793
 
 ## Because of You
 
-## The Story of "Hope" & "Regenerate”
+## The Story of "Hope" & "Rebirth"
 
 My only goal was to see him again, to say thank you and to dance with him, to hear him say that he had made progress. | Kyoko
 

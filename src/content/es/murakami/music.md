@@ -57,7 +57,7 @@ Paulo y Su Elite
 
 ### [YOU DON'T KNOW WHAT LOVE IS](https://en.japoneson.com/murakami/music/you-dont-know-what-love-is)
 
-Xiomara Laguart  
+Xiomara Laugart  
 （1993）  
 Spanish Lyrics by César Portillo de la Luz
 

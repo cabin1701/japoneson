@@ -37,7 +37,7 @@ I wanted José Luis to play a flute that could produce good sounds, and the thou
 
 ### [Cuban Music](https://en.japoneson.com/murakami/music)
 
-Murakami Lable
+Murakami Label
 
 [![](/images/wp/2024/02/kyoko02.jpg)](https://en.japoneson.com/murakami/kyoko)
 

@@ -41,7 +41,7 @@ NG La Banda
 
 [![](/images/wp/2024/01/1993-live.jpg)](https://en.japoneson.com/murakami/music/1993_live_in-japan)
 
-### [Live In Japan 翻訳](https://en.japoneson.com/murakami/music/1993_live_in-japan)
+### [Live In Japan](https://en.japoneson.com/murakami/music/1993_live_in-japan)
 
 NG La Banda   
 （1993）
@@ -57,7 +57,7 @@ Paulo y Su Elite
 
 ### [YOU DON'T KNOW WHAT LOVE IS](https://en.japoneson.com/murakami/music/you-dont-know-what-love-is)
 
-Xiomara Laguart  
+Xiomara Laugart  
 （1993）  
 Spanish Lyrics by César Portillo de la Luz
 
@@ -114,7 +114,7 @@ Original Sound Track
 
 ### [Historia de un Amor](https://en.japoneson.com/murakami/music/1997-historia-de-un-amor)
 
-Javiel Olmo  
+Javier Olmo  
 （1996）
 
 [![](/images/wp/2024/02/1997-los-van-van.jpg)](https://en.japoneson.com/murakami/music/1997_gentle_and_sexy)
@@ -135,7 +135,7 @@ NG La Banda
 
 ### [Son al Son](https://en.japoneson.com/murakami/music/son-al-son)
 
-Javiel Olmo  
+Javier Olmo  
 （1998）
 
 ### **2001-2011**

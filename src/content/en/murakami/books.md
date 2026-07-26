@@ -5,7 +5,7 @@ wp_id: 15953
 wp_parent: 19793
 ---
 
-**RYU MURAKAMI's writings have been published more than 100 times since 1976 in Japan.****This is a list translated and published worldwide.**
+**RYU MURAKAMI's writings have been published more than 100 times since 1976 in Japan.** **This is a list translated and published worldwide.**
 
 [English](https://en.japoneson.com/en/ryu/works/books#english) - [Spanish](https://en.japoneson.com/en/ryu/works/books#spanish) - [French](https://en.japoneson.com/en/ryu/works/books#french) - [Italian](https://en.japoneson.com/en/ryu/works/books#italian) - [German](https://en.japoneson.com/en/ryu/works/books#german) - [Russian](https://en.japoneson.com/en/ryu/works/books#russian)  
 [Turkish](https://en.japoneson.com/en/ryu/works/books#turkish) - [Greek](https://en.japoneson.com/en/ryu/works/books#greek) - [Croatia](https://en.japoneson.com/en/ryu/works/books#croatia) - [Portugues](https://en.japoneson.com/en/ryu/works/books#portugues)- [Catalan](https://en.japoneson.com/en/ryu/works/books#catalan) - [Dutch](https://en.japoneson.com/en/ryu/works/books#dutch)
@@ -90,8 +90,10 @@ Monologi o naslazhdenii, apatii i smerti
 
 Yok Yere…  
 Seffaf Mavi  
-Gecenin Dibi  
-Romanian  
+Gecenin Dibi
+
+## Romanian
+
 În supa miso
 
 ## Greek
