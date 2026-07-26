@@ -7,4 +7,7 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://japoneson.com',
   integrations: [sitemap()],
+  redirects: {
+    '/es/ryu/cuba': '/es/murakami/',
+  },
 });
