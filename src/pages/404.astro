@@ -6,29 +6,46 @@ import Footer from '../components/Footer.astro';
 
 <Layout title='404 — Shoko "Seina" Shiraishi' lang="en">
   {/*
-    旧 WordPress サイトの入れ子だった /ryu/* ツリー（introduction, works/books,
-    works/music, works/cinema, cuba/tosco, cuba/kyoko …）は、新サイトでは
-    /{lang}/murakami/ の 4 ページ（books / music / kyoko / tosco）＋ハブに集約された。
-    検索エンジンに残る旧 URL を、キーワードで最適な新ページへ寄せる。該当なければハブ。
-    GitHub Pages は未解決パスに /404.html を返すため、ここが受け皿になる。
+    旧 WordPress サイトの URL を新構造へ寄せる受け皿。
+    GitHub Pages は未解決パスに /404.html を返すため、ここがフォールバックになる。
+
+    (1) 旧 /ryu/* ツリー（introduction, works/books, works/music, cuba/tosco,
+        cuba/kyoko …）→ 新サイトでは /{lang}/murakami/ の 4 ページ
+        （books / music / kyoko / tosco）＋ハブに集約。キーワードで最適ページへ、
+        該当なければハブへ。
+    (2) 旧 /angelsswing/* → スラッグ短縮で /{lang}/swing/* に。構造は 1:1 なので
+        パスを保持したまま angelsswing を swing に置換。
+    言語プレフィックスが無い／日本語(ja)の旧 URL は英語版へ寄せる。
   */}
   <script is:inline>
     (function () {
       var p = decodeURIComponent(location.pathname).toLowerCase();
-      // 旧 Ryu Murakami ツリーだけを対象にする（/ryu というパスセグメントを含む）
-      if (!/(^|\/)ryu(\/|$)/.test(p)) return;
-
       var lm = p.match(/^\/(es|en)\//);
-      var lang = lm ? lm[1] : 'en'; // 言語プレフィックスが無い／ja の旧 URL は英語版へ
-      var base = '/' + lang + '/murakami/';
+      var lang = lm ? lm[1] : 'en';
 
-      var dest = base;
-      if (p.indexOf('tosco') !== -1) dest = base + 'tosco/';
-      else if (p.indexOf('kyoko') !== -1) dest = base + 'kyoko/';
-      else if (p.indexOf('music') !== -1) dest = base + 'music/';
-      else if (p.indexOf('books') !== -1 || p.indexOf('reference') !== -1) dest = base + 'books/';
+      // (1) 旧 angelsswing/* → swing/*（パス保持、angelsswing を丸ごとセグメント一致）
+      //     ※ ryu 判定より先に。angelsswing/dream/ryu は swing 配下のエッセイであって
+      //       Ryu Murakami セクションではないため、ここで先に捕まえる。
+      var am = p.match(/\/angelsswing(\/.*)?$/);
+      if (am) {
+        var rest = am[1] || '';
+        var d = '/' + lang + '/swing' + rest;
+        if (d.charAt(d.length - 1) !== '/') d += '/';
+        location.replace(d);
+        return;
+      }
 
-      location.replace(dest);
+      // (2) 旧 Ryu Murakami ツリー（/ryu というパスセグメントを含む）
+      if (/(^|\/)ryu(\/|$)/.test(p)) {
+        var base = '/' + lang + '/murakami/';
+        var dest = base;
+        if (p.indexOf('tosco') !== -1) dest = base + 'tosco/';
+        else if (p.indexOf('kyoko') !== -1) dest = base + 'kyoko/';
+        else if (p.indexOf('music') !== -1) dest = base + 'music/';
+        else if (p.indexOf('books') !== -1 || p.indexOf('reference') !== -1) dest = base + 'books/';
+        location.replace(dest);
+        return;
+      }
     })();
   </script>
 
