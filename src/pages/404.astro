@@ -1,0 +1,47 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<Layout title='404 — Shoko "Seina" Shiraishi' lang="en">
+  {/*
+    旧 WordPress サイトの入れ子だった /ryu/* ツリー（introduction, works/books,
+    works/music, works/cinema, cuba/tosco, cuba/kyoko …）は、新サイトでは
+    /{lang}/murakami/ の 4 ページ（books / music / kyoko / tosco）＋ハブに集約された。
+    検索エンジンに残る旧 URL を、キーワードで最適な新ページへ寄せる。該当なければハブ。
+    GitHub Pages は未解決パスに /404.html を返すため、ここが受け皿になる。
+  */}
+  <script is:inline>
+    (function () {
+      var p = decodeURIComponent(location.pathname).toLowerCase();
+      // 旧 Ryu Murakami ツリーだけを対象にする（/ryu というパスセグメントを含む）
+      if (!/(^|\/)ryu(\/|$)/.test(p)) return;
+
+      var lm = p.match(/^\/(es|en)\//);
+      var lang = lm ? lm[1] : 'en'; // 言語プレフィックスが無い／ja の旧 URL は英語版へ
+      var base = '/' + lang + '/murakami/';
+
+      var dest = base;
+      if (p.indexOf('tosco') !== -1) dest = base + 'tosco/';
+      else if (p.indexOf('kyoko') !== -1) dest = base + 'kyoko/';
+      else if (p.indexOf('music') !== -1) dest = base + 'music/';
+      else if (p.indexOf('books') !== -1 || p.indexOf('reference') !== -1) dest = base + 'books/';
+
+      location.replace(dest);
+    })();
+  </script>
+
+  <Header lang="en" />
+  <main class="container" style="min-height: 50vh; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 4rem 1rem;">
+    <h1 style="font-size: clamp(3rem, 10vw, 6rem); margin: 0;">404</h1>
+    <p style="font-size: 1.1rem; margin: 0.5rem 0 2rem;">
+      Page not found. · Página no encontrada.
+    </p>
+    <p style="display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: center;">
+      <a href="/en/">English home</a>
+      <a href="/es/">Inicio en español</a>
+    </p>
+  </main>
+  <Footer lang="en" />
+</Layout>
