@@ -6,6 +6,7 @@ import Footer from '../../components/Footer.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import ProjectHero from '../../components/ProjectHero.astro';
 import { buildPath, buildBreadcrumb } from '../../lib/pageTree';
+import { deriveExcerpt } from '../../lib/excerpt';
 
 export async function getStaticPaths() {
   // URL paths that have their own crafted index.astro page (avoid route collision).
@@ -47,9 +48,10 @@ export async function getStaticPaths() {
 const { entry, all } = Astro.props;
 const { Content } = await render(entry);
 const trail = buildBreadcrumb(entry, all, import.meta.env.BASE_URL);
+const metaDescription = deriveExcerpt(entry.body);
 ---
 
-<Layout title={`${entry.data.title} — Japonéson`} lang="es">
+<Layout title={`${entry.data.title} — Japonéson`} lang="es" description={metaDescription}>
   <Header lang="es" />
   {(entry.data.hero_image || (entry.data.hero_slideshow && entry.data.hero_slideshow.length > 0)) && (
     <ProjectHero
