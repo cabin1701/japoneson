@@ -5,7 +5,7 @@ wp_id: 15953
 wp_parent: 19793
 ---
 
-**Las obras de Ryu Murakami se han publicado más de 100 veces desde 1976 en Japón.****Esta es una lista de las traducciones publicadas en todo el mundo.**
+<strong>Las obras de Ryu Murakami se han publicado más de 100 veces desde 1976 en Japón.</strong><strong>Esta es una lista de las traducciones publicadas en todo el mundo.</strong>
 
 [Inglés](https://en.japoneson.com/en/ryu/works/books#english) - [Español](https://en.japoneson.com/en/ryu/works/books#spanish) - [Francés](https://en.japoneson.com/en/ryu/works/books#french) - [Italiano](https://en.japoneson.com/en/ryu/works/books#italian) - [Alemán](https://en.japoneson.com/en/ryu/works/books#german) - [Ruso](https://en.japoneson.com/en/ryu/works/books#russian)  
 [Turco](https://en.japoneson.com/en/ryu/works/books#turkish) - [Griego](https://en.japoneson.com/en/ryu/works/books#greek) - [Croata](https://en.japoneson.com/en/ryu/works/books#croatia) - [Portugués](https://en.japoneson.com/en/ryu/works/books#portugues)- [Catalán](https://en.japoneson.com/en/ryu/works/books#catalan) - [Neerlandés](https://en.japoneson.com/en/ryu/works/books#dutch)
