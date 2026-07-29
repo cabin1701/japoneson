@@ -11,6 +11,27 @@ const {
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImageURL = new URL(`${import.meta.env.BASE_URL}favicon.png`, Astro.site);
+
+// トップページにだけ Person を出す。
+// @id は cabin1701.com 側と同じ値を使う。別々の人物として2人分作らないため
+// （blog.cabin1701.com の記事はすべて author.url = https://cabin1701.com/ を指している）。
+const isHome = /^\/(en\/|es\/)?$/.test(Astro.url.pathname);
+const personJsonLd = isHome
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'Person',
+      '@id': 'https://cabin1701.com/#person',
+      name: 'Shoko Shiraishi',
+      alternateName: ['白石昌子', 'Seina', 'Captain Seina'],
+      url: 'https://japoneson.com/',
+      jobTitle: 'Writer',
+      sameAs: [
+        'https://cabin1701.com/',
+        'https://blog.cabin1701.com/',
+        'https://crystallize.jp/aroma/',
+      ],
+    }
+  : null;
 ---
 
 <!doctype html>
@@ -26,6 +47,10 @@ const ogImageURL = new URL(`${import.meta.env.BASE_URL}favicon.png`, Astro.site)
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
+
+    {personJsonLd && (
+      <script type="application/ld+json" set:html={JSON.stringify(personJsonLd)} />
+    )}
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
