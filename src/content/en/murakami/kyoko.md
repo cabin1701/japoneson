@@ -38,13 +38,13 @@ from "KYOKO's trajectory"
 
 ### [The “wounded Japanese” inside me](https://en.japoneson.com/murakami/kyoko/me)
 
-The ”wounded Japanese inside me'' was a "Japanese'' who felt a deep sense of guilt over the Pacific War, was unable to feel proud of his country, and was unable to love it. This is an essay that connects to “The New Other, Cuba“.
+The "wounded Japanese inside me" was a "Japanese" who felt a deep sense of guilt over the Pacific War, was unable to feel proud of his country, and was unable to love it. This is an essay that connects to “The New Other, Cuba”.
 
 [![](/images/wp/2026/05/kyoko-dancin-BW-e1779687636421-768x768.jpg)](https://en.japoneson.com/murakami/kyoko/boku/)
 
 ### ["KYOKO" is the story of Ryu Murakami, himself.](https://en.japoneson.com/murakami/kyoko/boku/)
 
-I felt myself returning to the"spirit" I had when I wrote "Almost Transparent Blue.''| Ryu Murakami
+I felt myself returning to the "spirit" I had when I wrote "Almost Transparent Blue."| Ryu Murakami
 
 ## Because of You
 

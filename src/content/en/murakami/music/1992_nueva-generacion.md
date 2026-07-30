@@ -54,13 +54,13 @@ Son is said to have originated in Santiago de Cuba in the east, but its origins 
 
 SON is basically based on the 3:2 clave and consists of guitar, tres guitar, bongos, pace, and trumpet.
 
-Other common ones include "guaracha", "mambo", and "cha cha cha", which has a faster tempo than son. "Bolero" is a slow ballad. The farmers' song "Guajira". "Conga" is considered to be the prototype of samba. There are songs such as ”danzon,'' which may be the prototype of tango.
+Other common ones include "guaracha", "mambo", and "cha cha cha", which has a faster tempo than son. "Bolero" is a slow ballad. The farmers' song "Guajira". "Conga" is considered to be the prototype of samba. There are songs such as "danzon," which may be the prototype of tango.
 
-Furthermore, when it comes to ”Son Cha'', ”Bolero Cha'', which are combinations of these, and ”Obatala'', ”Arara'', and ”Bembe'', which are used in Afro-religious ceremonies, I no longer know what they are.
+Furthermore, when it comes to "Son Cha", "Bolero Cha", which are combinations of these, and "Obatala", "Arara", and "Bembe", which are used in Afro-religious ceremonies, I no longer know what they are.
 
 Furthermore, when it comes to contemporary bands with many formations (NG is one of them), they often create new rhythms by themselves (a typical example is "Songo", created by Changuito, the genius percussionist of Los Van Van) and then become more and more confusing.
 
-From RUMBA to SON, one of the characteristics of Cuban music is the "montuno.'' There is even a category called "son montuno,'' which in Japanese means "calling,'' and in English, “call and response.''
+From RUMBA to SON, one of the characteristics of Cuban music is the "montuno." There is even a category called "son montuno," which in Japanese means "calling," and in English, “call and response."
 
 The response part is as important as the vocals of a solo singer.
 

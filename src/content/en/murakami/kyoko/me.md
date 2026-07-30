@@ -11,21 +11,21 @@ wp_parent: 17150
 
 
 
-This is my essay that connects to "[The New Other, Cuba](http://localhost:4321/en/murakami/kyoko/newother/)".
+This is my essay that connects to "[The New Other, Cuba](/en/murakami/kyoko/newother/)".
 
 I was born in Kitakyushu City, Fukuoka Prefecture in 1969, 17 years after Ryu Murakami was born in 1952 and 24 and a half years after the war ended. There were no military bases in the town where I grew up, and World War II seemed like a distant event that had no relation to me.
 
-I became involved in the history of World War II and the music of that era when I saw the movie ``The Glenn Miller Story'' in junior high school. I admired America and American music, so I went to New York when I was twenty. So I started studying singing. I lived in New York for most of the 1990s.
+I became involved in the history of World War II and the music of that era when I saw the movie "The Glenn Miller Story" in junior high school. I admired America and American music, so I went to New York when I was twenty. So I started studying singing. I lived in New York for most of the 1990s.
 
 "Angels Swing" was a project of World War II and American music. I met people through "Angels Swing", including American veterans and former honor guards of General MacArthur who was Supreme Commander for the Allied Powers during occupied Japan. and I became involved in POW (Prisoner of War) activities related to prisoners of war, I sang at a convention of the U.S. POWs who were captured in the Philippines, and I participated in several meetings. I also created a booklet about the war history of my hometown.
 
-Through these activities, I gradually came to realize the "wounded Japanese" within me. The ”wounded Japanese inside me'' was a "Japanese'' who felt a deep sense of guilt over the Pacific War, was unable to feel proud of his country, and was unable to love it.
+Through these activities, I gradually came to realize the "wounded Japanese" within me. The "wounded Japanese inside me" was a "Japanese" who felt a deep sense of guilt over the Pacific War, was unable to feel proud of his country, and was unable to love it.
 
 In 2014, I went to Cuba for the first time and stayed for three weeks. The following year, in 2015, I stayed there for two months. I then lived in Cuba for about two years from 2016 to 2018.
 
-For me, living in Cuba is like what life would have been like if Japan had not surrendered to the United States in the Pacific War. It was an "example'' life of one possibility. As I lived there, I came to understand what the Japanese had lost by surrendering, and what we had gained by surrendering. By understanding it, the knot comes undone. We are "liberated.''
+For me, living in Cuba is like what life would have been like if Japan had not surrendered to the United States in the Pacific War. It was an "example" life of one possibility. As I lived there, I came to understand what the Japanese had lost by surrendering, and what we had gained by surrendering. By understanding it, the knot comes undone. We are "liberated."
 
-Cuba was a country quite different from Japan. There, I got frustrated, angry, cried, and laughed at the differences in Cuban people and life in Cuba. Many differences between "new others'' (Cubans) and "myself'' (Japanese) stemmed from history, climate, customs, and beliefs. By recognizing the differences, one's identity as a Japanese person emerges.
+Cuba was a country quite different from Japan. There, I got frustrated, angry, cried, and laughed at the differences in Cuban people and life in Cuba. Many differences between "new others" (Cubans) and "myself" (Japanese) stemmed from history, climate, customs, and beliefs. By recognizing the differences, one's identity as a Japanese person emerges.
 
 Cuba is short on supplies but they have time.
 
@@ -39,9 +39,9 @@ In Cuba, there were many difficult and unpleasant things. My Cuban friends said,
 
 In Ryu's words, I think this means that "the amount of information increased dramatically" and "the world expanded."
 
-People who had never been around me until then, ways of thinking, ways of living, customs, food, laws, the country's system, the way of understanding music — everything "existing,'' everything "taken for granted,'' all the "anticipated differences'' that had existed until then were utterly destroyed, and I had no choice but to expand myself.
+People who had never been around me until then, ways of thinking, ways of living, customs, food, laws, the country's system, the way of understanding music — everything "existing," everything "taken for granted," all the "anticipated differences" that had existed until then were utterly destroyed, and I had no choice but to expand myself.
 
-And so, "I'' destroyed many of the things inside me, and regenerated them.
+And so, "I" destroyed many of the things inside me, and regenerated them.
 
 
 

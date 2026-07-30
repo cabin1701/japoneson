@@ -33,12 +33,12 @@ NG is a great band after all, and they did what I expected them to do.
 
 "I first played the violin at the Conservatorium (music school), but it didn't work out at all and I was always crying. It must have been really painful because I was crying. One day, my wind instrument professor told me that my lips were suited for the flute. So I started playing the flute. ”
 
-"After the revolution, many classical musicians from the former Eastern Europe came to Cuba and began teaching classical music of a very high standard to a select group of young people. Of course, all schools do not require tuition fees. I enjoyed the process of improving my instrument, but I was also frustrated because I could only play classical music.''
+"After the revolution, many classical musicians from the former Eastern Europe came to Cuba and began teaching classical music of a very high standard to a select group of young people. Of course, all schools do not require tuition fees. I enjoyed the process of improving my instrument, but I was also frustrated because I could only play classical music."
 
 "As you know well, the tradition of Cuban music is extremely rich. There are all kinds of rhythms, and the songs are really beautiful. But we were forbidden to play Cuban music.  
 Thinking about it now, I may have been right. Because I was thoroughly exposed to classical music, I, as well as the other NG members, were able to acquire extremely advanced techniques. ”
 
-"A funny thing happened. People always say that Cuban music is fun. Because it's fun to play music, right? We can't play music in a sad mood. , my professor told me, "Play it with sadness.'' I couldn't do that, because no matter how sad a song is, it's fun to play.''
+"A funny thing happened. People always say that Cuban music is fun. Because it's fun to play music, right? We can't play music in a sad mood. , my professor told me, "Play it with sadness." I couldn't do that, because no matter how sad a song is, it's fun to play."
 
 "Still, one day, I really wanted to play Cuban music. So I started playing Cuban music with my friends, unbeknownst to my professor. When that was discovered, I was banned from going out on holidays. Because classical music isn't our music.
 
@@ -56,7 +56,7 @@ NG La Banda finished recording a total of nine songs, including six new songs, i
 
 "NG's drums, synths, piano, bass, and alto saxophones are all people who would be leaders and have their own bands in other countries.But in Cuba, it's more convenient to be in a supergroup, so we've gathered in NG for now. That's why you can do things like that. ”
 
-"Jazz influenced me a lot. I have performed at jazz festivals in many countries. The way I studied jazz was that one person would record the radio coming in from Miami, and then everyone would listen to and copy it. But that's not to say jazz is everything.''
+"Jazz influenced me a lot. I have performed at jazz festivals in many countries. The way I studied jazz was that one person would record the radio coming in from Miami, and then everyone would listen to and copy it. But that's not to say jazz is everything."
 
 "I once saw a video of a Miles Davis concert, and during one of his solo parts, Miles turned his back to the audience and played the trumpet. I couldn't believe it. Who was he playing for? It's for everyone. It is not playing it for myself.”
 
@@ -84,7 +84,7 @@ NG's bassist, Feliciano Arango, is a super energetic guy who makes you realize t
 
 I have never met a person with so much energy. Not only is he energetic, but he's also smart. He has the face and body of a middleweight boxer rather than a bassist. He plays great, eats well, drinks well, makes those around him laugh, and laughs himself.
 
-When I once asked him, "Why are you so energetic?'' he answered, "Because I'm human.''
+When I once asked him, "Why are you so energetic?" he answered, "Because I'm human."
 
 Great answer.
 

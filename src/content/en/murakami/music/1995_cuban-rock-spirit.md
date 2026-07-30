@@ -30,7 +30,7 @@ All Songs Written by José Luis Cortés
 
 ## Liner Notes
 
-This is NG La Banda's third studio recording in Japan. The concept of the new recording is "rock spirit" and "cool". In the past, great rock performances had an "awakening'' at the end of concentration and enthusiasm.
+This is NG La Banda's third studio recording in Japan. The concept of the new recording is "rock spirit" and "cool". In the past, great rock performances had an "awakening" at the end of concentration and enthusiasm.
 
 In other words, playing technique and density are the essence of "cool." Cool salsa. I think it points to the future of Latin music.
 
