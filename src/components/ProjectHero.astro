@@ -25,6 +25,9 @@ interface Props {
   // imageAlt が渡された時だけ、同じ画像を <img> として敷き直す（見た目は同じ）。
   // 渡さなければ従来どおり背景画像のまま。既存ページを壊さないための切り替え。
   imageAlt?: string;
+  // 2026-07-31 追加。文字の影。既定は黒（従来どおり）。
+  // 'light' にすると白い光になる。明るい写真に濃い影を落とすと重く見えるため。
+  glow?: 'dark' | 'light';
 }
 const {
   kicker,
@@ -32,6 +35,7 @@ const {
   subtitle,
   image,
   imageAlt,
+  glow = 'dark',
   align = 'left',
   height = 560,
   fit = 'cover',
@@ -63,7 +67,7 @@ const titleStyle = [
 ].join(' ');
 ---
 
-<section class="p-hero" data-align={align} data-fit={fit} style={`${image && !imageAlt ? `background-image: url('${image}');` : ''} min-height: ${height}px;`}>
+<section class="p-hero" data-align={align} data-fit={fit} data-glow={glow} style={`${image && !imageAlt ? `background-image: url('${image}');` : ''} min-height: ${height}px;`}>
   {image && imageAlt && <img class="p-hero-photo" src={image} alt={imageAlt} />}
   {hasSlideshow && (
     <div class="slideshow-bg" data-duration={slideshowDuration} aria-hidden="true">
@@ -193,6 +197,16 @@ const titleStyle = [
     text-shadow: 0 1px 6px rgba(2, 2, 2, 0.8);
   }
   .p-hero[data-align="center"] .subtitle { margin: 0 auto; }
+
+  /* 明るい写真の上では、黒い影より白い光の方が軽い */
+  .p-hero[data-glow="light"] .p-hero-title {
+    text-shadow: 0 0 18px rgba(255, 255, 255, 0.95), 0 0 6px rgba(255, 255, 255, 0.9);
+  }
+  .p-hero[data-glow="light"] .kicker,
+  .p-hero[data-glow="light"] .subtitle {
+    color: #232323;
+    text-shadow: 0 0 16px rgba(255,255,255,1), 0 0 6px rgba(255,255,255,1), 0 0 2px rgba(255,255,255,0.9);
+  }
 
   @media (max-width: 720px) {
     .p-hero { min-height: 420px !important; }
