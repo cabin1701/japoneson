@@ -293,7 +293,9 @@ const HERO_FALLBACK = `${base}images/essay/swing_cut.jpg`;
   .post-body :global(li) { margin-bottom: 0.5rem; }
   .post-body :global(img) {
     display: block;
-    width: 100%;
+    /* 2026-07-31: width:100% だと小さい画像が本文幅まで引き伸ばされてボケる。
+       元のピクセル数を超えて拡大しないようにする（max-width: 100% は本文幅の上限）。 */
+    max-width: 100%;
     height: auto;
     margin: 2rem auto;
   }
