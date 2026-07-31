@@ -14,5 +14,9 @@ export default defineConfig({
     '/es/ryu': '/es/murakami/',
     '/es/ryu/cuba': '/es/murakami/',
     '/en/ryu': '/en/murakami/',
+    // 2026-07-31: スペイン語検索でこの旧 URL が引用されていたが 404 を返していた。
+    // 人間は 404.astro の JS で飛べるが、GitHub Pages はステータスを 404 で返すため
+    // クローラーには「ページ無し」に見える。個別に受け皿を置いて 200 にする。
+    '/en/ryu/cuba/tosco/bio': '/en/murakami/tosco/',
   },
 });
