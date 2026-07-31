@@ -19,12 +19,19 @@ interface Props {
   overlayBottom?: number; // overlay opacity at bottom (0..1)
   slideshow?: string[]; // background slideshow images (cross-fade)
   slideshowDuration?: number; // ms per slide (default 5000)
+  // 2026-07-31 追加。
+  // HERO は CSS の背景画像で敷いているため、写真に alt を付ける場所が無い。
+  // 「誰がいつどこで撮ったか」が機械にもスクリーンリーダーにも渡らない。
+  // imageAlt が渡された時だけ、同じ画像を <img> として敷き直す（見た目は同じ）。
+  // 渡さなければ従来どおり背景画像のまま。既存ページを壊さないための切り替え。
+  imageAlt?: string;
 }
 const {
   kicker,
   title,
   subtitle,
   image,
+  imageAlt,
   align = 'left',
   height = 560,
   fit = 'cover',
@@ -56,7 +63,8 @@ const titleStyle = [
 ].join(' ');
 ---
 
-<section class="p-hero" data-align={align} data-fit={fit} style={`${image ? `background-image: url('${image}');` : ''} min-height: ${height}px;`}>
+<section class="p-hero" data-align={align} data-fit={fit} style={`${image && !imageAlt ? `background-image: url('${image}');` : ''} min-height: ${height}px;`}>
+  {image && imageAlt && <img class="p-hero-photo" src={image} alt={imageAlt} />}
   {hasSlideshow && (
     <div class="slideshow-bg" data-duration={slideshowDuration} aria-hidden="true">
       {slideshow!.map((src, i) => (
@@ -97,6 +105,17 @@ const titleStyle = [
   }
   .p-hero[data-fit="contain"] {
     background-size: contain;
+  }
+  .p-hero-photo {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .p-hero[data-fit="contain"] .p-hero-photo {
+    object-fit: contain;
   }
   .video-bg {
     position: absolute;

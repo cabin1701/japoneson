@@ -1,0 +1,236 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+
+const trail = [
+  { slug: 'murakami', title: 'MURAKAMI MAMBO !!', path: `${base}es/murakami/` },
+  { slug: 'jte', title: 'Los eventos tradicionales de Japón', path: `${base}es/murakami/jte/` },
+];
+
+const OFFICIAL = 'http://jte.ryumurakami.com/';
+---
+
+<Layout
+  title="Los eventos tradicionales de Japón (JTE) — Ryu Murakami | Japonéson"
+  description="Japanese Traditional Events, el libro bilingüe de Ryu Murakami que tardó ocho años, con un CD de canciones japonesas supervisado por su gran amigo Ryuichi Sakamoto."
+  lang="es"
+>
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      kicker="RYU MURAKAMI · 2016"
+      title="Los eventos tradicionales de Japón"
+      subtitle="Respeto y amor — ocho años de trabajo."
+      image={`${base}images/murakami/jte_hero.jpg`}
+      imageAlt="El jardín enmarcado de Hōsen-in, un templo de Ohara, Kioto: un bosque de bambú y arces jóvenes vistos desde la sala de tatami vacía, al otro lado de una estera de fieltro rojo. Fotografía de Shoko Shiraishi, abril de 2022."
+      align="center"
+      height={720}
+      fit="cover"
+      overlayTop={0.15}
+      overlayBottom={0.35}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="essay">
+      <div class="essay-inner">
+        <p>En enero de 2024 este libro llegó a mis manos.</p>
+        <p>
+          Se publicó el 4 de julio de 2016, pero dentro se cuenta que tardó unos ocho
+          años en terminarse.
+        </p>
+        <p>
+          Al parecer, Ryu Murakami lo empezó después de ver una película sobre los
+          campos de internamiento de los japoneses-estadounidenses durante la Segunda
+          Guerra Mundial, y el libro está escrito en japonés y en inglés.
+        </p>
+        <p>
+          Viene con un CD de canciones infantiles y <em>shōka</em> (canciones
+          escolares) japonesas, supervisado por Ryuichi Sakamoto. Los dos eran amigos
+          íntimos: en sus ensayos Murakami contaba a menudo que se veía con Sakamoto
+          en Nueva York y desde allí seguía hasta Cuba pasando por Cancún. Parece que
+          también le consultaba sobre la música cubana.
+        </p>
+        <p>
+          Pensar que este CD nació después de las historias de Murakami sobre Estados
+          Unidos y Cuba, y que Sakamoto enfermó de cáncer mientras el libro aún se
+          hacía, me conmovió mucho. La música es serena, cálida y hermosa. Es como si
+          el cariño de Sakamoto por un «amigo» querido se hubiera vuelto sonido.
+        </p>
+        <p>
+          Hoy está descatalogado, pero en su sitio especial se puede conocer con qué
+          intención se hizo y escuchar la música. Visítalo si tienes ocasión.
+        </p>
+      </div>
+    </section>
+
+    <hr class="rule" />
+
+    <section class="quote-block">
+      <div class="quote-inner">
+        <blockquote>
+          <p>
+            Durante la elaboración de «JTE» hubo un momento en que mi actitud
+            fundamental hacia los eventos tradicionales de Japón fue aflorando de
+            manera natural, igual que sale el sol de la mañana. Era
+            <strong>«respeto y amor»</strong>. Normalmente, ponerlo en palabras
+            produciría cierto pudor, pero, curiosamente, con «los eventos
+            tradicionales de Japón» lo pude sentir así con toda naturalidad, y decidí
+            usarlo como subtítulo.
+          </p>
+          <footer>
+            — Ryu Murakami, del <a href={OFFICIAL} rel="noopener">sitio oficial de JTE</a>
+          </footer>
+        </blockquote>
+      </div>
+    </section>
+
+    <section class="book">
+      <div class="book-inner">
+        <figure class="book-photo">
+          <img
+            src={`${base}images/murakami/jte_book.jpg`}
+            alt="Un ejemplar de Japanese Traditional Events (JTE) sobre un atril de madera en casa de Shoko Shiraishi, con ramas de ciruelo en flor dispuestas en un jarrón de cerámica de Hagi. Fotografía de enero de 2024."
+            width="750"
+            height="1000"
+            loading="lazy"
+          />
+          <figcaption>Fotografía de Shoko Shiraishi, enero de 2024.</figcaption>
+        </figure>
+
+        <dl class="credits">
+          <div><dt>Título</dt><dd>日本の伝統行事 — <em>Japanese Traditional Events</em> (JTE)</dd></div>
+          <div><dt>Subtítulo</dt><dd>大切に思うこと、愛すること — <em>Respect &amp; Love</em></dd></div>
+          <div><dt>Texto</dt><dd>Ryu Murakami</dd></div>
+          <div><dt>Ilustraciones</dt><dd>Yuka Hamano</dd></div>
+          <div><dt>Traducción al inglés</dt><dd>Ralph McCarthy</dd></div>
+          <div>
+            <dt>Música</dt>
+            <dd>
+              <em>Canciones infantiles y shōka de Japón</em>, con supervisión de
+              Ryuichi Sakamoto — tres CD (japonés, inglés y karaoke)
+            </dd>
+          </div>
+          <div><dt>Portada</dt><dd>Haruka Ayase (uñas: Haruna Takahashi)</dd></div>
+          <div><dt>Editorial</dt><dd>Kodansha, 4 de julio de 2016 · ISBN 978-4-06-219960-5</dd></div>
+        </dl>
+
+        <p class="official">
+          <a href={OFFICIAL} rel="noopener">→ El sitio especial de <em>Japanese Traditional Events</em></a>
+        </p>
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .rule {
+    max-width: 760px;
+    margin: 1rem auto 0;
+    border: none;
+    border-top: 1px solid var(--color-rule);
+    opacity: 0.5;
+  }
+
+  .essay { padding: 2.5rem 1.5rem 1rem; }
+  .essay-inner { max-width: 760px; margin: 0 auto; }
+  .essay-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+
+  .quote-block { padding: 2.5rem 1.5rem; }
+  .quote-inner { max-width: 760px; margin: 0 auto; }
+  .quote-block blockquote {
+    border-left: 3px solid var(--color-rule);
+    padding: 0.5rem 0 0.5rem 1.4rem;
+    margin: 0;
+  }
+  .quote-block blockquote p {
+    font-family: var(--font-italic-quote);
+    font-style: italic;
+    font-size: 19px;
+    line-height: 1.7;
+    color: #444;
+    margin: 0 0 0.9rem;
+  }
+  .quote-block footer {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: var(--color-muted);
+  }
+  .quote-block footer a { color: var(--color-accent); }
+
+  .book { padding: 1rem 1.5rem 4rem; }
+  .book-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 2.5rem;
+    align-items: start;
+  }
+  .book-photo { margin: 0; }
+  .book-photo img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .book-photo figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: var(--color-muted);
+    margin-top: 0.5rem;
+    line-height: 1.5;
+  }
+
+  .credits { margin: 0; }
+  .credits > div {
+    display: grid;
+    grid-template-columns: 190px 1fr;
+    gap: 0.8rem;
+    padding: 0.55rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  }
+  .credits dt {
+    font-family: var(--font-display-cinzel);
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    color: var(--color-accent);
+    text-transform: uppercase;
+  }
+  .credits dd {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #2a2a2a;
+  }
+
+  .official {
+    grid-column: 1 / -1;
+    margin: 1.5rem 0 0;
+    font-family: var(--font-display-cinzel);
+    font-size: 17px;
+  }
+  .official a { color: var(--color-accent); }
+
+  @media (max-width: 760px) {
+    .book-inner { grid-template-columns: 1fr; gap: 1.5rem; }
+    .book-photo { max-width: 300px; }
+    .credits > div { grid-template-columns: 1fr; gap: 0.2rem; }
+  }
+</style>

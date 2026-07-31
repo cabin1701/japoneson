@@ -39,7 +39,10 @@ export default defineConfig({
     // そのままスラッグになっていたため、記事名からは辿れなかった。
     '/ja/ryu/works/music/1993_paulo': '/en/murakami/music/1993_no-hace-falta/',
     '/ja/ryu/works/music/1998_javier_sonalson': '/en/murakami/music/son-al-son/',
-    // jte が何を指すのか特定できなかったので、当てずっぽうで飛ばさずハブへ。
-    '/ja/ryu/jte/01-2': '/en/murakami/',
+    // jte = Japanese Traditional Events（村上龍『日本の伝統行事』2016）。
+    // 旧 URL の 01-2 は本体ページにぶら下がっていた画像のページ。
+    // 2026-07-31 に JTE のページを作ったので、そこへ送る。
+    '/ja/ryu/jte': '/en/murakami/jte/',
+    '/ja/ryu/jte/01-2': '/en/murakami/jte/',
   },
 });
