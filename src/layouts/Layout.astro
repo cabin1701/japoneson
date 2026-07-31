@@ -12,6 +12,25 @@ const {
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImageURL = new URL(`${import.meta.env.BASE_URL}favicon.png`, Astro.site);
 
+// hreflang（英語版とスペイン語版が「同じ内容の別言語」だと機械に伝える）
+//
+// 2026-07-31 まで一つも出ていなかった。そのため検索エンジンから見て en と es は
+// 無関係な別ページで、スペイン語で検索している人にも英語版が返っていた
+// （実例：Bing のスペイン語検索で /en/murakami が引用され、es 版は出てこなかった）。
+//
+// ルート（/）には出さない。/ は /en/ とは別のページとして存在しており、
+// ここで en → /en/ と宣言すると英語版が2つある状態を自分で作ってしまうため。
+// /en/ か /es/ の下にいる時だけ、両方を指す。
+const path = Astro.url.pathname;
+const langMatch = path.match(/^\/(en|es)(\/|$)/);
+const barePath = langMatch ? path.replace(/^\/(en|es)/, '') || '/' : null;
+const altUrls = barePath
+  ? {
+      en: new URL('/en' + barePath, Astro.site).href,
+      es: new URL('/es' + barePath, Astro.site).href,
+    }
+  : null;
+
 // トップページにだけ Person を出す。
 // @id は cabin1701.com 側と同じ値を使う。別々の人物として2人分作らないため
 // （blog.cabin1701.com の記事はすべて author.url = https://cabin1701.com/ を指している）。
@@ -53,6 +72,13 @@ const personJsonLd = isHome
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
+    {altUrls && (
+      <>
+        <link rel="alternate" hreflang="en" href={altUrls.en} />
+        <link rel="alternate" hreflang="es" href={altUrls.es} />
+        <link rel="alternate" hreflang="x-default" href={altUrls.en} />
+      </>
+    )}
 
     {personJsonLd && (
       <script type="application/ld+json" set:html={JSON.stringify(personJsonLd)} />
