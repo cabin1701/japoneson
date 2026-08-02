@@ -53,7 +53,7 @@ Ryu Murakami es uno de los escritores más famosos de Japón desde los años 70 
 
 Desde niña, me costaba mucho leer y escribir. Mis calificaciones en japonés eran siempre un "2" (de 5).
 
-Un día de 2000, para matar el tiempo mientras esperaba a un amigo, tomé un ensayo de Ryu Murakami. Me resultó curiosamente interesante, así que, por impulso, le escribí una carta de admiradora. Para que no pensara que yo era una "persona extraña", le hablé de mi proyecto en un asilo de ancianos en EE. UU. e incluí mi CD, sintiendo que él apreciaría la vieja música americana.
+Un día de 2000, para matar el tiempo mientras esperaba a un amigo, tomé un ensayo de Ryu Murakami. Me resultó curiosamente interesante, así que, por impulso, le escribí una carta de admiradora. Para que no pensara que yo era una "persona extraña", le hablé de [mi proyecto](https://japoneson.com/es/swing/dream/) en un asilo de ancianos en EE. UU. e incluí mi CD, sintiendo que él apreciaría la vieja música americana.
 
 Semanas después, mientras estaba hospitalizada por una cirugía, recibí un correo de "Ryu Murakami". Me decía que le gustaba mi CD y que había presentado mis actividades en su revista digital, manteniendo mi nombre y mi sitio web en privado. Fue un gesto delicado y considerado, muy propio de él.
 
@@ -71,7 +71,7 @@ Aquellas palabras que Ryu me dio entonces se convirtieron en las palabras de mi 
 
 En 2013, más de diez años después de aquella carta, conocí en Nueva York a Danny Rojo, un músico cubano exiliado. Ese encuentro abrió para mí las puertas de Cuba.
 
-Al año siguiente, hice una muñeca "Cupie" de una tienda de todo a un dólar, le puse la barba arcoíris y los tatuajes de Danny, y la llamé "CupieDanny". Danny se puso feliz. **Empezamos un "juego"** de hacer muchas muñecas y repartirlas a sus amigos en Nueva York y La Habana.
+Al año siguiente, hice una muñeca "Cupie" de una tienda de todo a un dólar, le puse la barba arcoíris y los tatuajes de Danny, y la llamé ["CupieDanny"]([Cupie Danny ▾](https://japoneson.com/es/cupie/)). Danny se puso feliz. **Empezamos un "juego"** de hacer muchas muñecas y repartirlas a sus amigos en Nueva York y La Habana.
 
 Danny no ha vuelto a Cuba desde su exilio. Me envió una lista de sus amigos por Messenger. Incluía nombres de bandas como Los Van Van o Havana D'Primera. Yo no conocía a nadie. Casi sin hablar español, recorrí La Habana con esa lista, los números de teléfono y las muñecas. La mayoría resultaron ser músicos legendarios.
 

@@ -54,7 +54,7 @@ Ryu Murakami may be one of the most famous writers in Japan from the 1970s to th
 
 Since I was a child, I struggled with reading. I was never good at writing, either. My Japanese grades were always a "2" (out of 5).
 
-One day in 2000, to kill time while waiting for a friend, I picked up an essay by Ryu Murakami. It was surprisingly interesting, so I impulsively wrote him a fan letter. To prove I wasn’t some "shady person," I introduced my past project at a nursing home in the U.S. and included my CD, sensing he might appreciate old American music.
+One day in 2000, to kill time while waiting for a friend, I picked up an essay by Ryu Murakami. It was surprisingly interesting, so I impulsively wrote him a fan letter. To prove I wasn’t some "shady person," I introduced [my past project](https://japoneson.com/en/swing/dream/) at a nursing home in the U.S. and included my CD, sensing he might appreciate old American music.
 
 Weeks later, while I was in the hospital for surgery, an email arrived from "Ryu Murakami." He told me he liked my CD and had introduced my activities in his email magazine. He kept my name and website private—a subtle, thoughtful gesture that was so like him.
 
@@ -72,7 +72,8 @@ Ryu’s words back then became the words of my only true witness. They became my
 
 In 2013, over ten years after that letter, I met Danny Rojo, an exiled Cuban musician, in New York. That meeting opened the door to Cuba for me.
 
-The following year, I crafted a "Cupie" doll from a dollar store to look like Danny—with his rainbow beard and tattoos—and named it "CupieDanny." Danny was overjoyed. **We started a "game"** of making many dolls and distributing them to his friends in New York and Havana.
+The following year, I crafted a "Cupie" doll from a dollar store to look like Danny—with his rainbow beard and tattoos—and named it ["CupieDanny."](https://japoneson.com/en/cupie/)
+Danny was overjoyed. **We started a "game"** of making many dolls and distributing them to his friends in New York and Havana.
 
 Danny has never returned to Cuba since his exile. He sent me a list of his friends via Messenger. It included members of famous bands like Los Van Van and Havana D'Primera. I knew none of them. With almost no Spanish, I ran around Havana with that list, phone numbers, and those dolls. Most of them turned out to be legendary musicians.
 
