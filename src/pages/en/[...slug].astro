@@ -51,7 +51,7 @@ const trail = buildBreadcrumb(entry, all, import.meta.env.BASE_URL);
 const metaDescription = deriveExcerpt(entry.body);
 ---
 
-<Layout title={`${entry.data.title} — Japonéson`} lang="en" description={metaDescription}>
+<Layout title={`${entry.data.title} — Japonéson`} lang="en" description={metaDescription} ogImage={entry.data.hero_image}>
   <Header lang="en" />
   {(entry.data.hero_image || (entry.data.hero_slideshow && entry.data.hero_slideshow.length > 0)) && (
     <ProjectHero
