@@ -88,6 +88,17 @@ const personJsonLd = isHome
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content={ogImageURL} />
+    {/*
+      og:locale（このページが何語向けかを SNS・AI に伝えるタグ）。
+      hreflang は検索エンジン向け、og:locale は SNS のプレビューや
+      OGP を読む側向けで、別々に要る。2026-08-02 まで一つも出ていなかった。
+      /en /es の下にいる時だけ alternate も出す（ルート / は対にならないため）。
+    */}
+    <meta property="og:locale" content={lang === 'es' ? 'es_ES' : 'en_US'} />
+    {altUrls && (
+      <meta property="og:locale:alternate" content={lang === 'es' ? 'en_US' : 'es_ES'} />
+    )}
+    <meta property="og:site_name" content="Japonéson" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
