@@ -1,5 +1,5 @@
 ---
-title: "Tosco & Murakami"
+title: "Tosco y Murakami"
 slug: tosco
 wp_id: 19824
 wp_parent: 19793

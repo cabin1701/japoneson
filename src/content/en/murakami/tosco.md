@@ -1,11 +1,11 @@
 ---
-title: "Tosco & Murakami"
+title: "Tosco and Murakami"
 slug: tosco
 wp_id: 19824
 wp_parent: 19793
 ---
 
-# Tosco y Murakami
+# Tosco and Murakami
 
 ## Early 1990s. A bond born in the Special Period.
 
