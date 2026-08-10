@@ -1,5 +1,5 @@
 ---
-title: "For The Boys"
+title: "A Tribute to Monica Lewis: For The Boys"
 slug: for-the-boys
 hero_image: "/images/swing/hero_for-the-boys.jpg"
 hero_subtitle: "who served in the Korean War — Tribute to Ms.Monica Lewis"

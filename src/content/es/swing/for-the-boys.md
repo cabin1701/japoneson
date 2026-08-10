@@ -1,8 +1,8 @@
 ---
-title: "For The Boys"
+title: "Tributo a Monica Lewis - For The Boys"
 slug: for-the-boys
 hero_image: "/images/swing/hero_for-the-boys.jpg"
-hero_subtitle: "who served in the Korean War — Tribute to Ms.Monica Lewis"
+hero_subtitle: "que sirvieron en la Guerra de Corea – Tributo a Monica Lewis"
 hero_height: 1000
 hero_video: "PXMV5bkoq8k"
 hero_title_font: '"Cormorant Infant", serif'

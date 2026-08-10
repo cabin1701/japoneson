@@ -2,7 +2,7 @@
 title: "I'll Be Seeing You, Mr. Leonard Gaskin"
 slug: leonard-gaskin
 hero_image: "/images/swing/hero_leonard.jpg"
-hero_subtitle: "I would like to have some generous help, love… and your instruments."
+hero_subtitle: "Me gustaría pedirte una ayuda generosa, amor... y tus instrumentos."
 hero_height: 1200
 hero_fit: "cover"
 hero_title_font: '"Cormorant Infant", serif'
