@@ -31,7 +31,9 @@ Leonard Gaskin (bass),
 
 Artie Baker (Clarinet & Tenor Sax),
 
-Toya (piano), Grady Tate (drums),
+Toya (piano),
+
+Grady Tate (drums),
 
 Ron Roulier (piano),
 

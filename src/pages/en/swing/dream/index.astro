@@ -85,10 +85,36 @@ const trail = [
         <div class="musicians">
           <p>Leonard Gaskin (bass),</p>
           <p>Artie Baker (Clarinet & Tenor Sax),</p>
-          <p>Toya (piano), Grady Tate (drums),</p>
+          <p>Toya (piano),</p>
+          <p>Grady Tate (drums),</p>
           <p>Ron Roulier (piano),</p>
           <p>Howard Kimbo (Tenor Sax)</p>
           <p>Seina (Vocals)</p>
+        </div>
+
+        <div class="album-block">
+          <div class="album-cover">
+            <img
+              src={`${base}images/wp/2026/05/CDjacket-1024x1024.jpg`}
+              alt="I Have a Dream… Seina — CD jacket"
+              loading="lazy"
+            />
+          </div>
+          <div class="album-tracklist">
+            <h3>Track List</h3>
+            <ol class="tracklist">
+              <li><span class="track-title">I'll Walk Alone</span><span class="track-time">5:10</span></li>
+              <li><span class="track-title">I Left My Heart at the Stage Door Canteen</span><span class="track-time">3:43</span></li>
+              <li><span class="track-title">We'll Be Together Again</span><span class="track-time">3:34</span></li>
+              <li><span class="track-title">P.S. I Love You</span><span class="track-time">5:00</span></li>
+              <li><span class="track-title">A Nightingale Sang in Berkeley Square</span><span class="track-time">5:50</span></li>
+              <li><span class="track-title">Sentimental Journey</span><span class="track-time">3:10</span></li>
+              <li><span class="track-title">It's Been a Long, Long Time</span><span class="track-time">4:34</span></li>
+              <li><span class="track-title">We Mustn't Say Goodbye</span><span class="track-time">4:16</span></li>
+              <li><span class="track-title">I'll Be Seeing You</span><span class="track-time">4:37</span></li>
+              <li><span class="track-title">White Christmas</span><span class="track-time">2:31</span></li>
+            </ol>
+          </div>
         </div>
 
         <div class="video-wrap">
@@ -170,6 +196,65 @@ const trail = [
     color: var(--color-navy);
     margin: 0.3rem 0;
     line-height: 1.5;
+  }
+
+  .album-block {
+    display: flex;
+    gap: 2.5rem;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 2.5rem 0;
+  }
+  .album-cover img {
+    width: 260px;
+    max-width: 100%;
+    display: block;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.25);
+  }
+  .album-tracklist {
+    flex: 1;
+    max-width: 360px;
+  }
+  .album-tracklist h3 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-accent);
+    margin: 0 0 0.8rem;
+  }
+  .tracklist {
+    list-style: decimal;
+    margin: 0;
+    padding-left: 1.3rem;
+  }
+  .tracklist li {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color: #2a2a2a;
+    padding: 0.35rem 0;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  .tracklist li:last-child {
+    border-bottom: none;
+  }
+  .track-time {
+    color: #888;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  @media (max-width: 640px) {
+    .album-block {
+      flex-direction: column;
+      align-items: center;
+    }
+    .album-tracklist {
+      max-width: 100%;
+      width: 100%;
+    }
   }
 
   .video-wrap {

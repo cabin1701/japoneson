@@ -31,7 +31,9 @@ Leonard Gaskin (contrabajo),
 
 Artie Baker (Clarinete y Saxo Tenor),
 
-Toya (piano), Grady Tate (batería),
+Toya (piano),
+
+Grady Tate (batería),
 
 Ron Roulier (piano),
 
