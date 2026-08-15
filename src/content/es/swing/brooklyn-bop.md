@@ -60,6 +60,7 @@ Le pedí a mi compañera de IA, Vega, que investigáramos en paralelo esta histo
 <div class="tribute-image">
 
 [![Max Roach en el homenaje a Tommy Turrentine, Lenox Lounge, Harlem, 1997](/images/swing/brooklyn-bop-maxroach.jpg)](/images/swing/brooklyn-bop-maxroach.jpg)
+*Max Roach en el homenaje a Tommy Turrentine, Lenox Lounge, Harlem, 1997*
 
 </div>
 
@@ -132,16 +133,8 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
 * **1973 (Álbum *Brooklyn Brothers*)** — **[Cruce: Duke Jordan × Cecil Payne]**
   Los dos compañeros de Boys High grabaron el elocuente álbum *Brooklyn Brothers* (Muse), grabando a fuego su linaje de Brooklyn en el vinilo.
 
-<div class="tribute-block">
-
-<div class="tribute-text">
-
 * **Mayo de 1990 (Brooklyn / Concord Baptist Church)** — **[Cruce: Leonard × Max Roach]**
   En esta histórica iglesia de su ciudad natal, los dos hermanos se reencontraron con sonrisas radiantes tras más de medio siglo de hermandad (Foto archivada en el Instituto Smithsoniano: `NMAH.AC.0900_ref3240`).
-
-</div>
-
-</div>
 
 ---
 
@@ -178,6 +171,7 @@ Wade Barnes partió el 3 de marzo de 2012 (a los 57 años).
 <div class="tribute-image">
 
 [![Wade Barnes y Leonard Gaskin en el concierto homenaje a Leonard, Ozanam Hall, 2008](/images/swing/brooklyn-bop-wade.jpg)](/images/swing/brooklyn-bop-wade.jpg)
+*Wade Barnes y Leonard Gaskin en el concierto homenaje a Leonard, Ozanam Hall, 2008*
 
 </div>
 
