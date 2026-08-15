@@ -18,7 +18,7 @@ En 2006, mientras buscaba desesperadamente a Leonard tras haber perdido el conta
 
 El 13 de agosto de 2026, investigando sobre el jazz afrocubano, descubrí su conexión directa con el nacimiento y la explosión del bebop en los años 40.
 
-[Mario Bauzá](https://es.wikipedia.org/wiki/Mario_Bauzá) y Dizzy Gillespie se habían conocido en la orquesta de [Chick Webb](https://es.wikipedia.org/wiki/Chick_Webb).
+[Mario Bauzá](https://es.wikipedia.org/wiki/Mario_Bauzá) y [Dizzy Gillespie](https://es.wikipedia.org/wiki/Dizzy_Gillespie) se habían conocido en la orquesta de [Chick Webb](https://es.wikipedia.org/wiki/Chick_Webb).
 Dizzy... Al investigar su orquesta, descubrí que Leonard estuvo allí mismo, en la banda de Dizzy. Recién ahora me doy cuenta: Leonard estuvo verdaderamente en el mismísimo epicentro de la innovación del bebop.
 
 Luego, al buscar información sobre Wade Barnes, encontré un álbum titulado *The Brooklyn Four Plus One*.
@@ -71,7 +71,7 @@ Le pedí a mi compañera de IA, Vega, que investigáramos en paralelo esta histo
 ## El linaje histórico y los cruces de la hermandad del bop en Brooklyn
 
 Desde el amanecer del bebop en los años 40 hasta la orquesta de Illinois Jacquet en los 50, las sesiones conjuntas de los 70 y su reunión definitiva en Brooklyn a finales de los 90:
-Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y vivieron estos hermanos, teniendo como eje a Leonard Gaskin (n. 1920), junto a Duke Jordan (n. 1922), su camarada entrañable Cecil Payne (n. 1922), el hermano menor Max Roach (n. 1924), Randy Weston (n. 1926) y su guardián de la siguiente generación, Wade Barnes (n. 1954).
+Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y vivieron estos hermanos, teniendo como eje a **Leonard Gaskin** (n. 1920), junto a **Duke Jordan** (n. 1922), su camarada entrañable **Cecil Payne** (n. 1922), el hermano menor **Max Roach** (n. 1924), **Randy Weston** (n. 1926) y su guardián de la siguiente generación, **Wade Barnes** (n. 1954).
 
 ---
 
@@ -91,7 +91,7 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
 ### 🎷 Formación y roles de Los Hermanos del Bop de Brooklyn
 
 * **[Leonard Gaskin](https://es.wikipedia.org/wiki/Leonard_Gaskin)** (n. 25 de agosto de 1920): **【Hermano mayor / Contrabajo】** Debut profesional en 1943. El hermano mayor confiable, el ancla de las frecuencias graves.
-* **[Duke Jordan](https://es.wikipedia.org/wiki/Duke_Jordan)** (n. 1 de abril de 1922): **【Piano】** De la misma edad que Cecil. Exalumno de Boys High School. El piano dorado del legendario Charlie Parker Quintet.
+* **[Duke Jordan](https://es.wikipedia.org/wiki/Duke_Jordan)** (n. 1 de abril de 1922): **【Piano】** De la misma edad que Cecil. Exalumno de Boys High School. El piano dorado del legendario [Charlie Parker](https://es.wikipedia.org/wiki/Charlie_Parker) Quintet.
 * **[Cecil Payne](https://es.wikipedia.org/wiki/Cecil_Payne)** (n. 14 de diciembre de 1922): **【Saxo barítono】** Dos años menor que Leonard. Exalumno de Boys High School. Gigante del saxo barítono junto a Dizzy Gillespie e Illinois Jacquet.
 * **[Max Roach](https://es.wikipedia.org/wiki/Max_Roach)** (n. 10 de enero de 1924): **【Batería】** Cuatro años menor que Leonard. Exalumno de Boys High School. Arquitecto revolucionario de la batería moderna de jazz.
 * **[Randy Weston](https://es.wikipedia.org/wiki/Randy_Weston)** (n. 6 de abril de 1926): **【Piano】** Seis años menor que Leonard. Exalumno de Boys High School. Gigante que unió el orgullo comunitario con los ritmos ancestrales de África.
@@ -110,11 +110,11 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
   Leonard, con 23 años y tocando como profesional en la banda de Clark Monroe, formó la sección rítmica (contrabajo y batería) con un Max Roach de apenas 19 años. Leonard llevó al joven Max Roach al [sindicato (Local 802)](https://www.local802afm.org/) para inscribirlo como miembro, abriendo camino en primera línea mientras el bebop se trasladaba de Harlem a la calle 52.
 
 * **1944–1949 (Dizzy Gillespie Big Band y el epicentro de la calle 52)** — **[Cruce: Leonard × Cecil Payne × Max Roach × Duke Jordan]**
-  En 1944, Leonard se unió a la banda de Dizzy Gillespie sucediendo a Oscar Pettiford, blindando la base armónica en la escena del jazz afrocubano (Cu-Bop). Cecil Payne se incorporó a la big band de Gillespie en 1946, dejando grabaciones históricas como *"Ow!"* y *"Stay On It"*. Duke Jordan y Max Roach transformaron la historia de la música moderna en el legendario quinteto de Charlie Parker (grabaciones de Dial de 1947–48). Junto a J.J. Johnson y otros en las sesiones de la calle 52, estos hermanos de Brooklyn cruzaban constantemente sus sonidos en el epicentro de la vanguardia.
+  En 1944, Leonard se unió a la banda de Dizzy Gillespie sucediendo a [Oscar Pettiford](https://es.wikipedia.org/wiki/Oscar_Pettiford), blindando la base armónica en la escena del jazz afrocubano (Cu-Bop). Cecil Payne se incorporó a la big band de Gillespie en 1946, dejando grabaciones históricas como *"Ow!"* y *"Stay On It"*. Duke Jordan y Max Roach transformaron la historia de la música moderna en el legendario quinteto de Charlie Parker (grabaciones de Dial de 1947–48). Junto a [J.J. Johnson](https://es.wikipedia.org/wiki/J._J._Johnson) y otros en las sesiones de la calle 52, estos hermanos de Brooklyn cruzaban constantemente sus sonidos en el epicentro de la vanguardia.
 
 ---
 
-#### 2. Primera mitad de los años 50: Orquesta de Illinois Jacquet y sesiones de hermandad
+#### 2. Primera mitad de los años 50: Orquesta de [Illinois Jacquet](https://es.wikipedia.org/wiki/Illinois_Jacquet) y sesiones de hermandad
 
 * **1951–1954 (Grabaciones de Clef / Verve y giras nacionales)** — **[Cruce: Leonard × Cecil Payne]**
   Formaron una dupla legendaria en la orquesta del gran saxofonista tenor Illinois Jacquet. En álbumes imprescindibles como *Groovin' with Jacquet* y *Jazz Moods*, el contrabajo profundo de Leonard y el barítono rotundo de Cecil Payne impulsaron el dinamismo arrollador de la banda.
@@ -128,7 +128,7 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
 #### 3. Mediados de los 50 a los 80: Caminos divergentes y un lazo inquebrantable
 
 * **La elección por la familia y el sustento (1956–1957)**
-  Con el nacimiento de su hija en 1956, Leonard decidió apartarse de las agotadoras giras de bebop para unirse a Eddie Condon y trabajar en estudios y swing tradicional para asegurar un hogar estable: la decisión digna de un caballero (*«No somos nómadas»*). Cecil, Max, Duke y Randy continuaron recorriendo el mundo como grandes maestros consagrados del jazz.
+  Con el nacimiento de su hija en 1956, Leonard decidió apartarse de las agotadoras giras de bebop para unirse a [Eddie Condon](https://es.wikipedia.org/wiki/Eddie_Condon) y trabajar en estudios y swing tradicional para asegurar un hogar estable: la decisión digna de un caballero (*«No somos nómadas»*). Cecil, Max, Duke y Randy continuaron recorriendo el mundo como grandes maestros consagrados del jazz.
 
 * **1973 (Álbum *Brooklyn Brothers*)** — **[Cruce: Duke Jordan × Cecil Payne]**
   Los dos compañeros de Boys High grabaron el elocuente álbum *Brooklyn Brothers* (Muse), grabando a fuego su linaje de Brooklyn en el vinilo.

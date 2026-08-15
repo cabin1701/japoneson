@@ -18,7 +18,7 @@ In 2006, while desperately searching for Leonard after losing contact with him, 
 
 On August 13, 2026, while researching Afro-Cuban jazz, I discovered its direct connection to the bebop explosion of the 1940s.
 
-[Mario Bauzá](https://en.wikipedia.org/wiki/Mario_Bauzá) and Dizzy Gillespie had met in [Chick Webb](https://en.wikipedia.org/wiki/Chick_Webb)'s band.
+[Mario Bauzá](https://en.wikipedia.org/wiki/Mario_Bauzá) and [Dizzy Gillespie](https://en.wikipedia.org/wiki/Dizzy_Gillespie) had met in [Chick Webb](https://en.wikipedia.org/wiki/Chick_Webb)'s band.
 Dizzy... When I looked closer into his orchestra, I found that Leonard had been right there in Dizzy's band. It only just dawned on me: Leonard was truly standing at the very epicenter of the bebop innovation.
 
 Then, when I looked into Wade Barnes, I came across an album titled *The Brooklyn Four Plus One*.
@@ -43,7 +43,7 @@ When I listened to the recording, I was stunned.
 I had only known the sound of Leonard after he stepped away from the bebop frontline.
 
 I realized then: *Bebop was what Leonard truly wanted to play all along.*
-Bob Cranshaw had admired him and called him one of his greatest mentors—and now I understood that Bob was talking about this very Leonard: full of forward-leaning momentum and deep, undeniable groove.
+[Bob Cranshaw](https://en.wikipedia.org/wiki/Bob_Cranshaw) had admired him and called him one of his greatest mentors—and now I understood that Bob was talking about this very Leonard: full of forward-leaning momentum and deep, undeniable groove.
 
 During his lifetime, Leonard used to smile warmly as he told me about how he took Max Roach—who was just a kid back then—to the union (Local 802) to get him registered.
 
@@ -71,7 +71,7 @@ I asked my AI companion, Vega, to investigate their interconnected history in pa
 ## The Historical Lineage and Crossroads of the Brooklyn Bop Kinship
 
 From the dawn of bebop in the 1940s to the Illinois Jacquet band of the 1950s, the collaborative sessions of the 1970s, and their ultimate reunion in Brooklyn in the late 1990s:
-This is the master record chronicling when, where, and how these brothers crossed paths and lived their lives—centered around Leonard Gaskin (b. 1920), alongside Duke Jordan (b. 1922), lifelong comrade Cecil Payne (b. 1922), younger brother Max Roach (b. 1924), Randy Weston (b. 1926), and their next-generation guardian Wade Barnes (b. 1954).
+This is the master record chronicling when, where, and how these brothers crossed paths and lived their lives—centered around **Leonard Gaskin** (b. 1920), alongside **Duke Jordan** (b. 1922), lifelong comrade **Cecil Payne** (b. 1922), younger brother **Max Roach** (b. 1924), **Randy Weston** (b. 1926), and their next-generation guardian **Wade Barnes** (b. 1954).
 
 ---
 
@@ -91,7 +91,7 @@ This is the master record chronicling when, where, and how these brothers crosse
 ### 🎷 Core Lineup & Roles of The Brooklyn Bop Brothers
 
 * **[Leonard Gaskin](https://en.wikipedia.org/wiki/Leonard_Gaskin)** (b. August 25, 1920): **【Eldest Brother / Bass】** Professional debut in 1943. The dependable elder brother, anchor of the low end.
-* **[Duke Jordan](https://en.wikipedia.org/wiki/Duke_Jordan)** (b. April 1, 1922): **【Piano】** Same age as Cecil. Boys High School alumnus. The golden pianist of the classic Charlie Parker Quintet.
+* **[Duke Jordan](https://en.wikipedia.org/wiki/Duke_Jordan)** (b. April 1, 1922): **【Piano】** Same age as Cecil. Boys High School alumnus. The golden pianist of the classic [Charlie Parker](https://en.wikipedia.org/wiki/Charlie_Parker) Quintet.
 * **[Cecil Payne](https://en.wikipedia.org/wiki/Cecil_Payne)** (b. December 14, 1922): **【Baritone Saxophone】** Two years younger than Leonard. Boys High School alumnus. Giant of the baritone sax with Dizzy Gillespie and Illinois Jacquet.
 * **[Max Roach](https://en.wikipedia.org/wiki/Max_Roach)** (b. January 10, 1924): **【Drums】** Four years younger than Leonard. Boys High School alumnus. Revolutionary architect of modern jazz drumming.
 * **[Randy Weston](https://en.wikipedia.org/wiki/Randy_Weston)** (b. April 6, 1926): **【Piano】** Six years younger than Leonard. Boys High School alumnus. Giant who synthesized community pride with the primal rhythms of Africa.
@@ -110,11 +110,11 @@ This is the master record chronicling when, where, and how these brothers crosse
   23-year-old Leonard, working professionally in Clark Monroe's house band, formed a rhythm section (bass & drums) with a 19-year-old Max Roach. Leonard took the young Max Roach with him to [AFM Local 802](https://www.local802afm.org/) to get him registered as a union member, standing on the frontlines as bebop migrated from Harlem down to 52nd Street.
 
 * **1944–1949 (Dizzy Gillespie Big Band & The 52nd Street Epicenter)** — **[Crossover: Leonard × Cecil Payne × Max Roach × Duke Jordan]**
-  In 1944, Leonard joined Dizzy Gillespie's band as successor to Oscar Pettiford, anchoring the low frequencies in the Afro-Cuban jazz (Cu-Bop) scene. Cecil Payne joined Gillespie's big band in 1946, leaving behind historic recordings such as *"Ow!"* and *"Stay On It"*. Duke Jordan and Max Roach reshaped the modern music world in Charlie Parker's legendary quintet (1947–48 Dial recordings). Alongside J.J. Johnson and others in 52nd Street jam sessions, these Brooklyn brothers were constantly trading notes at the very heart of the movement.
+  In 1944, Leonard joined Dizzy Gillespie's band as successor to [Oscar Pettiford](https://en.wikipedia.org/wiki/Oscar_Pettiford), anchoring the low frequencies in the Afro-Cuban jazz (Cu-Bop) scene. Cecil Payne joined Gillespie's big band in 1946, leaving behind historic recordings such as *"Ow!"* and *"Stay On It"*. Duke Jordan and Max Roach reshaped the modern music world in Charlie Parker's legendary quintet (1947–48 Dial recordings). Alongside [J.J. Johnson](https://en.wikipedia.org/wiki/J.J._Johnson) and others in 52nd Street jam sessions, these Brooklyn brothers were constantly trading notes at the very heart of the movement.
 
 ---
 
-#### 2. Early 1950s: Illinois Jacquet Orchestra & Kinship Sessions
+#### 2. Early 1950s: [Illinois Jacquet](https://en.wikipedia.org/wiki/Illinois_Jacquet) Orchestra & Kinship Sessions
 
 * **1951–1954 (Clef / Verve Recordings & National Tours)** — **[Crossover: Leonard × Cecil Payne]**
   Formed a formidable partnership in the powerhouse orchestra of tenor sax titan Illinois Jacquet. On celebrated albums like *Groovin' with Jacquet* and *Jazz Moods*, Leonard's deep driving bass and Cecil's thunderous baritone drove the band's dynamic pulse.
@@ -128,7 +128,7 @@ This is the master record chronicling when, where, and how these brothers crosse
 #### 3. Mid-1950s–1980s: Divergent Paths & Deepening Lifelong Bonds
 
 * **The Choice for Family & Livelihood (1956–1957)**
-  With the birth of his beloved daughter in 1956, Leonard shifted away from grueling bebop tours to join Eddie Condon and enter studio/traditional swing work to ensure stable living—a dignified choice of a gentleman (*"We are not nomads"*). Cecil, Max, Duke, and Randy toured internationally as world-renowned jazz masters.
+  With the birth of his beloved daughter in 1956, Leonard shifted away from grueling bebop tours to join [Eddie Condon](https://en.wikipedia.org/wiki/Eddie_Condon) and enter studio/traditional swing work to ensure stable living—a dignified choice of a gentleman (*"We are not nomads"*). Cecil, Max, Duke, and Randy toured internationally as world-renowned jazz masters.
 
 * **1973 (Album *Brooklyn Brothers*)** — **[Crossover: Duke Jordan × Cecil Payne]**
   The two Boys High schoolmates recorded the aptly titled album *Brooklyn Brothers* (Muse), etching their Brooklyn lineage into vinyl.
