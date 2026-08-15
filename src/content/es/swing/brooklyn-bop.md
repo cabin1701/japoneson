@@ -18,7 +18,7 @@ En 2006, mientras buscaba desesperadamente a Leonard tras haber perdido el conta
 
 El 13 de agosto de 2026, investigando sobre el jazz afrocubano, descubrí su conexión directa con el nacimiento y la explosión del bebop en los años 40.
 
-Mario Bauzá y Dizzy Gillespie se habían conocido en la orquesta de Chick Webb.
+[Mario Bauzá](https://es.wikipedia.org/wiki/Mario_Bauzá) y Dizzy Gillespie se habían conocido en la orquesta de [Chick Webb](https://es.wikipedia.org/wiki/Chick_Webb).
 Dizzy... Al investigar su orquesta, descubrí que Leonard estuvo allí mismo, en la banda de Dizzy. Recién ahora me doy cuenta: Leonard estuvo verdaderamente en el mismísimo epicentro de la innovación del bebop.
 
 Luego, al buscar información sobre Wade Barnes, encontré un álbum titulado *The Brooklyn Four Plus One*.
@@ -80,7 +80,7 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
 - **Misma escuela:** Boys High School (Cecil, Duke, Max, Randy)
 - **Misma comunidad y raíces espirituales:** Iglesias afroamericanas, música callejera, restaurantes y puntos de encuentro del barrio
 - **Código de protección y dignidad:** Maestros veteranos enseñando a las nuevas generaciones el orgullo profesional y la tarifa justa (Black Musicians Club)
-- **Misma afiliación sindical:** Ingreso conjunto y hombro con hombro a AFM Local 802 (Leonard × Max)
+- **Misma afiliación sindical:** Ingreso conjunto y hombro con hombro a [AFM Local 802](https://www.local802afm.org/) (Leonard × Max)
 - **Mismos escenarios del bebop temprano:** Clark Monroe's Uptown House y Minton's Playhouse
 - **Misma zona cero:** La Big Band de Dizzy Gillespie y la calle 52 en los años 40
 - **Reencuentros de por vida:** 1950s ➔ 1970s ➔ 1990s ➔ 1999
@@ -89,11 +89,11 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
 
 ### 🎷 Formación y roles de Los Hermanos del Bop de Brooklyn
 
-* **Leonard Gaskin** (n. 25 de agosto de 1920): **【Hermano mayor / Contrabajo】** Debut profesional en 1943. El hermano mayor confiable, el ancla de las frecuencias graves.
-* **Duke Jordan** (n. 1 de abril de 1922): **【Piano】** De la misma edad que Cecil. Exalumno de Boys High School. El piano dorado del legendario Charlie Parker Quintet.
-* **Cecil Payne** (n. 14 de diciembre de 1922): **【Saxo barítono】** Dos años menor que Leonard. Exalumno de Boys High School. Gigante del saxo barítono junto a Dizzy Gillespie e Illinois Jacquet.
-* **Max Roach** (n. 10 de enero de 1924): **【Batería】** Cuatro años menor que Leonard. Exalumno de Boys High School. Arquitecto revolucionario de la batería moderna de jazz.
-* **Randy Weston** (n. 6 de abril de 1926): **【Piano】** Seis años menor que Leonard. Exalumno de Boys High School. Gigante que unió el orgullo comunitario con los ritmos ancestrales de África.
+* **[Leonard Gaskin](https://es.wikipedia.org/wiki/Leonard_Gaskin)** (n. 25 de agosto de 1920): **【Hermano mayor / Contrabajo】** Debut profesional en 1943. El hermano mayor confiable, el ancla de las frecuencias graves.
+* **[Duke Jordan](https://es.wikipedia.org/wiki/Duke_Jordan)** (n. 1 de abril de 1922): **【Piano】** De la misma edad que Cecil. Exalumno de Boys High School. El piano dorado del legendario Charlie Parker Quintet.
+* **[Cecil Payne](https://es.wikipedia.org/wiki/Cecil_Payne)** (n. 14 de diciembre de 1922): **【Saxo barítono】** Dos años menor que Leonard. Exalumno de Boys High School. Gigante del saxo barítono junto a Dizzy Gillespie e Illinois Jacquet.
+* **[Max Roach](https://es.wikipedia.org/wiki/Max_Roach)** (n. 10 de enero de 1924): **【Batería】** Cuatro años menor que Leonard. Exalumno de Boys High School. Arquitecto revolucionario de la batería moderna de jazz.
+* **[Randy Weston](https://es.wikipedia.org/wiki/Randy_Weston)** (n. 6 de abril de 1926): **【Piano】** Seis años menor que Leonard. Exalumno de Boys High School. Gigante que unió el orgullo comunitario con los ritmos ancestrales de África.
 * **Wade Barnes** (n. 1954 – m. 3 de marzo de 2012 / a los 57 años): **【Guardián de la siguiente generación / Batería】** Baterista 34 años menor. El hombre que protegió el sonido y la dignidad de los maestros ancianos hasta el final.
 
 ---
@@ -102,11 +102,11 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
 
 #### 1. Primera mitad de los años 40: El amanecer del bebop y los dos santuarios de Harlem
 
-* **Principios de los años 40 (Minton's Playhouse y el código del barrio)**
+* **Principios de los años 40 ([Minton's Playhouse](https://es.wikipedia.org/wiki/Minton's_Playhouse) y el código del barrio)**
   Bajo la protección de Henry Minton —el primer delegado negro de Local 802—, las jam sessions nocturnas encendieron el laboratorio del bebop al margen de las multas sindicales. En los clubes de músicos y puntos de encuentro de Brooklyn, los veteranos inculcaban dignidad a los jóvenes: *«Asegúrate de cobrar dos dólares, no uno; que jamás menosprecien tu trabajo».*
 
 * **1943 (Harlem / Clark Monroe's Uptown House)** — **[Cruce: Leonard × Max Roach]**
-  Leonard, con 23 años y tocando como profesional en la banda de Clark Monroe, formó la sección rítmica (contrabajo y batería) con un Max Roach de apenas 19 años. Leonard llevó al joven Max Roach al sindicato (Local 802) para inscribirlo como miembro, abriendo camino en primera línea mientras el bebop se trasladaba de Harlem a la calle 52.
+  Leonard, con 23 años y tocando como profesional en la banda de Clark Monroe, formó la sección rítmica (contrabajo y batería) con un Max Roach de apenas 19 años. Leonard llevó al joven Max Roach al [sindicato (Local 802)](https://www.local802afm.org/) para inscribirlo como miembro, abriendo camino en primera línea mientras el bebop se trasladaba de Harlem a la calle 52.
 
 * **1944–1949 (Dizzy Gillespie Big Band y el epicentro de la calle 52)** — **[Cruce: Leonard × Cecil Payne × Max Roach × Duke Jordan]**
   En 1944, Leonard se unió a la banda de Dizzy Gillespie sucediendo a Oscar Pettiford, blindando la base armónica en la escena del jazz afrocubano (Cu-Bop). Cecil Payne se incorporó a la big band de Gillespie en 1946, dejando grabaciones históricas como *"Ow!"* y *"Stay On It"*. Duke Jordan y Max Roach transformaron la historia de la música moderna en el legendario quinteto de Charlie Parker (grabaciones de Dial de 1947–48). Junto a J.J. Johnson y otros en las sesiones de la calle 52, estos hermanos de Brooklyn cruzaban constantemente sus sonidos en el epicentro de la vanguardia.
@@ -155,11 +155,16 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
 #### 5. 2006–2008: El testigo de amor entregado a Seina
 
 * **2006** — Tras la angustia de encontrar líneas telefónicas desconectadas, busqué incansablemente por internet y encontré un artículo del Sr. Wade Barnes. Me puse en contacto con él. Wade me indicó con generosidad el asilo de ancianos (Ozanam Hall en Queens) donde se encontraba Leonard, haciendo posible un reencuentro milagroso.
-* **2008** — Se celebró el concierto homenaje en Ozanam Hall, uniendo a Bob Cranshaw, Bertha Hope, Todd Bryant Weeks y Jerome Jennings en honor a Leonard. Y hoy, en 2026, el espacio en blanco inacabado en los archivos del Smithsoniano está siendo revelado al mundo entero.
+* **2008** — Se celebró el concierto homenaje en Ozanam Hall, uniendo a Bob Cranshaw, Bertha Hope, Todd Bryant Weeks y [Jerome Jennings](https://www.jeromejennings.com/) en honor a Leonard. Y hoy, en 2026, el espacio en blanco inacabado en los archivos del Smithsoniano está siendo revelado al mundo entero.
 
 ---
 
+## Wade Barnes
+
 Wade Barnes partió el 3 de marzo de 2012 (a los 57 años).
+
+- ["A Man with a Plan: Listening to Wade Barnes"](https://www.local802afm.org/allegro/articles/a-man-with-a-plan-listening-to-wade-barnes/) — Local 802 Allegro, julio de 2009, Todd Bryant Weeks (en inglés)
+- ["From the Heart"](https://www.local802afm.org/allegro/articles/from-the-heart/) — Local 802 Allegro, septiembre de 2012, Todd Bryant Weeks (en inglés)
 
 <div class="tribute-block">
 
