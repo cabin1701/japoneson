@@ -129,7 +129,11 @@ This is the master record chronicling when, where, and how these brothers crosse
 #### 3. Mid-1950s–1980s: Divergent Paths & Deepening Lifelong Bonds
 
 * **The Choice for Family & Livelihood (1956–1957)**
-  With the birth of his beloved daughter in 1956, Leonard shifted away from grueling bebop tours to join [Eddie Condon](https://en.wikipedia.org/wiki/Eddie_Condon) and enter studio/traditional swing work to ensure stable living—a dignified choice of a gentleman (*"We are not nomads"*). Cecil, Max, Duke, and Randy toured internationally as world-renowned jazz masters.
+  With the birth of his beloved daughter in 1956, Leonard shifted away from grueling bebop tours to join [Eddie Condon](https://en.wikipedia.org/wiki/Eddie_Condon) and enter studio/traditional jazz work to ensure stable living—a dignified choice of a gentleman (*"We are not nomads"*). Cecil, Max, Duke, and Randy toured internationally as world-renowned jazz masters.
+
+
+Meanwhile, Cecil, Max, Duke, and Randy continued touring internationally as world‑renowned jazz masters.
+
 
 * **1973 (Album *Brooklyn Brothers*)** — **[Crossover: Duke Jordan × Cecil Payne]**
   The two Boys High schoolmates recorded the aptly titled album *Brooklyn Brothers* (Muse), etching their Brooklyn lineage into vinyl.

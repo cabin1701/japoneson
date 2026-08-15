@@ -130,7 +130,7 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
 #### 3. Mediados de los 50 a los 80: Caminos divergentes y un lazo inquebrantable
 
 * **La elección por la familia y el sustento (1956–1957)**
-  Con el nacimiento de su hija en 1956, Leonard decidió apartarse de las agotadoras giras de bebop para unirse a [Eddie Condon](https://es.wikipedia.org/wiki/Eddie_Condon) y trabajar en estudios y swing tradicional para asegurar un hogar estable: la decisión digna de un caballero (*«No somos nómadas»*). Cecil, Max, Duke y Randy continuaron recorriendo el mundo como grandes maestros consagrados del jazz.
+  Con el nacimiento de su hija en 1956, Leonard decidió apartarse de las agotadoras giras de bebop para unirse a [Eddie Condon](https://es.wikipedia.org/wiki/Eddie_Condon) y trabajar en estudios y Jazz tradicional para asegurar un hogar estable: la decisión digna de un caballero (*«No somos nómadas»*). Cecil, Max, Duke y Randy continuaron recorriendo el mundo como grandes maestros consagrados del jazz.
 
 * **1973 (Álbum *Brooklyn Brothers*)** — **[Cruce: Duke Jordan × Cecil Payne]**
   Los dos compañeros de Boys High grabaron el elocuente álbum *Brooklyn Brothers* (Muse), grabando a fuego su linaje de Brooklyn en el vinilo.
