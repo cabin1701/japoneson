@@ -190,5 +190,5 @@ La gorra que Leonard llevó aquel día era de **Minton's Playhouse**. Se la hab�
 Que esto llegue a BBB — Los Hermanos del Bop de Brooklyn en el cielo.
 Que la verdadera historia de Leonard y sus hermanos sea conocida por personas de todo el mundo.
 
-[![Seina y Leonard Gaskin en la sesión de grabación de Leonard, Manhattan, 1998](/images/swing/brooklyn-bop-leonard.jpg)](/images/swing/brooklyn-bop-leonard.jpg)
-*Seina y Leonard Gaskin en la sesión de grabación de Leonard, Manhattan, 1998*
+[![Sesión de grabación de Seina, con Leonard Gaskin, Manhattan, 1998](/images/swing/brooklyn-bop-leonard.jpg)](/images/swing/brooklyn-bop-leonard.jpg)
+*Sesión de grabación de Seina, con Leonard Gaskin, Manhattan, 1998*

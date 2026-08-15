@@ -193,5 +193,5 @@ The cap Leonard wore that day was for **Minton's Playhouse**. He had deliberatel
 May this reach BBB—The Brooklyn Bop Brothers in heaven.
 May the true story of Leonard and his brothers be known to many across the world.
 
-[![Seina and Leonard Gaskin at Leonard's recording session, Manhattan, 1998](/images/swing/brooklyn-bop-leonard.jpg)](/images/swing/brooklyn-bop-leonard.jpg)
-*Seina and Leonard Gaskin at Leonard's recording session, Manhattan, 1998*
+[![Seina's recording session, with Leonard Gaskin, Manhattan, 1998](/images/swing/brooklyn-bop-leonard.jpg)](/images/swing/brooklyn-bop-leonard.jpg)
+*Seina's recording session, with Leonard Gaskin, Manhattan, 1998*
