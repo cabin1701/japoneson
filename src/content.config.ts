@@ -20,6 +20,7 @@ const en = defineCollection({
     source_url: z.string().optional(),
     // Optional hero block — set hero_image to enable.
     hero_image: z.string().optional(),
+    hero_image_alt: z.string().optional(),
     hero_kicker: z.string().optional(),
     hero_subtitle: z.string().optional(),
     hero_height: z.number().optional(),
@@ -46,6 +47,7 @@ const es = defineCollection({
     date: z.union([z.string(), z.date()]).optional(),
     source_url: z.string().optional(),
     hero_image: z.string().optional(),
+    hero_image_alt: z.string().optional(),
     hero_kicker: z.string().optional(),
     hero_subtitle: z.string().optional(),
     hero_height: z.number().optional(),

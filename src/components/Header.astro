@@ -38,7 +38,13 @@ const nav: NavItem[] = [
           { label: 'From Ryu Murakami', path: 'swing/dream/ryu/' },
         ],
       },
-      { label: "I'll Be Seeing You, Mr. Leonard Gaskin", path: 'swing/leonard-gaskin/' },
+      {
+        label: "I'll Be Seeing You, Mr. Leonard Gaskin",
+        path: 'swing/leonard-gaskin/',
+        children: [
+          { label: 'The Brooklyn Bop Brothers', labelEs: 'Los Hermanos del Bop de Brooklyn', path: 'swing/leonard-gaskin/brooklyn-bop/' },
+        ],
+      },
       { label: 'Thanks for the Memory', path: 'swing/memory/' },
       {
         label: 'We Remember You',
