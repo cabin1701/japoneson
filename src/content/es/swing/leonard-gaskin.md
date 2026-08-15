@@ -14,7 +14,7 @@ wp_id: 719
 wp_parent: 108
 ---
 
-## 2008
+## Tokio a Nueva York
 
 Marzo de 2008.
 Dejé mi trabajo temporal en NetApp y me dirigí a Nueva York para reunirme con Leonard Gaskin.
@@ -157,3 +157,11 @@ I'm looking at the moon, but I'll be seeing you, Mr. Leonard Gaskin.
 </div>
 
 </div>
+
+<a class="next-banner" href="/es/swing/leonard-gaskin/brooklyn-bop/">
+  <img src="/images/swing/leonard-purejazz.jpg" alt="Revista Pure Jazz, Walking the Bass with Leonard Gaskin, entre tulipanes de Pascua" />
+  <span class="next-banner-text">
+    <span class="next-title">The Brooklyn Bop Brothers</span>
+    <span class="next-sub">Leonard Gaskin · Duke Jordan · Cecil Payne<br />Max Roach · Randy Weston · Wade Barnes</span>
+  </span>
+</a>

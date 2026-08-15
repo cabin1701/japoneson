@@ -802,6 +802,14 @@ const personJsonLd = isHome
     color: var(--color-muted);
     margin-top: -0.5rem;
   }
+  main.page-brooklyn-bop article p:has(img) em,
+  main.page-leonard-gaskin article p:has(img) em {
+    display: block;
+    text-align: center;
+    font-size: 0.95rem;
+    color: var(--color-muted);
+    margin-top: 0.5rem;
+  }
 
   /* === Booklet (Angels Swing / We Remember You chapters) === */
   /* Image caption: em on its own line within an image paragraph */
@@ -999,5 +1007,73 @@ const personJsonLd = isHome
     max-height: 90vh;
     object-fit: contain;
     box-shadow: 0 6px 30px rgba(0, 0, 0, 0.5);
+  }
+
+  /* ページ下部の入口バナー。横長の写真をそのまま次のページへのリンクにする */
+  .next-banner {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin-top: 2rem;
+    overflow: hidden;
+    text-decoration: none;
+    line-height: 0;
+  }
+  .next-banner img {
+    width: 100%;
+    height: 100%;
+    min-height: 320px;
+    display: block;
+    object-fit: cover;
+    transition: transform 0.6s ease;
+  }
+  .next-banner:hover img { transform: scale(1.03); }
+  .next-banner::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.12) 100%);
+  }
+  .next-banner-text {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+    line-height: 1.3;
+  }
+  .next-kicker {
+    font-family: var(--font-display-cinzel);
+    font-size: 14px;
+    letter-spacing: 0.14em;
+    color: #232323;
+    text-transform: uppercase;
+    text-shadow: 0 0 16px rgba(255,255,255,1), 0 0 6px rgba(255,255,255,1), 0 0 2px rgba(255,255,255,0.9);
+    margin-bottom: 0.5rem;
+  }
+  .next-title {
+    font-family: var(--font-display-ysabeau);
+    font-weight: 700;
+    font-size: 44px;
+    color: var(--color-accent);
+    text-shadow: 0 0 18px rgba(255,255,255,0.95), 0 0 6px rgba(255,255,255,0.9);
+  }
+  .next-sub {
+    font-family: var(--font-display-cinzel);
+    font-size: 16px;
+    color: #232323;
+    letter-spacing: 0.04em;
+    text-shadow: 0 0 16px rgba(255,255,255,1), 0 0 6px rgba(255,255,255,1), 0 0 2px rgba(255,255,255,0.9);
+    margin-top: 0.5rem;
+  }
+  @media (max-width: 720px) {
+    .next-banner img { min-height: 260px; }
+    .next-title { font-size: 26px; }
+    .next-kicker { font-size: 12px; }
+    .next-sub { font-size: 13px; }
   }
 </style>

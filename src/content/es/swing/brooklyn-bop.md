@@ -1,8 +1,8 @@
 ---
 title: "Los Hermanos del Bop de Brooklyn"
 slug: brooklyn-bop
-hero_image: "/images/swing/brooklyn-bop-leonard.jpg"
-hero_image_alt: "Seina y Leonard Gaskin en la sesión de grabación de Leonard, Manhattan, 1998"
+hero_image: "/images/swing/leonard-purejazz.jpg"
+hero_image_alt: "Revista Pure Jazz, Walking the Bass with Leonard Gaskin, entre tulipanes de Pascua"
 hero_subtitle: "Leonard Gaskin · Duke Jordan · Cecil Payne · Max Roach · Randy Weston · Wade Barnes"
 hero_height: 1200
 hero_fit: "cover"
@@ -13,6 +13,8 @@ hero_title_color: "#a6cef1"
 hero_title_italic: true
 wp_parent: 719
 ---
+
+## Brooklyn es una Ensenada del Bebop
 
 En 2006, mientras buscaba desesperadamente a Leonard tras haber perdido el contacto con él, conocí al Sr. Wade Barnes.
 
@@ -182,8 +184,11 @@ Wade Barnes partió el 3 de marzo de 2012 (a los 57 años).
 Acabo de enterarme de que el 15 de agosto es el cumpleaños de Wade.
 Por eso estoy creando esta página justo ahora.
 
-Y al observar la fotografía en la parte superior de esta página —de mi propia sesión de grabación con Leonard en 1998— comprendí algo muy hondo:
+Comprendí algo muy hondo:
 La gorra que Leonard llevó aquel día era de **Minton's Playhouse**. Se la había puesto a propósito, una de las gorras más sagradas para él, para mi sesión.
 
 Que esto llegue a BBB — Los Hermanos del Bop de Brooklyn en el cielo.
 Que la verdadera historia de Leonard y sus hermanos sea conocida por personas de todo el mundo.
+
+[![Seina y Leonard Gaskin en la sesión de grabación de Leonard, Manhattan, 1998](/images/swing/brooklyn-bop-leonard.jpg)](/images/swing/brooklyn-bop-leonard.jpg)
+*Seina y Leonard Gaskin en la sesión de grabación de Leonard, Manhattan, 1998*

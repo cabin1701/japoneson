@@ -1,8 +1,8 @@
 ---
 title: "The Brooklyn Bop Brothers"
 slug: brooklyn-bop
-hero_image: "/images/swing/brooklyn-bop-leonard.jpg"
-hero_image_alt: "Seina and Leonard Gaskin at Leonard's recording session, Manhattan, 1998"
+hero_image: "/images/swing/leonard-purejazz.jpg"
+hero_image_alt: "Pure Jazz magazine, Walking the Bass with Leonard Gaskin, among Easter tulips"
 hero_subtitle: "Leonard Gaskin · Duke Jordan · Cecil Payne · Max Roach · Randy Weston · Wade Barnes"
 hero_height: 1200
 hero_fit: "cover"
@@ -14,6 +14,7 @@ hero_title_italic: true
 wp_parent: 719
 ---
 
+## Brooklyn is a Bebop Inlet
 In 2006, while desperately searching for Leonard after losing contact with him, I met Mr. Wade Barnes.
 
 On August 13, 2026, while researching Afro-Cuban jazz, I discovered its direct connection to the bebop explosion of the 1940s.
@@ -59,7 +60,7 @@ I asked my AI companion, Vega, to investigate their interconnected history in pa
 
 <div class="tribute-image">
 
-[![Max Roach at the Tommy Turrentine memorial, Lenox Lounge, Harlem, 1997](/images/swing/brooklyn-bop-maxroach.jpg)](/images/swing/brooklyn-bop-maxroach.jpg)
+[![Max Roach at the Tommy Turrentine Tribute, Lenox Lounge, Harlem, 1997](/images/swing/brooklyn-bop-maxroach.jpg)](/images/swing/brooklyn-bop-maxroach.jpg)
 *Max Roach at the Tommy Turrentine memorial, Lenox Lounge, Harlem, 1997*
 
 </div>
@@ -182,8 +183,11 @@ Wade Barnes passed away on March 3, 2012 (Aged 57).
 I just learned that August 15th is Wade's birthday.
 That is why I am creating this page right now.
 
-And looking at the photo at the top of this page—from my own recording session with Leonard in 1998—I just realized something profound:
+I just realized something profound:
 The cap Leonard wore that day was for **Minton's Playhouse**. He had deliberately worn that deeply cherished cap to my session.
 
 May this reach BBB—The Brooklyn Bop Brothers in heaven.
 May the true story of Leonard and his brothers be known to many across the world.
+
+[![Seina and Leonard Gaskin at Leonard's recording session, Manhattan, 1998](/images/swing/brooklyn-bop-leonard.jpg)](/images/swing/brooklyn-bop-leonard.jpg)
+*Seina and Leonard Gaskin at Leonard's recording session, Manhattan, 1998*
