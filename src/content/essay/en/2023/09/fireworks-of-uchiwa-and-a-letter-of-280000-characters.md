@@ -3,8 +3,8 @@ title: '"Uchiwa Fireworks Seen from Heaven" and a "Letter of 280,000 Characters"
 date: 2023-09-19T09:00:00
 hero: "images/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg"
 lang: en
-category: ["Murakami Mambo"]
-tags: ["Cuba", "Music"]
+category: ["Murakami Mambo", "Cuban Music"]
+tags: ["Cuba", "Music", "Los Van Van", "Ryu Murakami"]
 ---
 
 On August 27th, 2023, at Los Van Van's outdoor concert on Nokonoshima Island in Fukuoka, I handed out uchiwa (Japanese fans) printed with a photo of Los Van Van's bassist Juan Carlos Formel, who had passed away on May 26th, and asked many people to wave them.

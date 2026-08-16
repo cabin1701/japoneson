@@ -4,7 +4,7 @@ date: 2023-10-14T09:00:00
 hero: "images/essay/wp/2023/10/cuba-coast.jpg"
 lang: es
 category: ["Murakami Mambo"]
-tags: ["Cuba", "Music"]
+tags: ["Japon", "Cuba", "Ryu Murakami"]
 ---
 
 Hace unos días tuve noticias de Luisito, desde Cuba. El ingeniero de sonido que grabó las sesiones de Ryu Murakami en Cuba es amigo de Luisito, y como yo le había dicho que me gustaría hablar con él, de eso trataba su mensaje.

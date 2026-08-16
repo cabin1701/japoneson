@@ -3,8 +3,8 @@ title: 'a Luisito "Sobre la entrevista de Ramón Alom Suárez"'
 date: 2024-03-26T09:00:00
 hero: "images/essay/wp/2024/03/luisito-studio.jpg"
 lang: es
-category: ["Murakami Mambo"]
-tags: ["Cuba", "Music"]
+category: ["Murakami Mambo", "Música Cubana"]
+tags: ["Música", "Cuba", "Ryu Murakami"]
 ---
 
 Mi hermano Luisito.

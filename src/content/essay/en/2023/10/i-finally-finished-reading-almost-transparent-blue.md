@@ -4,7 +4,7 @@ date: 2023-10-14T09:00:00
 hero: "images/essay/wp/2023/10/cuba-coast.jpg"
 lang: en
 category: ["Murakami Mambo"]
-tags: ["Cuba", "Music"]
+tags: ["Cuba", "Ryu Murakami"]
 ---
 
 A few days ago, I heard from Luisito in Cuba. The sound engineer who recorded Ryu Murakami's sessions in Cuba is a friend of Luisito's, and since I'd said I wanted to hear from him, that was what his message was about.

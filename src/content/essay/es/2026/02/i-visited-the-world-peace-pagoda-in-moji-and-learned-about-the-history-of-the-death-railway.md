@@ -3,8 +3,8 @@ title: "Visité la Pagoda de la Paz Mundial en Moji y aprendí sobre la historia
 date: 2026-02-05T06:48:11
 lang: es
 hero: "images/essay/wp/2026/01/IMG_0968-768x1024.jpg"
-category: ["Angels Swing"]            
-tags: ["Kanmon", "War"]   
+category: ["Angels Swing", "Historia"]
+tags: ["Historia de guerra", "Segunda Guerra Mundial"]
 ---
 
 Ayer visité la Pagoda de la Paz Mundial de Moji, sobre la que [escribí un poco el otro día](https://tour.crystallize.jp/archives/1078#pagoda). Mi última visita había sido hace dos años.

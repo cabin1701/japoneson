@@ -3,8 +3,8 @@ title: '"Fuegos artificiales de uchiwa vistos desde el cielo" y una "carta de 28
 date: 2023-09-19T09:00:00
 hero: "images/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg"
 lang: es
-category: ["Murakami Mambo"]
-tags: ["Cuba", "Music"]
+category: ["Murakami Mambo", "Música Cubana"]
+tags: ["Los Van Van", "Música", "Cuba", "Ryu Murakami"]
 ---
 
 El 27 de agosto de 2023, en el concierto al aire libre de Los Van Van en la isla de Nokonoshima, en Fukuoka, repartí uchiwa (abanicos japoneses) con una foto de Juan Carlos Formel, el bajista de Los Van Van, que había fallecido el 26 de mayo, y pedí a mucha gente que los agitara.

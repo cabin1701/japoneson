@@ -3,8 +3,8 @@ title: 'Engineer of Murakami''s early productions. Ramon Alom Suarez'
 date: 2023-09-17T09:00:00
 hero: "images/essay/wp/2023/09/tosco-hero.jpg"
 lang: en
-category: ["Murakami Mambo"]
-tags: ["Cuba", "Music"]
+category: ["Murakami Mambo", "Cuban Music"]
+tags: ["Cuba", "Music", "Ryu Murakami"]
 ---
 
 Last night I sent 2 recordings of José Luis Cortés to Luisito who is my best friend like family.

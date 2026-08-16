@@ -3,8 +3,8 @@ title: "Dear Mom & Dad Letters | \"US APO #24 Kokura Pair-Occupied Japan\""
 date: 2026-01-07T05:27:14
 lang: en
 hero: "images/essay/wp/2026/01/deardad.jpg"
-category: ["Angels Swing"]            
-tags: ["U.S.A.", "War"]   
+category: ["Angels Swing", "History"]            
+tags: ["Korean War", "War History"]   
 ---
 
 Yesterday, I was looking for my cats Doris (Day) and Glenn (Miller), which I had in the late 1980s, but I couldn't find them. I then opened the boxes in a closet. Then I found these letters, which I had forgotten where I had put them

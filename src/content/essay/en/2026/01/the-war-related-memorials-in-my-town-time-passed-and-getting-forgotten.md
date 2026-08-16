@@ -3,8 +3,8 @@ title: "The War-related Memorials in my town | Time passed, and getting forgotte
 date: 2026-01-22T11:02:21
 lang: en
 hero: "images/essay/wp/2026/01/usnation.jpg"
-category: ["Angels Swing"]            
-tags: ["Kanmon", "U.S.A.", "France", "Burma", "War"]  
+category: ["Angels Swing", "History"]            
+tags: ["WWII", "War History"]  
 ---
 
 When I was little, my dad loved driving his car. Sometimes he would take us to Memorial Cross. He said it was where he used to take my mom on dates.

@@ -3,8 +3,8 @@ title: "Thanks for the Memories | \"Swing 46\" & \"Red Blazer, Too\""
 date: 2025-12-31T13:58:41
 lang: en
 hero: "images/essay/wp/2025/12/redblazer.jpg"
-category: ["Angels Swing"]            
-tags: ["U.S.A.", "Music"]   
+category: ["Angels Swing", "Music"]            
+tags: ["Music"]   
 ---
 
 A few days ago, I saw a post saying that Swing 46 will close at the end of 2025. The post was by [George Gee, a big bandleader](https://www.facebook.com/GeorgeGeeSwingOrchestra) who was my friend during the "RED BLAZER, TOO" days.

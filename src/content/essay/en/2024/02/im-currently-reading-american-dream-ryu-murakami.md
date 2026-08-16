@@ -4,7 +4,7 @@ date: 2024-02-02T09:00:00
 hero: "images/essay/wp/2024/02/havana-classic-cars.jpg"
 lang: en
 category: ["Murakami Mambo"]
-tags: ["Cuba", "Music"]
+tags: ["Cuba", "Ryu Murakami"]
 ---
 
 I'm reading this book now.

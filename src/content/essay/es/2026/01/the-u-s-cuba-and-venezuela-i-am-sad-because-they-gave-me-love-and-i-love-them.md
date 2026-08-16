@@ -4,7 +4,7 @@ date: 2026-01-09T12:16:22
 lang: es
 hero: "images/essay/wp/2026/01/cubavene.jpg"
 category: ["JAPONÉSON"]            
-tags: ["U.S.A.", "Cuba",]   
+tags: ["Cuba"]   
 ---
 
 Ayer me sentía abrumada y no quería hacer nada. Al final de la tarde salí y empecé a podar los árboles crecidos alrededor de la casa abandonada.

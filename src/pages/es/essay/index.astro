@@ -45,6 +45,7 @@ const HERO_IMAGE = `${base}images/essay/swing_cut.jpg`;
             class="post-card"
             data-title={post.data.title.toLowerCase()}
             data-excerpt={(post.data.excerpt || '').toLowerCase()}
+            data-tags={(post.data.tags || []).join(' ').toLowerCase()}
             data-archive={`${post.data.date.getFullYear()}-${String(post.data.date.getMonth() + 1).padStart(2, '0')}`}
             data-category={(post.data.category || []).join('/')}
             data-cat-top={(post.data.category || [])[0] || ''}
@@ -114,7 +115,7 @@ const HERO_IMAGE = `${base}images/essay/swing_cut.jpg`;
       allCards.forEach((card) => {
         let match = true;
         if (q) {
-          const hay = (card.dataset.title || '') + ' ' + (card.dataset.excerpt || '');
+          const hay = (card.dataset.title || '') + ' ' + (card.dataset.excerpt || '') + ' ' + (card.dataset.tags || '');
           if (!hay.includes(q)) match = false;
         }
         if (match && archive && card.dataset.archive !== archive) match = false;

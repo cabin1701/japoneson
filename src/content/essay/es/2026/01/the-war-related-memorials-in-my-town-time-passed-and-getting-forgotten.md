@@ -3,8 +3,8 @@ title: "Los memoriales de guerra en mi ciudad | El tiempo pasó, y se van olvida
 date: 2026-01-22T11:02:21
 lang: es
 hero: "images/essay/wp/2026/01/usnation.jpg"
-category: ["Angels Swing"]            
-tags: ["Kanmon", "U.S.A.", "France", "Burma", "War"]  
+category: ["Angels Swing", "Historia"]
+tags: ["Historia de guerra", "Segunda Guerra Mundial"]
 ---
 
 Cuando era pequeña, a mi papá le encantaba conducir su coche. A veces nos llevaba a la Cruz Conmemorativa. Decía que era el lugar donde solía llevar a mi mamá en sus citas.

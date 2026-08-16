@@ -3,8 +3,8 @@ title: "Cartas 'Dear Mom & Dad' | \"US APO #24 Kokura Pair-Occupied Japan\""
 date: 2026-01-07T05:27:14
 lang: es
 hero: "images/essay/wp/2026/01/deardad.jpg"
-category: ["Angels Swing"]            
-tags: ["U.S.A.", "War"]   
+category: ["Angels Swing", "Historia"]            
+tags: ["Guerra de Corea", "Historia de guerra"]  
 ---
 
 Ayer estaba buscando a mis gatos Doris (Day) y Glenn (Miller), que tuve a finales de los años ochenta, pero no los encontré. Entonces abrí unas cajas en un armario. Fue así como encontré estas cartas, que había olvidado dónde había guardado.

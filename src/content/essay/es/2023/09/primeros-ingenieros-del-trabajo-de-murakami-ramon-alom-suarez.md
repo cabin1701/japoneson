@@ -3,8 +3,8 @@ title: 'Ingeniero de las primeras producciones de Murakami. Ramón Alom Suarez'
 date: 2023-09-17T09:00:00
 hero: "images/essay/wp/2023/09/tosco-hero.jpg"
 lang: es
-category: ["Murakami Mambo"]
-tags: ["Cuba", "Music"]
+category: ["Murakami Mambo", "Música Cubana"]
+tags: ["Música", "Cuba", "Ryu Murakami"]
 ---
 
 Anoche le envié 2 grabaciones de José Luis Cortés a Luisito, que es mi mejor amigo como mi familia.

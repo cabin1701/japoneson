@@ -29,6 +29,7 @@ const labels = {
   en: {
     recent: 'Recent',
     categories: 'Categories',
+    tags: 'Tags',
     archive: 'Archives',
     archivePick: 'Select Month',
     about: 'About',
@@ -39,6 +40,7 @@ const labels = {
   es: {
     recent: 'Recientes',
     categories: 'Categorías',
+    tags: 'Etiquetas',
     archive: 'Archivo',
     archivePick: 'Elegir mes',
     about: 'Sobre',
@@ -66,6 +68,14 @@ for (const p of all) {
   }
 }
 const topCats = Object.entries(tree).sort((a, b) => a[0].localeCompare(b[0]));
+
+const tagMap = new Map<string, number>();
+for (const p of all) {
+  for (const t of p.data.tags || []) {
+    tagMap.set(t, (tagMap.get(t) || 0) + 1);
+  }
+}
+const tagList = [...tagMap.entries()].sort((a, b) => a[0].localeCompare(b[0]));
 
 const archMap = new Map<string, number>();
 for (const p of all) {
@@ -133,6 +143,21 @@ const monthLabel = (key: string) => {
             </li>
           );
         })}
+      </ul>
+    </section>
+  )}
+
+  {tagList.length > 0 && (
+    <section class="side-section">
+      <h3 class="side-title">{labels.tags}</h3>
+      <ul class="side-tags">
+        {tagList.map(([tag, count]) => (
+          <li>
+            <a href={`${essayHref}?q=${encodeURIComponent(tag)}`} class="side-tag-pill">
+              {tag} <span class="tag-count">{count}</span>
+            </a>
+          </li>
+        ))}
       </ul>
     </section>
   )}
@@ -311,6 +336,40 @@ const monthLabel = (key: string) => {
   .cat-sub .cat-name {
     font-size: 0.9rem;
     color: var(--color-muted);
+  }
+
+  .side-tags {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .side-tag-pill {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.3rem;
+    padding: 0.25rem 0.7rem;
+    border: 1px solid var(--color-accent);
+    border-radius: 999px;
+    text-decoration: none;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.02em;
+    color: var(--color-navy);
+    transition: background 0.2s ease, color 0.2s ease;
+  }
+  .side-tag-pill:hover {
+    background: var(--color-accent);
+    color: #fff;
+  }
+  .tag-count {
+    font-size: 0.68rem;
+    color: var(--color-accent);
+  }
+  .side-tag-pill:hover .tag-count {
+    color: #fff;
   }
 
   .side-archive-select {

@@ -3,8 +3,8 @@ title: "Korean War Poem | We remember you and your history"
 date: 2025-12-07T17:37:31
 lang: en
 hero: "images/essay/wp/2026/01/korenwarpoem.jpg"
-category: ["Angels Swing"]            
-tags: ["U.S.A.", "War"]  
+category: ["Angels Swing", "History"]            
+tags: ["Korean War", "War History"]   
 ---
 
 I had been... far from the Angels Swing project that was about music and the wars.

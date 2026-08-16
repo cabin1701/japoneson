@@ -3,8 +3,8 @@ title: "A Door for Cuba, in 2013"
 date: 2025-12-11T09:05:34
 lang: en
 hero: "images/essay/wp/2025/12/a-door-for-cuba-in-2013.jpg"
-category: ["Angels Swing"]            
-tags: ["Cuba", "War"]   
+category: ["Angels Swing", "History"]            
+tags: ["Cuba", "War History"]   
 ---
 
 Everybody wonders why I went to Cuba so suddenly.

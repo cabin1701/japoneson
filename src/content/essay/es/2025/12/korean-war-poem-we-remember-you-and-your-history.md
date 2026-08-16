@@ -3,8 +3,8 @@ title: "Poema de la Guerra de Corea | Los recordamos a ustedes y su historia"
 date: 2025-12-07T17:37:31
 lang: es
 hero: "images/essay/wp/2026/01/korenwarpoem.jpg"
-category: ["Angels Swing"]            
-tags: ["U.S.A.", "War"]  
+category: ["Angels Swing", "Historia"]            
+tags: ["Guerra de Corea", "Historia de guerra"]  
 ---
 
 Había estado... lejos del proyecto Angels Swing, que trataba sobre música y las guerras.

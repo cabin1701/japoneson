@@ -3,8 +3,8 @@ title: "Una puerta para Cuba, en 2013"
 date: 2025-12-11T09:05:34
 lang: es
 hero: "images/essay/wp/2025/12/a-door-for-cuba-in-2013.jpg"
-category: ["Angels Swing"]            
-tags: ["Cuba", "War"]   
+category: ["Angels Swing", "Historia"]            
+tags: ["Cuba"]   
 ---
 
 Todo el mundo se pregunta por qué me fui a Cuba tan de repente.

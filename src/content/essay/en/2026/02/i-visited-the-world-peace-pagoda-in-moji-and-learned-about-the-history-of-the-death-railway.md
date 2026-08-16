@@ -3,8 +3,8 @@ title: "I visited the World Peace Pagoda in Moji and learned about the history o
 date: 2026-02-05T06:48:11
 lang: en
 hero: "images/essay/wp/2026/01/IMG_0968-768x1024.jpg"
-category: ["Angels Swing"]            
-tags: ["Kanmon", "War"]   
+category: ["Angels Swing", "History"]            
+tags: ["WWII", "War History"]   
 ---
 
 Yesterday, I visited The Moji World Peace Pagoda, which [I wrote about a little bit the other day](https://tour.crystallize.jp/archives/1078#pagoda). My last visit was two years ago.
