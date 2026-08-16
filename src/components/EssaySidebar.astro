@@ -32,7 +32,6 @@ const labels = {
     tags: 'Tags',
     archive: 'Archives',
     archivePick: 'Select Month',
-    about: 'About',
     search: 'Search',
     searchPlaceholder: 'Search essays…',
     searchButton: 'Search',
@@ -43,16 +42,10 @@ const labels = {
     tags: 'Etiquetas',
     archive: 'Archivo',
     archivePick: 'Elegir mes',
-    about: 'Sobre',
     search: 'Buscar',
     searchPlaceholder: 'Buscar ensayos…',
     searchButton: 'Buscar',
   },
-}[lang];
-
-const aboutCopy = {
-  en: 'P.S. I Love You — letters from Seina.',
-  es: 'P.S. I Love You — cartas de Seina.',
 }[lang];
 
 type Tree = Record<string, { count: number; children: Record<string, number> }>;
@@ -95,11 +88,6 @@ const monthLabel = (key: string) => {
 ---
 
 <aside class="essay-sidebar" lang={lang} data-pagefind-ignore>
-  <section class="side-section">
-    <h3 class="side-title">{labels.about}</h3>
-    <p class="side-about">{aboutCopy}</p>
-  </section>
-
   {recent.length > 0 && (
     <section class="side-section">
       <h3 class="side-title">{labels.recent}</h3>
@@ -217,19 +205,11 @@ const monthLabel = (key: string) => {
 
   .side-title {
     margin: 0 0 1rem;
-    font-family: 'Marcellus SC', serif;
+    font-family: 'Gabriela', serif;
     font-style: italic;
     font-size: 1.05rem;
     letter-spacing: 0.14em;
     color: var(--color-accent);
-  }
-
-  .side-about {
-    margin: 0;
-    font-family: 'Helvetica', sans-serif;
-    font-size: 0.9rem;
-    line-height: 1.6;
-    color: var(--color-muted);
   }
 
   .side-search {
@@ -237,6 +217,8 @@ const monthLabel = (key: string) => {
     gap: 0;
     border: 1px solid rgba(33, 50, 101, 0.25);
     background: #fff;
+    border-radius: 999px;
+    overflow: hidden;
   }
   .side-search input {
     flex: 1;
@@ -282,10 +264,11 @@ const monthLabel = (key: string) => {
     color: inherit;
   }
   .side-recent-title {
-    font-family: 'Pathway Gothic One', sans-serif;
-    font-size: 1rem;
+    font-family: 'Gabriela', serif;
+    font-style: italic;
+    font-size: 0.8rem;
     line-height: 1.25;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.0em;
     color: var(--color-navy);
     transition: color 0.2s ease;
   }
@@ -293,7 +276,8 @@ const monthLabel = (key: string) => {
     color: var(--color-accent);
   }
   .side-recent-date {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Cormorant Infant', serif;
+    font-style: italic;
     font-size: 0.72rem;
     letter-spacing: 0.04em;
     color: var(--color-muted);
@@ -310,9 +294,10 @@ const monthLabel = (key: string) => {
     color: inherit;
   }
   .cat-name {
-    font-family: 'Pathway Gothic One', sans-serif;
-    font-size: 1rem;
-    letter-spacing: 0.02em;
+    font-family: 'Gabriela', serif;
+    font-style: italic;
+    font-size: 0.8rem;
+    letter-spacing: 0.0em;
     color: var(--color-navy);
     transition: color 0.2s ease;
   }
@@ -321,12 +306,12 @@ const monthLabel = (key: string) => {
   }
   .cat-count {
     font-family: 'Helvetica', sans-serif;
-    font-size: 0.72rem;
+    font-size: 0.65rem;
     color: var(--color-accent);
   }
   .cat-sub {
-    margin: 0.4rem 0 0.25rem 0.9rem;
-    padding: 0 0 0 0.85rem;
+    margin: 0.2rem 0 0.2rem 0.7rem;
+    padding: 0 0 0 0.7rem;
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -334,7 +319,7 @@ const monthLabel = (key: string) => {
     border-left: 1px solid rgba(208, 0, 0, 0.2);
   }
   .cat-sub .cat-name {
-    font-size: 0.9rem;
+    font-size: 0.75rem;
     color: var(--color-muted);
   }
 
@@ -349,24 +334,25 @@ const monthLabel = (key: string) => {
   .side-tag-pill {
     display: inline-flex;
     align-items: baseline;
-    gap: 0.3rem;
-    padding: 0.25rem 0.7rem;
-    border: 1px solid var(--color-accent);
+    gap: 0.25rem;
+    padding: 0.15rem 0.55rem;
+    border: 1px solid var(--color-navy);
     border-radius: 999px;
     text-decoration: none;
-    font-family: 'Helvetica', sans-serif;
-    font-size: 0.78rem;
+    font-family: 'Gabriela', serif;
+    font-style: italic;
+    font-size: 0.6rem;
     letter-spacing: 0.02em;
     color: var(--color-navy);
     transition: background 0.2s ease, color 0.2s ease;
   }
   .side-tag-pill:hover {
-    background: var(--color-accent);
+    background: var(--color-navy);
     color: #fff;
   }
   .tag-count {
-    font-size: 0.68rem;
-    color: var(--color-accent);
+    font-size: 0.62rem;
+    color: var(--color-navy);
   }
   .side-tag-pill:hover .tag-count {
     color: #fff;
@@ -380,6 +366,7 @@ const monthLabel = (key: string) => {
     color: var(--color-text);
     background: #fff;
     border: 1px solid rgba(33, 50, 101, 0.25);
+    border-radius: 999px;
     appearance: none;
     background-image:
       linear-gradient(45deg, transparent 50%, var(--color-accent) 50%),

@@ -4,7 +4,7 @@ date: 2026-01-09T12:16:22
 lang: en
 hero: "images/essay/wp/2026/01/cubavene.jpg"
 category: ["JAPONÉSON"]            
-tags: ["U.S.A.", "Cuba",]   
+tags: ["Cuba",]   
 ---
 
 Yesterday, I felt weighed down and didn't want to do anything. In the late afternoon, I went outside and started cutting back the overgrown trees around the abandoned house.
