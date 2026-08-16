@@ -91,7 +91,7 @@ This is the master record chronicling when, where, and how these brothers crosse
 
 ### 🎷 Core Lineup & Roles of The Brooklyn Bop Brothers
 
-* **[Leonard Gaskin](https://en.wikipedia.org/wiki/Leonard_Gaskin)** (b. August 25, 1920): **【Eldest Brother / Bass】** Professional debut in 1943. The dependable elder brother, anchor of the low end.
+* **[Leonard Gaskin](https://en.wikipedia.org/wiki/Leonard_Gaskin)** (b. August 25, 1920): **【Eldest Brother / Bass】** Active professionally since at least 1940 (performing alongside a young Cecil Payne in Clarence Berry’s band). The dependable elder brother, anchor of the low end.
 * **[Duke Jordan](https://en.wikipedia.org/wiki/Duke_Jordan)** (b. April 1, 1922): **【Piano】** Same age as Cecil. Boys High School alumnus. The golden pianist of the classic [Charlie Parker](https://en.wikipedia.org/wiki/Charlie_Parker) Quintet.
 * **[Cecil Payne](https://en.wikipedia.org/wiki/Cecil_Payne)** (b. December 14, 1922): **【Baritone Saxophone】** Two years younger than Leonard. Boys High School alumnus. Giant of the baritone sax with Dizzy Gillespie and Illinois Jacquet.
 * **[Max Roach](https://en.wikipedia.org/wiki/Max_Roach)** (b. January 10, 1924): **【Drums】** Four years younger than Leonard. Boys High School alumnus. Revolutionary architect of modern jazz drumming.

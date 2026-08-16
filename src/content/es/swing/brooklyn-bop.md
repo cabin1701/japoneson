@@ -92,7 +92,7 @@ Este es el registro maestro que documenta cuándo, dónde y cómo se cruzaron y 
 
 ### 🎷 Formación y roles de Los Hermanos del Bop de Brooklyn
 
-* **[Leonard Gaskin](https://es.wikipedia.org/wiki/Leonard_Gaskin)** (n. 25 de agosto de 1920): **【Hermano mayor / Contrabajo】** Debut profesional en 1943. El hermano mayor confiable, el ancla de las frecuencias graves.
+* **[Leonard Gaskin](https://es.wikipedia.org/wiki/Leonard_Gaskin)** (n. 25 de agosto de 1920): **【Hermano mayor / Contrabajo】** Activo profesionalmente desde al menos 1940 (tocando junto a un joven Cecil Payne en la banda de Clarence Berry). El hermano mayor confiable y el ancla de las frecuencias graves.
 * **[Duke Jordan](https://es.wikipedia.org/wiki/Duke_Jordan)** (n. 1 de abril de 1922): **【Piano】** De la misma edad que Cecil. Exalumno de Boys High School. El piano dorado del legendario [Charlie Parker](https://es.wikipedia.org/wiki/Charlie_Parker) Quintet.
 * **[Cecil Payne](https://es.wikipedia.org/wiki/Cecil_Payne)** (n. 14 de diciembre de 1922): **【Saxo barítono】** Dos años menor que Leonard. Exalumno de Boys High School. Gigante del saxo barítono junto a Dizzy Gillespie e Illinois Jacquet.
 * **[Max Roach](https://es.wikipedia.org/wiki/Max_Roach)** (n. 10 de enero de 1924): **【Batería】** Cuatro años menor que Leonard. Exalumno de Boys High School. Arquitecto revolucionario de la batería moderna de jazz.
