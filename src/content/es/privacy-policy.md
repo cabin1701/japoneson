@@ -38,5 +38,5 @@ Esta plataforma no se dirige a personas menores de 13 años, y no se recopilan a
 ### 07. CONTACTO
 Para cualquier pregunta sobre este manifiesto, puedes contactar directamente:
 
-**Email:** contact[@]cabin1701.com
+**Email:** cats[@]cabin1701.com
 elimina los [ ] cuando me escribas.

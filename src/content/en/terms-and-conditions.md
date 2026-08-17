@@ -36,5 +36,5 @@ We reserve the right to modify or replace these Terms at any time. By continuing
 ### 08. CONTACT
 If you have any questions about these Terms and Conditions, please contact us:
 
-**Email:** contact[@]cabin1701.com
+**Email:** cats[@]cabin1701.com
 delete [ ] when you email me.
