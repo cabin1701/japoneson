@@ -2,7 +2,7 @@
 title: "Una puerta para Cuba, en 2013"
 date: 2025-12-11T09:05:34
 lang: es
-hero: "images/essay/wp/2025/12/a-door-for-cuba-in-2013.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2025/12/a-door-for-cuba-in-2013.jpg"
 category: ["Angels Swing", "Historia"]            
 tags: ["Cuba"]   
 ---
@@ -13,7 +13,7 @@ En 2013, la primera mitad del año fue maravillosa. Publiqué un folleto, ["The 
 
 Después visité el **[Battleship Missouri Memorial](http://Then, in 2013, CUBA started...)** en Hawái, luego Nueva York, luego Norfolk, Virginia, y canté en la convención de **[la American Defenders of Bataan Corregidor Memorial Society](https://www.adbcmemorialsociety.org/)**. También visité [**el MacArthur Memorial**](https://macarthurmemorial.org/) en Norfolk. Después de Norfolk, visité San Diego para ver al Sr. David Valley, y luego subí hasta Los Ángeles para ver a la Sra. Monica Lewis. En Los Ángeles visité [**el Japanese American National Museum**](https://www.janm.org/).
 
-![](/images/essay/wp/2025/12/IMG_2272-1024x768.jpg)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2025/12/IMG_2272-1024x768.jpg)
 
 Al regresar a Japón, canté los himnos de Japón y de Estados Unidos en la ceremonia del Día de la Independencia en el Consulado de Fukuoka. Luego di una charla especial sobre el folleto y mis experiencias en la Universidad de Kitakyushu.
 
@@ -33,11 +33,11 @@ Escuché el álbum de su banda, PORNOSON, una y otra vez. Mientras lo escuchaba,
 
 A finales de 2013 visité Washington D.C. y Arlington, Virginia. Recorrí memoriales de guerra y el Cementerio Nacional de Arlington.
 
-![](/images/essay/wp/2025/12/IMG_3194-1024x768.jpg)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2025/12/IMG_3194-1024x768.jpg)
 
-![](/images/essay/wp/2025/12/IMG_3270-1024x768.jpg)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2025/12/IMG_3270-1024x768.jpg)
 
-![](/images/essay/wp/2025/12/IMG_3291-768x1024.jpg)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2025/12/IMG_3291-768x1024.jpg)
 
 Regresé a Japón a finales de enero. Poco después, una amiga que vivía en Nueva York me pidió ayuda porque había estado hospitalizada desde abril. Compré un billete a Nueva York, pero al cabo de un mes, en marzo, me dijo que ya no necesitaba estar en el hospital. Aunque cancelara el billete y el alojamiento, la penalización no era pequeña. Así que no los cancelé. Pero, ¿para qué iba a visitar Nueva York?
 

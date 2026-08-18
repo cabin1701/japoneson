@@ -1,7 +1,7 @@
 ---
 title: 'I''m currently reading "American★Dream" by Ryu Murakami (1985)'
 date: 2024-02-02T09:00:00
-hero: "images/essay/wp/2024/02/havana-classic-cars.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2024/02/havana-classic-cars.jpg"
 lang: en
 category: ["Murakami Mambo"]
 tags: ["Cuba", "Ryu Murakami"]

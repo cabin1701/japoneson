@@ -2,7 +2,7 @@
 title: "Los memoriales de guerra en mi ciudad | El tiempo pasó, y se van olvidando"
 date: 2026-01-22T11:02:21
 lang: es
-hero: "images/essay/wp/2026/01/usnation.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/usnation.jpg"
 category: ["Angels Swing", "Historia"]
 tags: ["Historia de guerra", "Segunda Guerra Mundial"]
 ---
@@ -21,13 +21,13 @@ No, ni siquiera las vidas japonesas de la Guerra del Pacífico, mucho. ya.
 
 En Mojiko está [la Pagoda de la Paz Mundial de Moji](https://en.japoneson.com/en/angelsswing/remember/pagoda), construida en 1958. Cuando visité la Pagoda en 2012, me di cuenta de que había sido sostenida por veteranos y sus familias del frente de Birmania en la Guerra del Pacífico. Sí, no lo sabía, aunque a menudo veía la pagoda mientras conducía.
 
-![](/images/essay/wp/2026/01/IMG_0968-768x1024.jpg)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/IMG_0968-768x1024.jpg)
 
 Y en 2012, la mayoría de los veteranos y sus familiares ya habían fallecido o eran muy mayores, así que la pagoda se encontraba en una situación difícil.
 
 Además, encontré otra tumba conmemorativa para los franceses de la Campaña de Shimonoseki de 1864. No lo sabía, ni siquiera conocía esa historia.
 
-![](/images/essay/wp/2026/01/IMG_0977-768x1024.jpg)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/IMG_0977-768x1024.jpg)
 
 Empecé a comprender lo realmente difícil que era construir el memorial, y los significados y temas de las cosas relacionadas con la guerra entre las personas.
 

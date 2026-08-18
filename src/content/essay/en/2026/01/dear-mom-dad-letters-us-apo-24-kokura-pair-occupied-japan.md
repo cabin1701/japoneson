@@ -2,7 +2,7 @@
 title: "Dear Mom & Dad Letters | \"US APO #24 Kokura Pair-Occupied Japan\""
 date: 2026-01-07T05:27:14
 lang: en
-hero: "images/essay/wp/2026/01/deardad.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/deardad.jpg"
 category: ["Angels Swing", "History"]            
 tags: ["Korean War", "War History"]   
 ---
@@ -19,7 +19,7 @@ https://youtu.be/2VOVtIpB-3o?si=cdAyC-pevdv0pNqR
 
 On a whim, I entered the recipient's address into Google. I found a charming old house on Google Maps. According to a real estate website, the house was built in 1890.
 
-![](/images/essay/wp/2026/01/スクリーンショット-2026-01-07-4.28.11-1024x732.png)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2026-01-07-4.28.11-1024x732.png)
 
 The boy rose, and maybe he was born in the house, then went to the war.
 
@@ -39,7 +39,7 @@ I will write about the atomic bombs another essay, so I will go back to letters 
 
 Then... I found [this page.](https://www.sparksgriffin.com/obituaries/barbara-baggett)
 
-[![](/images/essay/wp/2026/01/スクリーンショット-2026-01-07-5.13.00-1024x521.png)](https://www.sparksgriffin.com/obituaries/barbara-baggett)
+[![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2026-01-07-5.13.00-1024x521.png)](https://www.sparksgriffin.com/obituaries/barbara-baggett)
 
 > ## Barbara Baggett
 >

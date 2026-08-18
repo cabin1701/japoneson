@@ -1,7 +1,7 @@
 ---
 title: '"Fuegos artificiales de uchiwa vistos desde el cielo" y una "carta de 280.000 caracteres" para Ryu Murakami'
 date: 2023-09-19T09:00:00
-hero: "images/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg"
 lang: es
 category: ["Murakami Mambo", "Música Cubana"]
 tags: ["Los Van Van", "Música", "Cuba", "Ryu Murakami"]
@@ -9,7 +9,7 @@ tags: ["Los Van Van", "Música", "Cuba", "Ryu Murakami"]
 
 El 27 de agosto de 2023, en el concierto al aire libre de Los Van Van en la isla de Nokonoshima, en Fukuoka, repartí uchiwa (abanicos japoneses) con una foto de Juan Carlos Formel, el bajista de Los Van Van, que había fallecido el 26 de mayo, y pedí a mucha gente que los agitara.
 
-![Con Samuel Formell (izquierda), director y baterista de Los Van Van, y su hermana Vanessa Formell (derecha), vocalista de la banda e hija del fundador Juan Formell. Fukuoka, 26 de agosto de 2023, el día antes del concierto en Nokonoshima.](/images/essay/wp/2023/08/samuel-vanessa-formell-fukuoka.jpg)
+![Con Samuel Formell (izquierda), director y baterista de Los Van Van, y su hermana Vanessa Formell (derecha), vocalista de la banda e hija del fundador Juan Formell. Fukuoka, 26 de agosto de 2023, el día antes del concierto en Nokonoshima.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/08/samuel-vanessa-formell-fukuoka.jpg)
 
 Detrás del plan de aquellos fuegos artificiales de uchiwa había tres cosas: que mi amiga Yoshiko falleció el día después de Juan Carlos; mi amigo, a quien le habían diagnosticado un linfoma maligno, que pagó la mitad del costo de los uchiwa; y una cosa más.
 
@@ -47,7 +47,7 @@ Una hora después de enviarlo, llegó una respuesta.
 "Por mí no hay problema. — Ryu Murakami"
 
 Creo que Ryu empezará a estudiar la distribución en streaming del álbum de Xiomara.
-![La portada del CD "You Don't Know What Love Is" de Xiomara Laugart.](/images/essay/wp/2023/09/xiomara-cd.jpg)
+![La portada del CD "You Don't Know What Love Is" de Xiomara Laugart.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/xiomara-cd.jpg)
 
 Estaba muy, muy feliz.
 
@@ -83,6 +83,6 @@ En ese álbum, José Luis Cortés de NG La Banda —que era muy cercano a Ryu y 
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcupiedanny%2Fvideos%2F309093498382620%2F&show_text=false&width=560&t=0" width="560" height="314" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-![Los dos uchiwa (abanicos japoneses) hechos para el concierto de Los Van Van. A la izquierda, CupieDanny con su barba de arcoíris: «Soy Vanvanero». A la derecha, «Juan Formell y Los Van Van — El tren de la música cubana», con las banderas de Cuba y Japón y la frase: «Agita este hacia el escenario. Ojalá también se vea desde el cielo».](/images/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg)
+![Los dos uchiwa (abanicos japoneses) hechos para el concierto de Los Van Van. A la izquierda, CupieDanny con su barba de arcoíris: «Soy Vanvanero». A la derecha, «Juan Formell y Los Van Van — El tren de la música cubana», con las banderas de Cuba y Japón y la frase: «Agita este hacia el escenario. Ojalá también se vea desde el cielo».](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg)
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcupiedanny%2Fposts%2Fpfbid0igaRSWHWaSfaZ3JeKgChvkNtKKaEMPEJWZP7pfgnACGXfrhoBdL4ApZ25htTQmr2l&show_text=true&width=500" width="500" height="505" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>

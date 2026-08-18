@@ -1,7 +1,7 @@
 ---
 title: '"Uchiwa Fireworks Seen from Heaven" and a "Letter of 280,000 Characters" to Ryu Murakami'
 date: 2023-09-19T09:00:00
-hero: "images/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg"
 lang: en
 category: ["Murakami Mambo", "Cuban Music"]
 tags: ["Cuba", "Music", "Los Van Van", "Ryu Murakami"]
@@ -9,7 +9,7 @@ tags: ["Cuba", "Music", "Los Van Van", "Ryu Murakami"]
 
 On August 27th, 2023, at Los Van Van's outdoor concert on Nokonoshima Island in Fukuoka, I handed out uchiwa (Japanese fans) printed with a photo of Los Van Van's bassist Juan Carlos Formel, who had passed away on May 26th, and asked many people to wave them.
 
-![With Samuel Formell (left), director and drummer of Los Van Van, and his sister Vanessa Formell (right), the band's vocalist and daughter of founder Juan Formell. Fukuoka, 26 August 2023 — the day before the Nokonoshima concert.](/images/essay/wp/2023/08/samuel-vanessa-formell-fukuoka.jpg)
+![With Samuel Formell (left), director and drummer of Los Van Van, and his sister Vanessa Formell (right), the band's vocalist and daughter of founder Juan Formell. Fukuoka, 26 August 2023 — the day before the Nokonoshima concert.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/08/samuel-vanessa-formell-fukuoka.jpg)
 
 Behind the plan for those uchiwa fireworks were three things: that my friend Yoshiko passed away the day after Juan Carlos; my friend who had been diagnosed with malignant lymphoma, who paid half the cost of the uchiwa; and one more thing.
 
@@ -48,7 +48,7 @@ An hour after I sent it, a reply came.
 
 I believe Ryu will begin looking into streaming Xiomara's album.
 
-![The front cover of the CD "You Don't Know What Love Is" by Xiomara Laugart.](/images/essay/wp/2023/09/xiomara-cd.jpg)
+![The front cover of the CD "You Don't Know What Love Is" by Xiomara Laugart.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/xiomara-cd.jpg)
 
 I was very, very happy.
 
@@ -84,6 +84,6 @@ On that album, José Luis Cortés of NG La Banda — who was very close to Ryu a
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fcupiedanny%2Fvideos%2F309093498382620%2F&show_text=false&width=560&t=0" width="560" height="314" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
-![The two uchiwa (Japanese fans) made for the Los Van Van concert. On the left, CupieDanny with his rainbow beard — "Soy Vanvanero." On the right, "Juan Formell y Los Van Van — El tren de la música cubana," with the Cuban and Japanese flags and the line: "Wave this one toward the stage. I hope it can be seen from heaven too."](/images/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg)
+![The two uchiwa (Japanese fans) made for the Los Van Van concert. On the left, CupieDanny with his rainbow beard — "Soy Vanvanero." On the right, "Juan Formell y Los Van Van — El tren de la música cubana," with the Cuban and Japanese flags and the line: "Wave this one toward the stage. I hope it can be seen from heaven too."](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/08/uchiwa-vanvan-cupiedanny.jpg)
 
 <iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcupiedanny%2Fposts%2Fpfbid0igaRSWHWaSfaZ3JeKgChvkNtKKaEMPEJWZP7pfgnACGXfrhoBdL4ApZ25htTQmr2l&show_text=true&width=500" width="500" height="505" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>

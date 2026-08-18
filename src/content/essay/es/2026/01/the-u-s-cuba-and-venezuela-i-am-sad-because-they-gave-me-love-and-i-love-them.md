@@ -2,7 +2,7 @@
 title: "Estados Unidos, Cuba y Venezuela | Estoy triste porque me dieron amor, y los amo."
 date: 2026-01-09T12:16:22
 lang: es
-hero: "images/essay/wp/2026/01/cubavene.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/cubavene.jpg"
 category: ["JAPONÉSON"]            
 tags: ["Cuba"]   
 ---

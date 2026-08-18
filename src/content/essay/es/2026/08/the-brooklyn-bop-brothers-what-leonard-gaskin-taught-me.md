@@ -1,7 +1,7 @@
 ---
 title: 'The Brooklyn Bop Brothers | Lo que me enseñó Leonard Gaskin'
 date: 2026-08-16
-hero: "images/essay/2026/08/leonard-gaskin-brooklyn-bop-brothers.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/2026/08/leonard-gaskin-brooklyn-bop-brothers.jpg"
 lang: es
 category: ["Brooklyn Bop Bros"]
 tags: ["Leonard Gaskin", "Max Roach", "Randy Weston", "Cecil Payne", "Duke Jordan"]

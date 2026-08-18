@@ -2,7 +2,7 @@
 title: "Poema de la Guerra de Corea | Los recordamos a ustedes y su historia"
 date: 2025-12-07T17:37:31
 lang: es
-hero: "images/essay/wp/2026/01/korenwarpoem.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/korenwarpoem.jpg"
 category: ["Angels Swing", "Historia"]            
 tags: ["Guerra de Corea", "Historia de guerra"]  
 ---

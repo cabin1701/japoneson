@@ -27,7 +27,7 @@ const fmtDate = (d: Date) =>
 
 const slugOf = (id: string) => id.replace(/^(en|es)\//, '');
 const essayBase = `${base}es/essay/`;
-const HERO_FALLBACK = `${base}images/essay/swing_cut.jpg`;
+const HERO_FALLBACK = `https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/swing_cut.jpg`;
 ---
 
 <Layout title={`${post.data.title} – JAPONÉSON`} lang="es">
@@ -37,7 +37,7 @@ const HERO_FALLBACK = `${base}images/essay/swing_cut.jpg`;
     <section
       class="post-hero"
       aria-label={post.data.title}
-      style={`background-image: url('${base}${post.data.hero}');`}
+      style={`background-image: url('${/^https?:\/\//.test(post.data.hero ?? '') ? post.data.hero : `${base}${post.data.hero}`}');`}
     ></section>
   ) : (
     <section

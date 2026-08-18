@@ -1,7 +1,7 @@
 ---
 title: 'Engineer of Murakami''s early productions. Ramon Alom Suarez'
 date: 2023-09-17T09:00:00
-hero: "images/essay/wp/2023/09/tosco-hero.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/tosco-hero.jpg"
 lang: en
 category: ["Murakami Mambo", "Cuban Music"]
 tags: ["Cuba", "Music", "Ryu Murakami"]
@@ -21,7 +21,7 @@ I like it. Jose Luis Cortes Murakami Production
 **LUISITO:** We would have to look to see if they appear. Don't worry, I'll look it up and tell you. I'll buy anything, don't worry.
 
 **SHOKO:**
-![The front cover of the CD "The Man" who called "TOSCO."](/images/essay/wp/2023/09/Tosco-cd.jpg)
+![The front cover of the CD "The Man" who called "TOSCO."](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/Tosco-cd.jpg)
 
 **LUISITO:** Perfect sister, I already have the reference
 
@@ -30,14 +30,14 @@ I like it. Jose Luis Cortes Murakami Production
 **LUISITO:** I don't think it's easy to search, but I'm sure I'll find it.
 
 **SHOKO:**
-![The front cover of the CD "You Don't Know What Love Is" by Xiomara Laugart.](/images/essay/wp/2023/09/xiomara-cd.jpg)
+![The front cover of the CD "You Don't Know What Love Is" by Xiomara Laugart.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/xiomara-cd.jpg)
 
 **SHOKO:** I think it was only sold in Japan. These two albums on CD are out of print in Japan, so I found them secondhand.
 
 **LUISITO:** I have to check too, I'm going to call collector friends so they can beg.
 
 **SHOKO:**
-![The back cover of the CD "The Man" who called "TOSCO," listing the personnel and credits.](/images/essay/wp/2023/09/personel-cd.jpg)
+![The back cover of the CD "The Man" who called "TOSCO," listing the personnel and credits.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/personel-cd.jpg)
 
 **SHOKO:** Cesar Portillo de la Luz wrote lyrics in Spanish for all American Standard Number songs.
 
@@ -69,7 +69,7 @@ Tell him my Spanish is not very good but a good person.
 **LUISITO:** Very interesting, and smaller and smaller than anything.
 
 **SHOKO:**
-![The CD "You Don't Know What Love Is" beside the hardcover of Ryu Murakami's 1991 novel of the same title (恋はいつも未知なもの).](/images/essay/wp/2023/09/book_cd-cd.jpg)
+![The CD "You Don't Know What Love Is" beside the hardcover of Ryu Murakami's 1991 novel of the same title (恋はいつも未知なもの).](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/book_cd-cd.jpg)
 
 **SHOKO:** This book, in 1991. The title is "You Don't Know What Love Is." It is an American standard songs.This novel was written according to titles of 40 American standard numbers. When I was in my twenties, I read this book. The songs are taken from the book for Xiomara's production.
 

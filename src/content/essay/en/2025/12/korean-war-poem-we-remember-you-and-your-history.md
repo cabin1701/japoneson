@@ -2,7 +2,7 @@
 title: "Korean War Poem | We remember you and your history"
 date: 2025-12-07T17:37:31
 lang: en
-hero: "images/essay/wp/2026/01/korenwarpoem.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/korenwarpoem.jpg"
 category: ["Angels Swing", "History"]            
 tags: ["Korean War", "War History"]   
 ---

@@ -2,7 +2,7 @@
 title: "Visité la Pagoda de la Paz Mundial en Moji y aprendí sobre la historia del Ferrocarril de la Muerte."
 date: 2026-02-05T06:48:11
 lang: es
-hero: "images/essay/wp/2026/01/IMG_0968-768x1024.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/IMG_0968-768x1024.jpg"
 category: ["Angels Swing", "Historia"]
 tags: ["Historia de guerra", "Segunda Guerra Mundial"]
 ---
@@ -11,7 +11,7 @@ Ayer visité la Pagoda de la Paz Mundial de Moji, sobre la que [escribí un poco
 
 La pagoda se construyó gracias al esfuerzo y la dedicación de quienes sobrevivieron a la Campaña de Birmania, sus familias en duelo, el entonces alcalde de la ciudad de Moji, y la cooperación con el gobierno birmano.
 
-![](/images/essay/wp/2026/01/IMG_0968-768x1024.jpg)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/IMG_0968-768x1024.jpg)
 
 Pero en 2012, muchas de las personas que habían sobrevivido a la Campaña de Birmania y sus familias en duelo ya habían fallecido, así que se cerró. Sin embargo, ese mismo año, gracias a los esfuerzos del presidente de la empresa local Sunray, fue posible reabrirla. Aun así, él falleció en septiembre de 2024, y quienes habían estado colaborando en aquel entonces ya habían envejecido, mientras los tiempos y las circunstancias habían cambiado.
 
@@ -29,7 +29,7 @@ Yo, nosotros, no sabemos mucho de historia. Aunque supiéramos, solo podríamos 
 
 Caminando por los terrenos del templo, tomé conciencia de una de esas partes de la historia.
 
-![](/images/essay/wp/2026/02/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9680-1024x683.jpg)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/02/121226%E7%B9%9D%E4%B8%8A%EF%BD%99%E7%B9%A7%EF%BD%B3%E7%B9%A7%E5%90%B6%E3%81%A1%E7%B9%A7%E5%90%B6%E2%97%8E%E7%B8%BA%EF%BD%AE%E8%8E%89%E3%83%BB5W9Q9680-1024x683.jpg)
 
 Ayer, 4 de febrero, fue Risshun, el comienzo de la primavera, que marca el inicio del año nuevo en el calendario antiguo.
 
@@ -39,7 +39,7 @@ Yo, y muchos de nuestra generación y los más jóvenes, tampoco sabíamos esas 
   
 Ha comenzado un nuevo año.
 
-![](/images/essay/wp/2026/02/img_0508-1024x768.jpg)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/02/img_0508-1024x768.jpg)
 
 en el Santuario Mekari
 

@@ -2,7 +2,7 @@
 title: "Cartas 'Dear Mom & Dad' | \"US APO #24 Kokura Pair-Occupied Japan\""
 date: 2026-01-07T05:27:14
 lang: es
-hero: "images/essay/wp/2026/01/deardad.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/deardad.jpg"
 category: ["Angels Swing", "Historia"]            
 tags: ["Guerra de Corea", "Historia de guerra"]  
 ---
@@ -19,7 +19,7 @@ https://youtu.be/2VOVtIpB-3o?si=cdAyC-pevdv0pNqR
 
 Por capricho, escribí la dirección del destinatario en Google. Encontré una encantadora casa antigua en Google Maps. Según un sitio web inmobiliario, la casa se construyó en 1890.
 
-![](/images/essay/wp/2026/01/スクリーンショット-2026-01-07-4.28.11-1024x732.png)
+![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2026-01-07-4.28.11-1024x732.png)
 
 El muchacho creció, y quizás nació en esa casa, y luego fue a la guerra.
 
@@ -39,7 +39,7 @@ Escribiré sobre las bombas atómicas en otro ensayo, así que vuelvo a las cart
 
 Entonces... encontré [esta página](https://www.sparksgriffin.com/obituaries/barbara-baggett).
 
-[![](/images/essay/wp/2026/01/スクリーンショット-2026-01-07-5.13.00-1024x521.png)](https://www.sparksgriffin.com/obituaries/barbara-baggett)
+[![](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2026-01-07-5.13.00-1024x521.png)](https://www.sparksgriffin.com/obituaries/barbara-baggett)
 
 > ## Barbara Baggett
 >

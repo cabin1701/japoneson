@@ -1,7 +1,7 @@
 ---
 title: 'I Finally Finished Reading "Almost Transparent Blue"'
 date: 2023-10-14T09:00:00
-hero: "images/essay/wp/2023/10/cuba-coast.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/10/cuba-coast.jpg"
 lang: en
 category: ["Murakami Mambo"]
 tags: ["Cuba", "Ryu Murakami"]

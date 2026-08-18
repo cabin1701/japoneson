@@ -1,7 +1,7 @@
 ---
 title: 'Por fin terminé de leer "Azul casi transparente"'
 date: 2023-10-14T09:00:00
-hero: "images/essay/wp/2023/10/cuba-coast.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/10/cuba-coast.jpg"
 lang: es
 category: ["Murakami Mambo"]
 tags: ["Japon", "Cuba", "Ryu Murakami"]

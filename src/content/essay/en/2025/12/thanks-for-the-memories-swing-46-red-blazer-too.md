@@ -2,7 +2,7 @@
 title: "Thanks for the Memories | \"Swing 46\" & \"Red Blazer, Too\""
 date: 2025-12-31T13:58:41
 lang: en
-hero: "images/essay/wp/2025/12/redblazer.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2025/12/redblazer.jpg"
 category: ["Angels Swing", "Music"]            
 tags: ["Music"]   
 ---

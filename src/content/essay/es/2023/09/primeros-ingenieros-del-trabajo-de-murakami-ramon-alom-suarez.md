@@ -1,7 +1,7 @@
 ---
 title: 'Ingeniero de las primeras producciones de Murakami. Ramón Alom Suarez'
 date: 2023-09-17T09:00:00
-hero: "images/essay/wp/2023/09/tosco-hero.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/tosco-hero.jpg"
 lang: es
 category: ["Murakami Mambo", "Música Cubana"]
 tags: ["Música", "Cuba", "Ryu Murakami"]
@@ -21,7 +21,7 @@ me gusta. jose luis cortes producion de murakami
 **LUISITO:** Habría que mirar para ver si aparecen. Despreocúpate lo busco y te digo. Cualquier cosa yo lo compro, no te preocupes.
 
 **SHOKO:**
-![La portada del CD "The Man" who called "TOSCO".](/images/essay/wp/2023/09/Tosco-cd.jpg)
+![La portada del CD "The Man" who called "TOSCO".](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/Tosco-cd.jpg)
 
 **LUISITO:** Perfecto hermana ,ya tengo la referencia
 
@@ -30,14 +30,14 @@ me gusta. jose luis cortes producion de murakami
 **LUISITO:** No creo que sea fácil de buscar ,pero si hay seguro que lo encuentro.
 
 **SHOKO:**
-![La portada del CD "You Don't Know What Love Is" de Xiomara Laugart.](/images/essay/wp/2023/09/xiomara-cd.jpg)
+![La portada del CD "You Don't Know What Love Is" de Xiomara Laugart.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/xiomara-cd.jpg)
 
 **SHOKO:** Creo que sólo se vendió en Japón. Estos dos álbumes en CD están agotados en Japón, así que los encontré de segunda mano.
 
 **LUISITO:** Hay que chequear también ,voy a llamar amigos coleccionistas para que mendigan.
 
 **SHOKO:**
-![La contraportada del CD "The Man" who called "TOSCO", donde aparecen los músicos participantes y los créditos.](/images/essay/wp/2023/09/personel-cd.jpg)
+![La contraportada del CD "The Man" who called "TOSCO", donde aparecen los músicos participantes y los créditos.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/personel-cd.jpg)
 
 **SHOKO:** cesar portillo de la luz escribio de letra en espanol.todos canciones de American Standard Number.
 
@@ -69,7 +69,7 @@ dile mi espanol es no muy bueno pero buena persona.
 **LUISITO:** Muy interesante,y más y más pequeño que nada
 
 **SHOKO:**
-![El CD "You Don't Know What Love Is" junto a la edición en tapa dura de la novela homónima de Ryu Murakami de 1991 (恋はいつも未知なもの).](/images/essay/wp/2023/09/book_cd-cd.jpg)
+![El CD "You Don't Know What Love Is" junto a la edición en tapa dura de la novela homónima de Ryu Murakami de 1991 (恋はいつも未知なもの).](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/book_cd-cd.jpg)
 
 **SHOKO:** este libro, en 1991. el titulo es "You Don't Know What Love Is". Es una canciones de estándar americano.Esta novela fue escrita según títulos de 40 números estándar americanos. Cuando tenía veintitantos años, leí este libro.Las canciones retoman del libro para la producción de Xiomara.
 

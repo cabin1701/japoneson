@@ -15,10 +15,10 @@ const fmtDate = (d: Date) =>
   `${String(d.getMonth() + 1).padStart(2, '0')}/${String(d.getDate()).padStart(2, '0')}/${d.getFullYear()}`;
 
 const PAGE_SIZE = 10;
-const HERO_IMAGE = `${base}images/essay/swing_cut.jpg`;
+const HERO_IMAGE = `https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/swing_cut.jpg`;
 ---
 
-<Layout title="P.S. I Love You – JAPONÉSON" lang="es" ogImage="images/essay/swing_cut.jpg">
+<Layout title="P.S. I Love You – JAPONÉSON" lang="es" ogImage="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/swing_cut.jpg">
   <Header lang="es" />
 
   <section
@@ -52,7 +52,7 @@ const HERO_IMAGE = `${base}images/essay/swing_cut.jpg`;
           >
             {post.data.hero && (
               <a href={`${base}es/essay/${slugOf(post.id)}/`} class="post-thumb">
-                <img src={`${base}${post.data.hero}`} alt="" loading="lazy" />
+                <img src={/^https?:\/\//.test(post.data.hero) ? post.data.hero : `${base}${post.data.hero}`} alt="" loading="lazy" />
               </a>
             )}
             <div class="post-body">

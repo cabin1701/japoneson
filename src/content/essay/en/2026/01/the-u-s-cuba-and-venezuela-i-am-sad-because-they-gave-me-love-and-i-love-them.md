@@ -2,7 +2,7 @@
 title: "The U.S, Cuba and Venezuela | I am sad because they gave me love, and I love them."
 date: 2026-01-09T12:16:22
 lang: en
-hero: "images/essay/wp/2026/01/cubavene.jpg"
+hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2026/01/cubavene.jpg"
 category: ["JAPONÉSON"]            
 tags: ["Cuba",]   
 ---

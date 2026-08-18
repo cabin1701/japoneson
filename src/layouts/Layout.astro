@@ -18,8 +18,11 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 // 2026-08-02 まで favicon（正方形の小さいアイコン）だったため、SNS のプレビューが
 // アイコン1枚だった。
 const OG_IMAGE_FALLBACK = 'images/wp/2026/02/IMG_1842_plus_3-1.jpg'; // トップの hero、1500×795
-const ogImagePath = (ogImage ?? OG_IMAGE_FALLBACK).replace(/^\//, '');
-const ogImageURL = new URL(`${import.meta.env.BASE_URL}${ogImagePath}`, Astro.site);
+const ogImageRaw = ogImage ?? OG_IMAGE_FALLBACK;
+// site-media（CDN）の絶対URLはそのまま使う。ローカルの相対パスだけ BASE_URL を前置する。
+const ogImageURL = /^https?:\/\//.test(ogImageRaw)
+  ? ogImageRaw
+  : new URL(`${import.meta.env.BASE_URL}${ogImageRaw.replace(/^\//, '')}`, Astro.site);
 
 // hreflang（英語版とスペイン語版が「同じ内容の別言語」だと機械に伝える）
 //
