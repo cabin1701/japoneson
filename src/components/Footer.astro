@@ -7,8 +7,8 @@ const base = import.meta.env.BASE_URL;
 const prefix = `${base}${lang}/`;
 
 const t = lang === 'es'
-  ? { tagline: 'SOLO LA MÚSICA ES INCAPAZ DE MENTIRME.', contact: 'Contacto', privacy: 'Política de privacidad', terms: 'Términos de uso' }
-  : { tagline: 'ONLY MUSIC IS INCAPABLE OF LYING TO ME.', contact: 'Contact', privacy: 'Privacy Policy', terms: 'Terms of use' };
+  ? { tagline: 'SOLO LA MÚSICA ES INCAPAZ DE MENTIRME.', contact: 'Contacto', privacy: 'Política de privacidad', terms: 'Términos de uso', books: 'Libros' }
+  : { tagline: 'ONLY MUSIC IS INCAPABLE OF LYING TO ME.', contact: 'Contact', privacy: 'Privacy Policy', terms: 'Terms of use', books: 'Books' };
 ---
 
 <footer class="site-footer" data-pagefind-ignore>
@@ -19,6 +19,7 @@ const t = lang === 'es'
       <li><a href={`${prefix}contact/`}>{t.contact}</a></li>
       <li><a href={`${prefix}privacy-policy/`}>{t.privacy}</a></li>
       <li><a href={`${prefix}terms-and-conditions/`}>{t.terms}</a></li>
+      <li><a href="https://cabin1701.com/books/">{t.books}</a></li>
     </ul>
     <p class="footer-copy">&copy; {new Date().getFullYear()} Shoko "Seina" Shiraishi</p>
   </div>

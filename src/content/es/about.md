@@ -29,6 +29,8 @@ Se fue a Nueva York a los veinte años. Pasó casi una década allí, adentránd
 
 Ha vivido en Cuba. Dirigió una tienda en línea de aceites esenciales y exploró la liberación emocional durante diecisiete años. Ahora, cultiva vegetales en el campo japonés, repara las cosas con sus propias manos, cuida de gatos callejeros y pasa largo tiempo tratando de comprender la historia del lugar donde creció: los soldados que pasaron por ahí, los que nunca regresaron a casa y las historias que nadie pensó en escribir.
 
+#### [Sus libros →](https://cabin1701.com/books/)
+
 
 
 

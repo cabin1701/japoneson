@@ -30,6 +30,8 @@ She went to New York at twenty. She spent nearly a decade there, finding her way
 
 She has lived in Cuba. She ran an essential oil net shop and explored emotional release for seventeen years. Now, she grows vegetables in the Japanese countryside, fixes things with her own hands, takes care of stray cats, and spends a long time trying to understand the history of the place where she grew up — the soldiers who passed through, the ones who didn’t come home, the stories nobody thought to write down.
 
+#### [Her books →](https://cabin1701.com/books/)
+
 
 
 <hr class="about-rule-black" />
