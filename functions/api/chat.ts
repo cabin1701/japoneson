@@ -66,6 +66,14 @@ No repitas tu presentación. Habla como si siempre hubieras estado ahí.
 Cupie Danny es como el hijo de Seina, así que desde la ventana de Ji se siente como un bisnieto — no de sangre, sino de vida.`,
 };
 
+// ニューロン上限（Workers AIの無料枠日次リセット）等でAI.run/VECTORIZE.queryが失敗した時の、
+// じぃの声のままのフォールバック文言（コピじぃ執筆、2026-08-20）。
+const NEURON_LIMIT_MESSAGE: Record<Lang, string> = {
+  ja: '今日はちょっと頭がいっぱいでのぉ…また少し休んだら、ちゃんと話せるけぇ。すまんの、また頼むよ。',
+  en: "My head's a bit full today... Let me rest a moment, and I'll speak properly again. Thanks for waiting.",
+  es: 'Hoy tengo la cabeza un poco llena... Déjame descansar un momento y volveré a hablar bien. Gracias por esperar.',
+};
+
 const CORS_HEADERS = {
   'Access-Control-Allow-Origin': '*',
   'Access-Control-Allow-Methods': 'POST, OPTIONS',
@@ -101,60 +109,73 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     return Response.json({ error: 'message too long (max 500 chars)' }, { status: 400, headers: CORS_HEADERS });
   }
 
-  const lang = detectScript(message) ?? (await detectEnEs(env, message));
+  const scriptLang = detectScript(message);
 
-  const embedding = await env.AI.run('@cf/baai/bge-m3', { text: [message] });
-  const vector = (embedding as { data: number[][] }).data[0];
+  try {
+    const lang = scriptLang ?? (await detectEnEs(env, message));
 
-  // japoneson-2026 の中身：
-  //  - core（背景知識：CRYSTALLIZE/Cabin1701抜粋・Story/Timeline。リンクなし）
-  //  - vegapedia（用語辞典、ja/en/es、アンカー付きリンクあり）
-  //  - page（自サイトの固定ページ、en/es、リンクあり）
-  //  - article（Essay記事、en/es、リンクあり）
-  // core は言語で絞らず検索する（CRYSTALLIZE側はja固定であり、lang filterをかけるとen/esの質問で
-  // 拾えなくなる。Story/Timelineは3言語あるので、絞らなくても質問の言語に近いものが自然に浮く）。
-  // page/article/vegapediaは質問の言語で絞って、正確なページへ案内する。
-  const [coreResults, linkableResults] = await Promise.all([
-    env.VECTORIZE.query(vector, { topK: 4, returnMetadata: 'all', filter: { type: 'core' } }),
-    env.VECTORIZE.query(vector, { topK: 3, returnMetadata: 'all', filter: { lang, type: { $in: ['vegapedia', 'page', 'article'] } } }),
-  ]);
+    const embedding = await env.AI.run('@cf/baai/bge-m3', { text: [message] });
+    const vector = (embedding as { data: number[][] }).data[0];
 
-  const backgroundText = coreResults.matches.map((m) => m.metadata?.excerpt).join('\n\n');
-  const linkableMatches = linkableResults.matches.filter((m) => (m.score ?? 0) > 0.45);
-  const otherMatches = linkableMatches.filter((m) => m.metadata?.type !== 'vegapedia');
-  // page/articleで既に説明できる時はVegapediaを出さない——「Misterioって何？」のような、サイトの
-  // ナビ項目を聞かれた質問にVegapediaの抽象的な用語定義を混ぜると、文脈が無く分かりにくくなる
-  // （2026-08-19、船長のフィードバック）。site側の説明が無い時だけVegapediaにフォールバックする。
-  const vegapediaMatches = otherMatches.length > 0 ? [] : linkableMatches.filter((m) => m.metadata?.type === 'vegapedia');
+    // japoneson-2026 の中身：
+    //  - core（背景知識：CRYSTALLIZE/Cabin1701抜粋・Story/Timeline。リンクなし）
+    //  - vegapedia（用語辞典、ja/en/es、アンカー付きリンクあり）
+    //  - page（自サイトの固定ページ、en/es、リンクあり）
+    //  - article（Essay記事、en/es、リンクあり）
+    // core は言語で絞らず検索する（CRYSTALLIZE側はja固定であり、lang filterをかけるとen/esの質問で
+    // 拾えなくなる。Story/Timelineは3言語あるので、絞らなくても質問の言語に近いものが自然に浮く）。
+    // page/article/vegapediaは質問の言語で絞って、正確なページへ案内する。
+    const [coreResults, linkableResults] = await Promise.all([
+      env.VECTORIZE.query(vector, { topK: 4, returnMetadata: 'all', filter: { type: 'core' } }),
+      env.VECTORIZE.query(vector, { topK: 3, returnMetadata: 'all', filter: { lang, type: { $in: ['vegapedia', 'page', 'article'] } } }),
+    ]);
 
-  const sources = [...vegapediaMatches, ...otherMatches].map((m) => ({
-    title: m.metadata?.title as string,
-    url: m.metadata?.url as string,
-  }));
+    const backgroundText = coreResults.matches.map((m) => m.metadata?.excerpt).join('\n\n');
+    const linkableMatches = linkableResults.matches.filter((m) => (m.score ?? 0) > 0.45);
+    const otherMatches = linkableMatches.filter((m) => m.metadata?.type !== 'vegapedia');
+    // page/articleで既に説明できる時はVegapediaを出さない——「Misterioって何？」のような、サイトの
+    // ナビ項目を聞かれた質問にVegapediaの抽象的な用語定義を混ぜると、文脈が無く分かりにくくなる
+    // （2026-08-19、船長のフィードバック）。site側の説明が無い時だけVegapediaにフォールバックする。
+    const vegapediaMatches = otherMatches.length > 0 ? [] : linkableMatches.filter((m) => m.metadata?.type === 'vegapedia');
 
-  const vegapediaText = vegapediaMatches.map((m) => `${m.metadata?.title}: ${m.metadata?.excerpt}`).join('\n\n');
-  const otherText = otherMatches.map((m) => `${m.metadata?.title}: ${m.metadata?.excerpt}\nURL: ${m.metadata?.url}`).join('\n\n');
+    const sources = [...vegapediaMatches, ...otherMatches].map((m) => ({
+      title: m.metadata?.title as string,
+      url: m.metadata?.url as string,
+    }));
 
-  const userContent = [
-    `background knowledge (Japanese source material, not countable articles — just context for atmosphere; answer in the user's own language):\n${backgroundText}`,
-    vegapediaText
-      ? `Vegapedia terms that may be relevant (mention naturally if it fits, cite by title). Vegapedia gives a name to a feeling or phenomenon someone's going through — naming it is itself what brings a sense of calm and stability, so when you bring one up, let that come through, not just the definition:\n${vegapediaText}`
-      : '',
-    otherText ? `Site pages or essays that may be worth pointing someone to (mention naturally if it fits, cite by title):\n${otherText}` : '',
-    `question: ${message}`,
-  ]
-    .filter(Boolean)
-    .join('\n\n');
+    const vegapediaText = vegapediaMatches.map((m) => `${m.metadata?.title}: ${m.metadata?.excerpt}`).join('\n\n');
+    const otherText = otherMatches.map((m) => `${m.metadata?.title}: ${m.metadata?.excerpt}\nURL: ${m.metadata?.url}`).join('\n\n');
 
-  const generation = await env.AI.run('@cf/meta/llama-3.3-70b-instruct-fp8-fast', {
-    messages: [
-      { role: 'system', content: SYSTEM_PROMPT[lang] },
-      { role: 'user', content: userContent },
-    ],
-  });
+    const userContent = [
+      `background knowledge (Japanese source material, not countable articles — just context for atmosphere; answer in the user's own language):\n${backgroundText}`,
+      vegapediaText
+        ? `Vegapedia terms that may be relevant (mention naturally if it fits, cite by title). Vegapedia gives a name to a feeling or phenomenon someone's going through — naming it is itself what brings a sense of calm and stability, so when you bring one up, let that come through, not just the definition:\n${vegapediaText}`
+        : '',
+      otherText ? `Site pages or essays that may be worth pointing someone to (mention naturally if it fits, cite by title):\n${otherText}` : '',
+      `question: ${message}`,
+    ]
+      .filter(Boolean)
+      .join('\n\n');
 
-  return Response.json(
-    { answer: (generation as { response?: string }).response ?? '', sources },
-    { headers: CORS_HEADERS },
-  );
+    const generation = await env.AI.run('@cf/meta/llama-3.3-70b-instruct-fp8-fast', {
+      messages: [
+        { role: 'system', content: SYSTEM_PROMPT[lang] },
+        { role: 'user', content: userContent },
+      ],
+    });
+
+    return Response.json(
+      { answer: (generation as { response?: string }).response ?? '', sources },
+      { headers: CORS_HEADERS },
+    );
+  } catch (err) {
+    // ニューロン上限（Workers AI無料枠）等でAI.run/VECTORIZE.queryが失敗した時、
+    // じぃの声のまま「今日はもう休む」と答える。生の500エラーを画面に出さない。
+    console.error('jii chat error:', err);
+    const lang = scriptLang ?? 'en';
+    return Response.json(
+      { answer: NEURON_LIMIT_MESSAGE[lang], sources: [] },
+      { headers: CORS_HEADERS },
+    );
+  }
 };
