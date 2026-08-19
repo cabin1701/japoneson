@@ -7,6 +7,9 @@ wp_parent: 0
 
 # MURAKAMI
 
+Murakami Mambo is where post-war Japan, America, and Cuban music quietly meet in one rhythm.
+It's the beat born inside Ryu Murakami, gently touching the path Seina has walked.
+
 ## New York, Cuba, Japan
 
 # MAMBO !!

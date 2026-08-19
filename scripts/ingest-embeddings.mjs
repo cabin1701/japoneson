@@ -260,21 +260,51 @@ const SUBPAGE_EXCLUDE = new Set([
   'about', 'contact', 'cupie', 'home', 'japoneson', 'murakami', 'mystery',
   'privacy-policy', 'swing', 'terms-and-conditions',
 ]);
+// [...slug].astro と同じロジック（src/lib/pageTree.ts の buildPath）：
+// ファイルのフォルダ構造ではなく wp_id/wp_parent チェーンでURLを組み立てる。
+// フォルダ構造とwp_parentチェーンがズレてるページがある（例：swing/brooklyn-bop.mdは
+// フォルダ上はswing直下だが、wp_parentがleonard-gaskinを指すのでURLはswing/leonard-gaskin/brooklyn-bop/になる）。
+function buildWpPath(entry, byWpId) {
+  const segments = [];
+  let current = entry;
+  const guard = new Set();
+  while (current) {
+    segments.unshift(current.data.slug ?? '');
+    const pid = String(current.data.wp_parent ?? '0');
+    if (pid === '0' || guard.has(pid)) break;
+    guard.add(pid);
+    current = byWpId.get(pid);
+  }
+  return segments.join('/');
+}
+
 async function collectSubpages() {
   const records = [];
   for (const lang of ['en', 'es']) {
     const dir = fileURLToPath(new URL(`../src/content/${lang}`, import.meta.url));
     const files = await walk(dir);
+    const entries = [];
     for (const file of files) {
       const rel = file.slice(dir.length + 1).replace(/\.md$/, '');
-      const topSlug = rel.split('/')[0];
-      if (SUBPAGE_EXCLUDE.has(topSlug) && !rel.includes('/')) continue; // 入り口ページ自体は除外
-      if (!rel.includes('/')) continue; // サブページ判定：スラッシュを含むもののみ対象
       if (rel.startsWith('essay/')) continue; // essayは別関数で処理
       const raw = await readFile(file, 'utf-8');
       const { data, body } = parseFrontmatter(raw);
+      entries.push({ rel, data, body });
+    }
+    const byWpId = new Map();
+    for (const e of entries) {
+      const id = String(e.data.wp_id ?? '');
+      if (id) byWpId.set(id, e);
+    }
+    for (const entry of entries) {
+      const { rel, data, body } = entry;
+      const topSlug = rel.split('/')[0];
+      if (SUBPAGE_EXCLUDE.has(topSlug) && !rel.includes('/')) continue; // 入り口ページ自体は除外
+      if (!rel.includes('/')) continue; // サブページ判定：スラッシュを含むもののみ対象
+      const wpPath = buildWpPath(entry, byWpId);
+      const path = wpPath || rel;
       const title = (data.title ?? rel.split('/').pop()).replace(/^"(.*)"$/, '$1');
-      const url = `https://japoneson.com/${lang}/${rel}/`;
+      const url = `https://japoneson.com/${lang}/${path}/`;
       const excerpt = stripMarkdown(body).slice(0, 300);
       const embedText = `${title}\n\n${stripMarkdown(body)}`.slice(0, 6000);
       const id = createHash('sha1').update(`subpage:${lang}:${rel}`).digest('hex').slice(0, 32);
@@ -295,7 +325,9 @@ async function collectEssays() {
       const raw = await readFile(file, 'utf-8');
       const { data, body } = parseFrontmatter(raw);
       const rel = file.slice(dir.length + 1).replace(/\.md$/, '');
-      const url = `https://japoneson.com/${lang}/essay/${rel}/`;
+      // generateEssayId（content.config.ts）と同じ：日付フォルダを落としファイル名だけをslugにする
+      const filename = rel.split('/').pop();
+      const url = `https://japoneson.com/${lang}/essay/${filename}/`;
       const excerpt = stripMarkdown(body).slice(0, 300);
       const embedText = `${data.title}\n\n${stripMarkdown(body)}`.slice(0, 6000);
       const id = createHash('sha1').update(`essay:${lang}:${rel}`).digest('hex').slice(0, 32);

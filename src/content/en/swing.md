@@ -7,6 +7,10 @@ wp_parent: 0
 
 # Angels Swing
 
+Angels Swing is a small doorway to gently touch the memories inside wartime American songs.
+It began in 1997, delivering music to nursing homes across the U.S., quietly supported by Leonard Gaskin, Grady Tate, and Bob Cranshaw.
+Like Angel's Wing and Angel's Sing, it gathers music that rests softly beside people's memories.
+
 ## Jazz & War History
 
 I love American popular songs from the 1930s and the 1940s. My favorite musicians are Glenn Miller, Frank Sinatra, Doris Day, Judy Garland, Connie Boswell, Bing Crosby, Jo Stafford, and more Without even thinking about it, I started singing those America's old-time popular songs at various dining facilities in New York where many senior citizens gather...

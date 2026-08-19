@@ -7,6 +7,10 @@ wp_parent: 0
 
 # Angels Swing
 
+Angels Swing es una pequeña entrada para tocar, con suavidad, las memorias dentro de las canciones estadounidenses de la guerra.
+Comenzó en 1997, llevando música a hogares de ancianos en todo EE.UU., con el apoyo silencioso de Leonard Gaskin, Grady Tate y Bob Cranshaw.
+Como Angel's Wing y Angel's Sing, reúne música que se queda cerca de la memoria de la gente.
+
 ## Jazz e Historia de Guerra
 
 Amo las canciones populares estadounidenses de los años 1930 y 1940. Mis músicos favoritos son Glenn Miller, Frank Sinatra, Doris Day, Judy Garland, Connie Boswell, Bing Crosby, Jo Stafford, y más. Sin siquiera pensarlo, comencé a cantar esas viejas canciones populares estadounidenses en varios comedores de Nueva York donde se reúnen muchas personas mayores...
