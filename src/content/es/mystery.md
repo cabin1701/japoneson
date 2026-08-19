@@ -13,13 +13,9 @@ Un «juego de riesgo vital» jugado por Seina para despojar el «Okazari» y obs
 
 [-Vegapedia-](https://en.japoneson.com/dictionary#mystery)
 
-Mystery Entertainment es una estantería para historias que viven en las fronteras: entre países, entre personas, entre tiempos.
-
-Desde los días antiguos, pasando por la era Heian, la era Meiji y los años Shōwa... de alguna manera todas esas historias largas cruzan por un mismo lugar: Kanmon. Las batallas antiguas, los vientos de la reforma, las sombras de la posguerra y los momentos tranquilos de hoy... todos tocan el mismo estrecho.
-
-A veces un hecho pequeño sólo muestra su significado mucho después. Esta estantería guarda esos "significados que uno descubre más tarde".
-
-Es como la línea internacional dentro de Japonéson: un lugar donde el mundo de afuera y el mundo de adentro se rozan por un instante.
+Mystery Entertainment es una pequeña estantería para historias que viven en las fronteras: entre países, personas y tiempos.
+Desde la antigüedad, pasando por Heian, Meiji y Shōwa, las largas historias se encuentran, de manera suave, en Kanmon.
+Hay momentos cuyo sentido aparece sólo después, y esta estantería guarda esos significados que uno descubre más tarde.
 
 **March 2022.**
 

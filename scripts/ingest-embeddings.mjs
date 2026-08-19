@@ -158,6 +158,7 @@ async function collectBlogArticles() {
 const CORE_DOC_TITLES = {
   'story.md': { ja: 'Seinaのストーリー', en: "Seina's Story", es: 'La historia de Seina' },
   'timeline.md': { ja: 'Seina年表', en: 'Seina Timeline', es: 'Cronología de Seina' },
+  'site-overview.md': { ja: 'このサイトは何？', en: 'What is this website?', es: '¿Qué es este sitio?' },
 };
 async function collectOwnCore() {
   const records = [];

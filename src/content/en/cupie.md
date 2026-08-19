@@ -7,6 +7,10 @@ wp_parent: 0
 
 # We ❤️ Cupie Danny
 
+Cupie Danny is a small guide born to open the Cuban music line Seina stepped into in New York.
+He began as a simple dollar-store Cupie doll and quietly traveled through the hands of people in New York and Havana.
+He isn't just a doll — he's a gentle signal that connects distant places.
+
 ## Danny Rojo & Seina
 
 ## Everybody Loves Cupie Danny!!

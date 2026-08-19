@@ -7,6 +7,10 @@ wp_parent: 0
 
 # Amamos ❤️ a Cupie Danny
 
+Cupie Danny es un pequeño guía que nació para abrir la línea de la música cubana que Seina encontró en Nueva York.
+Empezó como un Cupie de una tienda barata y pasó, con suavidad, por las manos de gente en Nueva York y La Habana.
+No es sólo un muñeco — es una señal que une lugares lejanos.
+
 ## Danny Rojo & Seina
 
 ## ¡Todos aman a Cupie Danny!!
