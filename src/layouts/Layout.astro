@@ -1,4 +1,6 @@
 ---
+import JiiChat from '../components/JiiChat.astro';
+
 interface Props {
   title?: string;
   description?: string;
@@ -124,6 +126,7 @@ const personJsonLd = isHome
   </head>
   <body data-pagefind-filter={`lang:${lang}`}>
     <slot />
+    <JiiChat lang={lang} />
     <script is:inline>
       // Press page: click a thumbnail to view it enlarged (simple lightbox)
       document.addEventListener('DOMContentLoaded', () => {

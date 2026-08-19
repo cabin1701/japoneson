@@ -14,6 +14,14 @@ Stripping away the 'okazari' to observe the blueprint of truth.
 
 [-Vegapedia-](https://en.japoneson.com/dictionary#mystery)
 
+Mystery Entertainment is a shelf for stories that live on the borders — between countries, between people, between times.
+
+From ancient days, through the Heian era, the Meiji era, and the Shōwa years... somehow all those long histories pass through one place: Kanmon. The old battles, the winds of reform, the shadows after the war, and the quiet moments of today — they all touch the same strait.
+
+Sometimes a small event only shows its meaning much later. This shelf keeps those "meanings you notice afterward."
+
+It's like the international line inside Japonéson — a place where the outside world and the inside world brush against each other for just a moment.
+
 **March 2022.**
 
 I moved to Shimonoseki, Yamaguchi Prefecture.
