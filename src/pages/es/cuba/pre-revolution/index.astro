@@ -1,0 +1,481 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+
+const trail = [
+  { slug: 'cuba', title: 'JAPONÉSON', path: `${base}es/cuba/` },
+  { slug: 'pre-revolution', title: 'Antes de la Revolución', path: `${base}es/cuba/pre-revolution/` },
+];
+---
+
+<Layout title="Antes de la Revolución — Japonéson" description="Antes de 1959, los cubanos fueron a Nueva York como migrantes, no exiliados. Mario Bauzá, Machito, Chano Pozo — donde la música cubana halló el jazz." lang="es" ogImage="images/cuba/pre-revolution/machito-graciela-afrocubans-1947.jpg">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      kicker="Los cubanos que fueron a Nueva York antes de 1959"
+      title="Antes de la Revolución"
+      subtitle="Migrantes, no exiliados — y el hombre por el que todos pasaron"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="46px"
+      image={`${base}images/cuba/pre-revolution/machito-graciela-afrocubans-1947.jpg`}
+      imageAlt="Machito and His Afro-Cubans en el escenario del Glen Island Casino en 1947. Graciela está al frente, a la izquierda; Machito canta al micrófono a la derecha; detrás, la banda completa llena el escenario."
+      align="center"
+      height={720}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0.35}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <p class="lead">
+          Antes de 1959, los músicos cubanos cruzaron a Nueva York. No eran exiliados. <strong>Eran migrantes.</strong>
+        </p>
+
+        <p>
+          Se fueron por el trabajo, por la música, por una vida mejor. Y — podían volver. Ahí está la diferencia.
+        </p>
+
+        <p>
+          Sobre esta línea se unieron la música cubana y el jazz neoyorquino.
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">Mario Bauzá<br/><span class="sub-label">1930 — migró</span></h2>
+
+        <h3 class="head">Del conservatorio, desde los cuatro años</h3>
+
+        <p>
+          No fue un músico que aprendiera de oído. <strong>Tuvo formación clásica, formal.</strong>
+        </p>
+
+        <p>
+          A los cuatro años empezó a estudiar solfeo cada semana con Modesto Fraga, director de la Banda Municipal de La Habana. Empezó con el oboe y no le gustó; su padrino le consiguió un clarinete de tamaño especial, y estudió con Gabriel Siam.
+        </p>
+
+        <p>
+          <strong>A los nueve años era clarinetista de la Orquesta Filarmónica de La Habana</strong> — y allí estuvo tres años. A los once actuó con la Sinfónica de La Habana como niño prodigio. Después, ocho años en el Conservatorio de Música de La Habana, donde en su último año <strong>ganó una beca para La Scala de Milán.</strong>
+        </p>
+
+        <p>
+          <strong>La rechazó.</strong> La formación orquestal europea, pensaba, no era lo adecuado para un músico afrocubano.
+        </p>
+
+        <p>
+          Sabía leer, escribir, arreglar y dirigir. En el Nueva York de aquellos años eso era poco común. <strong>No es que un inmigrante llegara de algún modo al centro. Él era quien podía hacer ese trabajo.</strong>
+        </p>
+
+        <h3 class="head">A Nueva York</h3>
+
+        <p>
+          En 1927 pisó Nueva York por primera vez, como miembro de una orquesta de baile cubana. Esa vez, volvió a casa.
+        </p>
+
+        <p>
+          En 1930 migró definitivamente. Para ganarse un puesto en la orquesta de Don Azpiazú, <strong>se dice que aprendió la trompeta en unas dos semanas.</strong>
+        </p>
+
+        <p>
+          En 1933 entró en la orquesta de Chick Webb, en el Savoy, y Webb lo nombró director musical (las fuentes dan 1934 o 1936 para ese nombramiento). <strong>Estuvo en la banda hasta 1938.</strong>
+        </p>
+
+        <p>
+          En 1936 volvió a Cuba por un tiempo — para casarse con Estela Grillo, su novia de la infancia. Y después regresó.
+        </p>
+
+        <p>
+          <strong>Se fue, volvió, y se fue otra vez.</strong> Así es la vida de un migrante.
+        </p>
+
+        <p>
+          Al dejar a Webb pasó por la banda de Don Redman (1938–39) antes de entrar con Cab Calloway.
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">La banda de Chick Webb, un cruce</h2>
+
+        <p>
+          La orquesta a la que Bauzá perteneció de 1933 a 1938 es el eje de esta historia.
+        </p>
+
+        <figure class="plate">
+          <img src={`${base}images/cuba/pre-revolution/ella-dizzy-downbeat-1947.jpg`} alt="Ella Fitzgerald canta ante un micrófono de pie en un club lleno, con un tocado de plumas y un vestido bordado. A su derecha, Dizzy Gillespie la mira con la barbilla apoyada en la mano; detrás hay otros músicos, un clarinete y un piano." loading="lazy" />
+          <figcaption>
+            Ella Fitzgerald en el club Downbeat de la calle 52, septiembre de 1947. Dizzy Gillespie es el que la mira, con la barbilla en la mano; Ray Brown y Milt Jackson están en la sala. Doce años antes, Bauzá la había metido a fuerza de insistir en la banda de Chick Webb. Tres meses después de esta foto, ella y Ray Brown se casaron. <span class="credit">William P. Gottlieb / Library of Congress</span>
+          </figcaption>
+        </figure>
+
+        <p>
+          En 1935 Ella Fitzgerald entró en esa banda. <strong>Y fue Bauzá quien la metió ahí</strong> — él fue quien convenció a Webb de lo que aquella muchacha desconocida podía llegar a ser.
+        </p>
+
+        <p>
+          Ella tenía <strong>diecisiete años</strong>. Nacida en Virginia en 1917, huérfana a los quince, sin terminar la secundaria y bajo tutela del estado de Nueva York. En noviembre de 1934 ganó la Amateur Night del Apollo — <strong>y le negaron el premio, porque consideraron que iba mal arreglada.</strong>
+        </p>
+
+        <p>
+          Esa era la muchacha que Bauzá dijo que había que tomar.
+        </p>
+
+        <p>
+          El hombre que rechazó La Scala insistió por una chica de diecisiete años sin casa. <strong>Sabía qué había que escuchar, y no estaba escuchando su ropa.</strong>
+        </p>
+
+        <p>
+          No tenía casa a la que volver, y la banda pasó a serlo. <strong>Chick Webb — que apenas pasaba de los treinta — se convirtió, según todos los relatos, en lo más parecido a un padre que ella tuvo desde los quince años.</strong>
+        </p>
+
+        <h3 class="head">Y en junio de 1939, Chick Webb murió</h3>
+
+        <p>
+          Había estado enfermo toda su vida. <strong>Tuberculosis de la columna, desde la infancia</strong> — le deformó la espalda y le detuvo el crecimiento. <strong>Medía un metro veinticuatro.</strong>
+        </p>
+
+        <p>
+          Y esto es lo que hizo con eso. A los veinte años ya dirigía la banda de la casa en el Savoy, el gran salón integrado de Harlem. Tocaba un bombo de veintiocho pulgadas con pedales hechos a medida y una batería modificada para que llegara hasta él. El <strong>11 de mayo de 1937</strong>, ante cuatro mil personas, su orquesta se enfrentó a la de Benny Goodman en lo que el Savoy anunció como la Batalla del Siglo. Detrás de la batería de Goodman estaba Gene Krupa. <strong>Ganó la banda de Webb.</strong>
+        </p>
+
+        <p>
+          Fue esa misma enfermedad la que lo mató — el mal de Pott, en Baltimore, el 16 de junio de 1939. <strong>Tenía treinta y cuatro años.</strong>
+        </p>
+
+        <p>
+          <strong>Ella tenía veintidós.</strong> Había perdido a sus padres a los quince, esta banda la había recogido a los diecisiete, y a los veintidós lo perdió también a él.
+        </p>
+
+        <p>
+          <strong>La banda que quedó llevó su nombre.</strong> Ella Fitzgerald and Her Famous Orchestra — hasta su disolución en 1942.
+        </p>
+
+        <p>
+          En aquellos años había mujeres al frente de una banda como cantantes. Pero una orquesta de swing de primera línea, con base en el Savoy, entregada a una mujer de veintidós años bajo su propio nombre — <strong>eso no era algo corriente.</strong>
+        </p>
+
+        <p>
+          Cómo la trataba Webb no lo responde mejor el testimonio de nadie. <strong>Lo responde en qué manos quedó la banda.</strong>
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">Bauzá y Dizzy Gillespie</h2>
+
+        <p>
+          Dizzy Gillespie llegó a Nueva York en 1937 y ocupó una silla en la orquesta de Teddy Hill. Era joven, y todavía no era nadie.
+        </p>
+
+        <p>
+          <strong>Una noche se subió a tocar con la banda de Chick Webb en el Savoy — y allí conoció a Mario Bauzá.</strong> Bauzá era el trompetista principal y el director musical de aquella banda. "Lo más grande que había oído nunca", fue su veredicto sobre aquel muchacho.
+        </p>
+
+        <p>
+          Fue Bauzá quien le abrió el ritmo latino.
+        </p>
+
+        <p>
+          En 1939 Bauzá entró en la orquesta de Cab Calloway, y le insistió a Calloway para que contratara a Dizzy. <strong>Una noche Bauzá fingió estar enfermo — y Dizzy salió en su lugar.</strong>
+        </p>
+
+        <p class="aside">
+          Dizzy nunca fue miembro de la orquesta de Webb; aquella noche estaba de invitado. Pero fue en el escenario de Webb, en el Savoy, donde él y Bauzá se encontraron. Más tarde, en 1942, sí trabajó en esa misma orquesta — que para entonces era la de Ella. Y en 1946 Ella salió de gira con la big band de Dizzy, donde conoció al bajista Ray Brown; se casaron en diciembre de 1947.
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">Machito<br/><span class="sub-label">1937 — lo mandaron a buscar</span></h2>
+
+        <p>
+          Frank Raúl Grillo. Hermano de Estela, la mujer con quien Bauzá se casó en 1936 — es decir, su cuñado.
+        </p>
+
+        <p>
+          En 1937 cruzó como vocalista con La Estrella Habanera. Los Bauzá lo mandaron a buscar.
+        </p>
+
+        <p>
+          En 1940 formó <strong>Machito and His Afro-Cubans.</strong> Al año siguiente Bauzá dejó a Cab Calloway para unirse a ellos, y se convirtió en el director musical de la banda — su cabeza.
+        </p>
+
+        <p>
+          El ritmo cubano — rumba, conga, bongó — y el swing de big band neoyorquino. Esta fue la banda que fusionó los dos en serio, y se convirtió en la base del <strong>Cubop.</strong>
+        </p>
+
+        <figure class="plate">
+          <img src={`${base}images/cuba/pre-revolution/bauza-afrocubans-1947.jpg`} alt="Cuatro integrantes de los Afro-Cubans de Machito en un escenario con cortinas: José Mangual sentado con los bongós, Mario Bauzá con gafas tocando la trompeta, Ubaldo Nieto en los timbales y Carlos Vidal Bolado en la conga." loading="lazy" />
+          <figcaption>
+            Glen Island Casino, Nueva York, julio de 1947. <em>Down Beat</em> los nombró entonces: “Mario Bouza, trumpet; Jose Mangual (left), bongos; Vidal Bolado (right), congo; Uba Nieto, tymballi.” <span class="credit">William P. Gottlieb / Library of Congress</span>
+          </figcaption>
+        </figure>
+
+        <h3 class="head">Abril de 1943 — y Graciela</h3>
+
+        <p>
+          En abril de 1943 reclutaron a Machito para el Ejército de los Estados Unidos. A los pocos meses de instrucción se lesionó una pierna, y para octubre ya lo habían dado de baja. Nunca llegó a la guerra.
+        </p>
+
+        <p>
+          Mientras él no estuvo, la banda se quedó sin nadie al frente. <strong>Bauzá mandó a buscar a Graciela a La Habana.</strong>
+        </p>
+
+        <p>
+          Felipa Graciela Pérez y Gutiérrez (1915–2010) era la hermana menor de Machito. Se criaron juntos en La Habana, y fue él quien le dijo que cantara. No era ninguna principiante: <strong>había pasado unos diez años como vocalista principal de la Orquesta Anacaona</strong>, la célebre agrupación cubana de mujeres, antes de salir de la isla.
+        </p>
+
+        <p>
+          Tomó el frente de los Afro-Cubans, y cuando Machito volvió en 1944, ella se quedó. Los dos compartieron ese escenario hasta que la banda se separó en 1975.
+        </p>
+
+        <p>
+          Vale la pena ponerlo al lado de 1935. <strong>Bauzá fue director musical de dos bandas en su vida.</strong> A la primera metió, a fuerza de insistir, a una Ella Fitzgerald de diecisiete años que no era nadie; para el frente de la segunda mandó a buscar a La Habana a una mujer que llevaba una década al frente de una orquesta. <strong>Ninguna de las dos cosas fue casualidad.</strong>
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">Chano Pozo<br/><span class="sub-label">1947 — lo animaron a irse</span></h2>
+
+        <p>
+          Nacido en La Habana en 1915.
+        </p>
+
+        <p>
+          En 1947 cruzó buscando una vida mejor, animado por Bauzá y por su amigo de la infancia Miguelito Valdés.
+        </p>
+
+        <p>
+          Dizzy Gillespie buscaba un conguero. <strong>Bauzá los presentó.</strong>
+        </p>
+
+        <p>
+          Septiembre de 1947, Carnegie Hall. Chano subió al escenario como parte de la big band de Dizzy Gillespie, y después salió con ellos de gira por Europa.
+        </p>
+
+        <p>
+          En menos de un año los dos compusieron juntos <strong>"Manteca"</strong> y <strong>"Tin Tin Deo".</strong> <strong>Había llegado el Cubop.</strong>
+        </p>
+
+        <div class="video">
+          <iframe src="https://www.youtube.com/embed/uoRgAoNL6So" title="Chano Pozo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+        </div>
+
+        <h3 class="head">2 de diciembre de 1948, Harlem</h3>
+
+        <p>
+          El El Rio Bar, en la calle 111 con la avenida Lenox. A Chano Pozo lo mató a tiros un corredor de apuestas del barrio, Eusebio "Cabito" Muñoz.
+        </p>
+
+        <p>
+          <strong>Tenía treinta y tres años.</strong> Año y medio después de llegar.
+        </p>
+
+        <h3 class="head">Y volvió a La Habana</h3>
+
+        <p>
+          Su cuerpo fue devuelto a Cuba y <strong>enterrado en el Cementerio de Colón, en La Habana.</strong>
+        </p>
+
+        <p>
+          Puede que esto sea lo más importante de esta página.
+        </p>
+
+        <p>
+          <strong>El cuerpo de un exiliado no vuelve a casa.</strong>
+        </p>
+
+        <p>
+          Que su país lo recibiera en su propio cementerio significa que no había ruptura política entre él y Cuba. Que Chano Pozo fuera un migrante y no un exiliado lo demuestra <strong>el lugar donde está enterrado.</strong>
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">Dos movimientos distintos</h2>
+
+        <p>
+          <strong>Bauzá, Machito, Chano Pozo — migrantes.</strong> Gente que cruzó el mar por la música y por la vida, y que podía volver.
+        </p>
+
+        <p>
+          Hay un cubano más en esta historia que sí fue un exiliado de verdad: <strong>Desi Arnaz</strong>, cuya familia lo perdió todo con la caída del gobierno de Machado en 1933. La suya es otra línea — cultura popular y no linaje musical — y se cuenta en la <a href={`${base}es/cuba/`}>página de entrada de JAPONÉSON</a>.
+        </p>
+
+        <p>
+          Dos tipos de movimiento, uno al lado del otro, en la misma ciudad y en los mismos años.
+        </p>
+
+        <p>
+          Y la línea del exilio posterior a 1959 es <strong>otra historia, que aún está por venir.</strong>
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">Cronología</h2>
+
+        <div class="timeline">
+          <p><strong>1911</strong> Nace Bauzá en La Habana</p>
+          <p><strong>1917</strong> Nace Ella Fitzgerald en Virginia</p>
+          <p><strong>1917</strong> Nace Desi Arnaz en Santiago de Cuba</p>
+          <p><strong>1920</strong> Bauzá, a los nueve años, entra como clarinetista en la Filarmónica de La Habana</p>
+          <p><strong>1927</strong> Bauzá va por primera vez a Nueva York — y regresa</p>
+          <p><strong>1930</strong> Bauzá migra</p>
+          <p><strong>1933</strong> Bauzá entra en la orquesta de Chick Webb (hasta 1938; director musical desde 1934 o 1936)</p>
+          <p><strong>1933</strong> La familia Arnaz lo pierde todo con la caída de Machado; queman su casa</p>
+          <p><strong>1934</strong> Desi Arnaz, con diecisiete años, se exilia en Miami</p>
+          <p><strong>1934</strong> Ella, con diecisiete, gana la Amateur Night del Apollo — y le niegan el premio (noviembre)</p>
+          <p><strong>1935</strong> Ella entra en la banda de Chick Webb — <strong>Bauzá convenció a Webb</strong></p>
+          <p><strong>1936</strong> Bauzá vuelve a Cuba para casarse — y regresa</p>
+          <p><strong>1937</strong> Bauzá conoce a Dizzy Gillespie</p>
+          <p><strong>1937</strong> Machito migra</p>
+          <p><strong>1938</strong> Bauzá deja la banda de Webb (banda de Don Redman, hasta 1939)</p>
+          <p><strong>1939</strong> Chick Webb muere de tuberculosis de la columna el 16 de junio, a los treinta y cuatro. <strong>Ella, con veintidós, toma la banda</strong></p>
+          <p><strong>1939</strong> Bauzá entra con Cab Calloway, y mete a Dizzy</p>
+          <p><strong>1940</strong> Se forma Machito and His Afro-Cubans</p>
+          <p><strong>1941</strong> Bauzá deja a Calloway para ser director musical de los Afro-Cubans</p>
+          <p><strong>1942</strong> Dizzy toca en la antigua orquesta de Chick Webb, bajo la dirección de Ella</p>
+          <p><strong>1943</strong> Reclutan a Machito en abril; lesionado en la instrucción, dado de baja en octubre. <strong>Bauzá manda a buscar a Graciela a La Habana</strong>, que se pone al frente de los Afro-Cubans</p>
+          <p><strong>1946</strong> Ella sale de gira con la big band de Dizzy y conoce a Ray Brown</p>
+          <p><strong>1947</strong> Chano Pozo migra; Bauzá lo presenta a Dizzy</p>
+          <p><strong>1947</strong> Carnegie Hall. "Manteca" — nace el Cubop</p>
+          <p><strong>1947</strong> Ella y Ray Brown se casan (diciembre)</p>
+          <p><strong>1948</strong> Matan a tiros a Chano Pozo en Harlem, a los treinta y tres. <strong>Al Cementerio de Colón, en La Habana</strong></p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 4rem;
+  }
+  .intro-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+  }
+  .intro-inner p.lead {
+    font-size: 19px;
+    color: var(--color-navy);
+  }
+  .intro-inner p.aside {
+    font-size: 15px;
+    line-height: 1.7;
+    color: #555;
+    border-left: 3px solid rgba(0,0,0,0.15);
+    padding-left: 1.2rem;
+  }
+  .intro-inner strong { font-weight: 700; color: #2a2a2a; }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .intro-inner hr.navy-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.6rem 0;
+  }
+
+  .intro-inner h2.section-q {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    line-height: 1.35;
+    margin: 1rem 0 1.6rem;
+  }
+  .intro-inner h2.section-q .sub-label {
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: var(--color-navy);
+    letter-spacing: 0.04em;
+    margin-top: 0.5rem;
+  }
+  .intro-inner h3.head {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 20px;
+    color: var(--color-navy);
+    margin: 2rem 0 0.9rem;
+  }
+
+  .plate {
+    margin: 2rem 0 2.4rem;
+  }
+  .plate img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+  .plate figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.65;
+    color: #555;
+    margin-top: 0.7rem;
+  }
+  .plate figcaption .credit {
+    display: block;
+    margin-top: 0.3rem;
+    font-size: 13px;
+    color: #777;
+    letter-spacing: 0.02em;
+  }
+
+  .video {
+    position: relative;
+    width: 100%;
+    max-width: 640px;
+    aspect-ratio: 16 / 9;
+    margin: 1.5rem auto 2rem;
+  }
+  .video iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 2px;
+  }
+
+  .timeline p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0 0 0.55rem;
+    padding-left: 4.6rem;
+    text-indent: -4.6rem;
+  }
+  .timeline p strong:first-child {
+    display: inline-block;
+    width: 4.6rem;
+    text-indent: 0;
+    color: var(--color-navy);
+  }
+
+  @media (max-width: 600px) {
+    .intro-inner h2.section-q { font-size: 25px; }
+    .timeline p { padding-left: 0; text-indent: 0; }
+    .timeline p strong:first-child { width: auto; margin-right: 0.5rem; }
+  }
+</style>
