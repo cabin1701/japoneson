@@ -12,10 +12,8 @@ wp_id: 19780
 wp_parent: 0
 ---
 
-La raíz de todo. Mi investigación sobre música cubana, mis fuentes primarias, las grabaciones donde todo empezó — aquí vive la experiencia vivida.
+JAPONÉSON es el capítulo cubano de japoneson.com: un estudio de la música posrevolucionaria de los cubanos — línea doméstica, exilio, puente hacia el futuro.
 
-[![](/images/wp/2026/05/jk-400.jpg)](/es/cuba/por-la-chocolate/)
+Dos líneas lo recorren. La línea doméstica: los músicos que se quedaron en Cuba. La línea del exilio: Mario Bauzá, Machito, Chano Pozo, Desi Arnaz — cubanos que llevaron la música a Nueva York y a Hollywood.
 
-Álbum CD (2017)
-
-[Por La Chocolate](/es/cuba/por-la-chocolate/)
+Este capítulo reúne la investigación de Seina, sus fuentes primarias, y el disco Por La Chocolate (2017).

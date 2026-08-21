@@ -12,10 +12,8 @@ wp_id: 19780
 wp_parent: 0
 ---
 
-The root of everything here. My Cuban music research, my primary sources, the recordings that started it all — this is where the lived experience lives.
+JAPONÉSON is the Cuban chapter of japoneson.com: a study of post-revolution music by Cubans — domestic, exile, bridge to the future.
 
-[![](/images/wp/2026/05/jk-400.jpg)](/en/cuba/por-la-chocolate/)
+Two lines run through it. The domestic line: musicians who stayed in Cuba. The exile line: Mario Bauzá, Machito, Chano Pozo, Desi Arnaz — Cubans who carried the music into New York and Hollywood.
 
-CD Album (2017)
-
-[Por La Chocolate](/en/cuba/por-la-chocolate/)
+This chapter holds Seina's research, her primary sources, and the album Por La Chocolate (2017).
