@@ -225,7 +225,7 @@ function parseVegapediaEntries(raw) {
 const SITE_PAGES = [
   { slug: 'about', title: { en: 'About Seina', es: 'Sobre Seina' } },
   { slug: 'cupie', title: { en: 'Cupie Danny', es: 'Cupie Danny' } },
-  { slug: 'japoneson', title: { en: 'JAPONÉSON', es: 'JAPONÉSON' } },
+  { slug: 'cuba', title: { en: 'JAPONÉSON', es: 'JAPONÉSON' } },
   { slug: 'murakami', title: { en: 'Murakami Mambo', es: 'Murakami Mambo' } },
   { slug: 'mystery', title: { en: 'The Mystery Entertainment', es: 'El Entretenimiento del Misterio' } },
   { slug: 'swing', title: { en: 'Angels Swing', es: 'Angels Swing' } },
@@ -258,7 +258,7 @@ async function collectSitePages() {
 // 6b. サイト全サブページ（Swing/Mystery/Murakami/Cupieの下の全記事）。type:'article'、lang別、URL付き
 // SITE_PAGES（入り口の6ページ）は別扱いなので除外。utility系（contact/home/privacy/terms）も除外
 const SUBPAGE_EXCLUDE = new Set([
-  'about', 'contact', 'cupie', 'home', 'japoneson', 'murakami', 'mystery',
+  'about', 'contact', 'cuba', 'cupie', 'home', 'murakami', 'mystery',
   'privacy-policy', 'swing', 'terms-and-conditions',
 ]);
 // [...slug].astro と同じロジック（src/lib/pageTree.ts の buildPath）：
