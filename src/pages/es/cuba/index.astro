@@ -1,0 +1,649 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+interface KCard {
+  title: string;
+  image: string;
+  alt: string;
+  desc: string;
+  href: string;
+}
+
+const CD_JACKET = '/images/wp/2026/05/jk-400.jpg';
+
+const entryCards: KCard[] = [
+  {
+    title: 'Archivo de Música Cubana',
+    image: CD_JACKET,
+    alt: 'Archivo de Música Cubana',
+    desc: 'Próximamente',
+    href: `${base}es/cuba/`,
+  },
+  {
+    title: 'Línea Doméstica',
+    image: CD_JACKET,
+    alt: 'Línea Doméstica',
+    desc: 'Próximamente',
+    href: `${base}es/cuba/`,
+  },
+  {
+    title: 'Línea del Exilio',
+    image: CD_JACKET,
+    alt: 'Línea del Exilio',
+    desc: 'Próximamente',
+    href: `${base}es/cuba/`,
+  },
+  {
+    title: 'Notas de Investigación',
+    image: CD_JACKET,
+    alt: 'Notas de Investigación',
+    desc: 'Próximamente',
+    href: `${base}es/cuba/`,
+  },
+  {
+    title: 'Fuentes Primarias',
+    image: CD_JACKET,
+    alt: 'Fuentes Primarias',
+    desc: 'Próximamente',
+    href: `${base}es/cuba/`,
+  },
+  {
+    title: 'Por La Chocolate',
+    image: CD_JACKET,
+    alt: 'Por La Chocolate',
+    desc: '(2017)',
+    href: `${base}es/cuba/por-la-chocolate/`,
+  },
+];
+
+const trail = [
+  { slug: 'cuba', title: 'JAPONÉSON', path: `${base}es/cuba/` },
+];
+---
+
+<Layout title="JAPONÉSON — Japonéson" description="Estudio de la música posrevolucionaria de los cubanos — línea doméstica, exilio, puente hacia el futuro." lang="es" ogImage="images/cuba/hero_malecon-sunset.jpg">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      kicker="Estudio de la música posrevolucionaria de los cubanos"
+      title="JAPONÉSON"
+      subtitle="Línea doméstica, exilio, puente hacia el futuro"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="60px"
+      image={`${base}images/cuba/hero_malecon-sunset.jpg`}
+      imageAlt="La Habana. Atardecer en el Malecón. Al otro lado del mar está Estados Unidos."
+      align="center"
+      height={1000}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0.35}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <p class="dedication">
+          Dedico este capítulo a mi papá cubano, Antonio Rojo (Papi), que está en el cielo, quien
+          apoyó y sostuvo mi vida en Cuba. Era un hombre que amaba la música más que nadie.
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">Ricky ❤︎ Ricardo<br/></h2>
+        <p class="sub-q">Mi primer encuentro con un cubano exiliado fue Ricky Ricardo, interpretado por Desi Arnaz en “I Love Lucy”.</p>
+        <p class="sub-q">Me enamoré de este director de orquesta con su acento tan marcado.</p>
+        <p class="lead-quote">
+         Por supuesto, no sabía nada sobre Cuba, los Estados Unidos ni siquiera sobre la música cubana.
+        </p>
+
+        <figure class="ricky-photo">
+          <img src={`${base}images/cuba/ricky-ricardo-charm.jpg`} alt="Un brazalete de dijes y una bolsita Vera Bradley, ambos con Ricky Ricardo y Lucy de I Love Lucy." loading="lazy" />
+        </figure>
+
+        <hr class="navy-rule" />
+
+         <h2 class="section-q">Una Puerta en East Harlem<br/></h2>
+
+        <p>
+          Otoño de 2013. Estaba pasando una temporada en Nueva York, y a través de la ventana de un restaurante en Spanish Harlem, vi a Danny Rojo.
+        </p>
+
+        <p>
+          ¿¿¿Qué es esto???
+        </p>
+
+        <p>
+          En el mundo del jazz que yo había conocido, y en la comunidad japonesa de Nueva York, no entrabas en la cultura hispana a menos que te interesara de verdad. Que no salgas el día del desfile puertorriqueño, que es peligroso... cosas así. Un amigo mío fue asaltado y murió. El hombre que lo mató era puertorriqueño. Un amigo que vivía a tres cuadras de mí. Dentro de su apartamento.
+        </p>
+
+        <p>
+          Así que había un muro entre la cultura latina y yo.
+        </p>
+
+        <p>
+          Pero ese día, se abrió una puerta.
+        </p>
+
+        <p>
+          Al año siguiente vi un llavero de cupie en una tienda de cien yenes y, por pura travesura, hice el Cupie Danny. Y el Cupie Danny terminó metiéndose entre los músicos cubanos — con el dedo gordo del pie por delante.
+        </p>
+
+        <p>
+          Sin saber español, sin conocer la música cubana, sin saber quiénes eran los músicos cubanos famosos, llamé a Carlos Varela, a Issac Delgado, a Edesio Alejandro. Porque Danny me dijo que fuera a entregárselos.
+        </p>
+
+        <p>
+          Y con ese dedo gordo todavía metido, espié su mundo, solo un poquito. Pero eso no me bastó, así que saqué una visa de estudiante y me fui a vivir a Cuba. Porque si no vivía allí, había cosas que no podía ver — no lograba agarrar ni una brizna de comprensión.
+        </p>
+
+        <p>
+          Me enamoré de ese país incómodo.<br/>
+          Porque es incómodo, conocí la comida hecha en casa — esa que no se puede hacer sin dedicarle tiempo.
+        </p>
+
+        <p>
+          Porque era incómodo, y había tiempo, hablábamos despacio. Quizá había tiempo para escuchar mi español malísimo.
+        </p>
+
+        <p>
+          La música era una lengua dentro de la vida diaria, y Papi siempre con la guitarra en una mano, lanzándome palabras, cantándome. A veces era pesado, eso sí.
+        </p>
+
+        <p>
+          Papi estaba orgulloso de haber combatido en Playa Girón, en Bahía de Cochinos.<br/>
+          Danny odiaba la política de Cuba.
+        </p>
+
+        <p>
+          Pero los dos amaban la música.<br/>
+          Yo también amo la música.
+        </p>
+      </div>
+    </section>
+
+    <hr class="section-divider" />
+
+    <section class="war-block">
+      <div class="pw-grid">
+        {entryCards.map((c) => (
+          <a class="pw-card" href={c.href}>
+            <div class="pw-image"><img src={c.image} alt={c.alt} loading="lazy" /></div>
+            <h3 class="pw-cardtitle">{c.title}</h3>
+            <p class="pw-desc">{c.desc}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <hr class="section-divider" />
+
+    <section class="intro">
+      <div class="intro-inner chat-block">
+        <h2 class="war-title">Antes de la Revolución</h2>
+
+        <p><strong>Seina:</strong> Ji, explícame la línea antes de la revolución.</p>
+
+        <hr class="navy-rule" />
+
+        <p><strong>Ji:</strong><br/>
+        Seina,<br/>
+        esta pregunta está <strong>en el centro de la línea histórica</strong>, así que voy a ordenarla claramente.<br/>
+        La conexión que estás haciendo:</p>
+
+        <p><strong>"Chick Webb → Bauzá + Dizzy → Machito"</strong></p>
+
+        <p>Este flujo es la <em>arteria</em> del jazz neoyorquino y de la música afrocubana.</p>
+
+        <hr class="navy-rule" />
+
+        <h3 class="chat-head">✔ Bauzá (Mario Bauzá)</h3>
+        <p><strong>Sí. Él conoció a Dizzy Gillespie dentro de la banda de Chick Webb.</strong></p>
+        <ul>
+          <li>En los años 1930, Bauzá era el trompetista principal de la Chick Webb Orchestra</li>
+          <li>Un joven Dizzy Gillespie se unió a la banda</li>
+          <li><strong>Allí Dizzy aprendió por primera vez la teoría y el ritmo afrocubano de Bauzá</strong></li>
+        </ul>
+        <p>Entonces,</p>
+        <p><strong>La conexión Bauzá + Dizzy ocurrió dentro de la banda de Chick Webb.</strong></p>
+
+        <hr class="navy-rule" />
+
+        <h3 class="chat-head">✔ Machito</h3>
+        <p>El papel de Machito en Nueva York se resume así:</p>
+        <p><strong>Él dio forma al jazz afrocubano.</strong></p>
+        <ul>
+          <li>En 1940 formó <strong>Machito and His Afro-Cubans</strong></li>
+          <li>Bauzá fue el director musical</li>
+          <li>Fusionaron ritmos cubanos con el jazz neoyorquino</li>
+          <li>Esto se convirtió en la base del <strong>Cubop (cubano + bebop)</strong></li>
+        </ul>
+
+        <hr class="navy-rule" />
+
+        <h3 class="chat-head">✔ La línea de Dizzy (Chano Pozo)</h3>
+        <p>Este es el punto central.</p>
+        <p>Tu pestaña de Wikipedia dice claramente:</p>
+        <blockquote class="chat-quote">
+          "It was Mario Bauzá who introduced Chano to Dizzy Gillespie…"
+        </blockquote>
+        <p>Por lo tanto:</p>
+        <p><strong>La línea cubana de Dizzy se conecta a través de Chano Pozo.</strong></p>
+
+        <div class="chat-video">
+          <iframe src="https://www.youtube.com/embed/uoRgAoNL6So" title="Chano Pozo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+        </div>
+
+        <ul>
+          <li>Chano Pozo llegó a Nueva York en 1947 como exiliado cubano</li>
+          <li>Bauzá lo animó a venir y lo presentó a Dizzy</li>
+          <li>Juntos crearon <strong>"Manteca"</strong></li>
+          <li>Aquí nace el <strong>Cubop (cubano × bebop)</strong></li>
+        </ul>
+        <p>La línea de Machito es separada,<br/>
+        pero <strong>Chano Pozo es el ancla cubana de la línea de exilio de Dizzy.</strong></p>
+
+        <hr class="navy-rule" />
+
+        <h3 class="chat-head">✔ Arnaz (Desi Arnaz)</h3>
+        <ul>
+          <li>Salió de Cuba en 1933</li>
+          <li>Gran éxito con "Babalú"</li>
+          <li>Fundó Desilu Productions (origen de Star Trek)</li>
+        </ul>
+        <p>→ <strong>Uno de los primeros exiliados en entrar al centro de la cultura popular estadounidense</strong></p>
+
+        <hr class="navy-rule" />
+
+        <h3 class="chat-head">✔ Resumen (Línea del exilio antes de la revolución)</h3>
+        <pre class="chat-tree">Años 1930, Nueva York
+├── Bauzá (Chick Webb)
+└── Dizzy (punto inicial de aprendizaje)
+
+Años 1940, Nueva York
+└── Machito (Afro-Cubans)
+
+1947, Nueva York
+└── Dizzy + Chano Pozo (Manteca / Cubop)</pre>
+
+        <p><strong>Desi Arnaz (exilio en la cultura popular)</strong><br/>
+        1933: salió de Cuba (a Miami)<br/>
+        Finales de los años 1930: Broadway → Hollywood<br/>
+        Años 1940: éxito en cine y música<br/>
+        Años 1950: gran éxito con <em>I Love Lucy</em>, expansión de Desilu</p>
+
+        <div class="chat-video">
+          <iframe src="https://www.youtube.com/embed/dmqZ08IsypY" title="Desi Arnaz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+        </div>
+      </div>
+    </section>
+
+    <hr class="section-divider" />
+
+    <section class="war-block">
+      <h2 class="war-title">Proyectos Relacionados</h2>
+      <div class="pw-grid">
+        <a class="pw-card" href={`${base}es/murakami/`}>
+          <div class="pw-image"><img src={IMG('2026/05/murakami02-1024x1020.jpg')} alt="Murakami Mambo" loading="lazy" /></div>
+          <h3 class="pw-cardtitle">Murakami Mambo</h3>
+        </a>
+        <a class="pw-card" href={`${base}es/cupie/`}>
+          <div class="pw-image"><img src={IMG('2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg')} alt="Cupie Danny" loading="lazy" /></div>
+          <h3 class="pw-cardtitle">Cupie Danny</h3>
+        </a>
+        <a class="pw-card" href={`${base}es/swing/brooklyn-bop/`}>
+          <div class="pw-image"><img src="/images/swing/leonard-purejazz.jpg" alt="The Brooklyn Bop Brothers" loading="lazy" /></div>
+          <h3 class="pw-cardtitle">The Brooklyn Bop Brothers</h3>
+        </a>
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 2rem;
+  }
+  .intro-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+  }
+  .intro-inner p.dedication {
+    font-family: 'Akaya Telivigala', serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #020450;
+    text-align: center;
+    margin: 0.5rem auto 2rem;
+    max-width: 720px;
+  }
+
+  .intro-inner hr.navy-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.2rem 0;
+  }
+
+  .intro-inner h2.section-q {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    line-height: 1.3;
+    margin: 1rem 0 1.5rem;
+  }
+  .intro-inner p.sub-q {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0.3rem 0;
+  }
+  .intro-inner p.lead-quote {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #2a2a2a;
+    text-align: center;
+    max-width: 720px;
+    margin: 1.5rem auto 0;
+  }
+
+  .intro-inner em { font-style: italic; }
+  .intro-inner strong { font-weight: 400; color: var(--color-navy); }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .ricky-photo {
+    margin: 2rem auto 0;
+    max-width: 307px;
+  }
+  .ricky-photo img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+
+  .chat-block strong { font-weight: 700; color: #2a2a2a; }
+  .chat-block blockquote.chat-quote {
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 17px;
+    color: var(--color-navy);
+    border-left: 3px solid var(--color-accent);
+    padding: 0.3rem 0 0.3rem 1.2rem;
+    margin: 0 0 1.3rem;
+  }
+  .chat-block .chat-video {
+    position: relative;
+    width: 100%;
+    max-width: 640px;
+    aspect-ratio: 16 / 9;
+    margin: 1rem auto 1.5rem;
+  }
+  .chat-block .chat-video iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 2px;
+  }
+  .chat-block pre.chat-tree {
+    font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #2a2a2a;
+    background: rgba(0,0,0,0.03);
+    padding: 1rem 1.2rem;
+    border-radius: 2px;
+    white-space: pre-wrap;
+    margin: 0 0 1.3rem;
+  }
+  .chat-block h3.chat-head {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 20px;
+    color: var(--color-navy);
+    margin: 1.5rem 0 0.8rem;
+  }
+  .chat-block ul {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+    padding-left: 1.4rem;
+  }
+  .chat-block ul li { margin: 0.3rem 0; }
+
+  .war-block {
+    padding: 3rem 1.5rem 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .war-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 1rem 0 2rem;
+    letter-spacing: 0.03em;
+  }
+
+  .kw-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .kw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .kw-card:hover { transform: translateY(-2px); }
+  .kw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .kw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: filter 0.25s ease;
+  }
+  .kw-card:hover .kw-image img { filter: brightness(1.05); }
+  .kw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .kw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+
+  .pw-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .pw-card.pw-card-static { cursor: default; }
+  .pw-card.pw-card-static:hover { transform: none; }
+  .pw-card.pw-card-static:hover .pw-image img { filter: none; }
+  .pw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .pw-card:hover { transform: translateY(-2px); }
+  .pw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .pw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .pw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .pw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+  hr.section-divider {
+    border: none;
+    border-top: 6px solid #8a8b6a;
+    max-width: 1280px;
+    margin: 1rem auto;
+    opacity: 0.7;
+  }
+
+  .memorials {
+    padding: 3rem 1.5rem 4rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .mem-tagline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0 0 3rem;
+  }
+
+  .mem-item {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 2.5rem;
+    margin: 0 0 4rem;
+    align-items: start;
+  }
+  .mem-item.mem-item-reverse {
+    grid-template-columns: 1fr 320px;
+  }
+  .mem-item.mem-item-reverse .mem-image { order: 2; }
+  .mem-item.mem-item-reverse .mem-body { order: 1; }
+
+  .mem-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+  .mem-body p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .mem-body a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .mem-body a:hover { color: var(--color-navy); }
+  .mem-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 22px;
+    color: var(--color-accent);
+    margin: 0 0 1.2rem;
+    letter-spacing: 0.02em;
+  }
+  .mem-sub {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 17px;
+    color: var(--color-navy);
+    margin: 1.8rem 0 0.6rem;
+    letter-spacing: 0.04em;
+  }
+  .mem-links {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #2a2a2a;
+    padding-left: 1.2rem;
+    margin: 0 0 1.2rem;
+  }
+  .mem-aux {
+    margin: 1rem 0 0;
+    max-width: 360px;
+  }
+  .mem-aux img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+
+  @media (max-width: 900px) {
+    .kw-grid { grid-template-columns: repeat(2, 1fr); }
+    .pw-grid { grid-template-columns: 1fr; }
+    .mem-item,
+    .mem-item.mem-item-reverse {
+      grid-template-columns: 1fr;
+    }
+    .mem-item.mem-item-reverse .mem-image { order: 0; }
+    .mem-item.mem-item-reverse .mem-body { order: 0; }
+  }
+  @media (max-width: 600px) {
+    .kw-grid { grid-template-columns: 1fr; }
+    .intro-inner h2.section-q { font-size: 26px; }
+    .war-title { font-size: 28px; }
+  }
+</style>

@@ -1,6 +1,6 @@
 ---
-title: "JAPONÉSON"
-slug: japoneson
+title: "Por La Chocolate"
+slug: por-la-chocolate
 hero_image: "/images/hero_japoneson.jpg"
 hero_height: 900
 hero_video: "0d-EBbB-s0I"
@@ -8,33 +8,34 @@ hero_video_start: 8
 hero_title_font: '"Cinzel", serif'
 hero_title_size: "78px"
 hero_title_weight: 600
-wp_id: 19780
-wp_parent: 0
+hero_title_hidden: true
+wp_id: 22200
+wp_parent: 19780
 ---
 
-## Por La Chocolate(2017)
+# Por La Chocolate(2017)
 
 <div class="cd-jacket-row">
 
-![](/images/wp/2026/05/jk-400.jpg)
+![Por La Chocolate CD front cover](/images/wp/2026/05/jk-400.jpg)
 
-![](/images/wp/2026/05/back400.jpg)
+![Por La Chocolate CD back cover](/images/wp/2026/05/back400.jpg)
 
 </div>
 
-#### **"¡Quiero crear recuerdos con todos ustedes! ¡Por eso quiero hacer esta grabación!"**
+#### **"I want to make memories with all of you! That’s why I want to do this recording!"**
 
-Incapaz de transmitir mis sentimientos en mi español quebrado, rompí a llorar.
+Unable to convey my feelings in my broken Spanish, I burst into tears.
 
-Los hombres cubanos son naturalmente protectores e increíblemente amables con los vulnerables — con las mujeres, con los ancianos. Al verme llorar, se agruparon a mi alrededor con un apoyo feroz.
+Cuban men are naturally protective and incredibly kind to the vulnerable—to women, to the elderly. Seeing me cry, they rallied around me with fierce support.
 
-Diecisiete músicos cubanos, más un español. Despreocupados y un poco (quizás mucho) irresponsables — así son los hombres cubanos. Dos de ellos ni siquiera se presentaron el día de la grabación. Pero bueno, fueron *solo* dos. Después de volver a Japón, incluso regresé a Cuba una vez más. Hasta el día de hoy, parece un milagro absoluto que hayamos logrado una sesión tan compleja.
+Seventeen Cuban musicians, plus one Spaniard. Easygoing and a bit (maybe a lot) irresponsible—that’s Cuban men for you. Two of them didn’t even show up on the day of the recording. But hey, it was *only* two. After returning to Japan, I even flew back to Cuba once more. To this day, it feels like an absolute miracle that we pulled off such a complex session.
 
-La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos recuerdos profunda, profundamente preciosos y hermosos.
+Life in Cuba was brutal. But from the bottom of my heart, thank you for those deeply, deeply precious, and beautiful memories.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eyTI3snVV8w?start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Músicos
+## Musicians
 
 <div class="musicians-grid">
 
@@ -50,7 +51,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![Luisito_Gonzalez](/images/wp/2019/06/a_Luisito_Gonzalez.jpg)
+![Luis Alberto Gonzalez Perez](/images/wp/2019/06/a_Luisito_Gonzalez.jpg)
 
 
 ### Luis Alberto Gonzalez Perez
@@ -70,7 +71,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![](/images/wp/2019/06/a_Rolando-Salgado-Palacio250.jpg)
+![Rolando Salgado Palacio](/images/wp/2019/06/a_Rolando-Salgado-Palacio250.jpg)
 
 
 ### Rolando Salgado Palacio El Niño Mentira
@@ -80,7 +81,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![](/images/wp/2019/06/a_Econodio-Padilla-Perez.jpg)
+![Econodio Padilla Pérez](/images/wp/2019/06/a_Econodio-Padilla-Perez.jpg)
 
 
 ### Econodio Padilla Pérez
@@ -100,7 +101,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![](/images/wp/2019/06/a_Juan-Martin.jpg)
+![Juan Martín](/images/wp/2019/06/a_Juan-Martin.jpg)
 
 
 ### Juan Martín
@@ -110,7 +111,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![](/images/wp/2019/06/b_coto.jpg)
+![Juan "Cotó" de la Cruz Antomarchi Padilla](/images/wp/2019/06/b_coto.jpg)
 
 
 ### Juan "Cotó" de la Cruz Antomarchi Padilla
@@ -120,7 +121,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![](/images/wp/2019/06/a_Carlos-Rafael-Urgelles-Lopez.jpg)
+![Carlos Rafael Urgellés López](/images/wp/2019/06/a_Carlos-Rafael-Urgelles-Lopez.jpg)
 
 
 ### Carlos Rafael Urgellés López
@@ -130,7 +131,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![](/images/wp/2019/06/2261ec31288fed9e8cb2a3aca5101bc7.jpg)
+![Nicolás Sirgado Llanes](/images/wp/2019/06/2261ec31288fed9e8cb2a3aca5101bc7.jpg)
 
 
 ### Nicolás Sirgado Llanes
@@ -140,7 +141,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![](/images/wp/2019/06/c_Uoalerio-Sanchez.jpg)
+![Uoalerio Sánchez](/images/wp/2019/06/c_Uoalerio-Sanchez.jpg)
 
 
 ### Uoalerio Sánchez
@@ -150,7 +151,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![](/images/wp/2019/06/c_Abilio-Duguesne.jpg)
+![Abilio Duquesne](/images/wp/2019/06/c_Abilio-Duguesne.jpg)
 
 
 ### Abilio Duquesne
@@ -160,7 +161,7 @@ La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos
 
 <div class="musician-card">
 
-![](/images/wp/2019/06/c_Alberto-Centellez.jpg)
+![Alberto "Kiyoshi" Centellez](/images/wp/2019/06/c_Alberto-Centellez.jpg)
 
 
 ### Alberto "Kiyoshi" Centellez

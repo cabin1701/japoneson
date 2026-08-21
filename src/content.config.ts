@@ -32,6 +32,10 @@ const en = defineCollection({
     hero_title_italic: z.boolean().optional(),
     hero_title_size: z.string().optional(), // CSS font-size, e.g. "72px" or "4rem"
     hero_title_color: z.string().optional(), // CSS color, e.g. "#a5c5dd"
+    hero_glow: z.enum(['dark', 'light']).optional(), // text shadow direction — 'light' for bright/pale photos
+    // HERO のタイトルを出さない。HERO が h1 を持っているので、
+    // true にしたら本文の見出しを # にして h1 を立て直すこと
+    hero_title_hidden: z.boolean().optional(),
     hero_slideshow: z.array(z.string()).optional(), // background slideshow images (cross-fade)
     hero_slideshow_duration: z.number().optional(), // ms per slide (default 5000)
   }),
@@ -59,6 +63,8 @@ const es = defineCollection({
     hero_title_italic: z.boolean().optional(),
     hero_title_size: z.string().optional(),
     hero_title_color: z.string().optional(),
+    hero_glow: z.enum(['dark', 'light']).optional(),
+    hero_title_hidden: z.boolean().optional(),
     hero_slideshow: z.array(z.string()).optional(),
     hero_slideshow_duration: z.number().optional(),
   }),

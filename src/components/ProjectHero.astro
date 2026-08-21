@@ -28,6 +28,11 @@ interface Props {
   // 2026-07-31 追加。文字の影。既定は黒（従来どおり）。
   // 'light' にすると白い光になる。明るい写真に濃い影を落とすと重く見えるため。
   glow?: 'dark' | 'light';
+  // 2026-08-21 追加。HERO のタイトルを出さない。
+  // HERO は h1 を持っているので、隠すと本文側で h1 を立て直す必要がある
+  // （[...slug].astro は HERO がある時、自分の h1 を出さないため）。
+  // 本文の見出しを # にして h1 にする運用とセットで使う。
+  titleHidden?: boolean;
 }
 const {
   kicker,
@@ -36,6 +41,7 @@ const {
   image,
   imageAlt,
   glow = 'dark',
+  titleHidden = false,
   align = 'left',
   height = 560,
   fit = 'cover',
@@ -90,7 +96,7 @@ const titleStyle = [
   <div class="overlay" style={`background: linear-gradient(180deg, rgba(0,0,0,${overlayTop}) 0%, rgba(0,0,0,${overlayBottom}) 100%);`}></div>
   <div class="p-hero-content">
     {kicker && <p class="kicker">{kicker}</p>}
-    <h1 class="p-hero-title" style={titleStyle}>{title}</h1>
+    {!titleHidden && <h1 class="p-hero-title" style={titleStyle}>{title}</h1>}
     {subtitle && <p class="subtitle">{subtitle}</p>}
   </div>
 </section>
@@ -195,6 +201,7 @@ const titleStyle = [
     margin: 0;
     max-width: 720px;
     text-shadow: 0 1px 6px rgba(2, 2, 2, 0.8);
+    white-space: pre-line;
   }
   .p-hero[data-align="center"] .subtitle { margin: 0 auto; }
 

@@ -4,7 +4,7 @@ date: 2026-08-16
 hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/2026/08/leonard-gaskin-brooklyn-bop-brothers.jpg"
 lang: es
 category: ["Brooklyn Bop Bros"]
-tags: ["Leonard Gaskin", "Max Roach", "Randy Weston", "Cecil Payne", "Duke Jordan"]
+tags: ["Leonard Gaskin", "Max Roach", "Randy Weston", "Cecil Payne", "Duke Jordan", "Bebop"]
 ---
 
 Ayer, en el cumpleaños de Wade Barnes, publiqué la página de [The Brooklyn Bop Brothers](https://japoneson.com/en/swing/leonard-gaskin/brooklyn-bop/).

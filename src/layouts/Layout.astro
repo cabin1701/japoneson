@@ -965,6 +965,115 @@ const personJsonLd = isHome
     margin: 1.25rem 0 0.5rem;
   }
 
+  /* === Thanks for the Memory: tracklist / personnel set like the CD back cover (EN/ES common) === */
+  main.page-memory article iframe {
+    display: block;
+    margin: 2rem auto;
+    max-width: 100%;
+  }
+  /* Archival photo/video caption — scoped by class, not by "iframe + p",
+     because the opening YouTube embed is also followed by a <p> (the
+     narrative's first line) that must NOT get caption styling. */
+  main.page-memory article .video-caption {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--color-muted);
+    margin-top: -1rem;
+  }
+  main.page-memory article .video-closing {
+    text-align: center;
+  }
+  /* Musicians + album block: same construction as /swing/dream/ (that page keeps
+     its own scoped copy because it is a standalone .astro page, not markdown). */
+  main.page-memory article .musicians {
+    margin: 2.5rem 0;
+    text-align: center;
+  }
+  main.page-memory article .musicians p {
+    font-family: var(--font-display-cinzel);
+    font-size: 16px;
+    color: var(--color-navy);
+    margin: 0.3rem 0;
+    line-height: 1.5;
+  }
+  /* 締めの2行だけ間を詰める。見出しの直後に来る .musicians を狙う——
+     パーソネルの方は hr の後ろなので、こちらは影響を受けない */
+  main.page-memory article h3 + .musicians {
+    margin-top: 0.5rem;
+  }
+
+  main.page-memory article .album-block {
+    display: flex;
+    gap: 2.5rem;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 2.5rem 0;
+  }
+  main.page-memory article .album-cover img {
+    width: 260px;
+    max-width: 100%;
+    margin: 0;
+    display: block;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.25);
+  }
+  main.page-memory article .album-tracklist {
+    flex: 1;
+    max-width: 400px;
+  }
+  main.page-memory article .album-tracklist h3 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-accent);
+    margin: 0 0 0.8rem;
+  }
+  main.page-memory article ol.tracklist {
+    list-style: decimal;
+    margin: 0;
+    padding-left: 1.3rem;
+  }
+  main.page-memory article ol.tracklist li {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color: #2a2a2a;
+    padding: 0.35rem 0;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  main.page-memory article ol.tracklist li:last-child {
+    border-bottom: none;
+  }
+  /* 作詞・作曲はこのページだけの追加。dream 側には無い */
+  main.page-memory article .track-main {
+    display: block;
+    min-width: 0;
+  }
+  main.page-memory article .track-credit {
+    display: block;
+    font-size: 12px;
+    color: #8a8a8a;
+    margin-top: 0.15rem;
+    line-height: 1.4;
+  }
+  main.page-memory article .track-time {
+    color: #888;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  @media (max-width: 640px) {
+    main.page-memory article .album-block {
+      flex-direction: column;
+      align-items: center;
+    }
+    main.page-memory article .album-tracklist {
+      max-width: 100%;
+      width: 100%;
+    }
+  }
+
   /* === Press page: simple clickable thumbnail gallery (EN/ES common) === */
   main.page-press article p {
     display: grid;

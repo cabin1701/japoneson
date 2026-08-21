@@ -15,6 +15,7 @@ export async function getStaticPaths() {
   // continue to render via the dynamic route.
   const CRAFTED_PATHS = new Set([
     'home',
+    'cuba',
     'murakami',
     'murakami/tosco',
     'murakami/music',
@@ -70,6 +71,8 @@ const metaDescription = deriveExcerpt(entry.body);
       titleItalic={entry.data.hero_title_italic}
       titleSize={entry.data.hero_title_size}
       titleColor={entry.data.hero_title_color}
+      glow={entry.data.hero_glow}
+      titleHidden={entry.data.hero_title_hidden}
       slideshow={entry.data.hero_slideshow}
       slideshowDuration={entry.data.hero_slideshow_duration}
     />
