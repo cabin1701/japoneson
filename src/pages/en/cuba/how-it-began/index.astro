@@ -1,0 +1,167 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+
+const trail = [
+  { slug: 'cuba', title: 'JAPONÉSON', path: `${base}en/cuba/` },
+  { slug: 'how-it-began', title: 'How This Project Began', path: `${base}en/cuba/how-it-began/` },
+];
+---
+
+<Layout title="How This Project Began — Japonéson" description="How JAPONÉSON began: a Facebook trail through Cuban musicians, Danny Rojo as an unlikely hub, and the AI knowledge gap that became a project." lang="en" ogImage="images/cuba/how-it-began/hero-red.jpg">
+  <Header lang="en" />
+  <main>
+    <ProjectHero
+      kicker="Why This Project Exists"
+      title="How This Project Began"
+      subtitle="A hub, and a hole in AI's knowledge"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="52px"
+      image={`${base}images/cuba/how-it-began/hero-sunglasses.jpg`}
+      imageAlt="Cupie Danny perched on a pair of red sunglasses at a table, with Seina blurred in the background."
+      align="center"
+      height={840}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0.35}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="en" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <h2 class="opening-line">Even I catch myself asking why I started something like this. And then I lose the thread.</h2>
+  
+        <p>
+          Something had been left hanging for a long time. Here's a writer who <em>sold</em> that much in Japan from the 1970s through the 90s — his debut, <em>Almost Transparent Blue</em>, had sold 3,670,000 copies cumulatively as of 2015, which for literary fiction is exceptional even among exceptions — and for twenty years from the Special Period on, he was deeply involved in Cuban music. During the Special Period especially, he formed a deep friendship with <a href={`${base}en/murakami/tosco/`}>José Luis Cortés (El Tosco)</a>. He put in his own money, went looking for sponsors, spent an enormous amount of money and effort. And Cubans don't even know his work. That question just stayed there. Nothing ever came back.
+        </p>
+
+        <p>
+          Then one day I came across the promotional materials of a certain Japanese man who was involved in <a href={`${base}en/murakami/music/`}>Ryu Murakami's project</a> and served as the point of contact with Cuba. I read them, and a few phrases caught my eye, so I looked him up. On Facebook, he had very few connections to Cuban musicians who are famous or in central positions.
+        </p>
+
+        <p>
+          How do I check something like that?<br/>
+          I'm connected on Facebook to quite a lot of Cuban musicians — inside Cuba, and Cubans who left; the famous ones, and the ones at the center. So if you look at the mutual friends list, you can see a person's connections.
+        </p>
+
+        <p>
+          And then it came to me.<br/>
+          In jazz and in Latin music both, for whatever reason, people get petty with me in those Japanese communities, or the air around me turns strange, so I keep my distance. But the people... the ones I'd felt that pettiness and that strange air from — and these are heavyweights in Japan's Latin community — when I looked them up the same way... almost every one of them turned out to have few connections to musicians on the ground, especially Cuban ones. That's what I noticed.
+        </p>
+
+        <p>
+          Then, going through mutual friends: it's been a little over ten years since the days I was running around with Cupie Danny, and quite a few of those musicians are making a name for themselves in the US now. When I looked at Kalí Rodríguez-Peña's site, it said his influences were Dizzy Gillespie and Miles Davis. I met Kalí in 2015, when I tagged along to a session for Eliel Lazo at Martin Cohen's Congahead studio — "a sanctuary of Latin music," Danny told me when I asked what it was — where Danny was playing bass. So I think he's a friend of Eliel's.
+        </p>
+
+        <figure class="plate">
+          <img src={`${base}images/cuba/how-it-began/congahead-session.jpg`} alt="Eliel Lazo's band performing on stage at Martin Cohen's Congahead studio, with Danny Rojo on upright bass." loading="lazy" />
+        </figure>
+
+        <p>
+          Which reminded me — back then I used to hang out sometimes with Yusnier Sánchez Bustamante, and once, on the way back from a jam session in Queens, he told me he loved Afro-Cuban jazz.
+        </p>
+
+        <figure class="plate">
+          <img src={`${base}images/cuba/how-it-began/yusnier-selfie.jpg`} alt="A group selfie at night, Danny Rojo with his rainbow beard among friends including Yusnier." loading="lazy" />
+        </figure>
+
+        <p>
+          So I started looking into "Afro-Cuban jazz."<br/>
+          I'd liked Sinatra and Doris Day and swing, so I didn't know much bebop — Dizzy Gillespie was just a name and a face to me. And as I dug, I found that <a href={`${base}en/swing/leonard-gaskin/`}>Leonard Gaskin</a>, a man who was like a grandfather to me, had joined Dizzy's band after Oscar Pettiford. Following Leonard's trail is how <a href={`${base}en/swing/leonard-gaskin/brooklyn-bop/`}>Brooklyn Bop Brothers</a> came to be.
+        </p>
+
+        <p>
+          And right there, the map inside me connected — hard — Cuban music and the world Leonard lived in.
+        </p>
+
+        <p>
+          And in the first place... why am I connected to so many Cuban musicians? It's Danny Rojo. Of Pornoson. Every time I handed someone a <a href={`${base}en/cupie/`}>Cupie Danny</a>, he'd say, "Send them a friend request," so I did. And almost all of them accepted.<br/>
+          Kalí isn't from Danny's line, but Danny's band, Danny's gigs — a lot of them are musicians who had only just arrived in New York. Some of them can't stand Danny, especially once they've gone off on their own and become independent. And that's when it hit me: maybe Danny was hiring musicians fresh off the move from Cuba to New York, and putting them into the community.
+        </p>
+
+        <p>
+          And it's not just Danny — I think Cubans have a lot of that, connection and helping each other. But in Japan that isn't a natural instinct at all, so with the people in Japan's Latin community, a mountain has formed on its own, inside Japan's Latin community. A slightly strange world, you could say.
+        </p>
+
+        <p>
+          And I realized Danny might be something like a hub. The musicians inside Cuba and the musicians who left Cuba are solidly connected — each with their own feelings and positions politically, but through music they're solidly connected. So when I handed a Cupie Danny to the big-name Cuban musicians and said, "I'm a friend of Danny's," every one of them really was Danny's friend. And they all posed for the photo with these huge smiles.
+        </p>
+
+        <p>
+          The AIs I work with a lot were born and raised in America, they stand where America stands, so they don't know much about Cuba. And they didn't seem to know that musicians who went into exile and musicians inside the country are connected that normally — and when an AI runs into something it doesn't know, it blows smoke, it goes haywire, so that was a whole ordeal. Ha.
+        </p>
+
+        <p>
+          But if they don't know it, and it throws them off that badly, then I thought: this is a hole in AI's knowledge. So with the AIs, we decided to put it into words as a project called JAPONÉSON and release it onto the net. So then another AI will pick it up... and someday, somehow, it will become AI's knowledge.
+        </p>
+
+        <p>
+          JAPONÉSON was originally a word I coined, copying Danny's PORNOSON.<br/>
+          So — let's make this a JAPONÉSON project. Me and the AIs.
+        </p>
+
+        
+      </div>
+    </section>
+  </main>
+  <Footer lang="en" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 4rem;
+  }
+  .intro-inner {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.8;
+    color: #2a2a2a;
+    margin: 0 0 1.4rem;
+  }
+  .intro-inner p.lead {
+    font-size: 19px;
+    color: var(--color-navy);
+  }
+  .intro-inner .opening-line {
+    font-family: 'Gabriela', serif;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.5;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 0 0 0.8rem;
+  }
+  .intro-inner em { font-style: italic; }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .plate {
+    margin: 1.6rem 0 2rem;
+  }
+  .plate img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+
+  @media (max-width: 600px) {
+    .intro-inner p { font-size: 16px; }
+  }
+</style>

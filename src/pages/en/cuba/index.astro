@@ -109,12 +109,20 @@ const trail = [
         <hr class="navy-rule" />
 
         <h2 class="section-q">Ricky ❤︎ Ricardo<br/></h2>
-        <p class="sub-q">My first meeting with an exiled Cuban was Ricky Ricardo, played by Desi Arnaz in “I Love Lucy”.</p>
-        <p class="sub-q"> I fell in love with this band leader who had such a strong accent. Of course, I knew nothing about Cuba, the U.S., or even Cuban music.</p>
-       
+
         <figure class="ricky-photo">
           <img src={`${base}images/cuba/ricky-ricardo-charm.jpg`} alt="A charm bracelet and Vera Bradley pouch, both featuring Ricky Ricardo and Lucy from I Love Lucy." loading="lazy" />
         </figure>
+
+        <p class="sub-q">My first meeting with an exiled Cuban was Ricky Ricardo, played by Desi Arnaz in “I Love Lucy”.</p>
+        <p class="sub-q"> I fell in love with this band leader who had such a strong accent. Of course, I knew nothing about Cuba, the U.S., or even Cuban music.</p>
+
+ <hr class="navy-rule" />
+ 
+        <a class="essay-link" href={`${base}en/cuba/how-it-began/`} aria-label="Read: How This Project Began">
+          <img class="essay-link-img essay-link-blue" src={`${base}images/cuba/how-it-began/hero-blue.jpg`} alt="How This Project Began" />
+          <img class="essay-link-img essay-link-red" src={`${base}images/cuba/how-it-began/hero-red.jpg`} alt="" aria-hidden="true" />
+        </a>
 
         <hr class="navy-rule" />
 
@@ -147,6 +155,21 @@ const trail = [
         <p>
           Without any Spanish, without knowing Cuban music, without knowing who the famous Cuban musicians were, I called Carlos Varela, Issac Delgado, Edesio Alejandro. Because Danny told me to go and hand them over.
         </p>
+
+        <div class="big-names-grid">
+          <figure>
+            <img src={`${base}images/cuba/big-names/carlos-varela.jpg`} alt="Carlos Varela holding the Cupie Danny keychain and card, not smiling for the camera." loading="lazy" />
+            <figcaption>Carlos Varela</figcaption>
+          </figure>
+          <figure>
+            <img src={`${base}images/cuba/big-names/issac-delgado.jpg`} alt="Issac Delgado smiling broadly while holding the Cupie Danny keychain and card." loading="lazy" />
+            <figcaption>Issac Delgado</figcaption>
+          </figure>
+          <figure>
+            <img src={`${base}images/cuba/big-names/edesio-alejandro.jpg`} alt="Edesio Alejandro smiling while holding the Cupie Danny card, outside a colonial building in Havana." loading="lazy" />
+            <figcaption>Edesio Alejandro</figcaption>
+          </figure>
+        </div>
 
         <p>
           And with that big toe still wedged in, I spied on their world, just a little. But that wasn't enough for me, so I got a student visa and went to live in Cuba. Because unless I lived there, there were things I couldn't see — I couldn't grasp even a fragment of understanding.
@@ -247,7 +270,7 @@ const trail = [
           <div class="pw-image"><img src={IMG('2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg')} alt="Cupie Danny" loading="lazy" /></div>
           <h3 class="pw-cardtitle">Cupie Danny</h3>
         </a>
-        <a class="pw-card" href={`${base}en/swing/brooklyn-bop/`}>
+        <a class="pw-card" href={`${base}en/swing/leonard-gaskin/brooklyn-bop/`}>
           <div class="pw-image"><img src="/images/swing/leonard-purejazz.jpg" alt="The Brooklyn Bop Brothers" loading="lazy" /></div>
           <h3 class="pw-cardtitle">The Brooklyn Bop Brothers</h3>
         </a>
@@ -331,6 +354,56 @@ const trail = [
     height: auto;
     display: block;
     border-radius: 2px;
+  }
+
+  .essay-link {
+    position: relative;
+    display: block;
+    max-width: 420px;
+    margin: 1.8rem auto 0;
+  }
+  .essay-link-img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .essay-link-red {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 0.25s ease;
+  }
+  .essay-link:hover .essay-link-red,
+  .essay-link:focus-visible .essay-link-red {
+    opacity: 1;
+  }
+
+  .big-names-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    max-width: 720px;
+    margin: 1.6rem auto 2rem;
+  }
+  .big-names-grid figure {
+    margin: 0;
+  }
+  .big-names-grid img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    display: block;
+    border-radius: 2px;
+  }
+  .big-names-grid figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: #555;
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+  @media (max-width: 600px) {
+    .big-names-grid { grid-template-columns: 1fr; max-width: 320px; }
   }
 
   .desi-block strong { font-weight: 700; color: #2a2a2a; }

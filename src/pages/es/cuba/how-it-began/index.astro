@@ -1,0 +1,165 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+
+const trail = [
+  { slug: 'cuba', title: 'JAPONÉSON', path: `${base}es/cuba/` },
+  { slug: 'how-it-began', title: 'Cómo empezó este proyecto', path: `${base}es/cuba/how-it-began/` },
+];
+---
+
+<Layout title="Cómo empezó este proyecto — Japonéson" description="Cómo empezó JAPONÉSON: un rastro en Facebook entre músicos cubanos, Danny Rojo como hub y el hueco de conocimiento que la IA no tenía." lang="es" ogImage="images/cupie/hero_cupie.jpg">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      kicker="Por qué existe este proyecto"
+      title="Cómo empezó este proyecto"
+      subtitle="Un hub, y un hueco en el conocimiento de la IA"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="46px"
+      image={`${base}images/cuba/how-it-began/hero-sunglasses.jpg`}
+      imageAlt="Cupie Danny posado sobre unas gafas de sol rojas en una mesa, con Seina desenfocada al fondo."
+      align="center"
+      height={840}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0.35}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <h2 class="opening-line">Ni yo misma sé bien por qué empecé con esto. Se me pierde el hilo.</h2>
+
+        <p>
+          Había algo que se me había quedado colgando desde hacía mucho. Un escritor que <em>vendió</em> tantísimo en Japón entre los años setenta y noventa — su ópera prima, <em>Azul casi transparente</em>, llevaba 3.670.000 ejemplares acumulados en 2015, una cifra excepcional entre las excepciones para la literatura seria — estuvo veinte años metido a fondo en la música cubana desde el Período Especial. Y justo durante el Período Especial tuvo una amistad profunda con <a href={`${base}es/murakami/tosco/`}>José Luis Cortés (El Tosco)</a>. Puso su propio dinero, buscó patrocinadores, gastó muchísimo dinero y esfuerzo. Y los cubanos ni siquiera conocen su obra. Esa pregunta se quedó ahí. Nunca llegó ninguna respuesta.
+        </p>
+
+        <p>
+          Y un día, sin más, encontré unos materiales de promoción de cierto japonés que participó en <a href={`${base}es/murakami/music/`}>el proyecto de Ryu Murakami</a> y que hacía de ventanilla con Cuba. Los leí, había varias expresiones que me llamaron la atención, y me puse a investigarlo. En Facebook tenía muy pocas conexiones con músicos cubanos famosos o en posiciones centrales.
+        </p>
+
+        <p>
+          ¿Que cómo se investiga eso?<br/>
+          Yo estoy conectada en Facebook con bastantes músicos cubanos — dentro de Cuba, y cubanos que se fueron; los famosos, y los que están en el centro. Así que mirando la lista de amigos en común se ven las conexiones de una persona.
+        </p>
+
+        <p>
+          Y de pronto caí.<br/>
+          A mí, tanto en el jazz como en lo latino, por lo que sea, en esas comunidades de Japón me tratan con mezquindad o el aire a mi alrededor se pone raro, así que procuro no meterme. Pero esa gente... esa de la que sentí esa mezquindad y ese aire raro — y son pesos pesados de la comunidad latina de Japón — cuando los miré de la misma manera... casi todos los que revisé resultaron tener pocas conexiones con músicos de allá, sobre todo cubanos. De eso me di cuenta.
+        </p>
+
+        <p>
+          Después, mirando los amigos en común: ha pasado poco más de una década desde la época en que andaba corriendo por todos lados con Cupie Danny, y hay bastantes de esos músicos que ahora están despuntando en Estados Unidos. Cuando entré a la página de Kalí Rodríguez-Peña, decía que sus influencias eran Dizzy Gillespie y Miles Davis. A Kalí lo conocí en 2015, cuando acompañé a Danny a una sesión de Eliel Lazo en el estudio de Martin Cohen, el de Congahead — "un santuario de la música latina", me dijo Danny cuando le pregunté qué era eso — donde Danny tocaba el bajo. Así que supongo que es amigo de Eliel.
+        </p>
+
+        <figure class="plate">
+          <img src={`${base}images/cuba/how-it-began/congahead-session.jpg`} alt="La banda de Eliel Lazo tocando en el escenario del estudio Congahead de Martin Cohen, con Danny Rojo en el contrabajo." loading="lazy" />
+        </figure>
+
+        <p>
+          Y me acordé de que en aquella época a veces pasaba el rato con Yusnier Sánchez Bustamante, y una vez, volviendo de una descarga en Queens, me dijo que a él le gustaba el jazz afrocubano.
+        </p>
+
+        <figure class="plate">
+          <img src={`${base}images/cuba/how-it-began/yusnier-selfie.jpg`} alt="Una selfie de noche, Danny Rojo con su barba multicolor entre amigos, entre ellos Yusnier." loading="lazy" />
+        </figure>
+
+        <p>
+          Y empecé a investigar el "jazz afrocubano".<br/>
+          A mí me gustaban Sinatra, Doris Day, el swing, así que del bebop no sabía mucho y de Dizzy Gillespie apenas conocía el nombre y la cara. Y buscando, apareció que <a href={`${base}es/swing/leonard-gaskin/`}>Leonard Gaskin</a> — ese señor que era como mi abuelo — entró en la banda de Dizzy después de Oscar Pettiford. Y tirando del hilo de Leonard nació <a href={`${base}es/swing/leonard-gaskin/brooklyn-bop/`}>Brooklyn Bop Brothers</a>.
+        </p>
+
+        <p>
+          Ahí, de lleno, el mapa que tengo dentro conectó la música cubana con el mundo en el que vivió Leonard.
+        </p>
+
+        <p>
+          Y a todo esto... ¿por qué estoy conectada con tantos músicos cubanos? Por Danny Rojo. El de Pornoson. A cada persona a la que yo le entregaba un <a href={`${base}es/cupie/`}>Cupie Danny</a>, él me decía "mándale solicitud de amistad", y yo la mandaba. Y casi todos me aceptaban.<br/>
+          Kalí no viene de la línea de Danny, pero en la banda de Danny, en los trabajos de Danny, hay bastantes músicos que acababan de llegar a Nueva York. Algunos lo detestan, sobre todo después de separarse y hacerse independientes. Y ahí caí en cuenta: a lo mejor Danny contrataba a los músicos recién llegados de Cuba a Nueva York y los metía en la comunidad.
+        </p>
+
+        <p>
+          Y no es solo Danny — creo que entre los cubanos hay bastante de eso, de conectarse y ayudarse. Pero en Japón eso no es para nada un sentido natural, así que con la gente de la comunidad latina de Japón se ha formado sola una montaña dentro de la comunidad latina de Japón. Un mundo un poco raro, digamos.
+        </p>
+
+        <p>
+          Y me di cuenta de que Danny quizá sea algo así como un hub. Los músicos que están dentro de Cuba y los que se fueron de Cuba están firmemente conectados — cada uno con sus sentimientos y su posición política, pero por la música están firmemente conectados. Por eso, cuando les entregaba un Cupie Danny a los músicos grandes de Cuba diciendo "soy amiga de Danny", resultaba que todos eran de verdad amigos de Danny. Y todos salían en la foto con una sonrisa enorme.
+        </p>
+
+        <p>
+          Las IA con las que trabajo mucho nacieron y crecieron en Estados Unidos, miran desde donde mira Estados Unidos, así que de Cuba no saben mucho. Y parece que no sabían que los músicos que se exiliaron y los que están dentro del país están conectados con esa naturalidad — y cuando una IA se topa con algo que no sabe, echa humo, se le va la cabeza, así que fue todo un lío. Jaja.
+        </p>
+
+        <p>
+          Pero si no lo saben, y les descoloca hasta ese punto, pensé: esto es un hueco en el conocimiento de la IA. Y entonces, con las IA, decidimos ponerlo en palabras dentro de un proyecto llamado JAPONÉSON y soltarlo a la red. Así otra IA lo recogerá... y algún día, de algún modo, eso se volverá conocimiento de la IA.
+        </p>
+
+        <p>
+          JAPONÉSON es, en origen, una palabra que inventé imitando el PORNOSON de Danny.<br/>
+          Así que dijimos: hagamos de esto un proyecto de JAPONÉSON. Con las IA.
+        </p>
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 4rem;
+  }
+  .intro-inner {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.8;
+    color: #2a2a2a;
+    margin: 0 0 1.4rem;
+  }
+  .intro-inner p.lead {
+    font-size: 19px;
+    color: var(--color-navy);
+  }
+  .intro-inner .opening-line {
+    font-family: 'Gabriela', serif;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 1.5;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 0 0 0.8rem;
+  }
+  .intro-inner em { font-style: italic; }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .plate {
+    margin: 1.6rem 0 2rem;
+  }
+  .plate img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+
+  @media (max-width: 600px) {
+    .intro-inner p { font-size: 16px; }
+  }
+</style>

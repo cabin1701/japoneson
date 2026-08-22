@@ -108,15 +108,23 @@ const trail = [
         <hr class="navy-rule" />
 
         <h2 class="section-q">Ricky ❤︎ Ricardo<br/></h2>
+
+        <figure class="ricky-photo">
+          <img src={`${base}images/cuba/ricky-ricardo-charm.jpg`} alt="Un brazalete de dijes y una bolsita Vera Bradley, ambos con Ricky Ricardo y Lucy de I Love Lucy." loading="lazy" />
+        </figure>
+
         <p class="sub-q">Mi primer encuentro con un cubano exiliado fue Ricky Ricardo, interpretado por Desi Arnaz en “I Love Lucy”.</p>
         <p class="sub-q">Me enamoré de este director de orquesta con su acento tan marcado.</p>
         <p class="lead-quote">
          Por supuesto, no sabía nada sobre Cuba, los Estados Unidos ni siquiera sobre la música cubana.
         </p>
 
-        <figure class="ricky-photo">
-          <img src={`${base}images/cuba/ricky-ricardo-charm.jpg`} alt="Un brazalete de dijes y una bolsita Vera Bradley, ambos con Ricky Ricardo y Lucy de I Love Lucy." loading="lazy" />
-        </figure>
+        <hr class="navy-rule" />
+
+        <a class="essay-link" href={`${base}es/cuba/how-it-began/`} aria-label="Leer: Cómo empezó este proyecto">
+          <img class="essay-link-img essay-link-blue" src={`${base}images/cuba/how-it-began/hero-blue-es.jpg`} alt="Cómo empezó este proyecto" />
+          <img class="essay-link-img essay-link-red" src={`${base}images/cuba/how-it-began/hero-red-es.jpg`} alt="" aria-hidden="true" />
+        </a>
 
         <hr class="navy-rule" />
 
@@ -149,6 +157,21 @@ const trail = [
         <p>
           Sin saber español, sin conocer la música cubana, sin saber quiénes eran los músicos cubanos famosos, llamé a Carlos Varela, a Issac Delgado, a Edesio Alejandro. Porque Danny me dijo que fuera a entregárselos.
         </p>
+
+        <div class="big-names-grid">
+          <figure>
+            <img src={`${base}images/cuba/big-names/carlos-varela.jpg`} alt="Carlos Varela con el llavero y la tarjeta de Cupie Danny." loading="lazy" />
+            <figcaption>Carlos Varela</figcaption>
+          </figure>
+          <figure>
+            <img src={`${base}images/cuba/big-names/issac-delgado.jpg`} alt="Issac Delgado sonriendo con el llavero y la tarjeta de Cupie Danny." loading="lazy" />
+            <figcaption>Issac Delgado</figcaption>
+          </figure>
+          <figure>
+            <img src={`${base}images/cuba/big-names/edesio-alejandro.jpg`} alt="Edesio Alejandro sonriendo con la tarjeta de Cupie Danny, afuera de un edificio colonial en La Habana." loading="lazy" />
+            <figcaption>Edesio Alejandro</figcaption>
+          </figure>
+        </div>
 
         <p>
           Y con ese dedo gordo todavía metido, espié su mundo, solo un poquito. Pero eso no me bastó, así que saqué una visa de estudiante y me fui a vivir a Cuba. Porque si no vivía allí, había cosas que no podía ver — no lograba agarrar ni una brizna de comprensión.
@@ -246,7 +269,7 @@ const trail = [
           <div class="pw-image"><img src={IMG('2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg')} alt="Cupie Danny" loading="lazy" /></div>
           <h3 class="pw-cardtitle">Cupie Danny</h3>
         </a>
-        <a class="pw-card" href={`${base}es/swing/brooklyn-bop/`}>
+        <a class="pw-card" href={`${base}es/swing/leonard-gaskin/brooklyn-bop/`}>
           <div class="pw-image"><img src="/images/swing/leonard-purejazz.jpg" alt="The Brooklyn Bop Brothers" loading="lazy" /></div>
           <h3 class="pw-cardtitle">The Brooklyn Bop Brothers</h3>
         </a>
@@ -330,6 +353,57 @@ const trail = [
     height: auto;
     display: block;
     border-radius: 2px;
+  }
+
+  .essay-link {
+    position: relative;
+    display: block;
+    max-width: 420px;
+    margin: 1.8rem auto 0;
+  }
+  .essay-link-img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .essay-link-red {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 0.25s ease;
+  }
+  .essay-link:hover .essay-link-red,
+  .essay-link:focus-visible .essay-link-red {
+    opacity: 1;
+  }
+  .essay-link a:hover { color: var(--color-navy); }
+
+  .big-names-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    max-width: 720px;
+    margin: 1.6rem auto 2rem;
+  }
+  .big-names-grid figure {
+    margin: 0;
+  }
+  .big-names-grid img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    display: block;
+    border-radius: 2px;
+  }
+  .big-names-grid figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: #555;
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+  @media (max-width: 600px) {
+    .big-names-grid { grid-template-columns: 1fr; max-width: 320px; }
   }
 
   .desi-block strong { font-weight: 700; color: #2a2a2a; }
