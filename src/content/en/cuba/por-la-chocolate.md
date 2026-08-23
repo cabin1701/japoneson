@@ -15,13 +15,9 @@ wp_parent: 19780
 
 # Por La Chocolate(2017)
 
-<div class="cd-jacket-row">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdol6bNKBui2p9MXsdcul9s0dimJ25yx3" title="Por La Chocolate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![Por La Chocolate CD front cover](/images/wp/2026/05/jk-400.jpg)
 
-![Por La Chocolate CD back cover](/images/wp/2026/05/back400.jpg)
-
-</div>
 
 #### **"I want to make memories with all of you! That’s why I want to do this recording!"**
 
@@ -33,7 +29,13 @@ Seventeen Cuban musicians, plus one Spaniard. Easygoing and a bit (maybe a lot) 
 
 Life in Cuba was brutal. But from the bottom of my heart, thank you for those deeply, deeply precious, and beautiful memories.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eyTI3snVV8w?start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="cd-jacket-row">
+
+![Por La Chocolate CD front cover](/images/wp/2026/05/jk-400.jpg)
+
+![Por La Chocolate CD back cover](/images/wp/2026/05/back400.jpg)
+
+</div>
 
 ## Musicians
 

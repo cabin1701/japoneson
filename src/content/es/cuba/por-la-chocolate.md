@@ -33,7 +33,7 @@ Diecisiete músicos cubanos, más un español. Despreocupados y un poco (quizás
 
 La vida en Cuba fue brutal. Pero desde el fondo de mi corazón, gracias por esos recuerdos profunda, profundamente preciosos y hermosos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eyTI3snVV8w?start=35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLdol6bNKBui2p9MXsdcul9s0dimJ25yx3" title="Por La Chocolate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Músicos
 

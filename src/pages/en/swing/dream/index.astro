@@ -55,6 +55,19 @@ const trail = [
       <Breadcrumb trail={trail} lang="en" />
     </div>
 
+    <div class="container top-video-wrap">
+      <div class="video-wrap top-video">
+        <iframe
+          src="https://www.youtube.com/embed/videoseries?list=PLdol6bNKBui14Dlq_aVcZb6KahHATc4KM"
+          title="I Have a Dream... Seina"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+      </div>
+    </div>
+
     <section class="essay">
       <div class="essay-inner">
         <h2>It Had Started by My Thoughts...</h2>
@@ -121,17 +134,6 @@ const trail = [
           <iframe
             src="https://www.youtube-nocookie.com/embed/FY-yB9-tC8U"
             title="I Have a Dream — Seina"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin"
-            allowfullscreen
-          ></iframe>
-        </div>
-
-        <div class="video-wrap">
-          <iframe
-            src="https://www.youtube-nocookie.com/embed/3iOpyhnJ3bk"
-            title="I Have a Dream — Seina (2)"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"
@@ -262,6 +264,13 @@ const trail = [
     width: 100%;
     aspect-ratio: 16 / 9;
     margin: 2rem 0;
+  }
+  .top-video-wrap {
+    max-width: 560px;
+    padding-top: 1.5rem;
+  }
+  .top-video-wrap .video-wrap {
+    margin: 0 0 2rem;
   }
   .video-wrap iframe {
     position: absolute;

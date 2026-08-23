@@ -17,7 +17,7 @@ wp_id: 965
 wp_parent: 108
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6q_fvddGi1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8E68E379ABA5C077" title="Thanks for the Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 "Seina, if you're going to make a demo, I'll support you all the way. Don't worry about a thing — just come to New York."
 
