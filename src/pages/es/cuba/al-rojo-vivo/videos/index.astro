@@ -35,10 +35,20 @@ const trail = [
     <div class="container breadcrumb-wrap">
       <Breadcrumb trail={trail} lang="es" />
     </div>
+
+    <div class="container coming-soon">
+      <p>Próximamente</p>
+    </div>
   </main>
   <Footer lang="es" />
 </Layout>
 
 <style>
   .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 2rem; }
+  .coming-soon {
+    padding: 2rem 1.5rem 6rem;
+    text-align: center;
+    font-size: 1.1rem;
+    color: var(--color-text-secondary, #666);
+  }
 </style>
