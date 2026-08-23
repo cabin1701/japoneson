@@ -72,11 +72,11 @@ Aquellas palabras que Ryu me dio entonces se convirtieron en las palabras de mi 
 
 ### **De Nueva York a Cuba**
 
-En 2013, más de diez años después de aquella carta, conocí en Nueva York a Danny Rojo, un músico cubano exiliado. Ese encuentro abrió para mí las puertas de Cuba.
+En 2013, más de diez años después de aquella carta, conocí en Nueva York a Danny Rojo, un músico cubano que había dejado Cuba. Ese encuentro abrió para mí las puertas de Cuba.
 
 Al año siguiente, hice una muñeca "Cupie" de una tienda de todo a un dólar, le puse la barba arcoíris y los tatuajes de Danny, y la llamé ["CupieDanny"]([Cupie Danny ▾](https://japoneson.com/es/cupie/)). Danny se puso feliz. **Empezamos un "juego"** de hacer muchas muñecas y repartirlas a sus amigos en Nueva York y La Habana.
 
-Danny no ha vuelto a Cuba desde su exilio. Me envió una lista de sus amigos por Messenger. Incluía nombres de bandas como Los Van Van o Havana D'Primera. Yo no conocía a nadie. Casi sin hablar español, recorrí La Habana con esa lista, los números de teléfono y las muñecas. La mayoría resultaron ser músicos legendarios.
+Danny dejó Cuba y nunca ha vuelto. Me envió una lista de sus amigos por Messenger. Incluía nombres de bandas como Los Van Van o Havana D'Primera. Yo no conocía a nadie. Casi sin hablar español, recorrí La Habana con esa lista, los números de teléfono y las muñecas. La mayoría resultaron ser músicos legendarios.
 
 ### **La muerte de Juan Carlos Formell**
 

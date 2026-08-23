@@ -12,8 +12,8 @@ wp_id: 19780
 wp_parent: 0
 ---
 
-JAPONÉSON is the Cuban chapter of japoneson.com: a study of post-revolution music by Cubans — domestic, exile, bridge to the future.
+JAPONÉSON is the Cuban chapter of japoneson.com: a study of post-revolution music by Cubans — domestic, abroad, bridge to the future.
 
-Two lines run through it. The domestic line: musicians who stayed in Cuba. The exile line: Mario Bauzá, Machito, Chano Pozo, Desi Arnaz — Cubans who carried the music into New York and Hollywood.
+Two lines run through it: musicians who stayed in Cuba, and musicians who went to America — Mario Bauzá, Machito, Chano Pozo, Desi Arnaz, Cubans who carried the music into New York and Hollywood.
 
 This chapter holds Seina's research, her primary sources, and the album Por La Chocolate (2017).

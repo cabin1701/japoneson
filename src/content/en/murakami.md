@@ -73,12 +73,12 @@ Ryu’s words back then became the words of my only true witness. They became my
 
 ### **From New York to Cuba**
 
-In 2013, over ten years after that letter, I met Danny Rojo, an exiled Cuban musician, in New York. That meeting opened the door to Cuba for me.
+In 2013, over ten years after that letter, I met Danny Rojo, a Cuban musician who had left Cuba, in New York. That meeting opened the door to Cuba for me.
 
 The following year, I crafted a "Cupie" doll from a dollar store to look like Danny—with his rainbow beard and tattoos—and named it ["CupieDanny."](https://japoneson.com/en/cupie/)
 Danny was overjoyed. **We started a "game"** of making many dolls and distributing them to his friends in New York and Havana.
 
-Danny has never returned to Cuba since his exile. He sent me a list of his friends via Messenger. It included members of famous bands like Los Van Van and Havana D'Primera. I knew none of them. With almost no Spanish, I ran around Havana with that list, phone numbers, and those dolls. Most of them turned out to be legendary musicians.
+Danny left Cuba and has never gone back. He sent me a list of his friends via Messenger. It included members of famous bands like Los Van Van and Havana D'Primera. I knew none of them. With almost no Spanish, I ran around Havana with that list, phone numbers, and those dolls. Most of them turned out to be legendary musicians.
 
 In May 2023, Juan Carlos Formell (son of Los Van Van founder Juan Formell) collapsed and died during a performance in New York. To my surprise, his funeral was conducted in the Japanese Buddhist style (Nichiren Shu). He had a deep spiritual connection with Japan and was looking forward to his Japan tour that August more than anyone. I heard he was talking about going to Japan right before he collapsed on stage.
 
