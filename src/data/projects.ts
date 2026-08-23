@@ -44,12 +44,12 @@ export const projects: Project[] = [
     flag: '🇨🇺',
     image: IMG('2026/05/jk-400.jpg'),
     imageAlt: 'Por La Chocolate — JAPONÉSON album cover',
-    taglineBold: 'The miracle session of 18 musicians in Havana.',
-    description: 'Discover the raw, unscripted bond forged through music beyond language, born from heartfelt tears.',
+    taglineBold: '',
+    description: 'Coming Soon',
     href: '/en/cuba/',
     es: {
-      taglineBold: 'La sesión milagrosa de 18 músicos en La Habana.',
-      description: 'Descubre el vínculo crudo y sin guion forjado a través de la música más allá del idioma, nacido de lágrimas sinceras.',
+      taglineBold: '',
+      description: 'Próximamente',
     },
   },
   {
