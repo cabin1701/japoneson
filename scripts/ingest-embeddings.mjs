@@ -1,6 +1,7 @@
 // Japoneson の AI窓（Llamaじぃ）用 embedding。
 // 対象：
-//  1. blog の ja-source から、カテゴリが Cabin1701（全部）または指定した CRYSTALLIZE カテゴリに
+//  1. ⚠️2026-08-23、船長判断で一時停止中（main()内でコメントアウト）。blog の ja-source から、
+//     カテゴリが Cabin1701（全部）または指定した CRYSTALLIZE カテゴリに
 //     一致する記事だけを core（背景知識、リンクなし）として embedding する
 //     — カテゴリ名で判定するので、後から記事のカテゴリが変われば次回実行時に拾い直される
 //  2. 自分の src/content/ai-context/{ja,en,es}/{story,timeline}.md（Seinaのストーリー・年表、3言語）
@@ -376,7 +377,10 @@ async function main() {
   const token = await getToken();
 
   const records = [
-    ...(await collectBlogArticles()),
+    // 2026-08-23、船長判断で一時停止：coreタイプ計1484件がblog由来で、他のcore
+    // （Seinaのストーリー・クルー体制等、数件しかない）がtopK:4の抽選でほぼ埋もれる状態になっていた。
+    // 既存のVectorize内のblogベクトルは未削除（別タイミングで判断）。再開する時はここを戻す。
+    // ...(await collectBlogArticles()),
     ...(await collectOwnCore()),
     ...(await collectCrewContext()),
     ...(await collectCupieDanny()),
