@@ -81,7 +81,7 @@ export const projects: Project[] = [
     image: IMG('2026/02/img_6194-1-e1724569568281-1-600x569.jpg'),
     imageAlt: 'Black cat',
     description: 'A record of our life with over 40 local cats. Our efforts, our heartbreaks, and the tiny lives we shared.',
-    href: 'https://cats.japoneson.com/',
+    href: 'https://cat.japoneson.com/en',
     external: true,
     es: {
       title: 'Vivimos con gatos',
