@@ -1,0 +1,212 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+
+const trail = [
+  { slug: 'cuba', title: 'JAPONÉSON', path: `${base}es/cuba/` },
+  { slug: 'rip-papi', title: 'RIP Papi', path: `${base}es/cuba/rip-papi/` },
+];
+---
+
+<Layout title="RIP Papi - Cuban Spirit — Japonéson" description="RIP Papi - Cuban Spirit." lang="es" ogImage="images/cuba/rip-papi/hero.jpg">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      title="RIP Papi - Cuban Spirit"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="52px"
+      glow="light"
+      image={`${base}images/cuba/rip-papi/hero.jpg`}
+      imageAlt="Papi de pie en la puerta de su casa rosa y verde menta en Cuba, señalando un letrero pintado a mano que dice 'AL ROJO VIVO' en la pared a su lado."
+      align="center"
+      height={720}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0.35}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <p class="opening-quote">
+          "Creo que de eso se trata la música. Es algo que vive naturalmente dentro de la vida cotidiana. No se trata de cantar bien o mal. Se trata de tener sentimientos por dentro—querer compartirlos, querer cantar, querer gozar."
+        </p>
+        <p class="opening-attribution">— Shoko</p>
+
+        <hr class="navy-rule" />
+
+        <p>
+          Danny Rojo me dijo que le llevara el "Cupie Danny" a "Papi", que vive en Cuba, y que se lo entregara. También me contó que Papi y su hermana viven juntos, y que se encuentran en una situación difícil.
+        </p>
+
+        <p>
+          Poco a poco, todo empezó a cobrar sentido: Papi y la madre de Danny se habían divorciado cuando Danny era niño, y esta hermana era una hermanastra nacida después de que Danny se fuera de Cuba. Danny se fue de Cuba en la década de 1990 y nunca ha vuelto. Parecía que tampoco había hablado con Papi en años.
+        </p>
+
+        <p>
+          Como el "Cupie Danny" era tan tierno, ridículo y divertido, supuse que por eso Danny había dicho que le diera uno a Papi también.
+        </p>
+
+        <p>
+          Papi a menudo tocaba una guitarra destartalada, me miraba fijamente a los ojos, decía "Escucha" y cantaba. Era un viejo pesado. Cantar era el lenguaje vivo de Rojo.
+        </p>
+
+        <p>
+          Papi siempre me preparaba la comida.<br/>
+          Aunque él no comiera, aunque casi no comiera nada. Tal vez por razones económicas. Así que yo decía "Gracias" y comía. A veces se me salían las lágrimas. Pero comía. Porque sabía que eso era el sentimiento de Papi, su amor.
+        </p>
+
+        <p>
+          Hay un muro entre los cubanos y los extranjeros. Diferentes valores, diferentes historias, disparidades económicas y posiciones.<br/>
+          Incluso cuando me sentí aislada en Cuba, Papi creyó firmemente en mí. Me protegió.
+        </p>
+
+        <p>
+          Era un viejito flaco, parecido a un niño, puro.
+        </p>
+
+        <p>
+          Hace mucho tiempo, cuando viajé a la India.<br/>
+          Me puse enferma en Dharamshala y me quedé en ese pueblo y en esa casa de huéspedes por un tiempo.<br/>
+          Dharamshala era un pueblo para personas que habían huido del Tíbet, y el Dalái Lama vivía allí.
+        </p>
+
+        <p>
+          Situada en el norte de la India, podía ver las montañas del Himalaya justo desde mi ventana. El aire era puro, y fue allí donde vi la Vía Láctea por primera vez en mi vida.
+        </p>
+
+        <p>
+          Por la mañana, cuando fui al baño, escuché un canto que venía de alguna parte de abajo. Sonaba como la voz de una mujer joven, increíblemente clara. Se mezclaba con las charlas de las mujeres y el aire, penetrando directamente en mis oídos y en mis células. El baño tenía una ventana alta, a través de la cual no se veía nada excepto la cordillera del Himalaya.
+        </p>
+
+        <p>
+          Si era parte de sus tareas diarias, o si estaba consolando a un niño, no lo sabía.
+        </p>
+
+        <p>
+          Ese fue el canto fundido en la vida cotidiana: la canción más hermosa que jamás había sentido en mi vida.
+        </p>
+
+        <p>
+          El canto de Papi es áspero, a veces insistente y molesto. Pero así es Papi. Y tal vez, el canto de Papi sea esencialmente el mismo que el canto que flotaba desde aquel baño en Dharamshala.
+        </p>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-title">AL ROJO VIVO</h2>
+
+        <div class="entry-cards">
+          <a class="entry-card" href={`${base}es/cuba/al-rojo-vivo/gallery/`}>
+            <img src={`https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/cuba/al-rojo-vivo/card-al-rojo.jpg`} alt="Papi agachado junto a un bebé en la playa, con las olas detrás." loading="lazy" />
+            <span class="entry-card-label">AL ROJO</span>
+          </a>
+          <a class="entry-card" href={`${base}es/cuba/al-rojo-vivo/videos/`}>
+            <img src={`https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/cuba/al-rojo-vivo/card-vivo.jpg`} alt="Papi con una boina del Che Guevara, guitarra al hombro, cantando entre la familia." loading="lazy" />
+            <span class="entry-card-label">VIVO</span>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 1rem 1.5rem 3rem;
+  }
+  .intro-inner {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .intro-inner p.opening-quote {
+    font-family: 'Akaya Telivigala', serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 1.6;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 0;
+  }
+  .opening-attribution {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 0.8rem 0 0;
+  }
+  .intro-inner hr.navy-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.4rem 0;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.8;
+    color: #2a2a2a;
+    margin: 0 0 1.4rem;
+  }
+  .section-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 700;
+    font-size: 32px;
+    letter-spacing: 0.06em;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 0 0 1.8rem;
+  }
+  .entry-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2rem;
+  }
+  .entry-card {
+    position: relative;
+    display: block;
+    border-radius: 4px;
+    overflow: hidden;
+    aspect-ratio: 3 / 4;
+    text-decoration: none;
+  }
+  .entry-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 400ms ease;
+  }
+  .entry-card:hover img {
+    transform: scale(1.05);
+  }
+  .entry-card-label {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 1.4rem 0.8rem 1rem;
+    background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.65) 100%);
+    font-family: var(--font-display-cinzel);
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: 0.08em;
+    color: #fff;
+    text-align: center;
+  }
+  @media (max-width: 600px) {
+    .entry-cards { grid-template-columns: 1fr; }
+  }
+</style>
