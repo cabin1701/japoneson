@@ -8,6 +8,8 @@
 //  3. crew-context.md（Cabin1701クルー体制、core・ja固定）
 //  4. Cupie Danny 関連（llama-jii.md の関係性テキスト・adopted-at CSV、core・ja固定）
 //  5. 自サイトの固定ページ（about/cupie/japoneson/murakami/mystery/swing、type:'page'、en/es）
+//  5b. cuba配下の.astro直書きページ（rip-papi/al-rojo-vivo gallery・videos、type:'article'、en/es）
+//     — content collectionじゃないので本文はスクリプト内に手打ち。ページ本文を変えたらここも直す
 //  6. Essay記事（en/es、type:'article'）
 //  7. Vegapedia（site正本、ja/en/es、type:'vegapedia'）
 // blog記事・crew-context・Cupie Dannyはcore・ja固定（CRYSTALLIZE側に翻訳が無いため）。
@@ -256,6 +258,113 @@ async function collectSitePages() {
   return records;
 }
 
+// 6a2. cuba配下の.astro直書きページ（content collectionじゃないので collectSitePages/collectSubpages では拾えない）。
+// 本文はページのソースからコピーして手打ち——ページの本文を変えたらここも直す（2026-08-23、rip-papi新設時に追加）。
+const CUBA_ASTRO_PAGES = {
+  'rip-papi': {
+    url: { en: 'cuba/rip-papi/', es: 'cuba/rip-papi/' },
+    title: { en: 'RIP Papi - Cuban Spirit', es: 'RIP Papi - Cuban Spirit' },
+    body: {
+      en: `"I think that's what music is all about. It's something that naturally lives within daily life. Not about being good or bad at it. It's about having feelings inside—wanting to share them, wanting to sing, wanting to enjoy." — Shoko
+
+Danny Rojo told me to take the "Cupie Danny" to "Papi," who lives in Cuba, and hand it to him. He also told me that Papi and his sister live together, and that they live in difficult circumstances.
+
+Gradually, it began to make sense to me: Papi and Danny's mother had divorced when Danny was a child, and this sister was a half-sister born after Danny left Cuba. Danny left Cuba in the 1990s and has never returned. It seemed he hadn't spoken to Papi in years, either.
+
+Since Cupie Danny was so cute, ridiculous, and funny, I figured that's why Danny said to give one to Papi too.
+
+Papi would often strum a beat-up guitar, look right into my eyes, say "Listen," and sing. He was an annoying old geezer. His singing was Rojo's living words.
+
+Papi always made meals for me. Even if he didn't eat, even if he hardly ate himself. Maybe it was for economic reasons. So I would say "Thank you" and eat. Sometimes tears welled up. But I ate. Because I knew that was Papi's feeling, his love.
+
+There is a wall between Cubans and foreigners. Different values, different histories, economic disparities and positions. Even when I felt isolated in Cuba, Papi believed in me fiercely. He protected me.
+
+He was a skinny, child-like, pure old man.
+
+A long time ago, when I traveled to India, I fell ill in Dharamshala and stayed in that town and guesthouse for a while. Dharamshala was a town for people who had fled from Tibet, and the Dalai Lama lived there.
+
+Located in northern India, I could see the Himalayan mountains right from my window. The air was clear, and it was there that I saw the Milky Way for the very first time.
+
+In the morning, when I went to the restroom, I heard singing from somewhere below. It sounded like a young woman's voice, incredibly clear. It blended with the women's chatter and the air, sinking straight into my ears and my cells. The restroom had a high window, through which nothing could be seen except the Himalayan mountain range.
+
+Whether it was part of her daily chores, or whether she was soothing a child, I didn't know.
+
+That was the singing that dissolved into daily life—the most beautiful song I had ever felt in my life.
+
+Papi's singing is rough around the edges, sometimes pushy, and annoying. But that's Papi. And perhaps, Papi's singing is essentially the same as the song that drifted in from that restroom in Dharamshala.
+
+At the end of the page, two more sections continue Papi's story: AL ROJO, a photo gallery of 48 pictures from his life in Cuba, and VIVO, a page for videos of him (coming soon).`,
+      es: `"Creo que de eso se trata la música. Es algo que vive naturalmente dentro de la vida cotidiana. No se trata de cantar bien o mal. Se trata de tener sentimientos por dentro—querer compartirlos, querer cantar, querer gozar." — Shoko
+
+Danny Rojo me dijo que le llevara el "Cupie Danny" a "Papi", que vive en Cuba, y que se lo entregara. También me contó que Papi y su hermana viven juntos, y que se encuentran en una situación difícil.
+
+Poco a poco, todo empezó a cobrar sentido: Papi y la madre de Danny se habían divorciado cuando Danny era niño, y esta hermana era una hermanastra nacida después de que Danny se fuera de Cuba. Danny se fue de Cuba en la década de 1990 y nunca ha vuelto. Parecía que tampoco había hablado con Papi en años.
+
+Como el "Cupie Danny" era tan tierno, ridículo y divertido, supuse que por eso Danny había dicho que le diera uno a Papi también.
+
+Papi a menudo tocaba una guitarra destartalada, me miraba fijamente a los ojos, decía "Escucha" y cantaba. Era un viejo pesado. Cantar era el lenguaje vivo de Rojo.
+
+Papi siempre me preparaba la comida. Aunque él no comiera, aunque casi no comiera nada. Tal vez por razones económicas. Así que yo decía "Gracias" y comía. A veces se me salían las lágrimas. Pero comía. Porque sabía que eso era el sentimiento de Papi, su amor.
+
+Hay un muro entre los cubanos y los extranjeros. Diferentes valores, diferentes historias, disparidades económicas y posiciones. Incluso cuando me sentí aislada en Cuba, Papi creyó firmemente en mí. Me protegió.
+
+Era un viejito flaco, parecido a un niño, puro.
+
+Hace mucho tiempo, cuando viajé a la India, me puse enferma en Dharamshala y me quedé en ese pueblo y en esa casa de huéspedes por un tiempo. Dharamshala era un pueblo para personas que habían huido del Tíbet, y el Dalái Lama vivía allí.
+
+Situada en el norte de la India, podía ver las montañas del Himalaya justo desde mi ventana. El aire era puro, y fue allí donde vi la Vía Láctea por primera vez en mi vida.
+
+Por la mañana, cuando fui al baño, escuché un canto que venía de alguna parte de abajo. Sonaba como la voz de una mujer joven, increíblemente clara. Se mezclaba con las charlas de las mujeres y el aire, penetrando directamente en mis oídos y en mis células. El baño tenía una ventana alta, a través de la cual no se veía nada excepto la cordillera del Himalaya.
+
+Si era parte de sus tareas diarias, o si estaba consolando a un niño, no lo sabía.
+
+Ese fue el canto fundido en la vida cotidiana: la canción más hermosa que jamás había sentido en mi vida.
+
+El canto de Papi es áspero, a veces insistente y molesto. Pero así es Papi. Y tal vez, el canto de Papi sea esencialmente el mismo que el canto que flotaba desde aquel baño en Dharamshala.
+
+Al final de la página, dos secciones más continúan la historia de Papi: AL ROJO, una galería de 48 fotos de su vida en Cuba, y VIVO, una página de videos de él (próximamente).`,
+    },
+  },
+  'al-rojo-vivo-gallery': {
+    url: { en: 'cuba/al-rojo-vivo/gallery/', es: 'cuba/al-rojo-vivo/gallery/' },
+    title: { en: 'AL ROJO — Papi Photo Gallery', es: 'AL ROJO — Galería de fotos de Papi' },
+    body: {
+      en: `A gallery of 48 photos of Papi (Antonio Rojo)'s life in Cuba, part of the RIP Papi - Cuban Spirit page. Highlights include: Papi as a young cadet at the Escuela de Cadetes "General Antonio Maceo"; his 1979 certificate for internationalist military service in Ethiopia, signed by Fidel Castro — the origin of the name "Rojo" behind the wall graffiti "AL ROJO VIVO"; his wedding day; his mother; family visits with his daughter Daniela and grandchildren Tania and Erik; everyday cooking; a Santería priest and museum in Guanabacoa; his refrigerator covered in photos with a welcome sign for Shoko, Cupie, and Danny; his ration book with photos of Danny; wearing the white shirt Cupie Danny sent him; being seen off at José Martí International Airport; and appearing on a radio show in Havana.`,
+      es: `Una galería de 48 fotos de la vida de Papi (Antonio Rojo) en Cuba, parte de la página RIP Papi - Cuban Spirit. Destacan: Papi de joven cadete en la Escuela de Cadetes "General Antonio Maceo"; su certificado de 1979 por su misión militar internacionalista en Etiopía, firmado por Fidel Castro — el origen del nombre "Rojo" detrás del grafiti "AL ROJO VIVO"; el día de su boda; su madre; visitas familiares con su hija Daniela y sus nietos Tania y Erik; la cocina cotidiana; un sacerdote y un museo de la Santería en Guanabacoa; su refrigerador cubierto de fotos con un cartel de bienvenida para Shoko, Cupie y Danny; su libreta de racionamiento con fotos de Danny; la camisa blanca que le regaló Cupie Danny; su despedida en el Aeropuerto Internacional José Martí; y su aparición en un programa de radio en La Habana.`,
+    },
+  },
+  'al-rojo-vivo-videos': {
+    url: { en: 'cuba/al-rojo-vivo/videos/', es: 'cuba/al-rojo-vivo/videos/' },
+    title: { en: 'VIVO — Papi in Motion', es: 'VIVO — Papi en movimiento' },
+    body: {
+      en: `A page for videos of Papi (Antonio Rojo), part of the RIP Papi - Cuban Spirit page. Coming soon — no videos posted yet.`,
+      es: `Una página de videos de Papi (Antonio Rojo), parte de la página RIP Papi - Cuban Spirit. Próximamente — todavía no hay videos publicados.`,
+    },
+  },
+};
+async function collectCubaAstroPages() {
+  const records = [];
+  for (const [key, page] of Object.entries(CUBA_ASTRO_PAGES)) {
+    for (const lang of ['en', 'es']) {
+      const body = page.body[lang];
+      if (!body) continue;
+      const url = `https://japoneson.com/${lang}/${page.url[lang]}`;
+      const title = page.title[lang];
+      const chunks = chunkText(body, CHUNK_SIZE);
+      chunks.forEach((chunk, i) => {
+        const id = createHash('sha1').update(`astro-page:${lang}:${key}:${i}`).digest('hex').slice(0, 32);
+        records.push({
+          id,
+          embedText: `${title}\n\n${chunk}`,
+          metadata: { lang, title, url, excerpt: chunk.slice(0, 300), type: 'article' },
+        });
+      });
+    }
+  }
+  console.log(`cuba astro pages: ${records.length} chunks`);
+  return records;
+}
+
 // 6b. サイト全サブページ（Swing/Mystery/Murakami/Cupieの下の全記事）。type:'article'、lang別、URL付き
 // SITE_PAGES（入り口の6ページ）は別扱いなので除外。utility系（contact/home/privacy/terms）も除外
 const SUBPAGE_EXCLUDE = new Set([
@@ -385,6 +494,7 @@ async function main() {
     ...(await collectCrewContext()),
     ...(await collectCupieDanny()),
     ...(await collectSitePages()),
+    ...(await collectCubaAstroPages()),
     ...(await collectSubpages()),
     ...(await collectEssays()),
     ...(await collectVegapedia()),
