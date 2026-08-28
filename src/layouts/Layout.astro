@@ -128,16 +128,21 @@ const personJsonLd = isHome
     <slot />
     <JiiChat lang={lang} />
     <script is:inline>
-      // Press page: click a thumbnail to view it enlarged (simple lightbox)
+      // Click a thumbnail to view it enlarged (simple lightbox).
+      // Applies to the Press page and to any ".press-block" section on project pages.
       document.addEventListener('DOMContentLoaded', () => {
-        const gallery = document.querySelector('main.page-press article');
-        if (!gallery) return;
+        const pressPage = document.querySelector('main.page-press article');
+        const targets = [
+          ...(pressPage ? pressPage.querySelectorAll('img') : []),
+          ...document.querySelectorAll('.press-block img'),
+        ];
+        if (!targets.length) return;
         const box = document.createElement('div');
         box.className = 'press-lightbox';
         const big = document.createElement('img');
         box.appendChild(big);
         document.body.appendChild(box);
-        gallery.querySelectorAll('img').forEach((img) => {
+        targets.forEach((img) => {
           img.addEventListener('click', () => {
             big.src = img.currentSrc || img.src;
             box.classList.add('open');
@@ -1128,6 +1133,41 @@ const personJsonLd = isHome
     max-height: 90vh;
     object-fit: contain;
     box-shadow: 0 6px 30px rgba(0, 0, 0, 0.5);
+  }
+
+  /* "In the Press" section on project pages (rendered from markdown) */
+  .press-block {
+    margin: 2.5rem 0 1rem;
+  }
+  .press-block .press-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem 1rem;
+  }
+  .press-block figure {
+    margin: 0;
+  }
+  .press-block img {
+    width: 100%;
+    display: block;
+    border: 1px solid #ddd;
+    box-shadow: 0 3px 14px rgba(0, 0, 0, 0.12);
+    cursor: zoom-in;
+    transition: transform 0.2s ease;
+  }
+  .press-block img:hover {
+    transform: scale(1.03);
+  }
+  .press-block figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #888;
+    text-align: center;
+    margin-top: 0.5rem;
+    line-height: 1.4;
+  }
+  @media (max-width: 640px) {
+    .press-block .press-grid { grid-template-columns: repeat(2, 1fr); }
   }
 
   /* ページ下部の入口バナー。横長の写真をそのまま次のページへのリンクにする */
