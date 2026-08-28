@@ -10,6 +10,26 @@ import type { SubCard } from '../../../../components/SubGrid.astro';
 const base = import.meta.env.BASE_URL;
 const IMG = (p: string) => `/images/wp/${p}`;
 
+const pressBase = 'https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/angels-swing/press';
+const press = [
+  { f: '1999-07-09-mainichi.jpg', c: 'Mainichi Shimbun · Jul 9, 1999' },
+  { f: '1999-07-28-asahi.jpg', c: 'Asahi Shimbun · Jul 28, 1999' },
+  { f: '1999-07-31-nikkei.jpg', c: 'Nikkei · Jul 31, 1999' },
+  { f: '1999-07-31-kumamoto-nichinichi.jpg', c: 'Kumamoto Nichinichi Shimbun · Jul 31, 1999' },
+  { f: '1999-08-03-nishinihon.jpg', c: 'Nishinippon Shimbun · Aug 3, 1999' },
+  { f: '1999-nishinihon.jpg', c: 'Nishinippon Shimbun · 1999' },
+  { f: '1999-09-28-mainichi-daily-news.jpg', c: 'The Mainichi Daily News · Sep 28, 1999' },
+  { f: '1999-12-19-asahi.jpg', c: 'Asahi Shimbun · Dec 19, 1999' },
+  { f: '1999-11-19-yomiuri-america.jpg', c: 'Yomiuri America · Nov 19, 1999' },
+  { f: '1999-shukan-yomiuri.jpg', c: 'Shukan Yomiuri · 1999' },
+  { f: '1999-toyama.jpg', c: 'Toyama Shimbun · 1999' },
+  { f: '2000-02-24-josei-seven-1.jpg', c: 'Josei Seven · Feb 24, 2000 (1/4)' },
+  { f: '2000-02-24-josei-seven-2.jpg', c: 'Josei Seven · Feb 24, 2000 (2/4)' },
+  { f: '2000-02-24-josei-seven-3.jpg', c: 'Josei Seven · Feb 24, 2000 (3/4)' },
+  { f: '2000-02-24-josei-seven-4.jpg', c: 'Josei Seven · Feb 24, 2000 (4/4)' },
+  { f: '2000-yomiuri-america.jpg', c: 'Yomiuri America · 2000' },
+];
+
 const subCards: SubCard[] = [
   {
     title: 'From Ryu Murakami',
@@ -105,6 +125,7 @@ const trail = [
           <img
             src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/angels-swing/letter-to-nursing-homes-1999.jpg"
             alt="The letter Seina enclosed with the album, sent to nursing homes in December 1999"
+            data-zoom
             loading="lazy"
           />
           <figcaption>Click to enlarge</figcaption>
@@ -146,16 +167,6 @@ const trail = [
           </div>
         </div>
 
-        <div class="video-wrap">
-          <iframe
-            src="https://www.youtube-nocookie.com/embed/FY-yB9-tC8U"
-            title="I Have a Dream — Seina"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin"
-            allowfullscreen
-          ></iframe>
-        </div>
       </div>
     </section>
 
@@ -163,6 +174,38 @@ const trail = [
     <hr class="navy-rule" />
       <SubGrid cards={subCards} columns={2} />
     </div>
+
+    <section class="press-section">
+      <div class="press-inner">
+        <hr class="navy-rule" />
+        <h2>In the Press</h2>
+        <p class="press-note">
+          Between July 1999 and February 2000, the project was covered by national and
+          regional newspapers across Japan and by the Japanese-language press in New York.
+          It was an unusual amount of attention for something started by one private
+          individual. The plan began at 4,300 nursing homes and was scaled to 3,500 for
+          cost — and 3,500 was already an enormous undertaking.
+        </p>
+        <div class="video-wrap press-video">
+          <iframe
+            src="https://www.youtube-nocookie.com/embed/FY-yB9-tC8U"
+            title="Christmas Gift for nursing homes in the U.S. (1999)"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="press-grid">
+          {press.map(({ f, c }) => (
+            <figure>
+              <img src={`${pressBase}/${f}`} alt={c} data-zoom loading="lazy" />
+              <figcaption>{c}</figcaption>
+            </figure>
+          ))}
+        </div>
+      </div>
+    </section>
   </main>
   <Footer lang="en" />
 </Layout>
@@ -327,21 +370,88 @@ const trail = [
   @media (max-width: 720px) {
     .essay-inner h2 { font-size: 20px; }
   }
+
+  .press-section {
+    padding: 1rem 1.5rem 4rem;
+  }
+  .press-inner {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .press-inner h2 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 24px;
+    color: var(--color-accent);
+    margin: 1.5rem 0 0.5rem;
+    text-align: center;
+  }
+  .press-note {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #555;
+    max-width: 640px;
+    margin: 0 auto 1.5rem;
+    text-align: center;
+  }
+  .press-video {
+    max-width: 640px;
+    margin: 0 auto 2.5rem;
+  }
+  .press-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem 1rem;
+  }
+  .press-grid figure {
+    margin: 0;
+  }
+  .press-grid img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    object-position: top;
+    display: block;
+    border: 1px solid #ddd;
+    box-shadow: 0 3px 14px rgba(0, 0, 0, 0.12);
+    cursor: zoom-in;
+    transition: transform 200ms ease;
+  }
+  .press-grid img:hover {
+    transform: scale(1.03);
+  }
+  .press-grid figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #888;
+    text-align: center;
+    margin-top: 0.5rem;
+    line-height: 1.4;
+  }
+  @media (max-width: 900px) {
+    .press-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+  @media (max-width: 560px) {
+    .press-grid { grid-template-columns: repeat(2, 1fr); }
+  }
 </style>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    const trigger = document.querySelector('.letter-scan img') as HTMLImageElement | null;
-    if (!trigger) return;
+    const triggers = document.querySelectorAll<HTMLImageElement>('img[data-zoom]');
+    if (!triggers.length) return;
     const box = document.createElement('div');
     box.className = 'letter-lightbox';
     const big = document.createElement('img');
     box.appendChild(big);
     document.body.appendChild(box);
-    trigger.addEventListener('click', () => {
-      big.src = trigger.currentSrc || trigger.src;
-      big.alt = trigger.alt;
-      box.classList.add('open');
+    triggers.forEach((trigger) => {
+      trigger.addEventListener('click', () => {
+        big.src = trigger.currentSrc || trigger.src;
+        big.alt = trigger.alt;
+        box.classList.add('open');
+      });
     });
     box.addEventListener('click', () => box.classList.remove('open'));
     document.addEventListener('keydown', (e) => {
