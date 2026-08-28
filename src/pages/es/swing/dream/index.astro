@@ -217,8 +217,11 @@ const trail = [
   }
 
   .subgrid-narrow {
-    max-width: 50%;
+    max-width: 35%;
     margin: 0 auto;
+  }
+  @media (max-width: 900px) {
+    .subgrid-narrow { max-width: 55%; }
   }
   @media (max-width: 720px) {
     .subgrid-narrow { max-width: 100%; }
