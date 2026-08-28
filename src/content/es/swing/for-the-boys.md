@@ -13,7 +13,7 @@ hero_title_italic: true
 wp_id: 18735
 wp_parent: 108
 ---
-Conocí a [la Sra. Monica Lewis](https://truecompassdesigns.com/monica-lewis/) mientras investigaba sobre "The Memorial Cross" (La Cruz del Memorial), un monumento "olvidado" de la Guerra de Corea construido en mi ciudad natal, Kokura, durante el conflicto.
+Conocí a [la Sra. Monica Lewis](https://truecompassdesigns.com/monica-lewis/) mientras investigaba sobre ["The Memorial Cross"](/es/swing/remember/memorial_cross/) (La Cruz del Memorial), un monumento "olvidado" de la Guerra de Corea construido en mi ciudad natal, Kokura, durante el conflicto.
 
 Ella había estado publicando en una página de Facebook dedicada a recordar la Guerra de Corea; sus visitas a los jóvenes soldados junto a Danny Kaye durante la guerra fueron una experiencia crucial que transformó profundamente el resto de su vida.
 

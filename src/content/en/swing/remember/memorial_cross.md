@@ -130,3 +130,22 @@ Angels Swing / Seina
 ### ["For The Boys" Tribute to Ms. Monica Lewis](https://en.japoneson.com/swing/for-the-boys)
 
 In 1951, my friend Ms. Monica Lewis (1922-2015) entertained “for the boys” who served in the Korean War with Danny Kaye.
+
+<hr class="navy-rule" />
+
+<section class="press-block">
+
+## In the Press
+
+<div class="press-grid">
+  <figure>
+    <img src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/memorial-cross/press/2013-taro-leaf-cover.jpg" alt="Taro Leaf, the magazine of the 24th Infantry Division Association, Winter 2013 — cover, &quot;The Mercy Twins in the Korean War&quot;" loading="lazy" />
+    <figcaption>Taro Leaf · 24th Infantry Division Association · Winter 2013</figcaption>
+  </figure>
+  <figure>
+    <img src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/memorial-cross/press/2013-taro-leaf-letters.jpg" alt="Taro Leaf — the Letters page carrying the full exchange between Seina and Tom Thiel about the Kokura Memorial Cross" loading="lazy" />
+    <figcaption>Taro Leaf — Letters: Seina &amp; Tom Thiel</figcaption>
+  </figure>
+</div>
+
+</section>

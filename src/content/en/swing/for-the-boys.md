@@ -14,7 +14,7 @@ wp_id: 18735
 wp_parent: 108
 ---
 
-I encountered [Ms. Monica Lewis](https://truecompassdesigns.com/monica-lewis/) while researching "The Memorial Cross"—a "forgotten" Korean War monument built in my hometown of Kokura during the conflict.
+I encountered [Ms. Monica Lewis](https://truecompassdesigns.com/monica-lewis/) while researching ["The Memorial Cross"](/en/swing/remember/memorial_cross/) — a "forgotten" Korean War monument built in my hometown of Kokura during the conflict.
 
 She had been posting on a Korean War remembrance page on Facebook; her visits to the young soldiers alongside Danny Kaye during the war were a pivotal experience that profoundly reshaped the rest of her life.
 
