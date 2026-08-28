@@ -19,7 +19,7 @@ wp_parent: 108
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8E68E379ABA5C077" title="Thanks for the Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-"Seina, if you're going to make a demo, I'll support you all the way. Don't worry about a thing — just come to New York."
+<p class="lead-quote">"Seina, if you're going to make a demo, I'll support you all the way. Don't worry about a thing — just come to New York."</p>
 
 May 2008. Bob Cranshaw was in Japan on tour with Sonny Rollins, and after dinner and a walk, he said it to me in front of his hotel.
 

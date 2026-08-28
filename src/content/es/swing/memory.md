@@ -19,7 +19,7 @@ wp_parent: 108
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8E68E379ABA5C077" title="Thanks for the Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-"Seina, si vas a hacer un demo, yo te apoyo en todo. No te preocupes por nada, solo ven a Nueva York."
+<p class="lead-quote">"Seina, si vas a hacer un demo, yo te apoyo en todo. No te preocupes por nada, solo ven a Nueva York."</p>
 
 Mayo de 2008. Bob Cranshaw estaba en Japón de gira con Sonny Rollins, y después de cenar y salir a caminar, me lo dijo frente a su hotel.
 
