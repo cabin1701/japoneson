@@ -70,29 +70,45 @@ const trail = [
 
     <section class="essay">
       <div class="essay-inner">
-        <h2>Todo comenzó con mis pensamientos...</h2>
+        <h2>Angel&apos;s Swing &amp; Associates</h2>
+        <p class="letter-date">Diciembre de 1999</p>
 
+        <p>Estimada residencia de ancianos en los EE. UU.:</p>
         <p>
-          En 1992, me encontré con un álbum titulado G.I.Jo. Había una grabación en el álbum de Jo Stafford, quien fue una de las cantantes más populares durante la Segunda Guerra Mundial.
+          Este es mi sueño…<br />
+          Envío este sueño a 3500 residencias de ancianos en los EE. UU.
         </p>
         <p>
-          En ese álbum, ella cantaba sobre la guerra y la vida en aquella época. Mi corazón quedó cautivado por esas canciones. Desde entonces, enfoqué mi atención en la música de la era de la Segunda Guerra Mundial, y escuché muchas de esas canciones. Para una persona nacida mucho después de la guerra, era difícil comprender el sentimiento de aquella época.
+          En 1992 encontré un álbum llamado G.I. Jo. En él había una grabación de JO STAFFORD, una de las cantantes más populares durante la Segunda Guerra Mundial. En ese álbum, ella cantaba sobre la guerra y sobre la vida de aquella época. Esas canciones se apoderaron de mi corazón. Desde entonces centré mi atención en la música de la época de la Segunda Guerra Mundial y escuché muchas de esas canciones. Para alguien nacida mucho después de la guerra, era difícil comprender el sentir de aquel tiempo. La música de esa época era muy bella, romántica y sentimental. Y reflejaba el sentimiento de los años de guerra, cuando los amantes tenían que separarse y rezaban por volver a encontrarse. Podía sentir que no les quedaba más remedio que rezar. A través de estas canciones pude comprender las penas y las emociones que vivió aquella gente.
         </p>
         <p>
-          La música de esa era era muy hermosa, romántica y sentimental. Y la música reflejaba el sentimiento de guerra, cuando los amantes tenían que separarse y rezaban por reencontrarse. Podía sentir que no les quedaba otra opción más que rezar. A través de estas canciones, pude comprender las penas y las emociones que la gente vivió.
+          Hay canciones que todavía hoy se aman y se atesoran. Sin embargo, hay algunas canciones que la gente ha olvidado. Además, hay canciones que perduran hoy, pero que no se aprecian por su verdadero significado ni por la época de la que provienen.<br />
+          La razón por la que esas canciones perduran hoy es, probablemente, la gran cantidad de oraciones puestas en ellas.
         </p>
         <p>
-          Hay canciones que todavía son amadas y atesoradas hoy. Sin embargo, hay algunas canciones que la gente ha olvidado. Además, hay canciones que perduran hasta hoy, pero no son apreciadas por su verdadero significado y la época de la que provienen.
+          Como cantante que ama de verdad la música de esta época, deseaba grabar estas canciones con mis oraciones, con la ayuda de músicos que vivieron en aquel tiempo. Y decidí enviarlas a residencias de ancianos en los EE. UU. como regalo de Navidad, en 1999.
         </p>
         <p>
-          La razón por la que esas canciones perduran hoy es probablemente por las muchas oraciones puestas en ellas.
+          Quiero decirles que sus canciones siguen respirando y vivas. Sé que Japón y los EE. UU. estuvieron enfrentados durante la Segunda Guerra Mundial. Pero ahora quiero que sepan que esas canciones todavía son amadas por muchas personas en Japón.
         </p>
         <p>
-          Como cantante que verdaderamente ama la música de esta era, quiero decirles que sus canciones todavía respiran y están vivas. Sé que Japón y EE. UU. estaban en guerra durante la Segunda Guerra Mundial. Pero ahora, quiero que sepan que sus canciones todavía son amadas por muchas personas en Japón.
+          Para quienes aún sienten dolor al recordar aquel tiempo, ofrezco este álbum, con calidez, con amor… y con mis oraciones.
         </p>
-        <p>
-          Para quienes todavía sienten dolor al recordar aquella época, me gustaría ofrecer mis canciones, con calidez, amor... y mis oraciones.
+        <p>Y… aquí está mi regalo de Navidad para las personas de las residencias de ancianos.</p>
+        <p class="letter-close">
+          Muy atentamente,<br />
+          Shoko “Seina” Shiraishi
         </p>
+        <p>P. D. Visiten mi sitio, por favor; allí hay más información y mensajes míos…</p>
+
+        <figure class="letter-scan">
+          <img
+            src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/angels-swing/letter-to-nursing-homes-1999.jpg"
+            alt="La carta que Seina incluyó con el álbum, enviada a las residencias de ancianos en diciembre de 1999"
+            loading="lazy"
+          />
+          <figcaption>Haz clic para ampliar</figcaption>
+        </figure>
         <hr class="navy-rule" />
 
         <div class="musicians">
@@ -186,6 +202,35 @@ const trail = [
     line-height: 1.75;
     color: #2a2a2a;
     margin: 0 0 1.2rem;
+  }
+  .essay-inner p.letter-date {
+    text-align: right;
+    margin-bottom: 2rem;
+  }
+  .essay-inner p.letter-close {
+    margin-top: 2rem;
+  }
+  .letter-scan {
+    margin: 2.5rem auto 0;
+    max-width: 240px;
+  }
+  .letter-scan img {
+    width: 100%;
+    display: block;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    cursor: zoom-in;
+    transition: transform 200ms ease;
+  }
+  .letter-scan img:hover {
+    transform: scale(1.03);
+  }
+  .letter-scan figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: #888;
+    text-align: center;
+    margin-top: 0.6rem;
   }
 
   .musicians {
@@ -281,5 +326,50 @@ const trail = [
 
   @media (max-width: 720px) {
     .essay-inner h2 { font-size: 20px; }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const trigger = document.querySelector('.letter-scan img') as HTMLImageElement | null;
+    if (!trigger) return;
+    const box = document.createElement('div');
+    box.className = 'letter-lightbox';
+    const big = document.createElement('img');
+    box.appendChild(big);
+    document.body.appendChild(box);
+    trigger.addEventListener('click', () => {
+      big.src = trigger.currentSrc || trigger.src;
+      big.alt = trigger.alt;
+      box.classList.add('open');
+    });
+    box.addEventListener('click', () => box.classList.remove('open'));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') box.classList.remove('open');
+    });
+  });
+</script>
+
+<style is:global>
+  .letter-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.85);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+    padding: 2rem;
+  }
+  .letter-lightbox.open {
+    display: flex;
+  }
+  .letter-lightbox img {
+    max-width: 92vw;
+    max-height: 92vh;
+    width: auto;
+    height: auto;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
   }
 </style>

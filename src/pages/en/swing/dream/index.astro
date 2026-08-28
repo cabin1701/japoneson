@@ -70,29 +70,45 @@ const trail = [
 
     <section class="essay">
       <div class="essay-inner">
-        <h2>It Had Started by My Thoughts...</h2>
+        <h2>Angel&apos;s Swing &amp; Associates</h2>
+        <p class="letter-date">December, 1999</p>
 
+        <p>Dear Nursing Home in the U.S.:</p>
         <p>
-          In 1992, I came across an album titled G.I.Jo. There was a recording on the album by Jo Stafford,who was one of the most popular singers during WWII.
+          This is my dream…<br />
+          I send this dream to 3500 nursing homes in the U.S.
         </p>
         <p>
-          On that album, she sang about the war and life during that time. My heart was taken by those songs. Since then, I set my focus on music from the WWII era, and listened to many of those songs. For a person born long after the war, it was difficult to understand the feeling of that era.
+          In 1992, I came across an album called G.I. Jo. There was a recording on the album by JO STAFFORD, who was one of the most popular singers during WWII. On that album, she sang about the war and life during that time. My heart was taken by those songs. Since then, I set my focus on music from the WWII era, and listened to many of those songs. For a person born long after the war, it was difficult to understand the feeling of that era. The music that era was very beautiful, romantic, and sentimental. And the music reflected the wartime sentiment, when lovers had to part and prayed to reunite. I could feel that they had no other choice except praying. Through these songs, I was able to understand the heartaches and the emotions that people experienced.
         </p>
         <p>
-          The music that era was very beautiful, romantic, and sentimental. And the music reflected the wartime sentiment, when lovers had to part and prayed to reunite. I could feel that they had no other choice except praying. Through these songs, I was able to understand the heartaches and the emotions that people experienced.
-        </p>
-        <p>
-          There are songs that are still loved and cherished today. However, there are some songs that have been forgotten by people. Further, there are songs that endure today, but are not appreciated for their true meaning and the era they come from.
-        </p>
-        <p>
+          There are songs that are still loved and cherished today. However, there are some songs that have been forgotten by people. Further, there are songs that endure today, but are not appreciated for their true meaning and the era they come from.<br />
           The reason why those songs endure today is probably because of the many prayers put into these songs.
         </p>
         <p>
-          As a singer who truly loves the music from this era, I want to tell them that their songs are still breathing and alive. I know that Japan and the U.S were fighting during WWII. But now, I want them to know the songs are still loved by many people in Japan.
+          As a singer who truly loves the music from this era, I'd been wanting to record these songs with my prayers, and be helped by musicians who lived in this era. And I decided to send them to nursing homes in the U.S, as a gift of Christmas, in 1999.
         </p>
         <p>
-          For those who still feel pain, remembering that time, I'd like to offer my songs, with warmth, love…..and my prayers.
+          I want to tell you that their songs are still breathing and alive. I know that Japan and the U.S were fighting during WWII. But now, I want you to know the songs are still loved by many people in Japan.
         </p>
+        <p>
+          For those who still feel pain, remembering that time, I offer this album, with warmth, love… and my prayers.
+        </p>
+        <p>And… here is my Christmas gift for people at nursing homes.</p>
+        <p class="letter-close">
+          Very truly yours,<br />
+          Shoko “Seina” Shiraishi
+        </p>
+        <p>P.S. Please visit my Site, there is more information and messages from me…</p>
+
+        <figure class="letter-scan">
+          <img
+            src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/angels-swing/letter-to-nursing-homes-1999.jpg"
+            alt="The letter Seina enclosed with the album, sent to nursing homes in December 1999"
+            loading="lazy"
+          />
+          <figcaption>Click to enlarge</figcaption>
+        </figure>
         <hr class="navy-rule" />
 
         <div class="musicians">
@@ -186,6 +202,35 @@ const trail = [
     line-height: 1.75;
     color: #2a2a2a;
     margin: 0 0 1.2rem;
+  }
+  .essay-inner p.letter-date {
+    text-align: right;
+    margin-bottom: 2rem;
+  }
+  .essay-inner p.letter-close {
+    margin-top: 2rem;
+  }
+  .letter-scan {
+    margin: 2.5rem auto 0;
+    max-width: 240px;
+  }
+  .letter-scan img {
+    width: 100%;
+    display: block;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    cursor: zoom-in;
+    transition: transform 200ms ease;
+  }
+  .letter-scan img:hover {
+    transform: scale(1.03);
+  }
+  .letter-scan figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: #888;
+    text-align: center;
+    margin-top: 0.6rem;
   }
 
   .musicians {
@@ -281,5 +326,50 @@ const trail = [
 
   @media (max-width: 720px) {
     .essay-inner h2 { font-size: 20px; }
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const trigger = document.querySelector('.letter-scan img') as HTMLImageElement | null;
+    if (!trigger) return;
+    const box = document.createElement('div');
+    box.className = 'letter-lightbox';
+    const big = document.createElement('img');
+    box.appendChild(big);
+    document.body.appendChild(box);
+    trigger.addEventListener('click', () => {
+      big.src = trigger.currentSrc || trigger.src;
+      big.alt = trigger.alt;
+      box.classList.add('open');
+    });
+    box.addEventListener('click', () => box.classList.remove('open'));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') box.classList.remove('open');
+    });
+  });
+</script>
+
+<style is:global>
+  .letter-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.85);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+    padding: 2rem;
+  }
+  .letter-lightbox.open {
+    display: flex;
+  }
+  .letter-lightbox img {
+    max-width: 92vw;
+    max-height: 92vh;
+    width: auto;
+    height: auto;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
   }
 </style>
