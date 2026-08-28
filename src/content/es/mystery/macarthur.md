@@ -115,8 +115,6 @@ Se recomienda tomar un taxi. Pide al conductor que espere mientras visitas el lu
    Desde el Castillo de Kokura: unos 4,8 km (3 millas)  
    Por favor, muestra esto al taxista
 
-   ![](https://tour.crystallize.jp/wp-content/uploads/2025/12/スクリーンショット-2025-12-02-7.30.33.png)
-
 ![](/images/wp/2026/06/img_9925-2-860x1024.jpg)
 
 ### **Los restos de la estación de cuarentena para prisioneros de guerra aliados**

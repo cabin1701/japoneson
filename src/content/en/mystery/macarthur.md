@@ -115,8 +115,6 @@ Taking a taxi is recommended. Please ask the driver to wait while you are visiti
    From Kokura Castle: about 3miles (4.8km)  
    Please show this to the taxi driver
 
-   ![](https://tour.crystallize.jp/wp-content/uploads/2025/12/スクリーンショット-2025-12-02-7.30.33.png)
-
 ![](/images/wp/2026/06/img_9925-2-860x1024.jpg)
 
 ### **The remains of the quarantine station for Allied POWs**
