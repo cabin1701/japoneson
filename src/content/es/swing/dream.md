@@ -9,23 +9,29 @@ wp_parent: 108
 
 ## Las canciones para los asilos de ancianos en EE. UU.
 
-## Todo comenzó con mis pensamientos...
+El texto siguiente es la carta que Seina envió, en diciembre de 1999, a las residencias de ancianos de todo Estados Unidos.
 
-## 3500 asilos de ancianos en Estados Unidos.
+Angel's Swing & Associates. Diciembre de 1999.
 
-En 1992, me encontré con un álbum titulado G.I.Jo. Había una grabación en el álbum de Jo Stafford, quien fue una de las cantantes más populares durante la Segunda Guerra Mundial.
+Estimada residencia de ancianos en los EE. UU.:
 
-En ese álbum, ella cantaba sobre la guerra y la vida en aquella época. Mi corazón quedó cautivado por esas canciones. Desde entonces, enfoqué mi atención en la música de la era de la Segunda Guerra Mundial, y escuché muchas de esas canciones. Para una persona nacida mucho después de la guerra, era difícil comprender el sentimiento de aquella época.
+Este es mi sueño… Envío este sueño a 3500 residencias de ancianos en los EE. UU.
 
-La música de esa era era muy hermosa, romántica y sentimental. Y la música reflejaba el sentimiento de guerra, cuando los amantes tenían que separarse y rezaban por reencontrarse. Podía sentir que no les quedaba otra opción más que rezar. A través de estas canciones, pude comprender las penas y las emociones que la gente vivió.
+En 1992 encontré un álbum llamado G.I. Jo. En él había una grabación de JO STAFFORD, una de las cantantes más populares durante la Segunda Guerra Mundial. En ese álbum, ella cantaba sobre la guerra y sobre la vida de aquella época. Esas canciones se apoderaron de mi corazón. Desde entonces centré mi atención en la música de la época de la Segunda Guerra Mundial y escuché muchas de esas canciones. Para alguien nacida mucho después de la guerra, era difícil comprender el sentir de aquel tiempo. La música de esa época era muy bella, romántica y sentimental. Y reflejaba el sentimiento de los años de guerra, cuando los amantes tenían que separarse y rezaban por volver a encontrarse. Podía sentir que no les quedaba más remedio que rezar. A través de estas canciones pude comprender las penas y las emociones que vivió aquella gente.
 
-Hay canciones que todavía son amadas y atesoradas hoy. Sin embargo, hay algunas canciones que la gente ha olvidado. Además, hay canciones que perduran hasta hoy, pero no son apreciadas por su verdadero significado y la época de la que provienen.
+Hay canciones que todavía hoy se aman y se atesoran. Sin embargo, hay algunas canciones que la gente ha olvidado. Además, hay canciones que perduran hoy, pero que no se aprecian por su verdadero significado ni por la época de la que provienen. La razón por la que esas canciones perduran hoy es, probablemente, la gran cantidad de oraciones puestas en ellas.
 
-La razón por la que esas canciones perduran hoy es probablemente por las muchas oraciones puestas en ellas.
+Como cantante que ama de verdad la música de esta época, deseaba grabar estas canciones con mis oraciones, con la ayuda de músicos que vivieron en aquel tiempo. Y decidí enviarlas a residencias de ancianos en los EE. UU. como regalo de Navidad, en 1999.
 
-Como cantante que verdaderamente ama la música de esta era, quiero decirles que sus canciones todavía respiran y están vivas. Sé que Japón y EE. UU. estaban en guerra durante la Segunda Guerra Mundial. Pero ahora, quiero que sepan que sus canciones todavía son amadas por muchas personas en Japón.
+Quiero decirles que sus canciones siguen respirando y vivas. Sé que Japón y los EE. UU. estuvieron enfrentados durante la Segunda Guerra Mundial. Pero ahora quiero que sepan que esas canciones todavía son amadas por muchas personas en Japón.
 
-Para quienes todavía sienten dolor al recordar aquella época, me gustaría ofrecer mis canciones, con calidez, amor... y mis oraciones.
+Para quienes aún sienten dolor al recordar aquel tiempo, ofrezco este álbum, con calidez, con amor… y con mis oraciones.
+
+Y… aquí está mi regalo de Navidad para las personas de las residencias de ancianos.
+
+Muy atentamente, Shoko "Seina" Shiraishi
+
+El plan empezó en 4300 residencias y se ajustó a 3500 por el coste del franqueo y la producción. La grabación se hizo en Nueva York con músicos que habían vivido aquella época. El proyecto de 1999 tuvo una amplia cobertura en la prensa japonesa — Mainichi, Asahi, Nikkei, Nishinippon, Yomiuri America, Shukan Yomiuri y otros, entre julio de 1999 y febrero de 2000 — una cantidad de atención inusual para un proyecto iniciado por una persona particular.
 
 Leonard Gaskin (contrabajo),
 
