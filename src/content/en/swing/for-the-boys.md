@@ -5,6 +5,7 @@ hero_image: "/images/swing/hero_for-the-boys.jpg"
 hero_subtitle: "who served in the Korean War — Tribute to Ms.Monica Lewis"
 hero_height: 1000
 hero_video: "PXMV5bkoq8k"
+hero_video_sound: 15
 hero_title_font: '"Cormorant Infant", serif'
 hero_title_size: "78px"
 hero_title_weight: 600

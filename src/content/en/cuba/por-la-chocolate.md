@@ -5,6 +5,7 @@ hero_image: "/images/hero_japoneson.jpg"
 hero_height: 900
 hero_video: "0d-EBbB-s0I"
 hero_video_start: 8
+hero_video_sound: 15
 hero_title_font: '"Cinzel", serif'
 hero_title_size: "78px"
 hero_title_weight: 600

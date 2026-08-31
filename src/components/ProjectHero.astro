@@ -14,6 +14,7 @@ interface Props {
   titleSize?: string; // CSS font-size override
   titleColor?: string; // CSS color override
   videoId?: string; // YouTube video ID for muted background video
+  videoSound?: number; // volume 0-100; when set, unmute on first interaction + show sound toggle
   videoStart?: number; // start time in seconds
   overlayTop?: number; // overlay opacity at top (0..1)
   overlayBottom?: number; // overlay opacity at bottom (0..1)
@@ -51,6 +52,7 @@ const {
   titleSize,
   titleColor,
   videoId,
+  videoSound,
   videoStart,
   overlayTop = 0,
   overlayBottom = 0,
@@ -61,7 +63,7 @@ const {
 const hasSlideshow = Array.isArray(slideshow) && slideshow.length > 0;
 
 const videoSrc = videoId
-  ? `https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1&loop=1&playlist=${videoId}&controls=0&showinfo=0&modestbranding=1&playsinline=1&rel=0${videoStart ? `&start=${videoStart}` : ''}`
+  ? `https://www.youtube.com/embed/${videoId}?autoplay=1&mute=1&loop=1&playlist=${videoId}&controls=0&showinfo=0&modestbranding=1&playsinline=1&rel=0${videoStart ? `&start=${videoStart}` : ''}${videoSound ? '&enablejsapi=1' : ''}`
   : '';
 
 const titleStyle = [
@@ -85,6 +87,7 @@ const titleStyle = [
   {videoId && (
     <div class="video-bg" aria-hidden="true">
       <iframe
+        id="hero-video-frame"
         src={videoSrc}
         title=""
         frameborder="0"
@@ -92,6 +95,18 @@ const titleStyle = [
         allowfullscreen
       ></iframe>
     </div>
+  )}
+  {videoId && videoSound && (
+    <button class="hero-sound-toggle" type="button" aria-label="Sound on/off" aria-pressed="false" data-volume={String(videoSound)}>
+      <svg class="icon-on" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+        <path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/>
+        <path d="M16.5 8.5a5 5 0 010 7M19 6a8.5 8.5 0 010 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+      </svg>
+      <svg class="icon-off" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+        <path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/>
+        <path d="M17 9.5l4 5M21 9.5l-4 5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+      </svg>
+    </button>
   )}
   <div class="overlay" style={`background: linear-gradient(180deg, rgba(0,0,0,${overlayTop}) 0%, rgba(0,0,0,${overlayBottom}) 100%);`}></div>
   <div class="p-hero-content">
@@ -157,6 +172,36 @@ const titleStyle = [
     min-height: 100%;
     transform: translate(-50%, -50%);
     border: 0;
+  }
+  .hero-sound-toggle {
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    z-index: 3;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.35);
+    color: #ffffff;
+    cursor: pointer;
+    padding: 0;
+    transition: background 0.2s ease;
+  }
+  .hero-sound-toggle:hover {
+    background: rgba(0, 0, 0, 0.55);
+  }
+  .hero-sound-toggle .icon-on {
+    display: none;
+  }
+  .hero-sound-toggle[aria-pressed='true'] .icon-on {
+    display: block;
+  }
+  .hero-sound-toggle[aria-pressed='true'] .icon-off {
+    display: none;
   }
   .overlay {
     position: absolute;
@@ -235,4 +280,45 @@ const titleStyle = [
       slides[i].style.opacity = '1';
     }, dur);
   });
+
+  // HERO動画の音：ミュートで自動再生 → 訪問者の最初の操作で小さく鳴らす。
+  // （ブラウザは音ありの自動再生をブロックするため、操作が要る）
+  // 右下のボタンでいつでも消せる／戻せる。hero_video_sound を書いたページだけ有効。
+  (() => {
+    const btn = document.querySelector<HTMLButtonElement>('.hero-sound-toggle');
+    const frame = document.getElementById('hero-video-frame') as HTMLIFrameElement | null;
+    if (!btn || !frame) return;
+    const volume = Number(btn.dataset.volume) || 15;
+    let on = false;
+
+    const send = (func: string, args: unknown[] = []) => {
+      frame.contentWindow?.postMessage(
+        JSON.stringify({ event: 'command', func, args }),
+        'https://www.youtube.com'
+      );
+    };
+
+    const setSound = (state: boolean) => {
+      on = state;
+      if (on) {
+        send('unMute');
+        send('setVolume', [volume]);
+      } else {
+        send('mute');
+      }
+      btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+    };
+
+    const events = ['pointerdown', 'keydown', 'touchstart', 'scroll'];
+    const firstTouch = () => {
+      setSound(true);
+      events.forEach((ev) => window.removeEventListener(ev, firstTouch));
+    };
+    events.forEach((ev) => window.addEventListener(ev, firstTouch, { passive: true }));
+
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      setSound(!on);
+    });
+  })();
 </script>

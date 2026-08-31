@@ -27,6 +27,7 @@ const en = defineCollection({
     hero_fit: z.enum(['cover', 'contain']).optional(),
     hero_video: z.string().optional(), // YouTube video ID for background video
     hero_video_start: z.number().optional(), // start time in seconds
+    hero_video_sound: z.number().optional(), // volume 0-100; opt-in unmute + sound toggle button
     hero_title_font: z.string().optional(), // CSS font-family override
     hero_title_weight: z.union([z.string(), z.number()]).optional(),
     hero_title_italic: z.boolean().optional(),
@@ -58,6 +59,7 @@ const es = defineCollection({
     hero_fit: z.enum(['cover', 'contain']).optional(),
     hero_video: z.string().optional(),
     hero_video_start: z.number().optional(),
+    hero_video_sound: z.number().optional(),
     hero_title_font: z.string().optional(),
     hero_title_weight: z.union([z.string(), z.number()]).optional(),
     hero_title_italic: z.boolean().optional(),
