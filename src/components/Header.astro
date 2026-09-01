@@ -346,13 +346,16 @@ function label(item: NavItem): string {
     .lang-link { font-size: 1.05rem; }
     .primary-nav .nav-root { justify-content: center; gap: 1rem; }
     .primary-nav .nav-root > li > a { font-size: 0.95rem; }
+    /* 狭い画面でも浮かせたまま出す。static にすると、開いた分だけ
+       ヘッダーが縦に伸びて他のメニューを押しのけてしまうため。 */
     ul.sub {
-      position: static;
-      min-width: 0;
-      background: rgba(243, 201, 201, 0.4);
-      box-shadow: none;
-      border: 0;
+      min-width: 200px;
     }
-    ul.sub-2 { padding-left: 1rem; }
+    ul.sub a { font-size: 16px; }
+    ul.sub-2 {
+      top: 0;
+      left: auto;
+      right: 100%;
+    }
   }
 </style>
