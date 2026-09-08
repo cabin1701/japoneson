@@ -27,7 +27,7 @@ wp_parent: 0
 
 ###### Shoko Shiraishi a.k.a "Seina"
 
-### Before starting "project"
+## Before starting "project"
 - ***Childhood*** – [A Lonely Universe and the Magic of a Car Stereo](#section1)
 - ***Teenage Years*** – [Prayer, Rock, and "Que Será, Será"](#section2)
 - ***Age 20*** – [The Miracle on 45th Street](#section3)
@@ -44,18 +44,18 @@ wp_parent: 0
 - 2011 — ***[Thanks for the Memory](/en/swing/memory/)*** -with Bob Cranshaw
 - 2013 — ***["We Remember You"](/en/swing/remember/)*** -Wartime and Postwar Kitakyushu
 - Tribute — ***["For The Boys"](/en/swing/for-the-boys/)*** -Tribute to Ms. Monica Lewis
-- Current — ***[The Mystery Entertainment](/en/mystery/)***
-- Current — ***[The Brooklyn Bop Brothers](/en/swing/leonard-gaskin/brooklyn-bop/)***
+- Ongoing — ***[The Mystery Entertainment](/en/mystery/)***
+- Ongoing — ***[The Brooklyn Bop Brothers](/en/swing/leonard-gaskin/brooklyn-bop/)***
 
 ### Cuba Project
 - 2015 — ***[Cupie Danny](/en/cupie/)*** -with Danny Rojo
 - 2017 — ***[Por La Chocolate](/en/cuba/por-la-chocolate/)*** -Recording in Cuba
 - 2023 — ***[Tribute to Juan-Carlos Formell](/en/cupie/#formell)*** -Los Van Van
 - 2023 — ***[Murakami Mambo](/en/murakami/)*** -Study of Ryu Murakami and El TOSCO
-- Current — ***[JAPONÉSON](/en/cuba/)*** -Study of Post-Revolution Music by Cubans
+- Ongoing — ***[JAPONÉSON](/en/cuba/)*** -Study of Post-Revolution Music by Cubans
 
 ### Cabin1701 Project
-- Current — ***[Cabin1701](https://cabin1701.com)*** -Collaboration with AIs
+- Ongoing — ***[Cabin1701](https://cabin1701.com)*** -A project exploring culture, memory, and creation with multiple AI collaborators.
 - ***Our books →*** https://cabin1701.com/books/
 
 <hr class="about-rule-red" />

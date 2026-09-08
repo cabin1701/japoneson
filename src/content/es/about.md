@@ -26,7 +26,7 @@ wp_parent: 0
 ## Mi Historia
 ###### Shoko Shiraishi a.k.a "Seina"
 
-### Antes de comenzar el "proyecto"
+## Antes de comenzar el "proyecto"
 - ***Infancia*** – [Un universo solitario y la magia del estéreo del auto](#section1)
 - ***Adolescencia*** – [Oración, rock y "Que Sera, Sera"](#section2)
 - ***A los 20*** – [El milagro de la calle 45](#section3)
