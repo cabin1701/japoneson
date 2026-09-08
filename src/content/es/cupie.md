@@ -51,6 +51,8 @@ Dos meses después, fui a Nueva York con muchos Cupie Danny y materiales para ha
 
 ![](/images/wp/2019/06/allQPD.jpg)
 
+<a id="formell"></a>
+
 ## Homenaje a Juan-Carlos Formell
 
 ![](/images/wp/2026/05/uchiwa09.jpeg)
