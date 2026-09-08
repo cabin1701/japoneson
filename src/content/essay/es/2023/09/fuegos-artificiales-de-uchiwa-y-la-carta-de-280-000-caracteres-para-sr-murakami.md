@@ -47,7 +47,6 @@ Una hora después de enviarlo, llegó una respuesta.
 "Por mí no hay problema. — Ryu Murakami"
 
 Creo que Ryu empezará a estudiar la distribución en streaming del álbum de Xiomara.
-![La portada del CD "You Don't Know What Love Is" de Xiomara Laugart.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/xiomara-cd.jpg)
 
 Estaba muy, muy feliz.
 

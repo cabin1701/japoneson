@@ -48,8 +48,6 @@ An hour after I sent it, a reply came.
 
 I believe Ryu will begin looking into streaming Xiomara's album.
 
-![The front cover of the CD "You Don't Know What Love Is" by Xiomara Laugart.](https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/wp/2023/09/xiomara-cd.jpg)
-
 I was very, very happy.
 
 On that album, José Luis Cortés of NG La Banda — who was very close to Ryu and who passed away last year (2022) — took part as flautist, arranger, and music director. It was a wonderful work, full of the sincere energy of its musicians and producers and their respect for the American standards. That, too, is something I want to tell him about again.
