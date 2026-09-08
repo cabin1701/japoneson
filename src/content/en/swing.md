@@ -33,7 +33,7 @@ These angels have now passed away and are in heaven. Yet, I feel they are still 
 
 [![](/images/wp/2026/05/yomiuri-1024x1009.jpg)](https://en.japoneson.com/swing/dream/)
 
-### [I Have a Dream...Seina The Songs for Nursing Homes in The U.S. 1999](https://en.japoneson.com/swing/dream/)
+### ["I Have a Dream...Seina" The Songs for Nursing Homes in The U.S. - 1999](https://en.japoneson.com/swing/dream/)
 
 A project of the CD gift for 3500 nursing homes in the United States across the country.
 
@@ -45,22 +45,22 @@ These words are precious of my life. Letters from the nursing homes, even I mist
 
 [![](/images/wp/2026/05/leonard.jpg)](https://en.japoneson.com/swing/leonard-gaskin)
 
-### [I'll Be Seeing You, Leonard Gaskin 2008](https://en.japoneson.com/swing/leonard-gaskin)
+### [I'll Be Seeing You - 2008](https://en.japoneson.com/swing/leonard-gaskin)
 
 is a story after 8 years of the ”I Have a Dream..Seina”. To visit Mr. Leonard Gaskin who is a legendary bassist and her mentor.
 
-![](/images/wp/2026/05/omote2-1024x1024.jpg)
+[![](/images/wp/2026/05/omote2-1024x1024.jpg)](https://en.japoneson.com/swing/memory)
 
-### Thanks for the Memory 2011 **Preparing...**
+### [Thanks for the Memory - 2011](https://en.japoneson.com/swing/memory)
 
 Bob Cranshaw, thanks for the encounters and memories. Then the album was realized with memories of you.
 
 [![](/images/wp/2026/05/kitakyushuu.jpg)](https://en.japoneson.com/swing/remember)
 
-### [We Remember You Wartime and Postwar Kitakyushu 2013](https://en.japoneson.com/swing/remember)
+### ["We Remember You" Wartime and Postwar Kitakyushu - 2013](https://en.japoneson.com/swing/remember)
 
 [![](/images/wp/2026/05/monica.jpg)](https://en.japoneson.com/swing/for-the-boys)
 
-### ["For The Boys" The Korean War](https://en.japoneson.com/swing/for-the-boys)
+### ["For The Boys" Tribute to Ms. Monica Lewis](https://en.japoneson.com/swing/for-the-boys)
 
 In 1951, my friend Ms. Monica Lewis (1922-2015) entertained “for the boys” who served in the Korean War with Danny Kaye.

@@ -33,7 +33,7 @@ Estos ángeles ya han fallecido y están en el cielo. Y aun así, siento que sig
 
 [![](/images/wp/2026/05/yomiuri-1024x1009.jpg)](https://en.japoneson.com/swing/dream/)
 
-### [I Have a Dream...Seina The Songs for Nursing Homes in The U.S. 1999](https://en.japoneson.com/swing/dream/)
+### ["I Have a Dream...Seina" The Songs for Nursing Homes in The U.S. - 1999](https://en.japoneson.com/swing/dream/)
 
 Un proyecto de CD regalado a 3500 asilos de ancianos en todo Estados Unidos.
 
@@ -45,22 +45,22 @@ Estas palabras son preciosas para mi vida. Cartas de los asilos de ancianos, inc
 
 [![](/images/wp/2026/05/leonard.jpg)](https://en.japoneson.com/swing/leonard-gaskin)
 
-### [I'll Be Seeing You, Leonard Gaskin 2008](https://en.japoneson.com/swing/leonard-gaskin)
+### [I'll Be Seeing You - 2008](https://en.japoneson.com/swing/leonard-gaskin)
 
 Es una historia ocho años después de "I Have a Dream..Seina". Sobre visitar al Sr. Leonard Gaskin, un legendario contrabajista y su mentor.
 
-![](/images/wp/2026/05/omote2-1024x1024.jpg)
+[![](/images/wp/2026/05/omote2-1024x1024.jpg)](https://en.japoneson.com/swing/memory)
 
-### Thanks for the Memory 2011 **Preparing...**
+### [Thanks for the Memory - 2011](https://en.japoneson.com/swing/memory)
 
 Bob Cranshaw, gracias por los encuentros y los recuerdos. Este álbum se hizo realidad con recuerdos de ti.
 
 [![](/images/wp/2026/05/kitakyushuu.jpg)](https://en.japoneson.com/swing/remember)
 
-### [We Remember You Wartime and Postwar Kitakyushu 2013](https://en.japoneson.com/swing/remember)
+### ["We Remember You" Wartime and Postwar Kitakyushu - 2013](https://en.japoneson.com/swing/remember)
 
 [![](/images/wp/2026/05/monica.jpg)](https://en.japoneson.com/swing/for-the-boys)
 
-### ["For The Boys" The Korean War](https://en.japoneson.com/swing/for-the-boys)
+### ["For The Boys" Tribute to Ms. Monica Lewis](https://en.japoneson.com/swing/for-the-boys)
 
 En 1951, mi amiga la Sra. Monica Lewis (1922-2015) entretuvo "para los muchachos" que sirvieron en la Guerra de Corea junto a Danny Kaye.
