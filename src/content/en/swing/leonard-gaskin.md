@@ -164,15 +164,15 @@ I'm looking at the moon, but I'll be seeing you, Mr. Leonard Gaskin.
 
 <div class="press-grid">
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/leonard-gaskin/press/2008-jazz-hihyo-1.jpg" alt="Jazz Hihyo (Jazz Critique Magazine) No. 144, July 2008 — cover and the opening of the article &quot;I'll be seeing you / Seina&quot;" loading="lazy" />
+    <img src="https://media.cabin1701.com/japoneson/leonard-gaskin/press/2008-jazz-hihyo-1.jpg" alt="Jazz Hihyo (Jazz Critique Magazine) No. 144, July 2008 — cover and the opening of the article &quot;I'll be seeing you / Seina&quot;" loading="lazy" />
     <figcaption>Jazz Hihyo No. 144 · Jul 2008 (1/2)</figcaption>
   </figure>
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/leonard-gaskin/press/2008-jazz-hihyo-2.jpg" alt="Jazz Hihyo No. 144, July 2008 — the rest of the article, with a 1998 recording-session photo and short bios of Leonard Gaskin and Seina" loading="lazy" />
+    <img src="https://media.cabin1701.com/japoneson/leonard-gaskin/press/2008-jazz-hihyo-2.jpg" alt="Jazz Hihyo No. 144, July 2008 — the rest of the article, with a 1998 recording-session photo and short bios of Leonard Gaskin and Seina" loading="lazy" />
     <figcaption>Jazz Hihyo No. 144 · Jul 2008 (2/2)</figcaption>
   </figure>
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/leonard-gaskin/press/2008-ny-seikatsu.jpg" alt="Shukan New York Seikatsu, 2008 — &quot;A love for a jazz mentor that crossed the ocean: singer Seina sings at a New York nursing home&quot;" loading="lazy" />
+    <img src="https://media.cabin1701.com/japoneson/leonard-gaskin/press/2008-ny-seikatsu.jpg" alt="Shukan New York Seikatsu, 2008 — &quot;A love for a jazz mentor that crossed the ocean: singer Seina sings at a New York nursing home&quot;" loading="lazy" />
     <figcaption>Shukan New York Seikatsu · 2008</figcaption>
   </figure>
 </div>

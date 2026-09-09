@@ -166,15 +166,15 @@ I'm looking at the moon, but I'll be seeing you, Mr. Leonard Gaskin.
 
 <div class="press-grid">
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/leonard-gaskin/press/2008-jazz-hihyo-1.jpg" alt="Jazz Hihyo (Jazz Critique Magazine) n.º 144, julio de 2008 — portada y comienzo del artículo &quot;I'll be seeing you / Seina&quot;" loading="lazy" />
+    <img src="https://media.cabin1701.com/japoneson/leonard-gaskin/press/2008-jazz-hihyo-1.jpg" alt="Jazz Hihyo (Jazz Critique Magazine) n.º 144, julio de 2008 — portada y comienzo del artículo &quot;I'll be seeing you / Seina&quot;" loading="lazy" />
     <figcaption>Jazz Hihyo n.º 144 · jul 2008 (1/2)</figcaption>
   </figure>
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/leonard-gaskin/press/2008-jazz-hihyo-2.jpg" alt="Jazz Hihyo n.º 144, julio de 2008 — resto del artículo, con una foto de la grabación de 1998 y breves biografías de Leonard Gaskin y Seina" loading="lazy" />
+    <img src="https://media.cabin1701.com/japoneson/leonard-gaskin/press/2008-jazz-hihyo-2.jpg" alt="Jazz Hihyo n.º 144, julio de 2008 — resto del artículo, con una foto de la grabación de 1998 y breves biografías de Leonard Gaskin y Seina" loading="lazy" />
     <figcaption>Jazz Hihyo n.º 144 · jul 2008 (2/2)</figcaption>
   </figure>
   <figure>
-    <img src="https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/leonard-gaskin/press/2008-ny-seikatsu.jpg" alt="Shukan New York Seikatsu, 2008 — &quot;Un amor por el maestro del jazz que cruzó el océano: la cantante Seina canta en una residencia de ancianos de Nueva York&quot;" loading="lazy" />
+    <img src="https://media.cabin1701.com/japoneson/leonard-gaskin/press/2008-ny-seikatsu.jpg" alt="Shukan New York Seikatsu, 2008 — &quot;Un amor por el maestro del jazz que cruzó el océano: la cantante Seina canta en una residencia de ancianos de Nueva York&quot;" loading="lazy" />
     <figcaption>Shukan New York Seikatsu · 2008</figcaption>
   </figure>
 </div>

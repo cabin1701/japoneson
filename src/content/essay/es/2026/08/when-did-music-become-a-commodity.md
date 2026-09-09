@@ -1,7 +1,7 @@
 ---
 title: '¿Cuándo se convirtió la música en una mercancía?'
 date: 2026-08-24
-hero: "https://cdn.jsdelivr.net/gh/cabin1701/site-media@main/japoneson/essay/2026/08/lionel-hampton-seina-blue-note-1997.jpg"
+hero: "https://media.cabin1701.com/japoneson/essay/2026/08/lionel-hampton-seina-blue-note-1997.jpg"
 lang: es
 category: ["JAPONÉSON", "Música"]
 tags: ["Music", "Cuba", "New York", "Jazz", "Philosophy", "Japan"]
