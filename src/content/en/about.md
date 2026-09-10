@@ -408,3 +408,7 @@ On the "100 Gold Fingers" tour bus (1999)
 
 
 <p style="text-align: center;"><a href="https://youtu.be/pV55CmzfvyE?si=GLZrSCyNaalHWcHi">Independence Day, US Consulate in Fukuoka<br>Japanese &amp; American Anthem</a></p>
+
+<hr class="about-rule-red" />
+
+###### Today, in Shimonoseki—the navel of Japanese history—she lives in a prewar traditional Japanese house with her cats, spending her days with DIY and “Kin-chan” natural farming (microorganism-rich soil cultivation).

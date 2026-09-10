@@ -439,3 +439,7 @@ En el autobús de la gira "100 Gold Fingers" (1999)
 <hr class="about-rule-red" />
 
 <p style="text-align: center;"><a href="https://youtu.be/pV55CmzfvyE?si=GLZrSCyNaalHWcHi">Independence Day, US Consulate in Fukuoka<br>Japanese &amp; American Anthem</a></p>
+
+<hr class="about-rule-red" />
+
+###### Hoy en día, en Shimonoseki —el ombligo de la historia japonesa—, vive en una casa tradicional de antes de la guerra con sus gatos, dedicando sus días al bricolaje y a la agricultura natural “Kin-chan” (cultivo basado en microorganismos del suelo).
