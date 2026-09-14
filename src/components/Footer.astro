@@ -5,6 +5,7 @@ interface Props {
 const { lang = 'en' } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const prefix = `${base}${lang}/`;
+const contactHref = `${base}contact/`;
 
 const t = lang === 'es'
   ? { tagline: 'SOLO LA MÚSICA ES INCAPAZ DE MENTIRME.', contact: 'Contacto', privacy: 'Política de privacidad', terms: 'Términos de uso', books: 'Libros' }
@@ -16,7 +17,7 @@ const t = lang === 'es'
   <div class="container">
     <p class="footer-tagline">{t.tagline}</p>
     <ul class="footer-nav">
-      <li><a href={`${prefix}contact/`}>{t.contact}</a></li>
+      <li><a href={contactHref}>{t.contact}</a></li>
       <li><a href={`${prefix}privacy-policy/`}>{t.privacy}</a></li>
       <li><a href={`${prefix}terms-and-conditions/`}>{t.terms}</a></li>
       <li><a href="https://cabin1701.com/books/">{t.books}</a></li>

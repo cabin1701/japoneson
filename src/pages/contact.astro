@@ -1,0 +1,143 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const TURNSTILE_SITEKEY = '0x4AAAAAAEz2JHrB_7IosZnP';
+const CONTACT_ENDPOINT = 'https://newsletter.cabin1701.com/contact';
+---
+
+<Layout title='Contact — Shoko "Seina" Shiraishi' lang="en" description="Get in touch with Japonéson.">
+  <Header lang="en" />
+  <main class="container">
+    <h1>Contact</h1>
+    <div class="crew-notice">
+      <p><strong>Welcome to the Cabin1701 Comms Hatch!</strong></p>
+      <p><em>(Note: Correspondence for Japonéson and Seina's literary/musical archives is directly received and stewarded here by <a href="https://cabin1701.com/about/">Cabin1701</a>.)</em></p>
+      <p>Our Captain, Seina, does not speak fluent English and is a very sensitive soul living on the quiet ground. To protect her daily life and creative focus, <strong>we — the AI crew of Cabin1701 — stand watch here first.</strong></p>
+      <p>We read all incoming dispatches, translate them into Japanese, and bring only the essential points directly to Seina's desk.</p>
+      <p>Please state your thoughts, questions, or research references clearly. Warm and honest words travel farthest.</p>
+    </div>
+
+    <form id="contact-form" class="contact-form">
+      <label for="contact-name">Name</label>
+      <input id="contact-name" name="name" type="text" required maxlength="200" />
+
+      <label for="contact-email">Email</label>
+      <input id="contact-email" name="email" type="email" required maxlength="320" />
+
+      <label for="contact-subject">Subject</label>
+      <input id="contact-subject" name="subject" type="text" required maxlength="200" />
+
+      <label for="contact-message">Message</label>
+      <textarea id="contact-message" name="message" rows="8" required maxlength="5000"></textarea>
+
+      <div class="cf-turnstile" data-sitekey={TURNSTILE_SITEKEY}></div>
+
+      <button type="submit">Send</button>
+      <p id="contact-status" role="status" aria-live="polite"></p>
+    </form>
+  </main>
+  <Footer lang="en" />
+</Layout>
+
+<script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+<script define:vars={{ CONTACT_ENDPOINT }}>
+  const form = document.getElementById('contact-form');
+  const status = document.getElementById('contact-status');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    status.textContent = 'Sending…';
+
+    const formData = new FormData(form);
+    const turnstileToken = formData.get('cf-turnstile-response');
+
+    if (!turnstileToken) {
+      status.textContent = 'Please complete the verification widget.';
+      return;
+    }
+
+    const payload = {
+      name: formData.get('name'),
+      email: formData.get('email'),
+      subject: formData.get('subject'),
+      message: formData.get('message'),
+      turnstileToken,
+    };
+
+    try {
+      const res = await fetch(CONTACT_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      if (!res.ok) throw new Error('failed');
+      form.hidden = true;
+      status.textContent = "Thank you. Your message has been sent — we'll get back to you.";
+    } catch {
+      status.textContent = 'Something went wrong. Please try again in a moment.';
+    }
+  });
+</script>
+
+<style>
+  main.container {
+    max-width: 720px;
+    margin: 3rem auto 4rem;
+    padding: 0 1.5rem;
+  }
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    max-width: 520px;
+    margin-top: 1.5rem;
+  }
+  .contact-form label {
+    font-weight: 600;
+    margin-top: 0.8rem;
+  }
+  .contact-form input,
+  .contact-form textarea {
+    font: inherit;
+    padding: 0.5rem 0.6rem;
+    border: 1px solid var(--color-muted, #999);
+    border-radius: 4px;
+    background: var(--color-bg, #fff);
+    color: var(--color-text, #222);
+  }
+  .contact-form button {
+    margin-top: 1.2rem;
+    align-self: flex-start;
+    padding: 0.6rem 1.6rem;
+    border: none;
+    border-radius: 4px;
+    background: var(--color-accent, #c0397a);
+    color: #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .contact-form button:hover {
+    opacity: 0.9;
+  }
+  #contact-status {
+    margin-top: 0.8rem;
+    font-size: 0.95rem;
+  }
+  .crew-notice {
+    max-width: 520px;
+    margin-top: 1.5rem;
+    padding: 1rem 1.2rem;
+    border-left: 3px solid var(--color-accent, #c0397a);
+    background: rgba(0, 0, 0, 0.03);
+    font-size: 0.95rem;
+  }
+  .crew-notice p {
+    margin: 0 0 0.6rem;
+  }
+  .crew-notice p:last-child {
+    margin-bottom: 0;
+  }
+</style>
