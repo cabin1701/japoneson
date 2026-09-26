@@ -5,7 +5,7 @@ wp_id: 19737
 wp_parent: 18809
 ---
 
-# De mi viejo amigo G.I.
+# Correos de un viejo G.I.
 
 ## Donald Versaw
 

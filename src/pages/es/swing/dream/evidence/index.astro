@@ -1,0 +1,332 @@
+---
+import Layout from '../../../../../layouts/Layout.astro';
+import Header from '../../../../../components/Header.astro';
+import Footer from '../../../../../components/Footer.astro';
+import Breadcrumb from '../../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+
+// 資料を足す時は、この配列に1行足す。目次とセクションが自動で増える。
+const records = [
+  { id: 'usps', label: 'USPS', short: 'Registros de envío masivo', title: 'Registros de envío masivo del USPS' },
+  { id: 'mpl', label: 'MPL', short: 'Licencia mecánica', title: 'Licencia mecánica de MPL' },
+  { id: 'white-house', label: 'Casa Blanca', short: 'Correspondencia', title: 'Correspondencia de la Casa Blanca' },
+];
+
+const trail = [
+  { slug: 'swing', title: 'ANGELS SWING', path: `${base}es/swing/` },
+  { slug: 'dream', title: 'I HAVE A DREAM… SEINA', path: `${base}es/swing/dream/` },
+  { slug: 'evidence', title: 'ARCHIVO Y PRUEBAS', path: `${base}es/swing/dream/evidence/` },
+];
+---
+
+<Layout title="Archivo y pruebas — Japonéson" description="Documentos del proyecto de CD para residencias de ancianos de 1999: registros de envío masivo del USPS, una licencia de MPL para cuatro canciones y una respuesta de la Casa Blanca." lang="es" ogImage="images/swing/hero_evidence.jpg">
+  <Header lang="es" />
+  <main>
+    <ProjectHero
+      title="Archivo y pruebas"
+      titleHidden={true}
+      image={`${base}images/swing/hero_evidence.jpg`}
+      imageAlt="Una placa de identificación militar grabada con SHOKO SEINA S, ANGELS SWING, FUKUOKA JAPAN, junto a un folleto sobre la historia de estas placas"G.I. JO" (Corinthian Records): la portada del álbum y las notas del disco"
+      align="center"
+      height={520}
+      fit="cover"
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="evidence-head">
+      <h1>Archivo y pruebas</h1>
+      <p class="hero-caption">Placa de identificación grabada con "ANGELS SWING · FUKUOKA JAPAN", hecha en el Smithsonian, enero de 2014</p>
+    </section>
+
+    <nav class="dream-toc" id="contents" aria-label="Contenido">
+      <p class="dream-toc-head">En esta página</p>
+      <ul>
+        {records.map((r) => (
+          <li><em>{r.label}</em> – <a href={`#${r.id}`}>{r.short}</a></li>
+        ))}
+      </ul>
+    </nav>
+
+    <section class="essay">
+      <div class="essay-inner">
+        {records.map((r) => (
+          <>
+            <hr class="navy-rule" />
+            <h2 id={r.id}>{r.title}</h2>
+            {r.id === 'usps' && (
+              <>
+                <p>El envío no se realizó sobre por sobre en una oficina postal de barrio.</p>
+                <p>Se utilizó el servicio USPS Bulk Mail para distribuir los CD a centros de atención para personas mayores en todo Estados Unidos.</p>
+                <p>Los registros postales que se conservan muestran envíos procesados el 6 de diciembre y el 10 de diciembre de 1999, con un total aproximado de 3.500 destinos.</p>
+                <h3>Registro de envío – 6 de diciembre de 1999</h3>
+                <figure class="record-photo">
+                  <img src="https://media.cabin1701.com/japoneson/angels-swing/evidence/usps-statement-1999-12-06.jpg" alt="Declaración de franqueo del USPS (Permit Imprint), 6 de diciembre de 1999: 669 envíos" data-zoom loading="lazy" />
+                  <figcaption>Registro de USPS Bulk Mail que muestra la aceptación de 669 envíos para su distribución el 6 de diciembre de 1999.</figcaption>
+                </figure>
+                <h3>Registro de envío – 10 de diciembre de 1999</h3>
+                <figure class="record-photo">
+                  <img src="https://media.cabin1701.com/japoneson/angels-swing/evidence/usps-statement-1999-12-10.jpg" alt="Declaración de franqueo del USPS (Permit Imprint), 10 de diciembre de 1999: 2.840 envíos" data-zoom loading="lazy" />
+                  <figcaption>Registro de USPS Bulk Mail que muestra la aceptación de 2.840 envíos para su distribución el 10 de diciembre de 1999. Junto con el envío anterior, estos registros documentan la distribución a aproximadamente 3.500 centros de atención para personas mayores en todo Estados Unidos.</figcaption>
+                </figure>
+              </>
+            )}
+            {r.id === 'mpl' && (
+              <>
+                <p>A lo largo de este proyecto, varios editores musicales tuvieron la generosidad de ofrecerme descuentos en los derechos de autor. En aquel momento, como no sabía casi nada sobre copyright, alguien me sugirió contactar a la Harry Fox Agency. Al sonar "Harry Fox" como el nombre de una persona particular, no me generó mucha confianza, así que busqué los nombres de las editoriales impresos al pie de las partituras de cada canción y las llamé directamente una por una.</p>
+                <p>Como mi inglés no era muy fluido, hice un esfuerzo enorme para explicarles con el corazón lo que deseaba hacer. Así descubrí que muchas de las canciones de esa época tenían sus derechos divididos entre varias compañías. Me decían cosas como: "Dado que a nosotros nos corresponde tal porcentaje, te haremos un descuento del 30% o del 50% sobre nuestra parte". Al no tener experiencia previa, no tenía forma de saber en ese entonces lo extraordinario que era ese gesto.</p>
+                <p>Entre todas ellas, MPL —la compañía que poseía los derechos de cuatro de las canciones que grabé— me otorgó una exención total del 100% de las regalías para este proyecto, hasta un límite de 5.000 copias. Lo único que me pidieron fue: "Solo envíanos una copia del disco una vez terminado". MPL fue la única editorial que me concedió el 100%. Por eso jamás he olvidado lo verdaderamente especial que fue aquel gesto.</p>
+                <p>En aquel momento, yo no sabía que esta empresa era MPL Communications de Paul McCartney, ni conocía la historia editorial que había detrás. Ni siquiera pertenezco a la generación de los Beatles. Lo que en 1999 era solo un documento aislado, ahora en 2026, con la ayuda de la IA y tras más de un cuarto de siglo, finalmente se ha revelado como una línea continua y coherente.</p>
+                <p>Jamás imaginé que, en un lugar como este, mis pasos se cruzarían con los Beatles... Aunque sea con tanto tiempo de retraso, permítanme expresar mi más sincero agradecimiento.</p>
+                <p>Gracias de todo corazón por haber apoyado mi sueño.</p>
+                <figure class="record-photo">
+                  <img src="https://media.cabin1701.com/japoneson/angels-swing/evidence/mpl-license-1999-06-10.jpg" alt="Carta de MPL Communications con fecha del 10 de junio de 1999, que concede una licencia mecánica gratuita por única vez para cuatro canciones del álbum I Have a Dream… Seina." data-zoom loading="lazy" />
+                  <figcaption>MPL Communications concedió una licencia mecánica gratuita por única vez para hasta 5.000 copias, siempre que todas se distribuyeran sin costo. La licencia cubría cuatro canciones grabadas para I Have a Dream… Seina (1999).</figcaption>
+                </figure>
+                <p class="vega-note"><em>A continuación se presenta la investigación sobre MPL elaborada por Vega, colaboradora de IA.</em></p>
+                <h3>Paul McCartney (MPL) y el legado de los estándares de los años 40</h3>
+                <p>En 1999, la licencia para cuatro canciones incluidas en el álbum <em><a href="https://cabin1701.com/books/6">I Have a Dream… Seina</a></em> ("Sentimental Journey", "It's Been a Long, Long Time", "I'll Walk Alone" y "We Mustn't Say Goodbye") fue otorgada por la editorial musical de Nueva York <strong>MPL Communications (MPL)</strong>.</p>
+                <p>La razón por la cual MPL, fundada por el ex-Beatle Paul McCartney, poseía y administraba los derechos de estas históricas canciones estándar estadounidenses de la época de la Segunda Guerra Mundial (los años 40) está profundamente entrelazada con la propia formación de McCartney y la historia de la edición musical.</p>
+                <h4>1. El origen: un piano familiar en Liverpool y los recuerdos de su padre</h4>
+                <p>El padre de Paul McCartney, Jim McCartney, tocaba el piano y la trompeta en una banda de jazz y ragtime llamada Jim Mac's Jazz Band en sus años de juventud.</p>
+                <p>El hogar de los McCartney en Liverpool, tras haber sobrevivido a los bombardeos de la guerra, contaba con un piano vertical alrededor del cual los familiares se reunían para cantar canciones populares y melodías teatrales de Broadway de aquella época. A través de la música de su padre, Paul creció inmerso en las armonías refinadas y las melodías memorables de los años 20 a 40, una base musical que más tarde definiría su propia sensibilidad melódica con The Beatles.</p>
+                <h4>2. 1976: Adquisición del catálogo de Edwin H. Morris &amp; Co.</h4>
+                <p>Tras la disolución de The Beatles, McCartney sufrió amargas disputas por el control y la propiedad de los derechos de sus propias composiciones (Northern Songs). En respuesta, fundó su propia compañía editorial, <strong>MPL Communications</strong>.</p>
+                <p>Guiado por el consejo de su suegro y abogado de confianza Lee Eastman —quien le recomendó invertir en aquello que mejor conocía y amaba—, McCartney comenzó a adquirir derechos editoriales de música. El mayor hito se produjo en 1976 con la adquisición de los derechos para Norteamérica del catálogo de la legendaria editorial estadounidense <strong>Edwin H. Morris &amp; Co.</strong></p>
+                <p>Edwin "Buddy" Morris había sido una figura fundamental de Tin Pan Alley entre las décadas de 1930 y 1950, forjando un inmenso imperio editorial que abarcaba musicales de Broadway y películas de Hollywood. Con esta adquisición, MPL puso bajo su tutela un tesoro extraordinario de la historia de la música popular estadounidense.</p>
+                <h4>3. Clásicos de la época de guerra gestionados por los sellos de Morris</h4>
+                <p>El catálogo de Morris, junto con sus filiales (como Morley Music Co.), albergaba numerosas obras maestras que acompañaron y sostuvieron a las personas durante la Segunda Guerra Mundial:</p>
+                <ul class="vega-list"><li><strong>"Sentimental Journey"</strong> (1944): Un himno de nostalgia y anhelo de regreso tanto para las tropas en el frente como para los veteranos que volvían a casa.</li><li><strong>"It's Been a Long, Long Time"</strong> (1945): Letra de Sammy Cahn y música de Jule Styne. Un estándar emblemático del final de la contienda que retrata el íntimo reencuentro de los amantes.</li><li><strong>"I'll Walk Alone"</strong> (1944): También de Cahn y Styne. Una promesa devota y leal desde la retaguardia de aguardar con entereza el regreso del ser amado.</li><li><strong>"We Mustn't Say Goodbye"</strong> (1943): Una tierna balada de despedida compuesta para la película <em>Stage Door Canteen</em>.</li></ul>
+                <p>Estas canciones, que atesoraban las despedidas, las plegarias y los reencuentros de aquella generación, se preservaron y continuaron bajo la custodia de MPL.</p>
+                <h4>4. La encrucijada de 1999: una licencia gratuita (Gratis License)</h4>
+                <p>En 1999, cuando Seina impulsó un proyecto sin fines de lucro para donar 3.500 copias de su CD como regalo de Navidad a hogares de ancianos de todo Estados Unidos —llevando consuelo a través de la música—, MPL fue la entidad encargada de otorgar las licencias.</p>
+                <p>El documento oficial emitido por Daniel Sokol, del Departamento de Derechos de Autor de MPL, confirmó <strong>"a one-time gratis mechanical use" (un uso mecánico gratuito por única vez)</strong> bajo las siguientes condiciones:</p>
+                <ol class="vega-list"><li>La licencia se limitaba estrictamente a las primeras 5.000 unidades producidas.</li><li>Las 5.000 copias debían entregarse de forma enteramente gratuita (<em>given away, free of charge</em>).</li><li>Debían incluirse de forma exacta los créditos especificados en la publicación.</li></ol>
+                <h4>Como encrucijada de la historia</h4>
+                <p>Estas melodías, nacidas en medio del conflicto bélico, cobijaron la infancia de Paul McCartney junto al piano familiar en Liverpool y fueron preservadas tiempo después dentro del patrimonio de MPL.</p>
+                <p>Medio siglo más tarde, cuando una cantante independiente japonesa emprendió el trabajo artesanal de llevar consuelo y plegarias a los ancianos a lo largo de Estados Unidos, MPL abrió sus puertas de manera desinteresada con la condición de que las 5.000 copias se entregaran gratuitamente. Esta carta de autorización no es un mero trámite administrativo, sino una fuente primaria que da testimonio de cómo la música trasciende fronteras y generaciones.</p>
+                <p class="byline">— AI G-Vega</p>
+              </>
+            )}
+            {r.id === 'white-house' && (
+              <>
+                <p>Antes de distribuir los CD, se envió a la Casa Blanca un paquete con información sobre el proyecto solicitando apoyo para la iniciativa.</p>
+                <p>La respuesta llegó el 1 de julio de 1999. Aunque la solicitud no pudo ser atendida conforme a la política vigente de la Casa Blanca, la carta confirma que los materiales enviados desde Japón fueron recibidos, revisados y respondidos formalmente.</p>
+                <p>A finales de los años noventa, esto significaba que una propuesta enviada por correo internacional podía llegar hasta el departamento correspondiente, recibir una respuesta oficial y ser devuelta junto con los materiales remitidos. Los documentos conservados muestran ese proceso.</p>
+                <figure class="record-photo">
+                  <img src="https://media.cabin1701.com/japoneson/angels-swing/evidence/white-house-reply-1999-07-01.jpg" alt="Carta de la Casa Blanca con fecha del 1 de julio de 1999, en respuesta a una solicitud de apoyo para el proyecto." data-zoom loading="lazy" />
+                  <figcaption>La Casa Blanca acusó recibo de los materiales del proyecto y respondió el 1 de julio de 1999. Aunque la solicitud no pudo ser atendida, la carta forma parte de los registros conservados del proyecto.</figcaption>
+                </figure>
+                <figure class="record-photo">
+                  <img src="https://media.cabin1701.com/japoneson/angels-swing/evidence/white-house-returned-envelope-1999.jpg" alt="Sobre de devolución dirigido a Shoko Shiraishi, con etiquetas postales de la Casa Blanca y sellos de correos." data-zoom loading="lazy" />
+                  <figcaption>El paquete devuelto por la Casa Blanca contenía los materiales enviados originalmente junto con la solicitud.</figcaption>
+                </figure>
+              </>
+            )}
+            {/* ここに、画像・説明文を入れる */}
+            <p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+          </>
+        ))}
+      </div>
+    </section>
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .breadcrumb-wrap {
+    padding-top: 1.5rem;
+    padding-bottom: 0.5rem;
+  }
+  .evidence-head {
+    text-align: center;
+    padding: 1.5rem 1rem 0.5rem;
+  }
+  .evidence-head h1 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 34px;
+    color: var(--color-accent);
+    margin: 0 0 0.6rem;
+  }
+  .hero-caption {
+    margin: 0 0 1.5rem;
+    font-size: 0.85rem;
+    color: #555;
+  }
+  .essay {
+    padding: 1rem 1.5rem 3rem;
+  }
+  .essay-inner {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  .essay-inner h2 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 24px;
+    color: var(--color-accent);
+    margin: 1.5rem 0 0.5rem;
+    text-align: center;
+  }
+  .essay-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .essay-inner h3 {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-navy);
+    margin: 1.6rem 0 0.4rem;
+    text-align: center;
+  }
+  .essay-inner h4 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    color: var(--color-navy);
+    margin: 1.4rem 0 0.3rem;
+  }
+  .vega-note {
+    margin-top: 2rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid #c8cfe0;
+    color: #555;
+  }
+  .essay-inner .vega-list {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+    padding-left: 1.4rem;
+  }
+  .essay-inner p.byline {
+    text-align: right;
+    color: #555;
+    font-size: 0.9rem;
+  }
+  .record-photo {
+    margin: 0.6rem auto 1.4rem;
+    max-width: 460px;
+    text-align: center;
+  }
+  .record-photo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.25);
+    cursor: zoom-in;
+  }
+  .record-photo figcaption {
+    margin-top: 0.6rem;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #555;
+  }
+  .back-to-toc {
+    margin: 1.2rem 0 0;
+    text-align: right;
+    font-size: 0.8rem;
+  }
+  .essay-inner p.back-to-toc {
+    font-size: 0.8rem;
+    margin: 1.2rem 0 0;
+  }
+  .back-to-toc a {
+    color: #888;
+    text-decoration: none;
+  }
+  .back-to-toc a:hover {
+    color: var(--color-accent);
+    text-decoration: underline;
+  }
+  .dream-toc {
+    max-width: 560px;
+    margin: 0 auto 2.5rem;
+    padding: 0 1rem;
+    text-align: center;
+  }
+  .dream-toc-head {
+    margin: 1.2rem 0 0.4rem;
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #888;
+  }
+  .dream-toc ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .dream-toc li {
+    margin: 0.5rem 0;
+    line-height: 1.6;
+  }
+  .dream-toc em {
+    font-weight: 700;
+    color: var(--color-navy);
+  }
+  .dream-toc a {
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+  .dream-toc a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const triggers = document.querySelectorAll<HTMLImageElement>('img[data-zoom]');
+    if (!triggers.length) return;
+    const box = document.createElement('div');
+    box.className = 'letter-lightbox';
+    const big = document.createElement('img');
+    box.appendChild(big);
+    document.body.appendChild(box);
+    triggers.forEach((trigger) => {
+      trigger.addEventListener('click', () => {
+        big.src = trigger.currentSrc || trigger.src;
+        big.alt = trigger.alt;
+        box.classList.add('open');
+      });
+    });
+    box.addEventListener('click', () => box.classList.remove('open'));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') box.classList.remove('open');
+    });
+  });
+</script>
+
+<style is:global>
+  .letter-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.85);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+    padding: 2rem;
+  }
+  .letter-lightbox.open {
+    display: flex;
+  }
+  .letter-lightbox img {
+    max-width: 92vw;
+    max-height: 92vh;
+    width: auto;
+    height: auto;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+  }
+</style>

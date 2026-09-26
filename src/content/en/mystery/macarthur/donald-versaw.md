@@ -5,7 +5,7 @@ wp_id: 19737
 wp_parent: 18809
 ---
 
-# From my Old G.I. Friend
+# Emails from Old G.I.
 
 ## Donald Versaw
 

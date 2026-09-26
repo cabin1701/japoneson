@@ -76,21 +76,50 @@ const trail = [
     </div>
 
     <div class="container top-video-wrap">
-      <div class="video-wrap top-video">
-        <iframe
-          src="https://www.youtube.com/embed/videoseries?list=PLdol6bNKBui14Dlq_aVcZb6KahHATc4KM"
-          title="I Have a Dream... Seina"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
-      </div>
+      <img
+        class="top-anime"
+        src="https://media.cabin1701.com/japoneson/angels-swing/anime-en-1.gif"
+        alt="The dream of singing World War II songs became a CD with the support of many people, and during Christmas season 1999 it reached 3,500 nursing homes in the U.S."
+        width="400"
+        height="292"
+      />
     </div>
+
+    <nav class="dream-toc" id="contents" aria-label="Contents">
+      <p class="dream-toc-head">On this page</p>
+      <ul>
+        <li><em>The Letter</em> – <a href="#letter">Dear Nursing Home in the U.S.</a></li>
+        <li><em>CD Album</em> – <a href="#cd-album">I Have a Dream… Seina</a></li>
+        <li><em>The CDs Arrive</em> – <a href="#cds-arrive">Boxes Filling the Room</a></li>
+        <li><em>Packing and Shipping</em> – <a href="#packing">Every One by Hand</a></li>
+        <li><em>In the Press</em> – <a href="#press">1999–2000</a></li>
+      </ul>
+      <p class="dream-toc-head">More pages</p>
+      <ul>
+
+        <li><em>Evidence</em> – <a href={`${base}en/swing/dream/evidence/`}>Archive &amp; Evidence</a></li>
+        <li><em>Old G.I.</em> – <a href={`${base}en/mystery/macarthur/donald-versaw/`}>Emails from Old G.I.</a></li>
+        <li><em>Nursing Homes</em> – <a href={`${base}en/swing/dream/letters/`}>Letters From Nursing Homes</a></li>
+        <li><em>Ryu Murakami</em> – <a href={`${base}en/swing/dream/ryu/`}>From Ryu Murakami</a></li>
+      </ul>
+    </nav>
 
     <section class="essay">
       <div class="essay-inner">
-        <h2>Angel&apos;s Swing &amp; Associates</h2>
+      <hr class="navy-rule" />
+        <h2 id="letter">The letter</h2>
+
+
+        <figure class="letter-scan">
+          <img
+            src="https://media.cabin1701.com/japoneson/angels-swing/letter-to-nursing-homes-1999.jpg"
+            alt="The letter Seina enclosed with the album, sent to nursing homes in December 1999"
+            data-zoom
+            loading="lazy"
+          />
+          <figcaption>Click to enlarge</figcaption>
+        </figure>
+        <hr class="navy-rule" />
         <p class="letter-date">December, 1999</p>
 
         <p>Dear Nursing Home in the U.S.:</p>
@@ -120,28 +149,27 @@ const trail = [
           Shoko “Seina” Shiraishi
         </p>
         <p>P.S. Please visit my Site, there is more information and messages from me…</p>
+        <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
 
-        <figure class="letter-scan">
-          <img
-            src="https://media.cabin1701.com/japoneson/angels-swing/letter-to-nursing-homes-1999.jpg"
-            alt="The letter Seina enclosed with the album, sent to nursing homes in December 1999"
-            data-zoom
-            loading="lazy"
-          />
-          <figcaption>Click to enlarge</figcaption>
-        </figure>
+       
         <hr class="navy-rule" />
-
-        <div class="musicians">
-          <p>Leonard Gaskin (bass),</p>
-          <p>Artie Baker (Clarinet & Tenor Sax),</p>
-          <p>Toya (piano),</p>
-          <p>Grady Tate (drums),</p>
-          <p>Ron Roulier (piano),</p>
-          <p>Howard Kimbo (Tenor Sax)</p>
-          <p>Seina (Vocals)</p>
+        <h2 id="cd-album">CD Album</h2>
+ <div class="musicians">
+       <h3>I Have a Dream...Seina</h3>
+          <p> The Songs for Nursing Homes in the U.S</p>
+          
         </div>
-
+     
+<div class="video-wrap top-video">
+        <iframe
+          src="https://www.youtube.com/embed/videoseries?list=PLdol6bNKBui14Dlq_aVcZb6KahHATc4KM"
+          title="I Have a Dream... Seina"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+      </div>
         <div class="album-block">
           <div class="album-cover">
             <img
@@ -168,17 +196,66 @@ const trail = [
         </div>
 
       </div>
+
+       <div class="musicians">
+       <h3>Musicians</h3>
+          <p>Leonard Gaskin (bass),</p>
+          <p>Artie Baker (Clarinet & Tenor Sax),</p>
+          <p>Toya (piano),</p>
+          <p>Grady Tate (drums),</p>
+          <p>Ron Roulier (piano),</p>
+          <p>Howard Kimbo (Tenor Sax)</p>
+          <p>Seina (Vocals)</p>
+        </div>
+       <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+       
     </section>
 
-    <div class="subgrid-narrow">
-    <hr class="navy-rule" />
-      <SubGrid cards={subCards} columns={2} />
-    </div>
+    <section class="essay">
+      <div class="essay-inner">
+        <hr class="navy-rule" />
+        <h2 id="cds-arrive">The CDs Arrive</h2>
+        <figure class="ship-photo">
+          <img
+            src="https://media.cabin1701.com/japoneson/angels-swing/cds-arrive-boxes.jpg"
+            alt="Boxes of finished CDs stacked high in a room in 1999"
+            data-zoom
+            loading="lazy"
+          />
+          <figcaption>The CDs arrived for the mailing to about 3,500 nursing homes. The room briefly became a warehouse.</figcaption>
+        </figure>
+        <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+
+        <hr class="navy-rule" />
+        <h2 id="packing">Packing and Shipping</h2>
+        <div class="ship-row">
+          <figure class="ship-photo">
+            <img
+              src="https://media.cabin1701.com/japoneson/angels-swing/cd-packages.jpg"
+              alt="CD packages boxed and ready for shipping"
+              data-zoom
+              loading="lazy"
+            />
+            <figcaption>The finished CDs were packaged and prepared for shipping. Everything was assembled and packed by hand.</figcaption>
+          </figure>
+          <figure class="ship-photo">
+            <img
+              src="https://media.cabin1701.com/japoneson/angels-swing/bulk-mail-sacks.jpg"
+              alt="Large post office mail sacks piled in a room, prepared for bulk mail"
+              data-zoom
+              loading="lazy"
+            />
+            <figcaption>Bulk Mail prepared for about 3,500 shipments. These sacks were carried to the post office many times, by taxi and in friends&apos; cars.</figcaption>
+          </figure>
+        </div>
+        <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+      </div>
+    </section>
 
     <section class="press-section">
       <div class="press-inner">
         <hr class="navy-rule" />
-        <h2>In the Press</h2>
+        <h2 id="press">In the Press</h2>
         <p class="press-note">
           Between July 1999 and February 2000, the project was covered by national and
           regional newspapers across Japan and by the Japanese-language press in New York.
@@ -204,6 +281,7 @@ const trail = [
             </figure>
           ))}
         </div>
+        <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
       </div>
     </section>
   </main>
@@ -362,6 +440,89 @@ const trail = [
   }
   .top-video-wrap .video-wrap {
     margin: 0 0 2rem;
+  }
+  .ship-photo {
+    margin: 1.5rem auto;
+    max-width: 420px;
+    text-align: center;
+  }
+  .ship-photo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  .ship-photo figcaption {
+    margin-top: 0.6rem;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #555;
+  }
+  .ship-row {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .ship-row .ship-photo {
+    flex: 1 1 0;
+    margin: 1.5rem 0;
+  }
+  @media (max-width: 700px) {
+    .ship-row { flex-direction: column; align-items: center; }
+    .ship-row .ship-photo { width: 100%; }
+  }
+  .back-to-toc {
+    margin: 1.2rem 0 0;
+    text-align: right;
+    font-size: 0.8rem;
+  }
+  .back-to-toc a {
+    color: #888;
+    text-decoration: none;
+  }
+  .back-to-toc a:hover {
+    color: var(--color-accent);
+    text-decoration: underline;
+  }
+  .dream-toc {
+    max-width: 560px;
+    margin: 0 auto 2.5rem;
+    padding: 0 1rem;
+    text-align: center;
+  }
+  .dream-toc-head {
+    margin: 1.2rem 0 0.4rem;
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #888;
+  }
+  .dream-toc ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .dream-toc li {
+    margin: 0.5rem 0;
+    line-height: 1.6;
+  }
+  .dream-toc em {
+    font-weight: 700;
+    color: var(--color-navy);
+  }
+  .dream-toc a {
+    color: var(--color-accent);
+    text-decoration: none;
+  }
+  .dream-toc a:hover {
+    text-decoration: underline;
+  }
+  .top-anime {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto 2rem;
   }
   .video-wrap iframe {
     position: absolute;
