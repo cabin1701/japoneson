@@ -369,6 +369,48 @@ async function collectCubaAstroPages() {
   return records;
 }
 
+// 6a3. swing/dream（1999）と swing/dream/evidence は .astro 直書きページ。
+// 本文を手打ちする代わりに、ビルド済みの dist/ から本文の文字だけ読む（2026-09-26）。
+// → 実行前に `npm run build` が要る。ページを変えたらビルドして再実行すれば追いつく。
+const DIST_ASTRO_PAGES = [
+  { key: 'swing-dream', path: 'swing/dream/' },
+  { key: 'swing-dream-evidence', path: 'swing/dream/evidence/' },
+];
+function distHtmlToText(html) {
+  let m = html.match(/<main[\s\S]*?<\/main>/);
+  let t = m ? m[0] : html;
+  t = t.replace(/<script[\s\S]*?<\/script>/g, '').replace(/<style[\s\S]*?<\/style>/g, '');
+  t = t.replace(/<nav class="dream-toc"[\s\S]*?<\/nav>/g, '');
+  t = t.replace(/<p class="back-to-toc">[\s\S]*?<\/p>/g, '');
+  t = t.replace(/<\/(p|h1|h2|h3|h4|li|figcaption|div|section)>/g, '\n').replace(/<br\s*\/?>/g, '\n');
+  t = t.replace(/<[^>]+>/g, '');
+  t = t.replace(/&amp;/g, '&').replace(/&#39;|&apos;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ');
+  return t.split('\n').map((l) => l.trim()).filter(Boolean).join('\n\n');
+}
+async function collectDistAstroPages() {
+  const records = [];
+  for (const page of DIST_ASTRO_PAGES) {
+    for (const lang of ['en', 'es']) {
+      const file = fileURLToPath(new URL(`../dist/${lang}/${page.path}index.html`, import.meta.url));
+      let html;
+      try { html = await readFile(file, 'utf-8'); } catch { console.log(`dist page missing (build first?): ${file}`); continue; }
+      const title = (html.match(/<title>([^<]*)<\/title>/)?.[1] || page.key).replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/ — Japon[ée]son$/, '');
+      const body = distHtmlToText(html);
+      const url = `https://japoneson.com/${lang}/${page.path}`;
+      chunkText(body, CHUNK_SIZE).forEach((chunk, i) => {
+        const id = createHash('sha1').update(`astro-page:${lang}:${page.key}:${i}`).digest('hex').slice(0, 32);
+        records.push({
+          id,
+          embedText: `${title}\n\n${chunk}`,
+          metadata: { lang, title, url, excerpt: chunk.slice(0, 300), type: 'article' },
+        });
+      });
+    }
+  }
+  console.log(`dist astro pages: ${records.length} chunks`);
+  return records;
+}
+
 // 6b. サイト全サブページ（Swing/Mystery/Murakami/Cupieの下の全記事）。type:'article'、lang別、URL付き
 // SITE_PAGES（入り口の6ページ）は別扱いなので除外。utility系（contact/home/privacy/terms）も除外
 const SUBPAGE_EXCLUDE = new Set([
@@ -499,6 +541,7 @@ async function main() {
     ...(await collectCupieDanny()),
     ...(await collectSitePages()),
     ...(await collectCubaAstroPages()),
+    ...(await collectDistAstroPages()),
     ...(await collectSubpages()),
     ...(await collectEssays()),
     ...(await collectVegapedia()),
