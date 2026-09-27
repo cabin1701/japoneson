@@ -13,7 +13,9 @@ wp_parent: 108
 
 ## Prologue of Memories: Prayers and Encounters
 
-On weekend afternoons, I often went to the Tower Records on Broadway. There, I found an unremarkable orange and brown CD jacket titled "JO STAFFORD sings SONGS OF WORLD WAR II," and on the back of the jewel case was a letter from Jo Stafford typed on a typewriter. My English wasn't very good back then, so I couldn't really understand what it said. I recall it was priced at $16.99—quite expensive compared to standard CDs—but I felt an overwhelming urge to buy it.
+East Village. From around 1991 to 1993, I lived in an old apartment on St. Marks Place, between 1st and 2nd Avenue. In the neighborhood, there was a music store called Carl Fischer.
+
+On weekend afternoons, I often went to the Tower Records on Broadway. There, on an unremarkable orange and brown CD jacket, the words "JO STAFFORD sings SONGS OF WORLD WAR II" were printed, and on the back of the jewel case was a letter from Jo Stafford typed on a typewriter. My English wasn't very good back then, so I couldn't really understand what it said. I recall it was priced at $16.99—quite expensive compared to standard CDs—but I felt an overwhelming urge to buy it.
 
 When I was in the eighth grade, I went to see a revival screening of the movie *The Glenn Miller Story*. In the final scene, as "Little Brown Jug" played from the radio, tears streamed down my face. From that day on, I saved my pocket money and lunch money, frequenting record shops and used vinyl stores.
 

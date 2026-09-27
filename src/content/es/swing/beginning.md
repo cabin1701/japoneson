@@ -13,7 +13,9 @@ wp_parent: 108
 
 ## Prólogo de recuerdos: oraciones y encuentros
 
-Los fines de semana por la tarde, iba a menudo a la tienda Tower Records de Broadway. Allí encontré la carátula de un CD, anaranjada y marrón, sin nada especial, titulada "JO STAFFORD sings SONGS OF WORLD WAR II", y en la parte trasera de la caja había una carta de Jo Stafford escrita a máquina. Mi inglés no era muy bueno en aquel entonces, así que no podía entender realmente lo que decía. Recuerdo que costaba 16,99 dólares —bastante caro comparado con un CD normal—, pero sentí unas ganas irresistibles de comprarlo.
+East Village. Desde alrededor de 1991 hasta 1993, viví en un viejo apartamento en St. Marks Place, entre la 1ª y la 2ª Avenida. En el vecindario también había una tienda de partituras llamada Carl Fischer.
+
+Las tardes de los fines de semana, solía ir a menudo al Tower Records de Broadway. Allí, en una modesta portada de CD en tonos naranja y marrón, simplemente estaban impresas las palabras "JO STAFFORD sings SONGS OF WORLD WAR II", y en la parte trasera del estuche había una carta de Jo Stafford escrita a máquina. En aquel entonces mi inglés no era muy bueno, así que no entendía bien lo que decía. Creo recordar que costaba 16,99 dólares; era un precio bastante alto en comparación con los CD comunes, pero sentí un deseo irreprimible de comprarlo.
 
 Cuando estaba en segundo de secundaria, fui a ver una reposición de la película *The Glenn Miller Story*. En la última escena, mientras sonaba "Little Brown Jug" en la radio, las lágrimas me corrían por la cara. Desde ese día, ahorré mi dinero de bolsillo y el dinero del almuerzo, y frecuenté tiendas de discos y de vinilos usados.
 
