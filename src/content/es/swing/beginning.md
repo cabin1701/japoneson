@@ -11,15 +11,19 @@ wp_parent: 108
 
 # Angels Swing – El comienzo del viaje
 
-<nav aria-label="En esta página" style="max-width:560px;margin:0 auto 2.5rem;padding:0 1rem;text-align:center">
+<nav class="beginning-toc" aria-label="En esta página" style="max-width:560px;margin:0 auto 2.5rem;padding:0 1rem;text-align:center">
   <p style="margin:1.2rem 0 0.4rem;font-size:0.85rem;letter-spacing:0.08em;text-transform:uppercase;color:#888">En esta página</p>
   <ul style="list-style:none;margin:0;padding:0">
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#prólogo-de-recuerdos-oraciones-y-encuentros" style="color:var(--color-accent);text-decoration:none">Prólogo de recuerdos: oraciones y encuentros</a></li>
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#la-carta-de-jo-stafford" style="color:var(--color-accent);text-decoration:none">La carta de Jo Stafford</a></li>
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#el-álbum-y-el-sello-discográfico" style="color:var(--color-accent);text-decoration:none">El álbum y el sello discográfico</a></li>
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#glenn-miller-y-las-oraciones-en-primera-línea-v-disc" style="color:var(--color-accent);text-decoration:none">Glenn Miller y las oraciones en primera línea (V-Disc)</a></li>
+    <li style="margin:0.5rem 0;line-height:1.6"><a href="#prólogo-de-recuerdos-oraciones-y-encuentros">Prólogo de recuerdos: oraciones y encuentros</a></li>
+    <li style="margin:0.5rem 0;line-height:1.6"><a href="#la-carta-de-jo-stafford">La carta de Jo Stafford</a></li>
+    <li style="margin:0.5rem 0;line-height:1.6"><a href="#el-álbum-y-el-sello-discográfico">El álbum y el sello discográfico</a></li>
+    <li style="margin:0.5rem 0;line-height:1.6"><a href="#glenn-miller-y-las-oraciones-en-primera-línea-v-disc">Glenn Miller y las oraciones en primera línea (V-Disc)</a></li>
   </ul>
 </nav>
+<style>
+  .beginning-toc a { color: var(--color-navy); text-decoration: none; }
+  .beginning-toc a:hover { color: var(--color-accent); }
+</style>
 
 ## Prólogo de recuerdos: oraciones y encuentros
 
