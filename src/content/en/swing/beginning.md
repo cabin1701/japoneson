@@ -11,6 +11,16 @@ wp_parent: 108
 
 # Angels Swing – The Beginning of the Journey
 
+<nav aria-label="On this page" style="max-width:560px;margin:0 auto 2.5rem;padding:0 1rem;text-align:center">
+  <p style="margin:1.2rem 0 0.4rem;font-size:0.85rem;letter-spacing:0.08em;text-transform:uppercase;color:#888">On this page</p>
+  <ul style="list-style:none;margin:0;padding:0">
+    <li style="margin:0.5rem 0;line-height:1.6"><a href="#prologue-of-memories-prayers-and-encounters" style="color:var(--color-accent);text-decoration:none">Prologue of Memories: Prayers and Encounters</a></li>
+    <li style="margin:0.5rem 0;line-height:1.6"><a href="#the-letter-from-jo-stafford" style="color:var(--color-accent);text-decoration:none">The Letter from Jo Stafford</a></li>
+    <li style="margin:0.5rem 0;line-height:1.6"><a href="#the-album-and-the-record-label" style="color:var(--color-accent);text-decoration:none">The Album and the Record Label</a></li>
+    <li style="margin:0.5rem 0;line-height:1.6"><a href="#glenn-miller-and-prayers-on-the-front-lines-v-disc" style="color:var(--color-accent);text-decoration:none">Glenn Miller and Prayers on the Front Lines (V-Disc)</a></li>
+  </ul>
+</nav>
+
 ## Prologue of Memories: Prayers and Encounters
 
 East Village. From around 1991 to 1993, I lived in an old apartment on St. Marks Place, between 1st and 2nd Avenue. In the neighborhood, there was a music store called Carl Fischer.
