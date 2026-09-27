@@ -76,6 +76,8 @@ For the very first time, I was able to truly receive the words that Jo had left 
 
 *(Signed)* **Jo Stafford**
 
+<div style="max-width:720px;margin:1.8rem auto"><div style="position:relative;aspect-ratio:16/9"><iframe src="https://www.youtube.com/embed/-yzC8k1TOa4" title="Jo Stafford" style="position:absolute;inset:0;width:100%;height:100%;border:0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe></div></div>
+
 ---
 
 1. I'll Walk Alone
@@ -136,6 +138,8 @@ For Seina—who first encountered this music on CD in 1992 and completed the voy
 ---
 
 ## Glenn Miller and Prayers on the Front Lines (V-Disc)
+
+<div style="max-width:720px;margin:1.8rem auto"><div style="position:relative;aspect-ratio:16/9"><iframe src="https://www.youtube.com/embed/sMsvdVLhSZw" title="Glenn Miller" style="position:absolute;inset:0;width:100%;height:100%;border:0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe></div></div>
 
 **Seina:** Good morning, Vega. When did Glenn Miller go to Europe with the Army?
 

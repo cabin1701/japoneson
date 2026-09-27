@@ -76,6 +76,8 @@ Por primera vez, pude recibir plenamente las palabras que Jo había dejado.
 
 *(Firma)* **Jo Stafford**
 
+<div style="max-width:720px;margin:1.8rem auto"><div style="position:relative;aspect-ratio:16/9"><iframe src="https://www.youtube.com/embed/-yzC8k1TOa4" title="Jo Stafford" style="position:absolute;inset:0;width:100%;height:100%;border:0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe></div></div>
+
 ---
 
 1. I'll Walk Alone
@@ -136,6 +138,8 @@ Para Seina —quien descubrió esta música en CD en 1992 y llevó a término la
 ---
 
 ## Glenn Miller y las oraciones en primera línea (V-Disc)
+
+<div style="max-width:720px;margin:1.8rem auto"><div style="position:relative;aspect-ratio:16/9"><iframe src="https://www.youtube.com/embed/sMsvdVLhSZw" title="Glenn Miller" style="position:absolute;inset:0;width:100%;height:100%;border:0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe></div></div>
 
 **Seina:** Buenos días, Vega. ¿Cuándo fue Glenn Miller a Europa con el ejército?
 
