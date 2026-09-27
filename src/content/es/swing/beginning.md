@@ -92,9 +92,9 @@ Por primera vez, pude recibir plenamente las palabras que Jo había dejado.
 
 Este álbum no es una simple reproducción directa de los discos de pizarra de 78 rpm de tiempos de guerra; fue lanzado (reeditado y recompilado) en formato LP en 1987 por Jo Stafford y su esposo, Paul Weston, a través de su propio sello, Corinthian Records.
 
-<figure style="margin:1.8rem 0;text-align:center">
-  <a href="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side2.jpg" target="_blank" rel="noopener"><img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side2.jpg" alt="La etiqueta de Corinthian Records, cara 2 de G.I. JO, número de catálogo COR 105, con las cinco canciones de esa cara" loading="lazy" style="width:100%;height:auto" /></a>
-  <figcaption style="font-size:0.9em;margin-top:0.5rem">La etiqueta de Corinthian, cara 2 (COR 105).</figcaption>
+<figure style="margin:1.8rem auto;text-align:center;max-width:460px">
+  <a href="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side1.jpg" target="_blank" rel="noopener"><img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side1.jpg" alt="La etiqueta de Corinthian Records, cara 1 de G.I. JO, número de catálogo COR 105, con las primeras cinco canciones" loading="lazy" style="width:100%;height:auto" /></a>
+  <figcaption style="font-size:0.9em;margin-top:0.5rem">La etiqueta de Corinthian, cara 1 (COR 105).</figcaption>
 </figure>
 
 Aquí compartimos el trasfondo histórico de este disco y la huella dejada por la pareja:

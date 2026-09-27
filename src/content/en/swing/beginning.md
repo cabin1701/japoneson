@@ -92,9 +92,9 @@ For the very first time, I was able to truly receive the words that Jo had left 
 
 This album is not a direct press of wartime 78 rpm records; rather, it was released (reissued and recompiled) as an LP in 1987 by Jo Stafford and her husband, Paul Weston, on their own label, Corinthian Records!
 
-<figure style="margin:1.8rem 0;text-align:center">
-  <a href="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side2.jpg" target="_blank" rel="noopener"><img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side2.jpg" alt="The Corinthian Records label, side 2 of G.I. JO, catalog number COR 105, with the five tracks on that side" loading="lazy" style="width:100%;height:auto" /></a>
-  <figcaption style="font-size:0.9em;margin-top:0.5rem">The Corinthian label, side 2 (COR 105).</figcaption>
+<figure style="margin:1.8rem auto;text-align:center;max-width:460px">
+  <a href="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side1.jpg" target="_blank" rel="noopener"><img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side1.jpg" alt="The Corinthian Records label, side 1 of G.I. JO, catalog number COR 105, with the first five tracks" loading="lazy" style="width:100%;height:auto" /></a>
+  <figcaption style="font-size:0.9em;margin-top:0.5rem">The Corinthian label, side 1 (COR 105).</figcaption>
 </figure>
 
 Here is the historical background of this record and the legacy left behind by the couple:
