@@ -11,7 +11,7 @@ wp_parent: 108
 
 # Angels Swing – The Beginning of the Journey
 
-<nav class="beginning-toc" aria-label="On this page" style="max-width:560px;margin:0 auto 2.5rem;padding:0 1rem;text-align:center">
+<nav class="beginning-toc" id="contents" aria-label="On this page" style="max-width:560px;margin:0 auto 2.5rem;padding:0 1rem;text-align:center">
   <p style="margin:1.2rem 0 0.4rem;font-size:0.85rem;letter-spacing:0.08em;text-transform:uppercase;color:#888">On this page</p>
   <ul style="list-style:none;margin:0;padding:0">
     <li style="margin:0.5rem 0;line-height:1.6"><a href="#prologue-of-memories-prayers-and-encounters">Prologue of Memories: Prayers and Encounters</a></li>
@@ -23,6 +23,9 @@ wp_parent: 108
 <style>
   .beginning-toc a { color: var(--color-navy); text-decoration: none; }
   .beginning-toc a:hover { color: var(--color-accent); }
+  .back-to-toc { margin: 1.2rem 0 0; text-align: right; font-size: 0.8rem; }
+  .back-to-toc a { color: #888; text-decoration: none; }
+  .back-to-toc a:hover { color: var(--color-accent); text-decoration: underline; }
 </style>
 
 ## Prologue of Memories: Prayers and Encounters
@@ -57,6 +60,8 @@ For the very first time, I was able to truly receive the words that Jo had left 
   <figcaption style="font-size:0.9em;margin-top:0.5rem">The front cover of G.I. JO, and Jo Stafford's letter on the back cover.</figcaption>
 </figure>
 
+<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+
 ---
 
 ## The Letter from Jo Stafford
@@ -83,6 +88,8 @@ For the very first time, I was able to truly receive the words that Jo had left 
 8. I Don't Want To Walk Without You
 9. I Fall In Love Too Easily
 10. I'll Be Seeing You
+
+<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -123,6 +130,8 @@ Rather than a mass-market commercial product pushed through major distribution n
 Pressed onto vinyl right at the transition era when the music market was completely shifting to CD (1987), the lengthy personal note typed by Jo on the back cover is an invaluable primary historical document that preserves the living breath of that era—scarcely preserved in text form across modern public databases.
 
 For Seina—who first encountered this music on CD in 1992 and completed the voyage of sending it across America in 1999—to have drawn this "rare LP filled with the handmade prayers of the couple" into her hands after 2010 was truly an inevitable alignment of fate.
+
+<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -174,3 +183,5 @@ On numerous discs, Glenn Miller personally speaks to the soldiers before the mus
 Unlike his commercial RCA Victor releases, these discs captured live master recordings from wartime radio broadcasts (such as the AEF programs) and exclusive V-Disc studio sessions. Even today, many historians and jazz connoisseurs maintain that the true pinnacle of Glenn Miller's artistic legacy lies not in his civilian records, but in these impassioned wartime V-Disc sessions.
 
 For soldiers stationed in rain-soaked overseas camps, Glenn Miller's music pouring from a wind-up phonograph was nothing less than the sound of "Home"—the single greatest source of strength to survive another day.
+
+<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
