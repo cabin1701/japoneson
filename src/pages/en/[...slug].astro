@@ -87,3 +87,50 @@ const metaDescription = deriveExcerpt(entry.body);
   </main>
   <Footer lang="en" />
 </Layout>
+
+<script is:inline>
+  // Content-collection pages: click a data-zoom image to view it enlarged.
+  document.addEventListener('DOMContentLoaded', () => {
+    const triggers = document.querySelectorAll('article img[data-zoom]');
+    if (!triggers.length) return;
+    const box = document.createElement('div');
+    box.className = 'article-lightbox';
+    const big = document.createElement('img');
+    box.appendChild(big);
+    document.body.appendChild(box);
+    triggers.forEach((trigger) => {
+      trigger.style.cursor = 'zoom-in';
+      trigger.addEventListener('click', () => {
+        big.src = trigger.currentSrc || trigger.src;
+        big.alt = trigger.alt;
+        box.classList.add('open');
+      });
+    });
+    box.addEventListener('click', () => box.classList.remove('open'));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') box.classList.remove('open');
+    });
+  });
+</script>
+
+<style is:global>
+  .article-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.85);
+    padding: 2rem;
+    cursor: zoom-out;
+  }
+  .article-lightbox.open {
+    display: flex;
+  }
+  .article-lightbox img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+</style>

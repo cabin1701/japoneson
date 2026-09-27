@@ -33,7 +33,7 @@ wp_parent: 108
 East Village. Desde alrededor de 1991 hasta 1993, viví en un viejo apartamento en St. Marks Place, entre la 1ª y la 2ª Avenida. En el vecindario también estaba la tienda de partituras "Carl Fischer".
 
 <figure style="margin:1.8rem 0;text-align:center">
-  <a href="https://media.cabin1701.com/japoneson/angels-swing/gijo/east-village.jpg" target="_blank" rel="noopener"><img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/east-village.jpg" alt="Una hilera de edificios en el East Village, Nueva York: un edificio de apartamentos blanco con escalera de incendios, junto a una iglesia con puertas verdes" loading="lazy" style="width:100%;height:auto" /></a>
+  <img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/east-village.jpg" alt="Una hilera de edificios en el East Village, Nueva York: un edificio de apartamentos blanco con escalera de incendios, junto a una iglesia con puertas verdes" loading="lazy" style="width:100%;height:auto" data-zoom />
 </figure>
 
 Las tardes de los fines de semana, solía ir a menudo al Tower Records de Broadway. Allí, en una modesta portada de CD en tonos naranja y marrón, simplemente estaban impresas las palabras "JO STAFFORD sings SONGS OF WORLD WAR II", y en la parte trasera del estuche había una carta de Jo Stafford escrita a máquina. En aquel entonces mi inglés no era muy bueno, así que no entendía bien lo que decía. Creo recordar que costaba 16,99 dólares; era un precio bastante alto en comparación con los CD comunes, pero sentí un deseo irreprimible de comprarlo.
@@ -56,7 +56,7 @@ En 2026, tomé una fotografía de la carta de Jo Stafford que se encuentra en la
 Por primera vez, pude recibir plenamente las palabras que Jo había dejado.
 
 <figure style="margin:1.8rem 0;text-align:center">
-  <a href="https://media.cabin1701.com/japoneson/angels-swing/gijo/jacket-and-liner.jpg" target="_blank" rel="noopener"><img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/jacket-and-liner.jpg" alt="La portada del LP G.I. JO (Jo Stafford sings Songs of World War II), y la carta escrita a máquina de Jo Stafford, con su firma, impresa en la contraportada" loading="lazy" style="width:100%;height:auto" /></a>
+  <img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/jacket-and-liner.jpg" alt="La portada del LP G.I. JO (Jo Stafford sings Songs of World War II), y la carta escrita a máquina de Jo Stafford, con su firma, impresa en la contraportada" loading="lazy" style="width:100%;height:auto" data-zoom />
   <figcaption style="font-size:0.9em;margin-top:0.5rem">La portada de G.I. JO, y la carta de Jo Stafford en la contraportada.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ Por primera vez, pude recibir plenamente las palabras que Jo había dejado.
 Este álbum no es una simple reproducción directa de los discos de pizarra de 78 rpm de tiempos de guerra; fue lanzado (reeditado y recompilado) en formato LP en 1987 por Jo Stafford y su esposo, Paul Weston, a través de su propio sello, Corinthian Records.
 
 <figure style="margin:1.8rem auto;text-align:center;max-width:460px">
-  <a href="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side1.jpg" target="_blank" rel="noopener"><img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side1.jpg" alt="La etiqueta de Corinthian Records, cara 1 de G.I. JO, número de catálogo COR 105, con las primeras cinco canciones" loading="lazy" style="width:100%;height:auto" /></a>
+  <img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side1.jpg" alt="La etiqueta de Corinthian Records, cara 1 de G.I. JO, número de catálogo COR 105, con las primeras cinco canciones" loading="lazy" style="width:100%;height:auto" data-zoom />
   <figcaption style="font-size:0.9em;margin-top:0.5rem">La etiqueta de Corinthian, cara 1 (COR 105).</figcaption>
 </figure>
 
