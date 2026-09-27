@@ -27,7 +27,11 @@ wp_parent: 108
 
 ## Prologue of Memories: Prayers and Encounters
 
-East Village. From around 1991 to 1993, I lived in an old apartment on St. Marks Place, between 1st and 2nd Avenue. In the neighborhood, there was a music store called Carl Fischer.
+East Village. From around 1991 to 1993, I lived in an old apartment on St. Marks Place, between 1st and 2nd Avenue. In the neighborhood, there was the music store "Carl Fischer".
+
+<figure style="margin:1.8rem 0;text-align:center">
+  <a href="https://media.cabin1701.com/japoneson/angels-swing/gijo/east-village.jpg" target="_blank" rel="noopener"><img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/east-village.jpg" alt="A row of buildings in the East Village, New York: a white apartment building with a fire escape, next to a church with green double doors" loading="lazy" style="width:100%;height:auto" /></a>
+</figure>
 
 On weekend afternoons, I often went to the Tower Records on Broadway. There, on an unremarkable orange and brown CD jacket, the words "JO STAFFORD sings SONGS OF WORLD WAR II" were printed, and on the back of the jewel case was a letter from Jo Stafford typed on a typewriter. My English wasn't very good back then, so I couldn't really understand what it said. I recall it was priced at $16.99—quite expensive compared to standard CDs—but I felt an overwhelming urge to buy it.
 

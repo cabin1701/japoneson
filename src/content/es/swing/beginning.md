@@ -27,7 +27,11 @@ wp_parent: 108
 
 ## Prólogo de recuerdos: oraciones y encuentros
 
-East Village. Desde alrededor de 1991 hasta 1993, viví en un viejo apartamento en St. Marks Place, entre la 1ª y la 2ª Avenida. En el vecindario también había una tienda de partituras llamada Carl Fischer.
+East Village. Desde alrededor de 1991 hasta 1993, viví en un viejo apartamento en St. Marks Place, entre la 1ª y la 2ª Avenida. En el vecindario también estaba la tienda de partituras "Carl Fischer".
+
+<figure style="margin:1.8rem 0;text-align:center">
+  <a href="https://media.cabin1701.com/japoneson/angels-swing/gijo/east-village.jpg" target="_blank" rel="noopener"><img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/east-village.jpg" alt="Una hilera de edificios en el East Village, Nueva York: un edificio de apartamentos blanco con escalera de incendios, junto a una iglesia con puertas verdes" loading="lazy" style="width:100%;height:auto" /></a>
+</figure>
 
 Las tardes de los fines de semana, solía ir a menudo al Tower Records de Broadway. Allí, en una modesta portada de CD en tonos naranja y marrón, simplemente estaban impresas las palabras "JO STAFFORD sings SONGS OF WORLD WAR II", y en la parte trasera del estuche había una carta de Jo Stafford escrita a máquina. En aquel entonces mi inglés no era muy bueno, así que no entendía bien lo que decía. Creo recordar que costaba 16,99 dólares; era un precio bastante alto en comparación con los CD comunes, pero sentí un deseo irreprimible de comprarlo.
 
