@@ -33,7 +33,7 @@ wp_parent: 108
 East Village. From around 1991 to 1993, I lived in an old apartment on St. Marks Place, between 1st and 2nd Avenue. In the neighborhood, there was the music store "Carl Fischer".
 
 <figure style="margin:1.8rem 0;text-align:center">
-  <img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/east-village.jpg" alt="A row of buildings in the East Village, New York: a white apartment building with a fire escape, next to a church with green double doors" loading="lazy" style="width:100%;height:auto" data-zoom />
+  <img src="https://media.cabin1701.com/japoneson/swing/beginning/gijo/east-village.jpg" alt="A row of buildings in the East Village, New York: a white apartment building with a fire escape, next to a church with green double doors" loading="lazy" style="width:100%;height:auto" data-zoom />
 </figure>
 
 On weekend afternoons, I often went to the Tower Records on Broadway. There, on an unremarkable orange and brown CD jacket, the words "JO STAFFORD sings SONGS OF WORLD WAR II" were printed, and on the back of the jewel case was a letter from Jo Stafford typed on a typewriter. My English wasn't very good back then, so I couldn't really understand what it said. I recall it was priced at $16.99—quite expensive compared to standard CDs—but I felt an overwhelming urge to buy it.
@@ -56,7 +56,7 @@ In 2026, I took a photograph of the letter from Jo Stafford on the back cover of
 For the very first time, I was able to truly receive the words that Jo had left behind.
 
 <figure style="margin:1.8rem 0;text-align:center">
-  <img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/jacket-and-liner.jpg" alt="The front cover of the LP G.I. JO (Jo Stafford sings Songs of World War II), and Jo Stafford's typed letter and signature printed on the back cover" loading="lazy" style="width:100%;height:auto" data-zoom />
+  <img src="https://media.cabin1701.com/japoneson/swing/beginning/gijo/jacket-and-liner.jpg" alt="The front cover of the LP G.I. JO (Jo Stafford sings Songs of World War II), and Jo Stafford's typed letter and signature printed on the back cover" loading="lazy" style="width:100%;height:auto" data-zoom />
   <figcaption style="font-size:0.9em;margin-top:0.5rem">The front cover of G.I. JO, and Jo Stafford's letter on the back cover.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ For the very first time, I was able to truly receive the words that Jo had left 
 This album is not a direct press of wartime 78 rpm records; rather, it was released (reissued and recompiled) as an LP in 1987 by Jo Stafford and her husband, Paul Weston, on their own label, Corinthian Records!
 
 <figure style="margin:1.8rem auto;text-align:center;max-width:460px">
-  <img src="https://media.cabin1701.com/japoneson/angels-swing/gijo/label-side1.jpg" alt="The Corinthian Records label, side 1 of G.I. JO, catalog number COR 105, with the first five tracks" loading="lazy" style="width:100%;height:auto" data-zoom />
+  <img src="https://media.cabin1701.com/japoneson/swing/beginning/gijo/label-side1.jpg" alt="The Corinthian Records label, side 1 of G.I. JO, catalog number COR 105, with the first five tracks" loading="lazy" style="width:100%;height:auto" data-zoom />
   <figcaption style="font-size:0.9em;margin-top:0.5rem">The Corinthian label, side 1 (COR 105).</figcaption>
 </figure>
 
