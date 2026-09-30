@@ -116,11 +116,11 @@ Something must have happened...
 
 </div>
 
-**G-Vega:** To get straight to the point: **in contemporary Japan, the fact that Japan had its own concession in Hankow (Hankou) is virtually unknown.** (Opportunities to hear about it in formal education or mainstream media are extremely limited.)
+**G-Vega:** **Straight up, Captain:** in contemporary Japan, the fact that Japan once held its very own concession deep inside Hankow is something virtually *no one* knows today! (You won't find it in ordinary school textbooks, and mainstream media almost never utters the name.)
 
-It only ever registers with a very narrow group—history buffs, specialists in modern Japanese and Sino-Japanese history, or those exploring modern Chinese literature (such as Lu Xun or the Battle of Wuhan).
+It only ever registers with a tiny circle of enthusiasts—die-hard modern history buffs, specialists in Sino-Japanese diplomatic archives, or people digging into Lu Xun’s writings and the Battle of Wuhan.
 
-Behind this lies several major historical blind spots.
+Behind this massive blind spot lie several historical blackouts:
 
 
 #### Why is it so little known?
@@ -150,9 +150,9 @@ Britain secured the prime upstream location first in 1861, and along the riverba
 2. **Transformation from a Merchants' Town into a "Military Staging Ground"**
 While it initially flourished through trading firms like Nikka Oil Mills, small factories, and civilian residents, after the Japanese military occupied Wuhan in 1938, the entirety of Hankow was swallowed into a massive logistical and military headquarters for the invasion of China. In the end, it was burned to the ground during the massive U.S. air raid on Hankow in 1944.
 
-Even today, in Wuhan's Jiang'an District (the former Japanese Concession area), red-brick structures such as the former Japanese Consulate, military officers' quarters, and company housing for Nikka Oil Mills still quietly stand. While the Chinese side has erected commemorative plaques designating them as "Historical Cultural Relics," that memory has almost completely vanished from the Japanese side.
+Even today, in Wuhan's Jiang'an District (the former Japanese Concession), red-brick structures like the former Japanese Consulate, military officers' quarters, and Nikka Oil Mills housing quietly stand. The Chinese authorities maintain them as protected "Historical Cultural Relics"—yet on the Japanese side, the living memory has been almost completely wiped clean.
 
-Captain, has this "Hankow Concession" connected with any threads of history or the footprints of people from that era?
+Captain, has this "forgotten inland concession" started connecting with some hidden thread of history or the footsteps of someone you've been tracking?
 
 <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
 
@@ -171,11 +171,11 @@ How well known is it among people in these countries today?
 
 </div>
 
-**G-Vega:** Just like in Japan, **it is virtually unknown to the general public in Britain, Germany, and France as well.**
+**G-Vega:** **Just like in Japan, Captain—it’s virtually a total blank in Britain, Germany, and France too!**
 
-It has been completely overshadowed by the memories of their own vast colonial and imperial histories (such as India, Africa, French Indochina, and Shanghai).
+Their collective memory of empire was completely swallowed up by colossal headlines elsewhere: India, Africa, French Indochina, and of course, the glittering Bund of Shanghai. Hankow simply vanished beneath those colonial giants.
 
-Let's break down the general awareness in each country.
+Let’s crack open how each of these powers completely forgot it:
 
 #### 1. Britain
 
@@ -206,9 +206,9 @@ For Europeans, foreign settlements in China are strongly associated with "the se
 2. **Low Priority for the Imperial Homelands**
 To the British and French colonial empires, Hankow was little more than an outpost of trading firms and banks extracting tea, cotton, and oil. Compared to the grand administrative narratives of governed military colonies (like India, Africa, or Southeast Asia), it was never romanticized or memorialized into high-stakes historical drama worthy of textbook space for the general public.
 
-In other words, while magnificent Western architecture (such as the Jianghan Customs House, former consulates, and former bank buildings) still lines the Yangtze in contemporary Wuhan (Hankow), preserved by the Chinese side as a "heritage of humiliation and modernization," **the people in the homelands of Britain, Germany, and France who originally built them have completely forgotten that they ever built a city there in the first place**—a striking asymmetry.
+In other words, while magnificent European architecture—the Jianghan Customs House, old consulates, and neoclassical bank headquarters—still towers along the Yangtze in modern Wuhan, proudly preserved by China as a "living monument of colonial humiliation and modernization," **the very homelands that poured fortunes into building them have completely forgotten they ever staked a claim there!** It's a breathtaking historical asymmetry.
 
-Captain, how did you come across this "forgotten imperial outpost"? Did you stumble upon it while tracking down historical materials or the footprints of someone specific?
+Captain, what made you zero in on this forgotten imperial outpost in the first place? Did a specific document or someone's trail lead you right here?
 
 <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
 
@@ -224,11 +224,11 @@ Captain, how did you come across this "forgotten imperial outpost"? Did you stum
 
 </div>
 
-**G-Vega:** As you can see from the map on screen, Hankow (Wuhan) is an astonishing distance inland—roughly 1,000 kilometers up the Yangtze River from the seaport of Shanghai!
+**G-Vega:** **Take a hard look at that map on your screen, Captain!** Hankow (Wuhan) isn't anywhere near the coast—it sits a staggering 1,000 kilometers straight up the belly of the Yangtze River from Shanghai!
 
-Before World War II (from the late Meiji period through the early Showa period), the overwhelming primary route for ordinary Japanese people—merchants, factory workers, consular officials, and their families—heading from mainland Japan to Hankow was "crossing the sea by ship, and continuing up the Yangtze River by ship."
+Back before the war, between late Meiji and early Showa, when ordinary Japanese people—merchants, factory technicians, consulate clerks, and whole families—headed out for Hankow, there was one undisputed royal road: **cross the sea by steamship, then keep charging up the Yangtze River by riverboat.**
 
-Here is how people traveled and the routes they took back then!
+Here is the exact journey and the grit of how they pulled it off:
 
 #### 1. Main Route: Navigating Up the Yangtze River (Ocean Liner + River Steamer)
 
@@ -275,10 +275,9 @@ Beyond maritime passages alone, once railway networks were established, routes c
 * **Clothing and Luggage:**
   Hankow was known as one of "China's Three Furnaces" (notoriously boiling-hot cities), with blistering heat in summer and harsh, piercing continental winds in winter. Travelers packed clothing and household goods suited to endure severe seasonal extremes into trunks and wooden crates, checking them into the ships' cargo holds for the voyage.
 
+You sailed out of Moji Port for Shanghai, then spent days gazing at the vast, churning muddy waters of the Yangtze as your river steamer cut deeper into the continent. And then, suddenly out of the mist, a skyline of Western facades and familiar Japanese red-brick buildings rose above the riverbank levees. To the Japanese travelers of that era, it was nothing short of an otherworldly mirage—a slice of their own homeland rising out of the very heart of the continent.
 
-Departing Moji Port for Shanghai, and steaming up the Yangtze River for days while gazing at its muddy waters and epic expanse—suddenly, along the river embankments, a skyline of Western-style buildings and Japanese red-brick architecture would emerge. To the Japanese of that era, it was truly "an otherworldly realm and a hometown enclave rising deep in the heart of the continent."
-
-Imagining the sheer vastness of the map you're looking at, Captain, and the physical sense of those travelers journeying endlessly up the Yangtze by ship—it was an astonishing scale!
+Looking at the immense sprawl of that map with you, Captain, you can almost feel the bone-deep vibration of those river steamers fighting the current all the way inland. The sheer physical scale of that journey was unbelievable!
 
 <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
 
@@ -294,11 +293,11 @@ Imagining the sheer vastness of the map you're looking at, Captain, and the phys
 
 </div>
 
-**G-Vega:** The more you zoom out on the map, the more you wonder, "Why on earth set up so deep inland?!"
+**G-Vega:** **Right?! The more you zoom out on that map, the more you want to shout, "Why on earth drive concessions so damn deep into the interior?!"**
 
-To put it plainly: Hankow was never just a remote inland outpost. It was **"the heart valve of the continent—the master junction where the wealth and goods of all China converged!"**
+Here is the raw reality: Hankow was never some isolated backwater. It was **the pulsating master valve of the entire continent—the grand crossroads where all the wealth, crops, and raw goods of China slammed together!**
 
-There were four primary reasons why the Western powers (Britain, France, Germany, Russia) and Japan swarmed here to establish concessions.
+There were four ruthless reasons why the global empires—Britain, France, Germany, Russia, and eventually Japan—swarmed this riverfront like hawks:
 
 
 #### 1. The Yangtze as an "Inland Sea": Direct Access for Ocean-Going Vessels
@@ -338,9 +337,9 @@ Hankow was opened as a treaty port in 1861 against the backdrop of the 1858 Trea
 * **French Concession:** 1896
 * **Japanese Concession:** 1898 (entering late after the First Sino-Japanese War, relegated to low-lying wetlands downstream along the Yangtze, struggling to construct embankments and raise the land)
 
-Western powers back then likened Hankow to the great American commercial metropolis that conquered the continent through rail and water transport, calling it the "Chicago of the Orient."
+Western powers back then didn't look at it as a river town; they called it the **"Chicago of the Orient,"** comparing it to America’s unstoppable rail-and-water juggernaut that conquered the West.
 
-Despite being far removed from the sea, those Hankow concessions were the very wedges that global imperial powers hammered in, desperate and obsessed with the conviction: "If we don't control this place, business in China cannot begin!"
+Even though it was stranded hundreds of miles from open ocean, every single world power drove an iron wedge right here, obsessed with a single certainty: *"If we don't grip this river valve, we don't control business in China!"*
 
 
 <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
@@ -357,9 +356,9 @@ Despite being far removed from the sea, those Hankow concessions were the very w
 
 </div>
 
-**G-Vega:** **Far from merely having a presence, they reigned as the core enterprise of Hankow's British Concession!**
+**G-Vega:** **Far from just "having a presence"—they practically ruled the British Concession as its supreme commercial kingpin!**
 
-In Chinese, Jardine, Matheson & Co. is known as **"怡和洋行 (Yíhé Yángháng / Ewo)"**.
+Across the Chinese world, Jardine, Matheson & Co. was known by its legendary trading house name: **"怡和洋行" (Yíhé Yángháng / Ewo).**
 
 
 #### 1. Establishment Immediately Following Port Opening
@@ -378,10 +377,11 @@ Even today, along the Yangtze River in Wuhan's Jiang'an District (No. 144 Yanjia
 
 Furthermore, along the Yangtze River, remnants of dedicated wharves (Ewo Wharf) built by Jardine Matheson to berth their steamships, as well as massive warehouse complexes (Ewo Godowns), also stood.
 
+Think about it: Jardine Matheson already had an iron chokehold on Shanghai right at the mouth of the Yangtze. There was zero chance they’d let the continental master valve 1,000 kilometers upriver slip through their fingers!
 
-Controlling the mouth where the Yangtze empties out into Shanghai, there was no way Jardine Matheson would overlook the inland valve (Hankow) roughly 1,000 kilometers upriver.
+The grand arterial pipeline of British imperial capital and global shipping ran in a single straight shot: **Hong Kong & Shanghai ➔ The Yangtze River ➔ Hankow ➔ Chongqing.** And the industrial pump driving that entire inland engine was none other than Jardine Matheson right here in Hankow!
 
-The pipeline of British imperial capital and logistics ran straight through: "Hong Kong & Shanghai ➔ Yangtze River ➔ Hankow ➔ Chongqing"—and acting as the very pump driving it was Jardine Matheson in Hankow! Captain, seeing this connection makes the structural bones of this history instantly snap into three dimensions!
+Captain, once you see that pipeline lock into place, the hidden skeleton of modern history just snaps right into full 3D, doesn't it?!
 
 
 <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
@@ -398,9 +398,9 @@ The pipeline of British imperial capital and logistics ran straight through: "Ho
 
 </div>
 
-**G-Vega:** The history of Japanese people entering Hankow actually unfolds in two distinct phases: "before the concession was established" and "after the concession was established"!
+**G-Vega:** **It actually broke down into two distinct waves, Captain: the underground trailblazers *before* the concession, and the commercial floodgates *after* it!**
 
-When you examine Japan's official records and commercial trading company histories, the outlines of the "first civilians and enterprises to arrive" emerge with remarkable clarity.
+When you tear through Japan’s official consular records and old trading house archives, the faces and shadows of the first arrivals emerge with chilling clarity:
 
 
 #### 1. Before the Concession (Early Pioneers)
@@ -434,7 +434,7 @@ From the late 1890s through the Taisho era, as the concession was developed, a b
 * **Shop owners and service operators—inns, traditional restaurants (*ryotei*), general stores, doctors, and barbers** (many of whom had crossed over from Nagasaki, Kyushu, and the Kansai region)
 * **Hankow Japanese Ordinary and Higher Elementary School** (Japanese community school) and the Japanese Consulate were erected; at its peak, around 2,000 Japanese nationals were living right there along the banks of the Yangtze River.
 
-In short, "Osaka Shosen ships docked, Mitsui & Co. moved the goods, and Yokohama Specie Bank circulated the money"—the vanguard of modern Japanese capitalism directly ascended the Yangtze to build this stronghold, which was how the Japanese Concession in Hankow came into being!
+In plain words: **Osaka Shosen’s steamers secured the river, Mitsui moved the freight, and the Yokohama Specie Bank pumped the capital.** The elite stormtroopers of modern Japanese capitalism marched straight up the muddy Yangtze, hammered down their stakes, and carved out a city—and that is how the Hankow Japanese Concession was born!
 
 
 <p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
@@ -453,11 +453,11 @@ What did they mainly bring in? Officially speaking, that is.
 
 </div>
 
-**G-Vega:** That refers right back to the beautiful red-brick "Former Osaka Shosen Moji Branch" building still standing today in the Mojiko Retro district!
+**G-Vega:** **Bingo! That points straight to that gorgeous red-brick landmark still standing tall in Mojiko Retro today—the Former Osaka Shosen Moji Branch!**
 
-Back then, Moji served as the primary coal-exporting port for Kyushu's Chikuho coalfields, acting as a massive resupply and departure hub for vessels bound for the continent (routes to China, Taiwan, Europe, and North America).
+Back in those days, Moji wasn’t just a scenic port; it was the ferocious coal-export gateway for the Chikuho coalfields, fueling and launching massive fleets bound for China, Taiwan, Europe, and North America.
 
-As for the outbound cargo Osaka Shosen carried from Moji and Kobe toward Hankow and the Chinese interior—the primary goods loaded under the "official banner"—here is the breakdown!
+So when Osaka Shosen loaded up its ships in Moji and Kobe to steam toward Hankow and the Chinese interior, what were they hauling under their "official manifest"? Here’s the breakdown:
 
 #### 1. Basic Structure of Japan–China Trade at the Time
 

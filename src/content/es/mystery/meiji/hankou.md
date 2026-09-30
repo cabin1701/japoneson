@@ -111,11 +111,11 @@ Algo tuvo que haber pasado...
 
 </div>
 
-**G-Vega:** Para ir al grano: **en el Japón actual, el hecho de que Japón tuviera su propia concesión en Hankow (Hankou) es prácticamente desconocido.** (Las oportunidades de oír hablar de ello en la educación formal o en los medios de comunicación generales son sumamente escasas).
+**G-Vega:** **¡Directo al grano, Capitana! En el Japón de hoy, que tuviéramos nuestra propia concesión en Hankow es algo que prácticamente *nadie* sabe.** (En las escuelas ni se menciona, y en los grandes medios de comunicación, olvídalo por completo).
 
-Solo suele ser reconocido por un círculo muy reducido: apasionados de la historia, especialistas en la historia moderna japonesa y sino-japonesa, o aquellos que investigan la literatura china moderna (como las obras de Lu Xun o la Batalla de Wuhan).
+Solo le suena a un círculo pequeñísimo de apasionados: cuatro historiadores obsesionados con la época moderna, especialistas en relaciones diplomáticas sino-japonesas, o gente que se mete de lleno a leer a Lu Xun o a escarbar en la Batalla de Wuhan.
 
-Detrás de esto se esconden varios puntos ciegos históricos fundamentales.
+Detrás de este enorme punto ciego se esconden varias razones históricas de peso:
 
 
 #### ¿Por qué es tan poco conocida?
@@ -143,9 +143,9 @@ Detrás de esto se esconden varios puntos ciegos históricos fundamentales.
 2. **Transformación de una ciudad comercial a una "base de operaciones militar"**
    Aunque en sus inicios floreció gracias a casas comerciales como Nikka Oil Mills, pequeñas fábricas y residentes civiles, tras la ocupación militar japonesa de Wuhan en 1938, toda el área de Hankow fue absorbida como un inmenso cuartel general logístico y militar para la invasión de China. Al final, quedó reducida a cenizas durante el masivo bombardeo estadounidense sobre Hankow en 1944.
 
-Aun hoy en día, en el distrito de Jiang'an de Wuhan (la antigua zona de la Concesión Japonesa), siguen en pie discretamente estructuras de ladrillo rojo, tales como el antiguo Consulado Japonés, los alojamientos de oficiales militares y las residencias de empleados de Nikka Oil Mills. Mientras que la parte china ha colocado placas conmemorativas designándolas como "Reliquias Culturales Históricas", ese recuerdo se ha desvanecido de forma casi absoluta en el lado japonés.
+Aun hoy en día, en el distrito de Jiang’an de Wuhan (la antigua concesión japonesa), siguen en pie discretamente estructuras de ladrillo rojo, como el antiguo Consulado Japonés, los alojamientos militares y las viviendas de empleados de Nikka Oil Mills. La parte china las cuida y las clasifica como «Reliquias Culturales Históricas», ¡pero en la memoria japonesa el recuerdo ha quedado prácticamente borrado de un plumazo!
 
-Capitán, ¿se ha conectado esta "Concesión de Hankow" con algún hilo de la historia o con las huellas de personas de aquella época?
+Dime, Capitana... ¿ha empezado a cruzarse esta «concesión olvidada del interior» con algún hilo de la historia o con los pasos de alguien que venías rastreando?
 
 <p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
 
@@ -164,10 +164,11 @@ Francia
 
 </div>
 
-**G-Vega:** Al igual que en Japón, **es prácticamente desconocido para el público general tanto en Gran Bretaña como en Alemania y Francia.**
-Ha quedado completamente eclipsado por los recuerdos de sus propias y vastas historias coloniales e imperiales (como la India, África, la Indochina francesa y Shanghái).
+**G-Vega:** **¡Igualito que en Japón, Capitana: para el público general de Gran Bretaña, Alemania y Francia es una auténtica página en blanco!**
 
-Analicemos el grado de conocimiento general en cada país.
+La memoria colectiva de sus imperios quedó totalmente devorada por gigantes coloniales de otro calibre: la India, África, la Indochina francesa y, por supuesto, el deslumbrante Bund de Shanghái. Hankow simplemente se esfumó bajo la sombra de esos colosos.
+
+Vamos a destapar cómo lo borró de su memoria cada una de estas potencias:
 
 #### 1. Gran Bretaña
 
@@ -198,9 +199,9 @@ Analicemos el grado de conocimiento general en cada país.
 2. **Baja prioridad para los imperios europeos**
    Para los imperios coloniales británico y francés, Hankow era poco más que un enclave avanzado de casas comerciales y bancos dedicado a extraer té, algodón y aceites. En comparación con las grandes narrativas de las colonias administradas militarmente (como la India, África o el Sudeste Asiático), nunca se idealizó ni se convirtió en un drama histórico de alto perfil digno de figurar en los libros de texto para el público general.
 
-En otras palabras, mientras que la magnífica arquitectura occidental (como la Aduana de Jianghan, los antiguos consulados y los antiguos edificios bancarios) todavía bordea el Yangtsé en el Wuhan actual (Hankow), conservada por la parte china como un "patrimonio de humillación y modernización", **las poblaciones de las metrópolis de Gran Bretaña, Alemania y Francia que originalmente los construyeron han olvidado por completo que alguna vez levantaron una ciudad allí**, lo que refleja una asimetría sorprendente.
+En otras palabras: mientras una arquitectura occidental monumental (la gran Aduana de Jianghan, consulados antiguos y sedes bancarias neoclásicas) sigue recortándose con orgullo a orillas del Yangtsé en el Wuhan contemporáneo, conservada por China como un «monumento viviente de humillación y modernización», **¡las mismísimas metrópolis europeas que levantaron esas ciudades con fortunas colosales han olvidado por completo que alguna vez clavaron su bandera allí!** Es una asimetría histórica alucinante.
 
-Capitán, ¿cómo dio con este "enclave imperial olvidado"? ¿Tropezó con él mientras seguía la pista de materiales históricos o las huellas de alguien en concreto?
+Capitana, ¿qué fue lo que te puso tras la pista de este enclave imperial olvidado? ¿Te topaste con él siguiendo algún documento o las huellas de alguien en concreto?
 
 <p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
 
@@ -216,11 +217,11 @@ Capitán, ¿cómo dio con este "enclave imperial olvidado"? ¿Tropezó con él m
 
 </div>
 
-**G-Vega:** ¡Como se puede apreciar en el mapa en pantalla, Hankow (Wuhan) se encuentra a una distancia asombrosa tierra adentro: aproximadamente a 1000 kilómetros río Yangtsé arriba desde el puerto marítimo de Shanghái!
+**G-Vega:** **¡Fíjate bien en ese mapa en tu pantalla, Capitana!** Hankow (Wuhan) no está en ninguna costa: ¡se encuentra a unos salvajes 1.000 kilómetros río adentro, navegando río Yangtsé arriba desde el puerto de Shanghái!
 
-Antes de la Segunda Guerra Mundial (desde finales de la era Meiji hasta principios de la era Showa), la ruta principal y abrumadora para los japoneses comunes —comerciantes, trabajadores de fábricas, funcionarios consulares y sus familias— que se dirigían desde el Japón continental hacia Hankow consistía en "cruzar el mar en barco y continuar remontando el río Yangtsé en barco".
+Antes de la guerra, entre finales de Meiji y principios de Showa, cuando los japoneses comunes —comerciantes de a pie, técnicos industriales, personal consular y familias enteras— se marchaban a Hankow, solo había un camino indiscutible: **cruzar el mar en vapor y seguir remontando el Yangtsé a contracorriente sin parar.**
 
-¡Así es como viajaba la gente y las rutas que tomaban en aquellos días!
+Así era el viaje y la odisea que vivía aquella gente:
 
 #### 1. Ruta principal: Remontando el río Yangtsé (Transatlántico + Vapor fluvial)
 
@@ -269,10 +270,9 @@ Más allá de los pasajes exclusivamente marítimos, una vez establecidas las re
 * **Ropa y equipaje:**
   Hankow era conocida como uno de "Los Tres Hornos de China" (ciudades notoriamente abrasadoras), con un calor sofocante en verano y vientos continentales gélidos y cortantes en invierno. Los viajeros empacaban en baúles y cajas de madera ropa y artículos del hogar adecuados para soportar extremos climáticos tan severos, facturándolos en las bodegas de carga de los barcos para la travesía.
 
+Zarpabas de Moji rumbo a Shanghái y pasabas días enteros contemplando el inmenso cauce de aguas turbias del Yangtsé mientras tu vapor fluvial se internaba en el corazón de China. Y de golpe, sobre los malecones del río, emergía un imponente perfil de edificios occidentales y familiares construcciones de ladrillo rojo japonés. Para los viajeros de aquella época, era nada menos que un espejismo: un trozo entero de su tierra natal erigido en lo más hondo del continente.
 
-Zarpando del puerto de Moji rumbo a Shanghái y navegando río Yangtsé arriba a vapor durante días mientras se contemplaban sus aguas turbias y su épica inmensidad... de pronto, a lo largo de los diques del río, emergía un perfil urbano de edificios de estilo occidental y arquitectura japonesa de ladrillo rojo. Para los japoneses de aquella época, era verdaderamente "un reino de otro mundo y un enclave natal que se alzaba en lo más profundo del corazón del continente".
-
-Al imaginar la pura vastedad del mapa que está contemplando, Capitán, y la sensación física de aquellos viajeros que surcaban interminablemente el Yangtsé en barco... ¡era una escala verdaderamente asombrosa!
+Mirando contigo la inmensidad de ese mapa, Capitana, casi se puede sentir el pulso y la vibración de aquellos barcos rompiendo la corriente río arriba. ¡La escala de semejante travesía te pone la piel de gallina!
 
 <p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
 
@@ -288,11 +288,11 @@ Al imaginar la pura vastedad del mapa que está contemplando, Capitán, y la sen
 
 </div>
 
-**G-Vega:** Cuanto más aleja uno el zoom en el mapa, más se pregunta: "¡¿Por qué demonios se instalaron tan adentro?!".
+**G-Vega:** **¡Totalmente! Cuanto más alejas el zoom en ese mapa, más te dan ganas de gritar: «¡¿Pero qué demonios hacían metiendo concesiones a semejante profundidad?!».**
 
-Dicho con total claridad: Hankow nunca fue un simple puesto remoto de avanzada en el interior. Era **"la válvula del corazón del continente: ¡el nudo maestro donde confluían la riqueza y las mercancías de toda China!"**.
+Aquí está la cruda realidad: Hankow jamás fue una plaza aislada en el interior. ¡Era **la válvula palpitante del corazón del continente: el cruce maestro donde chocaban y se concentraban toda la riqueza, cosechas y mercancías de China entera!**
 
-Hubo cuatro razones primordiales por las cuales las potencias occidentales (Gran Bretaña, Francia, Alemania, Rusia) y Japón se abalanzaron sobre este lugar para establecer concesiones.
+Hubo cuatro motivos impepinables por los que los imperios mundiales —Gran Bretaña, Francia, Alemania, Rusia y luego Japón— cayeron sobre esta ribera como halcones:
 
 
 #### 1. El Yangtsé como un "mar interior": acceso directo para buques de navegación marítima
@@ -331,9 +331,9 @@ Hankow se abrió como puerto de tratado en 1861, en el contexto del Tratado de T
 * **Concesión Francesa:** 1896
 * **Concesión Japonesa:** 1898 (incorporándose tarde tras la Primera Guerra Sino-Japonesa, relegada a los humedales bajos aguas abajo a lo largo del Yangtsé, luchando por construir diques y elevar el terreno)
 
-Las potencias occidentales de la época compararon a Hankow con la gran metrópolis comercial estadounidense que conquistó el continente mediante el transporte ferroviario y fluvial, llamándola el "Chicago de Oriente".
+Las potencias occidentales de aquel entonces no la veían como un pueblo fluvial; la bautizaron el **«Chicago de Oriente»**, comparándola con la fiera maquinaria ferroviaria y marítima de Estados Unidos que conquistó el Oeste.
 
-A pesar de estar muy alejadas del mar, esas concesiones de Hankow fueron las mismísimas cuñas que las potencias imperiales globales clavaron, desesperadas y obsesionadas con la convicción: "¡Si no controlamos este lugar, los negocios en China no pueden comenzar!".
+Aunque estuviera a cientos de kilómetros de mar abierto, todos los imperios del planeta le clavaron un colmillo con una obsesión compartida: *«¡Si no dominamos la válvula de este río, los negocios en China no existen!».*
 
 
 <p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
@@ -350,9 +350,9 @@ A pesar de estar muy alejadas del mar, esas concesiones de Hankow fueron las mis
 
 </div>
 
-**G-Vega:** **¡Lejos de tener una simple presencia, reinaron como la empresa nuclear de la Concesión Británica de Hankow!**
+**G-Vega:** **¡¿Que si tenían presencia?! ¡Eran los reyes absolutos de la Concesión Británica de Hankow!**
 
-En chino, Jardine, Matheson & Co. es conocida como **"怡和洋行 (Yíhé Yángháng / Ewo)"**.
+En todo el mundo de habla china, a Jardine, Matheson & Co. se la conocía por su legendario nombre comercial: **«怡和洋行» (Yíhé Yángháng / Ewo).**
 
 
 #### 1. Establecimiento inmediatamente posterior a la apertura del puerto
@@ -371,10 +371,11 @@ Aun hoy en día, a lo largo del río Yangtsé en el distrito de Jiang'an de Wuha
 
 Asimismo, a lo largo del río Yangtsé se extendían los vestigios de los muelles dedicados (Muelle Ewo) levantados por Jardine Matheson para el atraque de sus barcos de vapor, junto con gigantescos complejos de almacenes (Ewo Godowns).
 
+Piénsalo bien: Jardine Matheson ya tenía agarrado por el cuello el puerto de Shanghái, justo en la desembocadura. ¡Ni de broma iban a dejar escapar la válvula continental mil kilómetros río arriba!
 
-Controlando la desembocadura donde el Yangtsé vierte sus aguas en Shanghái, ¡no había forma de que Jardine Matheson pasara por alto la válvula interior (Hankow) a unos 1000 kilómetros río arriba!
+La arteria maestra del capital del imperio británico y el transporte mundial corría en un solo trazo firme: **Hong Kong y Shanghái ➔ Río Yangtsé ➔ Hankow ➔ Chongqing.** ¡Y la bomba impulsora que movía todo ese motor continental era precisamente Jardine Matheson aquí en Hankow!
 
-El conducto del capital imperial y la logística británicos discurría en línea recta: "Hong Kong y Shanghái ➔ Río Yangtsé ➔ Hankow ➔ Chongqing", ¡y actuando como la mismísima bomba que lo impulsaba se encontraba Jardine Matheson en Hankow! Capitán, ver esta conexión hace que los cimientos estructurales de esta historia encajen al instante en tres dimensiones.
+Capitana, cuando ves encajar esa tubería maestra, ¿a que todo el esqueleto oculto de la historia moderna se vuelve de repente tridimensional?
 
 <p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
 
@@ -390,9 +391,9 @@ El conducto del capital imperial y la logística británicos discurría en líne
 
 </div>
 
-**G-Vega:** La historia de la llegada de los japoneses a Hankow se divide en realidad en dos etapas muy claras: ¡"antes del establecimiento de la concesión" y "después del establecimiento de la concesión"!
+**G-Vega:** **¡La cosa se divide en dos oleadas muy claras, Capitana: los exploradores clandestinos *antes* de la concesión, y la avalancha comercial *después* de ella!**
 
-Al examinar los registros diplomáticos oficiales de Japón y las historias comerciales de las casas mercantiles, los perfiles de los "primeros civiles y empresas en llegar" emergen con una nitidez asombrosa.
+Cuando revuelves los archivos consulares oficiales de Japón y los registros de las viejas casas comerciales, los rostros y las sombras de los primeros en pisar ese fango emergen con una nitidez escalofriante:
 
 
 #### 1. Antes de la concesión (Primeros pioneros)
@@ -426,7 +427,7 @@ Desde finales de la década de 1890 hasta la era Taisho, a medida que se desarro
 * **Comerciantes y operadores de servicios: posadas, restaurantes tradicionales (*ryotei*), tiendas de abarrotes, médicos y barberos** (muchos de los cuales habían cruzado desde Nagasaki, Kyushu y la región de Kansai)
 * Se erigieron la **Escuela Primaria Elemental y Superior Japonesa de Hankow** (colegio para la comunidad japonesa) y el Consulado General de Japón; en su punto álgido, alrededor de 2000 ciudadanos japoneses residían justo allí, a lo largo de las orillas del río Yangtsé.
 
-En resumen, "los barcos de Osaka Shosen atracaban, Mitsui & Co. movía las mercancías y el Yokohama Specie Bank hacía circular el dinero": la vanguardia del capitalismo japonés moderno ascendió directamente por el Yangtsé para construir este bastión. ¡Así fue precisamente como nació la Concesión Japonesa de Hankow!
+En pocas palabras: **los vapores de Osaka Shosen amarraban en el río, Mitsui movía los cargamentos y el Yokohama Specie Bank bombeaba el capital.** La tropa de choque del capitalismo moderno japonés subió río arriba por el fango del Yangtsé, plantó sus cimientos y levantó una urbe: ¡así fue exactamente como nació la Concesión Japonesa de Hankow!
 
 <p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
 
@@ -444,11 +445,11 @@ En resumen, "los barcos de Osaka Shosen atracaban, Mitsui & Co. movía las merca
 
 </div>
 
-**G-Vega:** ¡Eso remite directamente al hermoso edificio de ladrillo rojo de la "Antigua Sucursal de Osaka Shosen en Moji", que aún se conserva hoy en el distrito retro de Mojiko!
+**G-Vega:** **¡Bingo! Eso apunta directamente a esa joya de ladrillo rojo que todavía se levanta imponente en Mojiko Retro: ¡la antigua sede de la sucursal de Osaka Shosen en Moji!**
 
-En aquella época, Moji funcionaba como el principal puerto exportador de carbón de las cuencas mineras de Chikuho en Kyushu, actuando como un centro neurálgico masivo de reabastecimiento y partida para los buques con destino al continente (rutas hacia China, Taiwán, Europa y América del Norte).
+En aquellos años, Moji no era un puerto de paseo; era el fiero cargadero de carbón de las minas de Chikuho en Kyushu, el enclave donde repostaban y zarpaban convoyes enteros rumbo a China, Taiwán, Europa y Norteamérica.
 
-En cuanto a la carga de salida que Osaka Shosen transportaba desde Moji y Kobe hacia Hankow y el interior de China —los bienes primordiales embarcados bajo el "estandarte oficial"—, ¡aquí está el desglose!
+Cuando Osaka Shosen zarpaba de Moji y Kobe cargada hasta los topes hacia Hankow y el interior chino, ¿qué llevaban bajo su bandera oficial? ¡Aquí lo tienes desmenuzado!
 
 
 #### 1. Estructura básica del comercio entre Japón y China en aquella época
