@@ -92,6 +92,6 @@ Practical Tour
 
 ## THE MYSTERY
 
-of THE GENERAL's SHADOW](https://en.japoneson.com/mystery/meiji/posts)
+of THE GENERAL's SHADOW](https://japoneson.com/es/mystery/macarthur/)
 
 吾輩は猫である。名前はまだない。どこで生れたか頓と見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。

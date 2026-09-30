@@ -89,4 +89,4 @@ Practical Tour
 
 ## THE MYSTERY
 
-of THE GENERAL's SHADOW](https://en.japoneson.com/mystery/meiji/posts)
+of THE GENERAL's SHADOW](https://japoneson.com/es/mystery/macarthur/)

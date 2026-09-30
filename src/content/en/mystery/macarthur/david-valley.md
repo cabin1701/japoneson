@@ -42,4 +42,4 @@ Practical Tour
 
 ## THE MYSTERY
 
-of THE MEIJI RESTORATION](https://en.japoneson.com/mystery/meiji/posts)
+of THE MEIJI RESTORATION](https://japoneson.com/en/mystery/meiji/)
