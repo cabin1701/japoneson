@@ -143,7 +143,14 @@ const nav: NavItem[] = [
           { label: '— Donald Versaw', path: 'mystery/macarthur/donald-versaw/' },
         ],
       },
-      { label: 'The Meiji Restoration', labelEs: 'La Restauración Meiji', path: 'mystery/meiji/' },
+      {
+        label: 'The Meiji Restoration',
+        labelEs: 'La Restauración Meiji',
+        path: 'mystery/meiji/',
+        children: [
+          { label: 'The Road to Hankou', labelEs: 'El camino hacia Hankou', path: 'mystery/meiji/hankou/' },
+        ],
+      },
       { label: 'The Heike Story', labelEs: 'La Historia de los Heike', path: 'mystery/hieke/' },
       { label: 'Ancient Whispers', labelEs: 'Susurros Antiguos', path: 'mystery/ancient/' },
     ],
