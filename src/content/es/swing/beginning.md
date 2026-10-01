@@ -11,22 +11,15 @@ wp_parent: 108
 
 # Angels Swing – El comienzo del viaje
 
-<nav class="beginning-toc" id="contents" aria-label="En esta página" style="max-width:560px;margin:0 auto 2.5rem;padding:0 1rem;text-align:center">
-  <p style="margin:1.2rem 0 0.4rem;font-size:0.85rem;letter-spacing:0.08em;text-transform:uppercase;color:#888">En esta página</p>
-  <ul style="list-style:none;margin:0;padding:0">
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#prólogo-de-recuerdos-oraciones-y-encuentros">Prólogo de recuerdos: oraciones y encuentros</a></li>
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#la-carta-de-jo-stafford">La carta de Jo Stafford</a></li>
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#el-álbum-y-el-sello-discográfico">El álbum y el sello discográfico</a></li>
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#glenn-miller-y-las-oraciones-en-primera-línea-v-disc">Glenn Miller y las oraciones en primera línea (V-Disc)</a></li>
+<nav class="page-toc" id="contents" aria-label="En esta página">
+  <p class="page-toc-head">En esta página</p>
+  <ul>
+    <li><a href="#prólogo-de-recuerdos-oraciones-y-encuentros">Prólogo de recuerdos: oraciones y encuentros</a></li>
+    <li><a href="#la-carta-de-jo-stafford">La carta de Jo Stafford</a></li>
+    <li><a href="#el-álbum-y-el-sello-discográfico">El álbum y el sello discográfico</a></li>
+    <li><a href="#glenn-miller-y-las-oraciones-en-primera-línea-v-disc">Glenn Miller y las oraciones en primera línea (V-Disc)</a></li>
   </ul>
 </nav>
-<style>
-  .beginning-toc a { color: var(--color-navy); text-decoration: none; }
-  .beginning-toc a:hover { color: var(--color-accent); }
-  .back-to-toc { margin: 1.2rem 0 0; text-align: right; font-size: 0.8rem; }
-  .back-to-toc a { color: #888; text-decoration: none; }
-  .back-to-toc a:hover { color: var(--color-accent); text-decoration: underline; }
-</style>
 
 ## Prólogo de recuerdos: oraciones y encuentros
 
@@ -60,7 +53,7 @@ Por primera vez, pude recibir plenamente las palabras que Jo había dejado.
   <figcaption style="font-size:0.9em;margin-top:0.5rem">La portada de G.I. JO, y la carta de Jo Stafford en la contraportada.</figcaption>
 </figure>
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
@@ -91,7 +84,7 @@ Por primera vez, pude recibir plenamente las palabras que Jo había dejado.
 9. I Fall In Love Too Easily
 10. I'll Be Seeing You
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
@@ -133,7 +126,7 @@ Lanzado en formato LP justo en el período de transición en el que la industria
 
 Para Seina —quien descubrió esta música en CD en 1992 y llevó a término la travesía de hacerla llegar a todo Estados Unidos en 1999—, haber atraído hacia sus manos después de 2010 este "raro LP impregnado de las oraciones artesanales de la pareja" fue, sin lugar a dudas, un encuentro predestinado.
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
@@ -188,4 +181,4 @@ A diferencia de sus grabaciones comerciales de Victor, estos discos conservaron 
 
 Para los soldados exhaustos en el frente, escuchar un V-Disc de Glenn Miller en un fonógrafo de cuerda era sentir el abrazo de su hogar y la fuerza indispensable para seguir con vida.
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>

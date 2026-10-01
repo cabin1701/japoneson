@@ -11,22 +11,15 @@ wp_parent: 108
 
 # Angels Swing – The Beginning of the Journey
 
-<nav class="beginning-toc" id="contents" aria-label="On this page" style="max-width:560px;margin:0 auto 2.5rem;padding:0 1rem;text-align:center">
-  <p style="margin:1.2rem 0 0.4rem;font-size:0.85rem;letter-spacing:0.08em;text-transform:uppercase;color:#888">On this page</p>
-  <ul style="list-style:none;margin:0;padding:0">
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#prologue-of-memories-prayers-and-encounters">Prologue of Memories: Prayers and Encounters</a></li>
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#the-letter-from-jo-stafford">The Letter from Jo Stafford</a></li>
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#the-album-and-the-record-label">The Album and the Record Label</a></li>
-    <li style="margin:0.5rem 0;line-height:1.6"><a href="#glenn-miller-and-prayers-on-the-front-lines-v-disc">Glenn Miller and Prayers on the Front Lines (V-Disc)</a></li>
+<nav class="page-toc" id="contents" aria-label="On this page">
+  <p class="page-toc-head">On this page</p>
+  <ul>
+    <li><a href="#prologue-of-memories-prayers-and-encounters">Prologue of Memories: Prayers and Encounters</a></li>
+    <li><a href="#the-letter-from-jo-stafford">The Letter from Jo Stafford</a></li>
+    <li><a href="#the-album-and-the-record-label">The Album and the Record Label</a></li>
+    <li><a href="#glenn-miller-and-prayers-on-the-front-lines-v-disc">Glenn Miller and Prayers on the Front Lines (V-Disc)</a></li>
   </ul>
 </nav>
-<style>
-  .beginning-toc a { color: var(--color-navy); text-decoration: none; }
-  .beginning-toc a:hover { color: var(--color-accent); }
-  .back-to-toc { margin: 1.2rem 0 0; text-align: right; font-size: 0.8rem; }
-  .back-to-toc a { color: #888; text-decoration: none; }
-  .back-to-toc a:hover { color: var(--color-accent); text-decoration: underline; }
-</style>
 
 ## Prologue of Memories: Prayers and Encounters
 
@@ -60,7 +53,7 @@ For the very first time, I was able to truly receive the words that Jo had left 
   <figcaption style="font-size:0.9em;margin-top:0.5rem">The front cover of G.I. JO, and Jo Stafford's letter on the back cover.</figcaption>
 </figure>
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -91,7 +84,7 @@ For the very first time, I was able to truly receive the words that Jo had left 
 9. I Fall In Love Too Easily
 10. I'll Be Seeing You
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -133,7 +126,7 @@ Pressed onto vinyl right at the transition era when the music market was complet
 
 For Seina—who first encountered this music on CD in 1992 and completed the voyage of sending it across America in 1999—to have drawn this "rare LP filled with the handmade prayers of the couple" into her hands after 2010 was truly an inevitable alignment of fate.
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -188,4 +181,4 @@ Unlike his commercial RCA Victor releases, these discs captured live master reco
 
 For soldiers stationed in rain-soaked overseas camps, Glenn Miller's music pouring from a wind-up phonograph was nothing less than the sound of "Home"—the single greatest source of strength to survive another day.
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>

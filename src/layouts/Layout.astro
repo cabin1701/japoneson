@@ -837,6 +837,41 @@ const personJsonLd = isHome
     margin-top: 0.5rem;
   }
 
+  /* === ページ目次（共通）。2026-10-01 ===
+     使い方（本文の .md に書く）:
+       <nav class="page-toc" id="contents" aria-label="On this page">
+         <p class="page-toc-head">On this page</p>
+         <ul><li><a href="#xxx">…</a></li></ul>
+       </nav>
+       各節の終わり: <p class="toc-back"><a href="#contents">↑ Contents</a></p>
+     そのページだけ変えたい時は、nav に style="--toc-link: #xxx" のように1行足す。
+       変えられる値: --toc-width / --toc-head / --toc-link / --toc-hover / --toc-font / --toc-size */
+  .page-toc {
+    max-width: var(--toc-width, 560px);
+    margin: 0 auto 2.5rem;
+    padding: 0 1rem;
+    text-align: center;
+  }
+  .page-toc-head {
+    margin: 1.2rem 0 0.4rem;
+    font-size: 0.85rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--toc-head, #888);
+  }
+  .page-toc ul { list-style: none; margin: 0; padding: 0; }
+  .page-toc li {
+    margin: 0.5rem 0;
+    line-height: 1.6;
+    font-family: var(--toc-font, inherit);
+    font-size: var(--toc-size, inherit);
+  }
+  .page-toc a { color: var(--toc-link, var(--color-navy)); text-decoration: none; }
+  .page-toc a:hover { color: var(--toc-hover, var(--color-accent)); }
+  .toc-back { margin: 1.2rem 0 0; text-align: right; font-size: 0.8rem; }
+  .toc-back a { color: #888; text-decoration: none; }
+  .toc-back a:hover { color: var(--color-accent); text-decoration: underline; }
+
   /* === Booklet (Angels Swing / We Remember You chapters) === */
   /* Image caption: em on its own line within an image paragraph */
   main.page-booklet article p:has(> img) em {
