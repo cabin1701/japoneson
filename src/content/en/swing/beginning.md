@@ -11,17 +11,20 @@ wp_parent: 108
 
 # Angels Swing – The Beginning of the Journey
 
-<nav class="page-toc" id="contents" aria-label="On this page">
-  <p class="page-toc-head">On this page</p>
-  <ul>
-    <li><a href="#prologue-of-memories-prayers-and-encounters">Prologue of Memories: Prayers and Encounters</a></li>
-    <li><a href="#the-letter-from-jo-stafford">The Letter from Jo Stafford</a></li>
-    <li><a href="#the-album-and-the-record-label">The Album and the Record Label</a></li>
-    <li><a href="#glenn-miller-and-prayers-on-the-front-lines-v-disc">Glenn Miller and Prayers on the Front Lines (V-Disc)</a></li>
-  </ul>
+<nav class="page-toc" id="contents" aria-label="Contents">
+  <p class="page-toc-head">Contents</p>
+  <ol>
+    <li><a href="#bg-1">Prologue: Prayers and Encounters</a></li>
+    <li><a href="#bg-2">The Letter from Jo Stafford</a></li>
+    <li><a href="#bg-3">The Album and the Record Label</a></li>
+    <li><a href="#bg-4">Glenn Miller and Prayers</a></li>
+  </ol>
 </nav>
+<hr class="toc-rule" />
 
-## Prologue of Memories: Prayers and Encounters
+<a id="bg-1"></a>
+
+## 1. Prologue: Prayers and Encounters
 
 East Village. From around 1991 to 1993, I lived in an old apartment on St. Marks Place, between 1st and 2nd Avenue. In the neighborhood, there was the music store "Carl Fischer".
 
@@ -57,7 +60,9 @@ For the very first time, I was able to truly receive the words that Jo had left 
 
 ---
 
-## The Letter from Jo Stafford
+<a id="bg-2"></a>
+
+## 2. The Letter from Jo Stafford
 
 *This collection of songs has a very special meaning for me. It represents a kind of nostalgic journey back to the days of the Second World War, when the songs, particularly the ballads, had a curiously deep and lasting impact. As the years -- more than most of us would care to admit -- have gone by, and we remember only the good things, the heightened sense of contribution and urgency, and nothing can bring those good things back like a song. For myself, I know that a song (or a perfume) can bring the past rushing back in a second and I hope you will feel the same way.*
 
@@ -88,7 +93,9 @@ For the very first time, I was able to truly receive the words that Jo had left 
 
 ---
 
-## The Album and the Record Label
+<a id="bg-3"></a>
+
+## 3. The Album and the Record Label
 
 * **Title**: G.I. JO - JO STAFFORD sings SONGS OF WORLD WAR II
 * **Artist**: Jo Stafford with Paul Weston and his Orchestra
@@ -130,7 +137,9 @@ For Seina—who first encountered this music on CD in 1992 and completed the voy
 
 ---
 
-## Glenn Miller and Prayers on the Front Lines (V-Disc)
+<a id="bg-4"></a>
+
+## 4. Glenn Miller and Prayers
 
 <div style="max-width:720px;margin:1.8rem auto"><div style="position:relative;aspect-ratio:16/9"><iframe src="https://www.youtube.com/embed/sMsvdVLhSZw" title="Glenn Miller" style="position:absolute;inset:0;width:100%;height:100%;border:0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe></div></div>
 

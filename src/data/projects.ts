@@ -40,16 +40,15 @@ export const projects: Project[] = [
   },
   {
     title: 'JAPONÉSON',
-    subtitle: '*Por La Chocolate*',
     flag: '🇨🇺',
     image: IMG('2026/05/jk-400.jpg'),
     imageAlt: 'Por La Chocolate — JAPONÉSON album cover',
-    taglineBold: '',
-    description: 'Coming Soon',
+    taglineBold: '“JAPONÉSON” is a coined word combining Japón (Japan) and Son (the root and soul of Cuban music)—a bridge connecting two distant worlds through sound.',
+    description: '',
     href: '/en/cuba/',
     es: {
-      taglineBold: '',
-      description: 'Próximamente',
+      taglineBold: '“JAPONÉSON” es una palabra acuñada que une Japón y el Son (la raíz de la música cubana): un puente que conecta dos mundos a través de la música.',
+      description: '',
     },
   },
   {

@@ -11,15 +11,16 @@ wp_parent: 108
 
 # Angels Swing – El comienzo del viaje
 
-<nav class="page-toc" id="contents" aria-label="En esta página">
-  <p class="page-toc-head">En esta página</p>
-  <ul>
+<nav class="page-toc" id="contents" aria-label="Contenido">
+  <p class="page-toc-head">Contenido</p>
+  <ol>
     <li><a href="#prólogo-de-recuerdos-oraciones-y-encuentros">Prólogo de recuerdos: oraciones y encuentros</a></li>
     <li><a href="#la-carta-de-jo-stafford">La carta de Jo Stafford</a></li>
     <li><a href="#el-álbum-y-el-sello-discográfico">El álbum y el sello discográfico</a></li>
     <li><a href="#glenn-miller-y-las-oraciones-en-primera-línea-v-disc">Glenn Miller y las oraciones en primera línea (V-Disc)</a></li>
-  </ul>
+  </ol>
 </nav>
+<hr class="toc-rule" />
 
 ## Prólogo de recuerdos: oraciones y encuentros
 

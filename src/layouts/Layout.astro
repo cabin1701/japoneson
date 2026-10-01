@@ -843,6 +843,7 @@ const personJsonLd = isHome
          <p class="page-toc-head">On this page</p>
          <ul><li><a href="#xxx">…</a></li></ul>
        </nav>
+       目次の下の線: <hr class="toc-rule" />（nav の直後）
        各節の終わり: <p class="toc-back"><a href="#contents">↑ Contents</a></p>
      そのページだけ変えたい時は、nav に style="--toc-link: #xxx" のように1行足す。
        変えられる値: --toc-width / --toc-link / --toc-hover / --toc-font / --toc-size / --toc-gap（項目の間）
@@ -875,6 +876,7 @@ const personJsonLd = isHome
   }
   .page-toc a { color: var(--toc-link, var(--color-navy)); text-decoration: none; }
   .page-toc a:hover { color: var(--toc-hover, var(--color-accent)); }
+  .toc-rule { border: none; border-top: 1px solid #c8cfe0; margin: 0 0 2rem; }
   .toc-back { margin: 1.2rem 0 0; text-align: right; font-size: 0.8rem; }
   .toc-back a { color: #888; text-decoration: none; }
   .toc-back a:hover { color: var(--color-accent); text-decoration: underline; }
