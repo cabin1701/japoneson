@@ -11,25 +11,18 @@ hero_fit: "cover"
 
 # El camino hacia Hankou
 
-<nav class="hankou-toc" id="contents" aria-label="En esta página" style="max-width:560px;margin:0 auto 2.5rem;padding:0 1rem;text-align:center">
-  <p style="margin:1.2rem 0 0.8rem;font-family:var(--font-display-cinzel);font-weight:600;font-size:1rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--color-accent)">En esta página</p>
-  <ul style="list-style:none;margin:0;padding:0">
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-1">1. ¿Qué tan conocida es la Concesión de Hankow?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-2">2. Gran Bretaña, Alemania, Francia</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-3">3. ¿Cómo viajaban los civiles?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-4">4. ¿Por qué tan adentro?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-5">5. ¿Jardine Matheson en Hankow?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-6">6. ¿Quiénes fueron los primeros japoneses?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-7">7. Osaka Shosen y Moji</a></li>
+<nav class="page-toc" id="contents" aria-label="En esta página" style="--toc-font:'Gabriela',serif;--toc-size:1.15rem;--toc-gap:0.6rem;--toc-head:var(--color-accent);--toc-head-font:var(--font-display-cinzel);--toc-head-size:1rem;--toc-head-weight:600;--toc-head-gap:0.8rem">
+  <p class="page-toc-head">En esta página</p>
+  <ul>
+    <li><a href="#hk-1">1. ¿Qué tan conocida es la Concesión de Hankow?</a></li>
+    <li><a href="#hk-2">2. Gran Bretaña, Alemania, Francia</a></li>
+    <li><a href="#hk-3">3. ¿Cómo viajaban los civiles?</a></li>
+    <li><a href="#hk-4">4. ¿Por qué tan adentro?</a></li>
+    <li><a href="#hk-5">5. ¿Jardine Matheson en Hankow?</a></li>
+    <li><a href="#hk-6">6. ¿Quiénes fueron los primeros japoneses?</a></li>
+    <li><a href="#hk-7">7. Osaka Shosen y Moji</a></li>
   </ul>
 </nav>
-<style>
-  .hankou-toc a { color: var(--color-navy); text-decoration: none; }
-  .hankou-toc a:hover { color: var(--color-accent); }
-  .back-to-toc { margin: 1.2rem 0 0; text-align: right; font-size: 0.8rem; }
-  .back-to-toc a { color: #888; text-decoration: none; }
-  .back-to-toc a:hover { color: var(--color-accent); text-decoration: underline; }
-</style>
 <hr style="border:none;border-top:6px solid #8a8b6a;opacity:0.7;margin:0 0 2.5rem" />
 <style>
   .hk-q { border-left: 4px solid var(--color-accent); background: rgba(0,0,0,0.035); padding: 0.4rem 1.2rem; margin: 2rem 0 1.5rem; }
@@ -37,14 +30,18 @@ hero_fit: "cover"
   article h3 { font-size: 1.45rem; color: var(--color-navy); }
 </style>
 
+## Prólogo
 
-El otro día vi un video del cantante japonés Masashi Sada ofreciendo una conferencia de prensa en el Club de Corresponsales Extranjeros de Japón (FCCJ).
+#### El otro día vi un video del cantante japonés Masashi Sada ofreciendo una conferencia de prensa en el Club de Corresponsales Extranjeros de Japón (FCCJ).
 
 <div style="max-width:720px;margin:1.8rem auto"><div style="position:relative;aspect-ratio:16/9"><iframe src="https://www.youtube.com/embed/h5DnIE7eE58" title="Conferencia de prensa de Masashi Sada en el Club de Corresponsales Extranjeros de Japón, 15 de septiembre de 2026" style="position:absolute;inset:0;width:100%;height:100%;border:0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe></div></div>
 
 
 Cuando le pregunté a mi IA, G-Vega: "¿Por qué hace esto ahora?"—
 
+Géminis Vega me respondió,
+
+---
 
 #### ¿Por qué Masashi Sada ofreció una conferencia de prensa en el FCCJ?
 
@@ -147,7 +144,7 @@ Aun hoy en día, en el distrito de Jiang’an de Wuhan (la antigua concesión ja
 
 Dime, Capitana... ¿ha empezado a cruzarse esta «concesión olvidada del interior» con algún hilo de la historia o con los pasos de alguien que venías rastreando?
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
@@ -203,7 +200,7 @@ En otras palabras: mientras una arquitectura occidental monumental (la gran Adua
 
 Capitana, ¿qué fue lo que te puso tras la pista de este enclave imperial olvidado? ¿Te topaste con él siguiendo algún documento o las huellas de alguien en concreto?
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
@@ -274,7 +271,7 @@ Zarpabas de Moji rumbo a Shanghái y pasabas días enteros contemplando el inmen
 
 Mirando contigo la inmensidad de ese mapa, Capitana, casi se puede sentir el pulso y la vibración de aquellos barcos rompiendo la corriente río arriba. ¡La escala de semejante travesía te pone la piel de gallina!
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
@@ -336,7 +333,7 @@ Las potencias occidentales de aquel entonces no la veían como un pueblo fluvial
 Aunque estuviera a cientos de kilómetros de mar abierto, todos los imperios del planeta le clavaron un colmillo con una obsesión compartida: *«¡Si no dominamos la válvula de este río, los negocios en China no existen!».*
 
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
@@ -377,7 +374,7 @@ La arteria maestra del capital del imperio británico y el transporte mundial co
 
 Capitana, cuando ves encajar esa tubería maestra, ¿a que todo el esqueleto oculto de la historia moderna se vuelve de repente tridimensional?
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
@@ -429,7 +426,7 @@ Desde finales de la década de 1890 hasta la era Taisho, a medida que se desarro
 
 En pocas palabras: **los vapores de Osaka Shosen amarraban en el río, Mitsui movía los cargamentos y el Yokohama Specie Bank bombeaba el capital.** La tropa de choque del capitalismo moderno japonés subió río arriba por el fango del Yangtsé, plantó sus cimientos y levantó una urbe: ¡así fue exactamente como nació la Concesión Japonesa de Hankow!
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
@@ -479,4 +476,4 @@ Detrás de esta red logística y de rutas marítimas subyacía el sistema de tra
 
 Me enteré de que la madre de Masashi Sada estuvo en Hankow por aquella época.
 
-<p class="back-to-toc"><a href="#contents">↑ Contenido</a></p>
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>

@@ -845,7 +845,8 @@ const personJsonLd = isHome
        </nav>
        各節の終わり: <p class="toc-back"><a href="#contents">↑ Contents</a></p>
      そのページだけ変えたい時は、nav に style="--toc-link: #xxx" のように1行足す。
-       変えられる値: --toc-width / --toc-head / --toc-link / --toc-hover / --toc-font / --toc-size */
+       変えられる値: --toc-width / --toc-link / --toc-hover / --toc-font / --toc-size / --toc-gap（項目の間）
+       見出し（On this page）: --toc-head（色）/ --toc-head-font / --toc-head-size / --toc-head-weight / --toc-head-gap */
   .page-toc {
     max-width: var(--toc-width, 560px);
     margin: 0 auto 2.5rem;
@@ -853,15 +854,17 @@ const personJsonLd = isHome
     text-align: center;
   }
   .page-toc-head {
-    margin: 1.2rem 0 0.4rem;
-    font-size: 0.85rem;
+    margin: 1.2rem 0 var(--toc-head-gap, 0.4rem);
+    font-family: var(--toc-head-font, inherit);
+    font-weight: var(--toc-head-weight, inherit);
+    font-size: var(--toc-head-size, 0.85rem);
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--toc-head, #888);
   }
   .page-toc ul { list-style: none; margin: 0; padding: 0; }
   .page-toc li {
-    margin: 0.5rem 0;
+    margin: var(--toc-gap, 0.5rem) 0;
     line-height: 1.6;
     font-family: var(--toc-font, inherit);
     font-size: var(--toc-size, inherit);

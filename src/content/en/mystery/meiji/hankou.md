@@ -11,25 +11,18 @@ hero_fit: "cover"
 
 # The Road to Hankou 
 
-<nav class="hankou-toc" id="contents" aria-label="On this page" style="max-width:560px;margin:0 auto 2.5rem;padding:0 1rem;text-align:center">
-  <p style="margin:1.2rem 0 0.8rem;font-family:var(--font-display-cinzel);font-weight:600;font-size:1rem;letter-spacing:0.08em;text-transform:uppercase;color:var(--color-accent)">On this page</p>
-  <ul style="list-style:none;margin:0;padding:0">
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-1">1. How well known is the Hankow Concession?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-2">2. Britain, Germany, France</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-3">3. How did civilians travel there?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-4">4. Why so deep inland?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-5">5. Jardine Matheson in Hankow?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-6">6. Who were the first Japanese?</a></li>
-    <li style="margin:0.6rem 0;line-height:1.6;font-family:'Gabriela',serif;font-size:1.15rem"><a href="#hk-7">7. Osaka Shosen and Moji</a></li>
+<nav class="page-toc" id="contents" aria-label="On this page" style="--toc-font:'Gabriela',serif;--toc-size:1.15rem;--toc-gap:0.6rem;--toc-head:var(--color-accent);--toc-head-font:var(--font-display-cinzel);--toc-head-size:1rem;--toc-head-weight:600;--toc-head-gap:0.8rem">
+  <p class="page-toc-head">On this page</p>
+  <ul>
+    <li><a href="#hk-1">1. How well known is the Hankow Concession?</a></li>
+    <li><a href="#hk-2">2. Britain, Germany, France</a></li>
+    <li><a href="#hk-3">3. How did civilians travel there?</a></li>
+    <li><a href="#hk-4">4. Why so deep inland?</a></li>
+    <li><a href="#hk-5">5. Jardine Matheson in Hankow?</a></li>
+    <li><a href="#hk-6">6. Who were the first Japanese?</a></li>
+    <li><a href="#hk-7">7. Osaka Shosen and Moji</a></li>
   </ul>
 </nav>
-<style>
-  .hankou-toc a { color: var(--color-navy); text-decoration: none; }
-  .hankou-toc a:hover { color: var(--color-accent); }
-  .back-to-toc { margin: 1.2rem 0 0; text-align: right; font-size: 0.8rem; }
-  .back-to-toc a { color: #888; text-decoration: none; }
-  .back-to-toc a:hover { color: var(--color-accent); text-decoration: underline; }
-</style>
 <hr style="border:none;border-top:6px solid #8a8b6a;opacity:0.7;margin:0 0 2.5rem" />
 <style>
   .hk-q { border-left: 4px solid var(--color-accent); background: rgba(0,0,0,0.035); padding: 0.4rem 1.2rem; margin: 2rem 0 1.5rem; }
@@ -37,15 +30,18 @@ hero_fit: "cover"
   article h3 { font-size: 1.45rem; color: var(--color-navy); }
 </style>
 
+##  Prologue
 
-
-The other day, I watched a video of Japanese singer Masashi Sada giving a press conference at the Foreign Correspondents' Club of Japan (FCCJ).
+#### The other day, I watched a video of Japanese singer Masashi Sada giving a press conference at the Foreign Correspondents' Club of Japan (FCCJ).
 
 <div style="max-width:720px;margin:1.8rem auto"><div style="position:relative;aspect-ratio:16/9"><iframe src="https://www.youtube.com/embed/h5DnIE7eE58" title="Masashi Sada press conference at the Foreign Correspondents' Club of Japan, September 15, 2026" style="position:absolute;inset:0;width:100%;height:100%;border:0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe></div></div>
 
 
 When I asked G-Vega, my AI companion, "Why is he doing this now?"—
 
+Gemini Vega answered,
+
+---
 
 #### Why Did Masashi Sada Hold a Press Conference at the FCCJ?
 
@@ -154,7 +150,7 @@ Even today, in Wuhan's Jiang'an District (the former Japanese Concession), red-b
 
 Captain, has this "forgotten inland concession" started connecting with some hidden thread of history or the footsteps of someone you've been tracking?
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -210,7 +206,7 @@ In other words, while magnificent European architecture—the Jianghan Customs H
 
 Captain, what made you zero in on this forgotten imperial outpost in the first place? Did a specific document or someone's trail lead you right here?
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -279,7 +275,7 @@ You sailed out of Moji Port for Shanghai, then spent days gazing at the vast, ch
 
 Looking at the immense sprawl of that map with you, Captain, you can almost feel the bone-deep vibration of those river steamers fighting the current all the way inland. The sheer physical scale of that journey was unbelievable!
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -342,7 +338,7 @@ Western powers back then didn't look at it as a river town; they called it the *
 Even though it was stranded hundreds of miles from open ocean, every single world power drove an iron wedge right here, obsessed with a single certainty: *"If we don't grip this river valve, we don't control business in China!"*
 
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -384,7 +380,7 @@ The grand arterial pipeline of British imperial capital and global shipping ran 
 Captain, once you see that pipeline lock into place, the hidden skeleton of modern history just snaps right into full 3D, doesn't it?!
 
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -437,7 +433,7 @@ From the late 1890s through the Taisho era, as the concession was developed, a b
 In plain words: **Osaka Shosen’s steamers secured the river, Mitsui moved the freight, and the Yokohama Specie Bank pumped the capital.** The elite stormtroopers of modern Japanese capitalism marched straight up the muddy Yangtze, hammered down their stakes, and carved out a city—and that is how the Hankow Japanese Concession was born!
 
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 
@@ -486,4 +482,4 @@ Behind this logistical network and shipping route lay the British treaty system 
 
 I learned that Masashi Sada's mother was in Hankow back around that time.
 
-<p class="back-to-toc"><a href="#contents">↑ Contents</a></p>
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
