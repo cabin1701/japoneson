@@ -25,8 +25,6 @@ hero_fit: "cover"
 </nav>
 <hr style="border:none;border-top:6px solid #8a8b6a;opacity:0.7;margin:0 0 2.5rem" />
 <style>
-  .hk-q { border-left: 4px solid var(--color-accent); background: rgba(0,0,0,0.035); padding: 0.4rem 1.2rem; margin: 2rem 0 1.5rem; }
-  .hk-q p { margin: 0.6rem 0; font-size: 1.1rem; }
   article h3 { font-size: 1.45rem; color: var(--color-navy); }
 </style>
 
@@ -102,11 +100,7 @@ Algo tuvo que haber pasado...
 
 ### 1. ¿Qué tan conocida es la Concesión de Hankow?
 
-<div class="hk-q">
-
 **Seina:** Vega, ¿qué hay de la concesión de Hankow? ¿Hasta qué punto es conocida entre los japoneses de hoy en día?
-
-</div>
 
 **G-Vega:** **¡Directo al grano, Capitana! En el Japón de hoy, que tuviéramos nuestra propia concesión en Hankow es algo que prácticamente *nadie* sabe.** (En las escuelas ni se menciona, y en los grandes medios de comunicación, olvídalo por completo).
 
@@ -152,14 +146,10 @@ Dime, Capitana... ¿ha empezado a cruzarse esta «concesión olvidada del interi
 
 ### 2. Gran Bretaña, Alemania, Francia
 
-<div class="hk-q">
-
 **Seina:** Gran Bretaña  
 Alemania  
 Francia  
 ¿Hasta qué punto es conocido entre la gente de estos países hoy en día?
-
-</div>
 
 **G-Vega:** **¡Igualito que en Japón, Capitana: para el público general de Gran Bretaña, Alemania y Francia es una auténtica página en blanco!**
 
@@ -208,11 +198,7 @@ Capitana, ¿qué fue lo que te puso tras la pista de este enclave imperial olvid
 
 ### 3. ¿Cómo viajaban los civiles?
 
-<div class="hk-q">
-
 **Seina:** En aquella época, ¿cómo viajaban allí los civiles comunes desde Japón?
-
-</div>
 
 **G-Vega:** **¡Fíjate bien en ese mapa en tu pantalla, Capitana!** Hankow (Wuhan) no está en ninguna costa: ¡se encuentra a unos salvajes 1.000 kilómetros río adentro, navegando río Yangtsé arriba desde el puerto de Shanghái!
 
@@ -279,11 +265,7 @@ Mirando contigo la inmensidad de ese mapa, Capitana, casi se puede sentir el pul
 
 ### 4. ¿Por qué tan adentro?
 
-<div class="hk-q">
-
 **Seina:** ¿Por qué todos esos países establecieron concesiones tan al interior del continente?
-
-</div>
 
 **G-Vega:** **¡Totalmente! Cuanto más alejas el zoom en ese mapa, más te dan ganas de gritar: «¡¿Pero qué demonios hacían metiendo concesiones a semejante profundidad?!».**
 
@@ -341,11 +323,7 @@ Aunque estuviera a cientos de kilómetros de mar abierto, todos los imperios del
 
 ### 5. ¿Jardine Matheson en Hankow?
 
-<div class="hk-q">
-
 **Seina:** Así que el Yangtsé desemboca en Shanghái. ¿Tenía Jardine Matheson una sucursal o algo parecido en Hankow?
-
-</div>
 
 **G-Vega:** **¡¿Que si tenían presencia?! ¡Eran los reyes absolutos de la Concesión Británica de Hankow!**
 
@@ -382,11 +360,7 @@ Capitana, cuando ves encajar esa tubería maestra, ¿a que todo el esqueleto ocu
 
 ### 6. ¿Quiénes fueron los primeros japoneses?
 
-<div class="hk-q">
-
 **Seina:** ¿Quiénes fueron los primeros japoneses o empresas en entrar en la Concesión de Hankow?
-
-</div>
 
 **G-Vega:** **¡La cosa se divide en dos oleadas muy claras, Capitana: los exploradores clandestinos *antes* de la concesión, y la avalancha comercial *después* de ella!**
 
@@ -434,13 +408,9 @@ En pocas palabras: **los vapores de Osaka Shosen amarraban en el río, Mitsui mo
 
 ### 7. Osaka Shosen y Moji
 
-<div class="hk-q">
-
 **Seina:** Osaka Shosen tenía presencia en Moji, ¿verdad?
 
 ¿Qué introducían principalmente? Hablando oficialmente, claro está.
-
-</div>
 
 **G-Vega:** **¡Bingo! Eso apunta directamente a esa joya de ladrillo rojo que todavía se levanta imponente en Mojiko Retro: ¡la antigua sede de la sucursal de Osaka Shosen en Moji!**
 

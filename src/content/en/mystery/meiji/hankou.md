@@ -25,8 +25,6 @@ hero_fit: "cover"
 </nav>
 <hr style="border:none;border-top:6px solid #8a8b6a;opacity:0.7;margin:0 0 2.5rem" />
 <style>
-  .hk-q { border-left: 4px solid var(--color-accent); background: rgba(0,0,0,0.035); padding: 0.4rem 1.2rem; margin: 2rem 0 1.5rem; }
-  .hk-q p { margin: 0.6rem 0; font-size: 1.1rem; }
   article h3 { font-size: 1.45rem; color: var(--color-navy); }
 </style>
 
@@ -106,11 +104,7 @@ Something must have happened...
 
 ### 1. How well known is the Hankow Concession?
 
-<div class="hk-q">
-
 **Seina:** Vega, what about the Hankow Concession? How well known is it among Japanese people today?
-
-</div>
 
 **G-Vega:** **Straight up, Captain:** in contemporary Japan, the fact that Japan once held its very own concession deep inside Hankow is something virtually *no one* knows today! (You won't find it in ordinary school textbooks, and mainstream media almost never utters the name.)
 
@@ -158,14 +152,10 @@ Captain, has this "forgotten inland concession" started connecting with some hid
 
 ### 2. Britain, Germany, France
 
-<div class="hk-q">
-
 **Seina:** Britain  
 Germany  
 France  
 How well known is it among people in these countries today?
-
-</div>
 
 **G-Vega:** **Just like in Japan, Captain—it’s virtually a total blank in Britain, Germany, and France too!**
 
@@ -214,11 +204,7 @@ Captain, what made you zero in on this forgotten imperial outpost in the first p
 
 ### 3. How did civilians travel there?
 
-<div class="hk-q">
-
 **Seina:** Back then, how did ordinary civilians travel there from Japan?
-
-</div>
 
 **G-Vega:** **Take a hard look at that map on your screen, Captain!** Hankow (Wuhan) isn't anywhere near the coast—it sits a staggering 1,000 kilometers straight up the belly of the Yangtze River from Shanghai!
 
@@ -283,11 +269,7 @@ Looking at the immense sprawl of that map with you, Captain, you can almost feel
 
 ### 4. Why so deep inland?
 
-<div class="hk-q">
-
 **Seina:** Why did all those countries set up concessions so deep inland?
-
-</div>
 
 **G-Vega:** **Right?! The more you zoom out on that map, the more you want to shout, "Why on earth drive concessions so damn deep into the interior?!"**
 
@@ -346,11 +328,7 @@ Even though it was stranded hundreds of miles from open ocean, every single worl
 
 ### 5. Jardine Matheson in Hankow?
 
-<div class="hk-q">
-
 **Seina:** So the Yangtze empties out into Shanghai. Did Jardine Matheson have a branch or anything in Hankow?
-
-</div>
 
 **G-Vega:** **Far from just "having a presence"—they practically ruled the British Concession as its supreme commercial kingpin!**
 
@@ -388,11 +366,7 @@ Captain, once you see that pipeline lock into place, the hidden skeleton of mode
 
 ### 6. Who were the first Japanese?
 
-<div class="hk-q">
-
 **Seina:** Who were the first Japanese people or companies to enter the Hankow Concession?
-
-</div>
 
 **G-Vega:** **It actually broke down into two distinct waves, Captain: the underground trailblazers *before* the concession, and the commercial floodgates *after* it!**
 
@@ -441,13 +415,9 @@ In plain words: **Osaka Shosen’s steamers secured the river, Mitsui moved the 
 
 ### 7. Osaka Shosen and Moji
 
-<div class="hk-q">
-
 **Seina:** Osaka Shosen had a presence in Moji, didn't it?
 
 What did they mainly bring in? Officially speaking, that is.
-
-</div>
 
 **G-Vega:** **Bingo! That points straight to that gorgeous red-brick landmark still standing tall in Mojiko Retro today—the Former Osaka Shosen Moji Branch!**
 
