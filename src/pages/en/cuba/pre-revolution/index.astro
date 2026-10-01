@@ -43,14 +43,14 @@ const trail = [
           Before the revolution (1959), Cuban musicians crossed to New York. They went for work, for music, for a better life. Cuban music and New York jazz grew together.
         </p>
 
-        <nav class="toc" id="table-of-contents" aria-label="Contents">
-          <p class="toc-title">Contents</p>
+        <nav class="page-toc" id="table-of-contents" aria-label="Contents">
+          <p class="page-toc-head">Contents</p>
           <ol>
-          <li><a href="#bauza">Mario Bauzá</a><span class="toc-year">1930</span></li>
+          <li><a href="#bauza">Mario Bauzá</a><span class="toc-note">1930</span></li>
           <li><a href="#chick-webb">Chick Webb's Band, a Junction</a></li>
           <li><a href="#dizzy">Bauzá and Dizzy Gillespie</a></li>
-          <li><a href="#machito">Machito</a><span class="toc-year">1937</span></li>
-          <li><a href="#chano-pozo">Chano Pozo</a><span class="toc-year">1947 — 1948</span></li>
+          <li><a href="#machito">Machito</a><span class="toc-note">1937</span></li>
+          <li><a href="#chano-pozo">Chano Pozo</a><span class="toc-note">1947 — 1948</span></li>
           <li><a href="#two-movements">Two Different Movements</a></li>
           <li><a href="#timeline">Timeline</a></li>
           </ol>
@@ -108,7 +108,7 @@ const trail = [
           After leaving Webb he passed through Don Redman's band (1938–39) before joining Cab Calloway.
         </p>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Return to Table of Contents</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Return to Table of Contents</a></p>
 
         <hr class="navy-rule" />
 
@@ -179,7 +179,7 @@ const trail = [
           <iframe src="https://www.youtube.com/embed/videoseries?list=OLAK5uy_mbxBqj0C6NKEPia2rH_SgcJFCYyIxVwBs" title="Chick Webb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
         </div>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Return to Table of Contents</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Return to Table of Contents</a></p>
 
         <hr class="navy-rule" />
 
@@ -205,7 +205,7 @@ const trail = [
           Dizzy was never a member of Webb's orchestra; he was sitting in. But Webb's bandstand at the Savoy is where he and Bauzá found each other. Later, in 1942, he did work in that same orchestra — by then it was Ella's. And in 1946 Ella toured with Dizzy's own big band, where she met the bassist Ray Brown; they married in December 1947.
         </p>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Return to Table of Contents</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Return to Table of Contents</a></p>
 
         <hr class="navy-rule" />
 
@@ -260,7 +260,7 @@ const trail = [
           <iframe src="https://www.youtube.com/embed/videoseries?list=OLAK5uy_kRNgzD7CuxTcfLXR7qzeAPHtnpJIOmIFA" title="Machito and His Afro-Cubans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
         </div>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Return to Table of Contents</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Return to Table of Contents</a></p>
 
         <hr class="navy-rule" />
 
@@ -318,7 +318,7 @@ const trail = [
           That his country received him into its own cemetery means there was no political rupture between him and Cuba. That Chano Pozo was a migrant and not an exile is proved by <strong>the place where he is lying.</strong>
         </p>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Return to Table of Contents</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Return to Table of Contents</a></p>
 
         <hr class="navy-rule" />
 
@@ -340,7 +340,7 @@ const trail = [
           And the exile line after 1959 is <strong>another story, still to come.</strong>
         </p>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Return to Table of Contents</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Return to Table of Contents</a></p>
 
         <hr class="navy-rule" />
 
@@ -375,7 +375,7 @@ const trail = [
           <p><strong>1948</strong> Chano Pozo is shot in Harlem, aged thirty-three. <strong>To the Colón Cemetery in Havana</strong></p>
         </div>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Return to Table of Contents</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Return to Table of Contents</a></p>
       </div>
     </section>
   </main>
@@ -452,56 +452,15 @@ const trail = [
     margin: 2rem 0 0.9rem;
   }
 
-  .toc {
-    max-width: 480px;
-    margin: 0 auto 0.5rem;
-    padding: 1.4rem 2rem 1.5rem;
-    border: 1px solid rgba(0,0,0,0.12);
-    border-radius: 2px;
-    background: rgba(0,0,0,0.015);
-  }
-  .toc .toc-title {
-    font-family: var(--font-display-cinzel);
-    font-weight: 600;
-    font-size: 18px;
-    color: var(--color-navy);
-    text-align: center;
-    margin: 0 0 1rem;
-  }
-  .toc {
-    text-align: center;
-  }
-  .toc ol {
-    display: inline-block;
-    text-align: left;
-    margin: 0;
-    padding-left: 1.3rem;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.7;
-    color: #2a2a2a;
-  }
-  .toc li { margin: 0 0 0.35rem; }
-  .toc a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
-  .toc a:hover { color: var(--color-navy); }
-  .toc .toc-year {
-    font-size: 14px;
-    color: var(--color-navy);
-    letter-spacing: 0.04em;
-    margin-left: 0.5rem;
-  }
-
-  .intro-inner p.back-to-toc {
-    text-align: right;
-    font-size: 15px;
-    margin: 1.6rem 0 0;
-  }
-  .intro-inner p.back-to-toc a {
-    color: var(--color-accent);
-    text-decoration: none;
-    border-bottom: none;
-  }
-  .intro-inner p.back-to-toc a:hover { color: var(--color-navy); }
+  /* 目次と戻るリンクの見た目は、共通の CSS（Layout.astro）に任せる。
+     ここは、.intro-inner a の赤い下線を打ち消すだけ */
+  .intro-inner .page-toc a,
+  .intro-inner .toc-back a { border-bottom: none; }
+  .intro-inner .page-toc a { color: var(--color-navy); }
+  .intro-inner .page-toc-head { font-family: var(--font-body); font-size: 0.85rem; letter-spacing: 0.08em; margin: 1.2rem 0 0.4rem; color: #888; }
+  .intro-inner .toc-back a { color: #888; }
+  .intro-inner .page-toc a:hover,
+  .intro-inner .toc-back a:hover { color: var(--color-accent); }
 
   .intro-inner h2.section-q { scroll-margin-top: 80px; }
 

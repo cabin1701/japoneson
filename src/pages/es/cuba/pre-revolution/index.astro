@@ -43,14 +43,14 @@ const trail = [
           Antes de la revolución (1959), los músicos cubanos cruzaron a Nueva York. Se fueron por el trabajo, por la música, por una vida mejor. La música cubana y el jazz neoyorquino crecieron juntos.
         </p>
 
-        <nav class="toc" id="table-of-contents" aria-label="Índice">
-          <p class="toc-title">Índice</p>
+        <nav class="page-toc" id="table-of-contents" aria-label="Índice">
+          <p class="page-toc-head">Índice</p>
           <ol>
-          <li><a href="#bauza">Mario Bauzá</a><span class="toc-year">1930</span></li>
+          <li><a href="#bauza">Mario Bauzá</a><span class="toc-note">1930</span></li>
           <li><a href="#chick-webb">La banda de Chick Webb, un cruce</a></li>
           <li><a href="#dizzy">Bauzá y Dizzy Gillespie</a></li>
-          <li><a href="#machito">Machito</a><span class="toc-year">1937</span></li>
-          <li><a href="#chano-pozo">Chano Pozo</a><span class="toc-year">1947 — 1948</span></li>
+          <li><a href="#machito">Machito</a><span class="toc-note">1937</span></li>
+          <li><a href="#chano-pozo">Chano Pozo</a><span class="toc-note">1947 — 1948</span></li>
           <li><a href="#two-movements">Dos movimientos distintos</a></li>
           <li><a href="#timeline">Cronología</a></li>
           </ol>
@@ -108,7 +108,7 @@ const trail = [
           Al dejar a Webb pasó por la banda de Don Redman (1938–39) antes de entrar con Cab Calloway.
         </p>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Volver al Índice</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Volver al Índice</a></p>
 
         <hr class="navy-rule" />
 
@@ -179,7 +179,7 @@ const trail = [
           <iframe src="https://www.youtube.com/embed/videoseries?list=OLAK5uy_mbxBqj0C6NKEPia2rH_SgcJFCYyIxVwBs" title="Chick Webb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
         </div>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Volver al Índice</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Volver al Índice</a></p>
 
         <hr class="navy-rule" />
 
@@ -205,7 +205,7 @@ const trail = [
           Dizzy nunca fue miembro de la orquesta de Webb; aquella noche estaba de invitado. Pero fue en el escenario de Webb, en el Savoy, donde él y Bauzá se encontraron. Más tarde, en 1942, sí trabajó en esa misma orquesta — que para entonces era la de Ella. Y en 1946 Ella salió de gira con la big band de Dizzy, donde conoció al bajista Ray Brown; se casaron en diciembre de 1947.
         </p>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Volver al Índice</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Volver al Índice</a></p>
 
         <hr class="navy-rule" />
 
@@ -260,7 +260,7 @@ const trail = [
           <iframe src="https://www.youtube.com/embed/videoseries?list=OLAK5uy_kRNgzD7CuxTcfLXR7qzeAPHtnpJIOmIFA" title="Machito and His Afro-Cubans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
         </div>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Volver al Índice</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Volver al Índice</a></p>
 
         <hr class="navy-rule" />
 
@@ -318,7 +318,7 @@ const trail = [
           Que su país lo recibiera en su propio cementerio significa que no había ruptura política entre él y Cuba. Que Chano Pozo fuera un migrante y no un exiliado lo demuestra <strong>el lugar donde está enterrado.</strong>
         </p>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Volver al Índice</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Volver al Índice</a></p>
 
         <hr class="navy-rule" />
 
@@ -340,7 +340,7 @@ const trail = [
           Y la línea del exilio posterior a 1959 es <strong>otra historia, que aún está por venir.</strong>
         </p>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Volver al Índice</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Volver al Índice</a></p>
 
         <hr class="navy-rule" />
 
@@ -375,7 +375,7 @@ const trail = [
           <p><strong>1948</strong> Matan a tiros a Chano Pozo en Harlem, a los treinta y tres. <strong>Al Cementerio de Colón, en La Habana</strong></p>
         </div>
 
-        <p class="back-to-toc"><a href="#table-of-contents">Volver al Índice</a></p>
+        <p class="toc-back"><a href="#table-of-contents">Volver al Índice</a></p>
       </div>
     </section>
   </main>
@@ -452,56 +452,15 @@ const trail = [
     margin: 2rem 0 0.9rem;
   }
 
-  .toc {
-    max-width: 480px;
-    margin: 0 auto 0.5rem;
-    padding: 1.4rem 2rem 1.5rem;
-    border: 1px solid rgba(0,0,0,0.12);
-    border-radius: 2px;
-    background: rgba(0,0,0,0.015);
-  }
-  .toc .toc-title {
-    font-family: var(--font-display-cinzel);
-    font-weight: 600;
-    font-size: 18px;
-    color: var(--color-navy);
-    text-align: center;
-    margin: 0 0 1rem;
-  }
-  .toc {
-    text-align: center;
-  }
-  .toc ol {
-    display: inline-block;
-    text-align: left;
-    margin: 0;
-    padding-left: 1.3rem;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.7;
-    color: #2a2a2a;
-  }
-  .toc li { margin: 0 0 0.35rem; }
-  .toc a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
-  .toc a:hover { color: var(--color-navy); }
-  .toc .toc-year {
-    font-size: 14px;
-    color: var(--color-navy);
-    letter-spacing: 0.04em;
-    margin-left: 0.5rem;
-  }
-
-  .intro-inner p.back-to-toc {
-    text-align: right;
-    font-size: 15px;
-    margin: 1.6rem 0 0;
-  }
-  .intro-inner p.back-to-toc a {
-    color: var(--color-accent);
-    text-decoration: none;
-    border-bottom: none;
-  }
-  .intro-inner p.back-to-toc a:hover { color: var(--color-navy); }
+  /* 目次と戻るリンクの見た目は、共通の CSS（Layout.astro）に任せる。
+     ここは、.intro-inner a の赤い下線を打ち消すだけ */
+  .intro-inner .page-toc a,
+  .intro-inner .toc-back a { border-bottom: none; }
+  .intro-inner .page-toc a { color: var(--color-navy); }
+  .intro-inner .page-toc-head { font-family: var(--font-body); font-size: 0.85rem; letter-spacing: 0.08em; margin: 1.2rem 0 0.4rem; color: #888; }
+  .intro-inner .toc-back a { color: #888; }
+  .intro-inner .page-toc a:hover,
+  .intro-inner .toc-back a:hover { color: var(--color-accent); }
 
   .intro-inner h2.section-q { scroll-margin-top: 80px; }
 

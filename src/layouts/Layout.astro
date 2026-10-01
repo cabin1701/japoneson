@@ -863,6 +863,10 @@ const personJsonLd = isHome
     color: var(--toc-head, #888);
   }
   .page-toc ul { list-style: none; margin: 0; padding: 0; }
+  .page-toc ol { list-style: none; counter-reset: toc; margin: 0; padding: 0; }
+  .page-toc ol > li { counter-increment: toc; }
+  .page-toc ol > li::before { content: counter(toc) ". "; }
+  .page-toc .toc-note { font-size: 0.9rem; color: #888; margin-left: 0.5rem; }
   .page-toc li {
     margin: var(--toc-gap, 0.5rem) 0;
     line-height: 1.6;

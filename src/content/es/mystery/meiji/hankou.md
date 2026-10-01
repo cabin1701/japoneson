@@ -11,8 +11,8 @@ hero_fit: "cover"
 
 # El camino hacia Hankou
 
-<nav class="page-toc" id="contents" aria-label="En esta página" style="--toc-font:'Gabriela',serif;--toc-size:1.15rem;--toc-gap:0.6rem;--toc-head:var(--color-accent);--toc-head-font:var(--font-display-cinzel);--toc-head-size:1rem;--toc-head-weight:600;--toc-head-gap:0.8rem">
-  <p class="page-toc-head">En esta página</p>
+<nav class="page-toc" id="contents" aria-label="Contenido">
+  <p class="page-toc-head">Contenido</p>
   <ul>
     <li><a href="#hk-0">Prólogo</a></li>
     <li><a href="#hk-1">1. ¿Qué tan conocida es la Concesión de Hankow?</a></li>

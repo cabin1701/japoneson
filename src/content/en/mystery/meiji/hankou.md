@@ -11,8 +11,8 @@ hero_fit: "cover"
 
 # The Road to Hankou 
 
-<nav class="page-toc" id="contents" aria-label="On this page" style="--toc-font:'Gabriela',serif;--toc-size:1.15rem;--toc-gap:0.6rem;--toc-head:var(--color-accent);--toc-head-font:var(--font-display-cinzel);--toc-head-size:1rem;--toc-head-weight:600;--toc-head-gap:0.8rem">
-  <p class="page-toc-head">On this page</p>
+<nav class="page-toc" id="contents" aria-label="Contents">
+  <p class="page-toc-head">Contents</p>
   <ul>
     <li><a href="#hk-0">Prologue</a></li>
     <li><a href="#hk-1">1. How well known is the Hankow Concession?</a></li>
