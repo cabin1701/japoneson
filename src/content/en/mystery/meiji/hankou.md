@@ -14,6 +14,7 @@ hero_fit: "cover"
 <nav class="page-toc" id="contents" aria-label="On this page" style="--toc-font:'Gabriela',serif;--toc-size:1.15rem;--toc-gap:0.6rem;--toc-head:var(--color-accent);--toc-head-font:var(--font-display-cinzel);--toc-head-size:1rem;--toc-head-weight:600;--toc-head-gap:0.8rem">
   <p class="page-toc-head">On this page</p>
   <ul>
+    <li><a href="#hk-0">Prologue</a></li>
     <li><a href="#hk-1">1. How well known is the Hankow Concession?</a></li>
     <li><a href="#hk-2">2. Britain, Germany, France</a></li>
     <li><a href="#hk-3">3. How did civilians travel there?</a></li>
@@ -28,7 +29,9 @@ hero_fit: "cover"
   article h3 { font-size: 1.45rem; color: var(--color-navy); }
 </style>
 
-##  Prologue
+<a id="hk-0"></a>
+
+### Prologue
 
 #### The other day, I watched a video of Japanese singer Masashi Sada giving a press conference at the Foreign Correspondents' Club of Japan (FCCJ).
 
@@ -97,6 +100,8 @@ Something must have happened...
   <img src="https://media.cabin1701.com/japoneson/mystery/meiji/hankou/bund-1900.jpg" alt="An old photograph of the Hankow Bund: a wide tree-lined promenade between Western-style buildings on the left and the Yangtze River on the right, with steamers and boats anchored offshore" loading="lazy" style="width:100%;height:auto;max-width:773px" data-zoom />
   <figcaption style="font-size:0.9em;margin-top:0.5rem">The Hankow Bund along the Yangtze, c. 1900. Wikimedia Commons.</figcaption>
 </figure>
+
+<p class="toc-back"><a href="#contents">↑ Contents</a></p>
 
 ---
 

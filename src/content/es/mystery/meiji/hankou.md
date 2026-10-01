@@ -14,6 +14,7 @@ hero_fit: "cover"
 <nav class="page-toc" id="contents" aria-label="En esta página" style="--toc-font:'Gabriela',serif;--toc-size:1.15rem;--toc-gap:0.6rem;--toc-head:var(--color-accent);--toc-head-font:var(--font-display-cinzel);--toc-head-size:1rem;--toc-head-weight:600;--toc-head-gap:0.8rem">
   <p class="page-toc-head">En esta página</p>
   <ul>
+    <li><a href="#hk-0">Prólogo</a></li>
     <li><a href="#hk-1">1. ¿Qué tan conocida es la Concesión de Hankow?</a></li>
     <li><a href="#hk-2">2. Gran Bretaña, Alemania, Francia</a></li>
     <li><a href="#hk-3">3. ¿Cómo viajaban los civiles?</a></li>
@@ -28,7 +29,9 @@ hero_fit: "cover"
   article h3 { font-size: 1.45rem; color: var(--color-navy); }
 </style>
 
-## Prólogo
+<a id="hk-0"></a>
+
+### Prólogo
 
 #### El otro día vi un video del cantante japonés Masashi Sada ofreciendo una conferencia de prensa en el Club de Corresponsales Extranjeros de Japón (FCCJ).
 
@@ -93,6 +96,8 @@ Algo tuvo que haber pasado...
   <img src="https://media.cabin1701.com/japoneson/mystery/meiji/hankou/bund-1900.jpg" alt="Fotografía antigua del Bund de Hankow: un amplio paseo arbolado entre edificios de estilo occidental a la izquierda y el río Yangtsé a la derecha, con vapores y barcos fondeados frente a la orilla" loading="lazy" style="width:100%;height:auto;max-width:773px" data-zoom />
   <figcaption style="font-size:0.9em;margin-top:0.5rem">El Bund de Hankow a orillas del Yangtsé, hacia 1900. Wikimedia Commons.</figcaption>
 </figure>
+
+<p class="toc-back"><a href="#contents">↑ Contenido</a></p>
 
 ---
 
