@@ -1,5 +1,5 @@
 ---
-title: "El camino hacia Hankou"
+title: "El camino hacia Hankou, China"
 slug: hankou
 wp_parent: 18805
 hero_image: "/images/mystery/hero_hankou.jpg"
@@ -9,7 +9,7 @@ hero_height: 760
 hero_fit: "cover"
 ---
 
-# El camino hacia Hankou
+# El camino hacia Hankou, China
 
 <nav class="page-toc" id="contents" aria-label="Contenido">
   <p class="page-toc-head">Contenido</p>

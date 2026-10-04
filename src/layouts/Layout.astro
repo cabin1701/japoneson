@@ -881,6 +881,13 @@ const personJsonLd = isHome
   .toc-back a { color: #888; text-decoration: none; }
   .toc-back a:hover { color: var(--color-accent); text-decoration: underline; }
 
+  /* === The Meiji Restoration pages (mystery/meiji/…): section titles are navy, not red === */
+  main.page-meiji article h3 { color: var(--color-navy); }
+
+  /* === YouTube embed (shared): <div class="video-embed"><iframe src="https://www.youtube.com/embed/ID" …></iframe></div> === */
+  article .video-embed { position: relative; aspect-ratio: 16 / 9; max-width: 720px; margin: 1.8rem auto; }
+  article .video-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
   /* === Booklet (Angels Swing / We Remember You chapters) === */
   /* Image caption: em on its own line within an image paragraph */
   main.page-booklet article p:has(> img) em {
