@@ -7,12 +7,15 @@ interface Props {
   lang?: 'en' | 'es';
   /** SNS プレビューに出す画像。そのページの hero を渡す。省略時はトップの hero */
   ogImage?: string;
+  /** ページ固有の JSON-LD（schema.org）。渡した時は、自動で出す WebPage の代わりにこれを出す。エッセイ（Article）で使う */
+  jsonLd?: object | object[];
 }
 const {
   title = 'Shoko "Seina" Shiraishi',
   description = 'Shoko "Seina" Shiraishi — writer, musician, and creator based in Japan. Essays, music, mystery research, and stories.',
   lang = 'en',
   ogImage,
+  jsonLd,
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 // og:image は「そのページの hero があれば hero、無ければトップの hero」。
@@ -71,6 +74,19 @@ const personJsonLd = isHome
       ],
     }
   : null;
+
+// ページごとの JSON-LD。ページ側から jsonLd が渡された時（エッセイの Article）はそれを出し、
+// 渡されなかったページは、全部 WebPage にする（2026-10-13、船長の決定：エッセイは Article、それ以外は WebPage）。
+const webPageJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: title,
+  description,
+  url: canonicalURL.href,
+  inLanguage: lang,
+  isPartOf: { '@type': 'WebSite', name: 'Japonéson', url: 'https://japoneson.com/' },
+};
+const pageJsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [webPageJsonLd];
 ---
 
 <!doctype html>
@@ -98,6 +114,9 @@ const personJsonLd = isHome
     {personJsonLd && (
       <script type="application/ld+json" set:html={JSON.stringify(personJsonLd)} />
     )}
+    {pageJsonLdList.map((ld) => (
+      <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+    ))}
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />

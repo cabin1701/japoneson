@@ -28,9 +28,29 @@ const fmtDate = (d: Date) =>
 const slugOf = (id: string) => id.replace(/^(en|es)\//, '');
 const essayBase = `${base}es/essay/`;
 const HERO_FALLBACK = `https://media.cabin1701.com/japoneson/essay/swing_cut.jpg`;
+// schema.org の Article。値はエッセイの frontmatter（title / date / hero）とページの URL だけから作る。
+// 書き手は、トップの Person（@id は cabin1701.com と同じ）に結ぶ。
+const essayUrl = new URL(Astro.url.pathname, Astro.site).href;
+const heroUrl = post.data.hero
+  ? /^https?:\/\//.test(post.data.hero)
+    ? post.data.hero
+    : new URL(`${import.meta.env.BASE_URL}${post.data.hero.replace(/^\//, '')}`, Astro.site).href
+  : undefined;
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: post.data.title,
+  url: essayUrl,
+  mainEntityOfPage: essayUrl,
+  inLanguage: 'es',
+  datePublished: post.data.date.toISOString(),
+  author: { '@type': 'Person', '@id': 'https://cabin1701.com/#person', name: 'Shoko Shiraishi' },
+  publisher: { '@type': 'WebSite', name: 'Japonéson', url: 'https://japoneson.com/' },
+  ...(heroUrl ? { image: heroUrl } : {}),
+};
 ---
 
-<Layout title={`${post.data.title} – JAPONÉSON`} lang="es">
+<Layout title={`${post.data.title} – JAPONÉSON`} lang="es" jsonLd={articleLd}>
   <Header lang="es" />
 
   {post.data.hero ? (
