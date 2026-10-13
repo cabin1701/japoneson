@@ -12,6 +12,7 @@
 - [Cabin1701](https://cabin1701.com/): Sister sanctuary documenting human-AI co-creation and Living With AI.
 
 ## Markdown
+- [About Seina as Markdown](https://japoneson.com/en/about.md): The main pages are also available as Markdown. Add `.md` to the page URL, without the trailing slash.
 - [Essays as Markdown](https://japoneson.com/en/essay/a-door-for-cuba-in-2013.md): Every essay is also available as Markdown. Add `.md` to the essay URL, without the trailing slash.
 
 ## Feeds
