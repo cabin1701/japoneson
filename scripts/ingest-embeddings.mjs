@@ -435,6 +435,34 @@ function buildWpPath(entry, byWpId) {
   return segments.join('/');
 }
 
+// 手作りの .astro ページ（同じ名前の .md もあるが、公開されているのは .astro のほう）。
+// Jii が読む文を公開ページと同じにするため、本文はビルド済みの dist から取る（2026-10-13）。
+// 先に `npm run build` が要る。dist が無ければ、.md の本文に戻して警告を出す。
+const HAND_BUILT_PAGES = new Set(['cuba/how-it-began', 'cuba/pre-revolution', 'cupie/theater']);
+
+function decodeEntities(t) {
+  return t
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&');
+}
+
+async function readPublishedText(lang, path) {
+  const file = fileURLToPath(new URL(`../dist/${lang}/${path}/index.html`, import.meta.url));
+  const html = await readFile(file, 'utf-8').catch(() => null);
+  if (!html) return null;
+  const m = html.match(/<main[\s\S]*?<\/main>/);
+  if (!m) return null;
+  const text = decodeEntities(
+    m[0].replace(/<(script|style)[\s\S]*?<\/\1>/g, ' ').replace(/<[^>]+>/g, ' '),
+  ).replace(/\s+/g, ' ').trim();
+  return text || null;
+}
+
 async function collectSubpages() {
   const records = [];
   for (const lang of ['en', 'es']) {
@@ -462,8 +490,14 @@ async function collectSubpages() {
       const path = wpPath || rel;
       const title = (data.title ?? rel.split('/').pop()).replace(/^"(.*)"$/, '$1');
       const url = `https://japoneson.com/${lang}/${path}/`;
-      const excerpt = stripMarkdown(body).slice(0, 300);
-      const embedText = `${title}\n\n${stripMarkdown(body)}`.slice(0, 6000);
+      let bodyText = stripMarkdown(body);
+      if (HAND_BUILT_PAGES.has(rel)) {
+        const published = await readPublishedText(lang, path);
+        if (published) bodyText = published;
+        else console.warn(`⚠️ dist が無い、または <main> が取れない：${lang}/${path}（.md の本文で取り込む。先に npm run build）`);
+      }
+      const excerpt = bodyText.slice(0, 300);
+      const embedText = `${title}\n\n${bodyText}`.slice(0, 6000);
       const id = createHash('sha1').update(`subpage:${lang}:${rel}`).digest('hex').slice(0, 32);
       records.push({ id, embedText, metadata: { lang, title, url, excerpt, type: 'article' } });
     }
