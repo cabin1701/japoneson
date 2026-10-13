@@ -10,6 +10,8 @@ interface Props {
   ogImage?: string;
   /** ページ固有の JSON-LD（schema.org）。渡した時は、自動で出す WebPage の代わりにこれを出す。エッセイ（Article）で使う */
   jsonLd?: object | object[];
+  /** 記事ページのみ。同じ記事の Markdown（URL の後ろに .md）の場所を知らせる */
+  markdown?: boolean;
 }
 const {
   title = 'Shoko "Seina" Shiraishi',
@@ -17,6 +19,7 @@ const {
   lang = 'en',
   ogImage,
   jsonLd,
+  markdown = false,
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 // og:image は「そのページの hero があれば hero、無ければトップの hero」。
@@ -104,6 +107,7 @@ const pageJsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [w
     <meta name="description" content={description} />
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
     <link rel="canonical" href={canonicalURL} />
+    {markdown && <link rel="alternate" type="text/markdown" href={`${canonicalURL.href.replace(/\/$/, '')}.md`} />}
     <link rel="alternate" type="application/rss+xml" title={FEEDS[lang].title} href={FEEDS[lang].href} />
     {altUrls && (
       <>
