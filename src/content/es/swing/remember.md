@@ -14,6 +14,8 @@ wp_parent: 108
 
 En 1963, las cinco ciudades de Moji, Kokura, Tobata, Yawata y Wakamatsu se fusionaron para formar la ciudad de Kitakyushu. Este folleto se publicó en 2013 para conmemorar el 50.º aniversario de esa fusión.
 
+[Leer el folleto original (en japonés, PDF)](https://media.cabin1701.com/japoneson/pdf/mirai2013.pdf)
+
 A través de mi proyecto “[I Have a Dream… Seina](https://en.japoneson.com/swing/dream "I Have a Dream… Seina")“, conocí a un veterano de la Marina de EE. UU. que había sido capturado en Filipinas durante la Segunda Guerra Mundial. Fue llevado al puerto de Moji y obligado a trabajar como prisionero de guerra en una mina de carbón de la prefectura de Fukuoka.
 
 Moji es mi ciudad natal. Fue gracias a este anciano estadounidense que aprendí las partes ocultas de la historia de la ciudad donde nací y crecí.
@@ -38,6 +40,14 @@ Este es mi mensaje para el futuro: nunca debemos olvidar esta historia.
 * [Hacia el futuro / Seina](https://en.japoneson.com/swing/remember/future "Hacia el futuro / Seina")
 
 ---
+
+![Evento del 50.º aniversario de la ciudad de Kitakyushu, 2013: el puesto de Angels Swing, donde se repartió este folleto.](https://media.cabin1701.com/japoneson/swing/mirai2013-event.jpg)
+
+*Evento del 50.º aniversario de la ciudad de Kitakyushu, 2013: el puesto de Angels Swing, donde se repartió este folleto.*
+
+![Día de los Caídos de 2013, en el MacArthur Memorial de Norfolk: entregando este folleto al alcalde Paul Fraim.](https://media.cabin1701.com/japoneson/swing/mirai2013-norfolk.jpg)
+
+*Día de los Caídos de 2013, en el MacArthur Memorial de Norfolk: entregando este folleto al alcalde Paul Fraim.*
 
 Colaboración fotográfica: Kazumichi Kidera（[FU. photo & design](https://www.fuweb.co.jp/)）
 

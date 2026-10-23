@@ -62,6 +62,9 @@ const trail = [
           En 1963, las cinco ciudades de Moji, Kokura, Tobata, Yawata y Wakamatsu se fusionaron para formar la ciudad de Kitakyushu. Este folleto se publicó en 2013 para conmemorar el 50.º aniversario de esa fusión.
         </p>
         <p>
+          <a href="https://media.cabin1701.com/japoneson/pdf/mirai2013.pdf" target="_blank" rel="noopener noreferrer">Leer el folleto original (en japonés, PDF)</a>
+        </p>
+        <p>
           A través de mi proyecto "<a href={`${base}es/swing/dream/`}>I Have a Dream… Seina</a>", conocí a un veterano de la Marina de EE. UU. que había sido capturado en Filipinas durante la Segunda Guerra Mundial. Fue llevado al puerto de Moji y obligado a trabajar como prisionero de guerra en una mina de carbón de la prefectura de Fukuoka.
         </p>
         <p>
@@ -90,6 +93,16 @@ const trail = [
     <section class="essay">
       <div class="essay-inner">
         <hr class="rule" />
+        <div class="photo-pair">
+          <figure>
+            <img src="https://media.cabin1701.com/japoneson/swing/mirai2013-event.jpg" alt="Evento del 50.º aniversario de la ciudad de Kitakyushu, 2013: el puesto de Angels Swing, donde se repartió este folleto." loading="lazy" />
+            <figcaption>Evento del 50.º aniversario de la ciudad de Kitakyushu, 2013: el puesto de Angels Swing, donde se repartió este folleto.</figcaption>
+          </figure>
+          <figure>
+            <img src="https://media.cabin1701.com/japoneson/swing/mirai2013-norfolk.jpg" alt="Día de los Caídos de 2013, en el MacArthur Memorial de Norfolk: entregando este folleto al alcalde Paul Fraim." loading="lazy" />
+            <figcaption>Día de los Caídos de 2013, en el MacArthur Memorial de Norfolk: entregando este folleto al alcalde Paul Fraim.</figcaption>
+          </figure>
+        </div>
         <p class="photo-credit">
           Colaboración fotográfica: Kazumichi Kidera (<a href="https://www.fuweb.co.jp/" target="_blank" rel="noopener noreferrer">FU. photo & design</a>)
         </p>
@@ -186,6 +199,34 @@ const trail = [
     border: 0;
     border-top: 1px solid rgba(208, 0, 0, 0.2);
     margin: 2rem 0 1.5rem;
+  }
+  .photo-pair {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    margin: 2rem 0;
+    max-width: 100%;
+  }
+  .photo-pair figure {
+    flex: 0 0 calc(50% - 8px);
+    margin: 0;
+    min-width: 0;
+  }
+  .photo-pair img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .photo-pair figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: var(--color-muted);
+    margin-top: 0.5rem;
+    line-height: 1.5;
+  }
+  @media (max-width: 600px) {
+    .photo-pair { flex-direction: column; }
+    .photo-pair figure { flex: none; width: 100%; }
   }
   .photo-credit {
     font-family: Helvetica, Arial, sans-serif;
