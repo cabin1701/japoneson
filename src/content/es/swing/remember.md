@@ -49,6 +49,12 @@ Este es mi mensaje para el futuro: nunca debemos olvidar esta historia.
 
 *Día de los Caídos de 2013, en el MacArthur Memorial de Norfolk: entregando este folleto al alcalde Paul Fraim.*
 
+![Clase en la Universidad de Kitakyushu, 8 de julio de 2013: presentando la historia de la guerra y la posguerra documentada en We Remember You.](https://media.cabin1701.com/japoneson/swing/mirai2013-lecture-hall.jpg)
+
+![Clase en la Universidad de Kitakyushu, 8 de julio de 2013: presentando la historia de la guerra y la posguerra documentada en We Remember You.](https://media.cabin1701.com/japoneson/swing/mirai2013-lecture.jpg)
+
+*Clase en la Universidad de Kitakyushu, 8 de julio de 2013: presentando la historia de la guerra y la posguerra documentada en We Remember You.*
+
 Colaboración fotográfica: Kazumichi Kidera（[FU. photo & design](https://www.fuweb.co.jp/)）
 
 ![](/images/wp/2026/05/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9657-768x512.jpg)

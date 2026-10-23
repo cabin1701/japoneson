@@ -7,7 +7,7 @@ wp_parent: 19780
 
 Ni yo misma sé bien por qué empecé con esto. Se me pierde el hilo.
 
-Había algo que se había quedado colgando desde hacía mucho. Un escritor que vendió tantísimo en Japón entre los años setenta y noventa — su ópera prima, Azul casi transparente, llevaba 3.670.000 ejemplares acumulados en 2015, una cifra excepcional entre las excepciones para la literatura seria — estuvo veinte años metido a fondo en la música cubana desde el Período Especial. Durante el Período Especial tuvo una amistad profunda con José Luis Cortés (El Tosco). Puso su propio dinero, buscó patrocinadores, gastó muchísimo dinero y esfuerzo. Y los cubanos ni siquiera conocen su obra. Esa pregunta se quedó ahí, sin respuesta.
+Había algo que se me había quedado colgando desde hacía mucho tiempo: el caso del novelista japonés Ryu Murakami. Un escritor que vendió a una escala asombrosa en Japón entre los años setenta y noventa —su ópera prima, Azul casi transparente, llevaba 3.670.000 ejemplares acumulados en 2015, una cifra excepcional entre las excepciones para la literatura seria — estuvo veinte años metido a fondo en la música cubana desde el Período Especial. Durante el Período Especial tuvo una amistad profunda con José Luis Cortés (El Tosco). Puso su propio dinero, buscó patrocinadores, gastó muchísimo dinero y esfuerzo. Y los cubanos ni siquiera conocen su obra. Esa pregunta se quedó ahí, sin respuesta.
 
 Un día aparecieron unos materiales de promoción de cierto japonés que participó en el proyecto de Ryu Murakami y hacía de ventanilla con Cuba. Había varias expresiones que llamaban la atención, así que se investigó. En Facebook tenía muy pocas conexiones con músicos cubanos famosos o en posiciones centrales.
 

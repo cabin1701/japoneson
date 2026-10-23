@@ -49,6 +49,12 @@ This is my message to the future: we must never forget this history.
 
 *Memorial Day 2013, at the MacArthur Memorial in Norfolk: handing this booklet to Mayor Paul Fraim.*
 
+![Lecture at the University of Kitakyushu, July 8, 2013: presenting the wartime and postwar history documented in We Remember You.](https://media.cabin1701.com/japoneson/swing/mirai2013-lecture-hall.jpg)
+
+![Lecture at the University of Kitakyushu, July 8, 2013: presenting the wartime and postwar history documented in We Remember You.](https://media.cabin1701.com/japoneson/swing/mirai2013-lecture.jpg)
+
+*Lecture at the University of Kitakyushu, July 8, 2013: presenting the wartime and postwar history documented in We Remember You.*
+
 Photography cooperation: Kazumichi Kidera（[FU. photo & design](https://www.fuweb.co.jp/)）
 
 ![](/images/wp/2026/05/121226繝上ｙ繧ｳ繧吶ち繧吶◎縺ｮ莉・5W9Q9657-768x512.jpg)
