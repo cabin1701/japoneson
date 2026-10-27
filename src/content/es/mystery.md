@@ -11,7 +11,7 @@ wp_parent: 0
 
 Un «juego de riesgo vital» jugado por Seina para despojar el «Okazari» y observar el verdadero plano (la realidad).
 
-[-Vegapedia-](https://en.japoneson.com/dictionary#mystery)
+[-Vegapedia-](https://cabin1701.com/vegapedia/)
 
 Mystery Entertainment es una pequeña estantería para historias que viven en las fronteras: entre países, personas y tiempos.
 Desde la antigüedad, pasando por Heian, Meiji y Shōwa, las largas historias se encuentran, de manera suave, en Kanmon.
@@ -33,23 +33,23 @@ In Shimonoseki, I began to stumble upon fragments of hidden history—pieces of 
 
 ##### After all, history is the ultimate mystery entertainment.
 
-[![](/images/wp/2026/02/IMG_0229-1-scaled-e1772128886839-1024x902.jpeg)](https://en.japoneson.com/mystery/meiji) 
+[![](/images/wp/2026/02/IMG_0229-1-scaled-e1772128886839-1024x902.jpeg)](https://japoneson.com/en/mystery/meiji/) 
 
 The 19th Century
 
 ### The Meiji Restoration
 
-[![](/images/wp/2026/02/IMG_0012-scaled-e1771766815902-1-e1772714196464-1024x751.jpeg)](https://en.japoneson.com/mystery/hieke) 
+[![](/images/wp/2026/02/IMG_0012-scaled-e1771766815902-1-e1772714196464-1024x751.jpeg)](https://japoneson.com/en/mystery/hieke/) 
 
 The 12th Century
 
 The Heike Story
 
-[![](/images/wp/2026/03/IMG_2036-scaled-e1772714174506-1024x739.jpg)](https://en.japoneson.com/mystery/macarthur) 
+[![](/images/wp/2026/03/IMG_2036-scaled-e1772714174506-1024x739.jpg)](https://japoneson.com/en/mystery/macarthur/) 
 
 The 20th Century
 
-[The General’s Shadow](https://en.japoneson.com/mystery/macarthur)
+[The General’s Shadow](https://japoneson.com/en/mystery/macarthur/)
 
 ![](/images/wp/2026/02/IMG_9916-1024x768.jpeg) 
 
@@ -59,4 +59,4 @@ Ancient Whispers
 
 Seina: Nice to hear from you. It is commendable that you wish to inform people about the "unfortunate" war years and the history of POW's. It is not a subject most Japanese wish to discuss as it reflects poorly on the nation. I lived in Tokyo for a few years in the early 1970s and for four years in the late 1980s. I was engaged in high tech business and met hundreds and hundreds of Japanese, though none would admit to being in the military during WWII even though they were of an appropriate age. The atrocities committed by Japanese military before and during WWII are many and horrible. I already know too much about them and don't care to discuss them except to say the official position of the J. government has been totally non-acknowledgement. That's why I think you may be treading dangerous waters. I think it is a better policyfor folks like you and me to close the book at the end of WWII and look at the positive relationships our countries have developed since.
 
- I don't want or expect the Japanese people to be overly ingratiated toward us, but it does disturb when they fail to recognize the extraordinary help the U.S. and some of our allies provided post-WWII. I am very pleased a person such as yourself is interested enough to do some investigation on your own. Good luck,[David](https://en.japoneson.com/mystery/macarthur/david-valley)
+ I don't want or expect the Japanese people to be overly ingratiated toward us, but it does disturb when they fail to recognize the extraordinary help the U.S. and some of our allies provided post-WWII. I am very pleased a person such as yourself is interested enough to do some investigation on your own. Good luck,[David](https://japoneson.com/en/mystery/macarthur/david-valley/)

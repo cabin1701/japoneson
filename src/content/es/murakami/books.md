@@ -7,8 +7,8 @@ wp_parent: 19793
 
 <strong>Las obras de Ryu Murakami se han publicado más de 100 veces desde 1976 en Japón.</strong><strong>Esta es una lista de las traducciones publicadas en todo el mundo.</strong>
 
-[Inglés](https://en.japoneson.com/en/ryu/works/books#english) - [Español](https://en.japoneson.com/en/ryu/works/books#spanish) - [Francés](https://en.japoneson.com/en/ryu/works/books#french) - [Italiano](https://en.japoneson.com/en/ryu/works/books#italian) - [Alemán](https://en.japoneson.com/en/ryu/works/books#german) - [Ruso](https://en.japoneson.com/en/ryu/works/books#russian)  
-[Turco](https://en.japoneson.com/en/ryu/works/books#turkish) - [Griego](https://en.japoneson.com/en/ryu/works/books#greek) - [Croata](https://en.japoneson.com/en/ryu/works/books#croatia) - [Portugués](https://en.japoneson.com/en/ryu/works/books#portugues)- [Catalán](https://en.japoneson.com/en/ryu/works/books#catalan) - [Neerlandés](https://en.japoneson.com/en/ryu/works/books#dutch)
+[Inglés](https://japoneson.com/en/murakami/books/#en) - [Español](https://japoneson.com/en/murakami/books/#es) - [Francés](https://japoneson.com/en/murakami/books/#fr) - [Italiano](https://japoneson.com/en/murakami/books/#it) - [Alemán](https://japoneson.com/en/murakami/books/#de) - [Ruso](https://japoneson.com/en/murakami/books/#ru)  
+[Turco](https://japoneson.com/en/murakami/books/#tr) - [Griego](https://japoneson.com/en/murakami/books/#el) - [Croata](https://japoneson.com/en/murakami/books/#hr) - [Portugués](https://japoneson.com/en/murakami/books/#pt)- [Catalán](https://japoneson.com/en/murakami/books/#ca) - [Neerlandés](https://japoneson.com/en/murakami/books/#nl)
 
 Puedes encontrar los libros publicados en Japón en la [página en japonés](https://japoneson.com/ja/ryu/works/books).
 

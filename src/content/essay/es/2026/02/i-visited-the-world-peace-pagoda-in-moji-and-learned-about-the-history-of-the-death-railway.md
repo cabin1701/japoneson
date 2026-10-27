@@ -7,7 +7,7 @@ category: ["Angels Swing", "Historia"]
 tags: ["Historia de guerra", "Segunda Guerra Mundial"]
 ---
 
-Ayer visité la Pagoda de la Paz Mundial de Moji, sobre la que [escribí un poco el otro día](https://tour.crystallize.jp/archives/1078#pagoda). Mi última visita había sido hace dos años.
+Ayer visité la Pagoda de la Paz Mundial de Moji, sobre la que escribí un poco el otro día. Mi última visita había sido hace dos años.
 
 La pagoda se construyó gracias al esfuerzo y la dedicación de quienes sobrevivieron a la Campaña de Birmania, sus familias en duelo, el entonces alcalde de la ciudad de Moji, y la cooperación con el gobierno birmano.
 

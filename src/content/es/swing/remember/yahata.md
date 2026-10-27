@@ -9,13 +9,13 @@ wp_parent: 1022
 
 El objetivo fue una zona residencial donde vivían numerosos empleados de las Acerías de Yawata y sus familias. Las áreas hoy conocidas como Edamitsu, Chuo, Ogura y Maeda, en el distrito de Yahatahigashi, quedaron reducidas a cenizas. Según la *Historia de la ciudad de Yawata (continuación)* y la *Historia de la ciudad de Kitakyushu*, publicadas por la antigua ciudad de Yawata, hubo unas 2500 víctimas entre muertos y heridos, 52 562 personas afectadas y unas 14 000 viviendas dañadas o destruidas. Según el *Mapa de daños de guerra en las ciudades de Japón* (editado por el Primer Ministerio de Desmovilización), el número de fallecidos fue de 1785. (Fuente: [Nishinippon Shimbun Word Box](https://www.nishinippon.co.jp/wordbox/6295/))
 
-**[Pies de foto]**
+### [Pies de foto]
 
 * **Izquierda:** el bombardeo aéreo de Yahata del 8 de agosto.
 * **Centro:** la zona urbana de Yahata tras el bombardeo (las áreas blancas indican tierra calcinada).
 * **Derecha:** una bomba incendiaria caída en los terrenos de las Acerías de Yawata (14 de septiembre de 1945).
 
-![](/images/wp/2024/04/yahata01-1024x283.jpg)
+![Tres fotografías de Yahata: el bombardeo aéreo del 8 de agosto, la zona urbana tras el bombardeo y una bomba incendiaria en los terrenos de las Acerías de Yawata (14 de septiembre de 1945)](/images/wp/2024/04/yahata01-1024x283.jpg)
 
 Ficha de información del objetivo
 
@@ -37,9 +37,11 @@ La población total de esta región es de aproximadamente 650 000 habitantes. De
 
 ---
 
-**[Lista de objetivos numerados dentro del Objetivo de Área Urbana 3630]** *(Nota: se conservan los nombres y designaciones originales tal como aparecen en los documentos)*
+### [Lista de objetivos numerados dentro del Objetivo de Área Urbana 3630]
 
-* 168 - Arsenal de Kokura
+*(Nota: se conservan los nombres y designaciones originales tal como aparecen en los documentos)*
+
+* 168 - [Arsenal de Kokura](https://japoneson.com/es/swing/remember/kokura/)
 * 184 - Fábrica ferroviaria de Kokura
 * 2173 - Patio ferroviario de Higashi Kokura
 * 1127 - Central térmica de Kokura N.º 1

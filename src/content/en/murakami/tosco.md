@@ -25,23 +25,23 @@ I believe the friendship and collaboration between these two became a vital piec
 
 I hope you can feel the deep bond that existed between them.
 
-[![](/images/wp/2024/02/03-e1707925750233.jpg)](https://en.japoneson.com/murakami/flute)
+[![](/images/wp/2024/02/03-e1707925750233.jpg)](https://japoneson.com/en/murakami/tosco/flute/)
 
-### [FLUTE](https://en.japoneson.com/murakami/flute)
+### [FLUTE](https://japoneson.com/en/murakami/tosco/flute/)
 
 **Almost Transparent Blue (1976)**  
 " just you go play the flute, I’ll sell some smack and buy you a good flute with the money."
 
-[![](/images/wp/2024/01/1994-jose-luis_500.jpg)](https://en.japoneson.com/murakami/the-man-who-called-tosco)
+[![](/images/wp/2024/01/1994-jose-luis_500.jpg)](https://japoneson.com/en/murakami/music/the-man-who-called-tosco/)
 
-### ["The Man" who called "TOSCO"](https://en.japoneson.com/murakami/the-man-who-called-tosco)
+### ["The Man" who called "TOSCO"](https://japoneson.com/en/murakami/music/the-man-who-called-tosco/)
 
 José Luis Cortés  
 （1994）
 
-[![](/images/wp/2026/05/kyoko05-1024x697.jpg)](https://en.japoneson.com/murakami/tosco/kyoko)
+[![](/images/wp/2026/05/kyoko05-1024x697.jpg)](https://japoneson.com/en/murakami/tosco/kyoko-02/)
 
-### [TOSCO ⊂ MURAKAMI ="KYOKO"](https://en.japoneson.com/murakami/tosco/kyoko)
+### [TOSCO ⊂ MURAKAMI ="KYOKO"](https://japoneson.com/en/murakami/tosco/kyoko-02/)
 
 "Tosco", "KYOKO", and "Ryu Murakami", stories are all connected.
 Tosco lives inside of Murakami and Murakami lives into Tosco's music.

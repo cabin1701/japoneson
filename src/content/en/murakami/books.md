@@ -7,8 +7,8 @@ wp_parent: 19793
 
 **RYU MURAKAMI's writings have been published more than 100 times since 1976 in Japan.** **This is a list translated and published worldwide.**
 
-[English](https://en.japoneson.com/en/ryu/works/books#english) - [Spanish](https://en.japoneson.com/en/ryu/works/books#spanish) - [French](https://en.japoneson.com/en/ryu/works/books#french) - [Italian](https://en.japoneson.com/en/ryu/works/books#italian) - [German](https://en.japoneson.com/en/ryu/works/books#german) - [Russian](https://en.japoneson.com/en/ryu/works/books#russian)  
-[Turkish](https://en.japoneson.com/en/ryu/works/books#turkish) - [Greek](https://en.japoneson.com/en/ryu/works/books#greek) - [Croatia](https://en.japoneson.com/en/ryu/works/books#croatia) - [Portugues](https://en.japoneson.com/en/ryu/works/books#portugues)- [Catalan](https://en.japoneson.com/en/ryu/works/books#catalan) - [Dutch](https://en.japoneson.com/en/ryu/works/books#dutch)
+[English](https://japoneson.com/en/murakami/books/#en) - [Spanish](https://japoneson.com/en/murakami/books/#es) - [French](https://japoneson.com/en/murakami/books/#fr) - [Italian](https://japoneson.com/en/murakami/books/#it) - [German](https://japoneson.com/en/murakami/books/#de) - [Russian](https://japoneson.com/en/murakami/books/#ru)  
+[Turkish](https://japoneson.com/en/murakami/books/#tr) - [Greek](https://japoneson.com/en/murakami/books/#el) - [Croatia](https://japoneson.com/en/murakami/books/#hr) - [Portugues](https://japoneson.com/en/murakami/books/#pt)- [Catalan](https://japoneson.com/en/murakami/books/#ca) - [Dutch](https://japoneson.com/en/murakami/books/#nl)
 
 You can find books published in Japan on the [Japanese page](https://japoneson.com/ja/ryu/works/books).
 

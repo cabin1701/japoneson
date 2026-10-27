@@ -9,7 +9,7 @@ tags: ["Cuba"]
 
 Todo el mundo se pregunta por qué me fui a Cuba tan de repente.
 
-En 2013, la primera mitad del año fue maravillosa. Publiqué un folleto, ["The War History of Kitakyushu-City | We Remember You"](https://en.japoneson.com/en/angelsswing/remember).
+En 2013, la primera mitad del año fue maravillosa. Publiqué un folleto, ["The War History of Kitakyushu-City | We Remember You"](https://japoneson.com/en/swing/remember/).
 
 Después visité el **[Battleship Missouri Memorial](http://Then, in 2013, CUBA started...)** en Hawái, luego Nueva York, luego Norfolk, Virginia, y canté en la convención de **[la American Defenders of Bataan Corregidor Memorial Society](https://www.adbcmemorialsociety.org/)**. También visité [**el MacArthur Memorial**](https://macarthurmemorial.org/) en Norfolk. Después de Norfolk, visité San Diego para ver al Sr. David Valley, y luego subí hasta Los Ángeles para ver a la Sra. Monica Lewis. En Los Ángeles visité [**el Japanese American National Museum**](https://www.janm.org/).
 

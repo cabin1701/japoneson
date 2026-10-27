@@ -9,8 +9,8 @@ wp_parent: 0
 
 ## Shoko "Seina" Shiraishi
 
-[Sobre Seina](https://es.japoneson.com/about)
-[Cronología](https://es.japoneson.com/about/timeline)
+[Sobre Seina](https://japoneson.com/es/about/)
+Cronología
 
 ## Proyectos
 
@@ -39,33 +39,33 @@ Los registros son fuentes primarias. Los encuentros son reales. El territorio no
 
 ## Cargando el misterio...
 
-[![](/images/wp/2026/05/CDjacket-1024x1024.jpg)](https://en.japoneson.com/swing)
+[![](/images/wp/2026/05/CDjacket-1024x1024.jpg)](https://japoneson.com/en/swing/)
 
-### [🇺🇸Angels Swing](https://es.japoneson.com/swing)
+### [🇺🇸Angels Swing](https://japoneson.com/es/swing/)
 
 **Jazz e historia de guerra: un destino guiado por la música.**  
   
 A través de la sombra de la derrota y las melodías de una época pasada, los encuentros con músicos legendarios abrieron un camino hacia la verdad.
 
-[![](/images/wp/2026/05/jk-400.jpg)](https://es.japoneson.com/japoneson)
+[![](/images/wp/2026/05/jk-400.jpg)](https://japoneson.com/es/japoneson/)
 
-### [🇨🇺JAPONÉSON \*Por La Chocolate\*](https://es.japoneson.com/japoneson)
+### [🇨🇺JAPONÉSON \*Por La Chocolate\*](https://japoneson.com/es/japoneson/)
 
 **La sesión milagrosa de 18 músicos en La Habana.**   
   
 Descubre el vínculo crudo y sin guion forjado a través de la música más allá del idioma, nacido de lágrimas sinceras.
 
-[![](/images/wp/2026/05/murakami02-1024x1020.jpg)](https://es.japoneson.com/murakami)
+[![](/images/wp/2026/05/murakami02-1024x1020.jpg)](https://japoneson.com/es/murakami/)
 
-### [🇨🇺MURAKAMI MAMBO!!](https://es.japoneson.com/murakami)
+### [🇨🇺MURAKAMI MAMBO!!](https://japoneson.com/es/murakami/)
 
 **Ryu Murakami (Azul casi transparente) — El novelista que apoyó a José Luis Cortés de NG La Banda, y sostuvo la música cubana durante el "Período Especial".**  
   
 Descubre cómo un escritor japonés herido se liberó de las cadenas de la posguerra a través del poder explosivo de un "Nuevo Otro" — Cuba.
 
-[![](/images/wp/2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg)](https://es.japoneson.com/cupie)
+[![](/images/wp/2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg)](https://cupiedanny.com/es/)
 
-### [🇨🇺 Cupie Danny](https://es.japoneson.com/cupie)
+### [🇨🇺 Cupie Danny](https://cupiedanny.com/es/)
 
 Un rastro salvaje y sin guion de sonrisas y encuentros crudos por las Américas y Cuba — todo desatado por una simple muñeca de plástico barata que se negó a dejar morir la música.
 

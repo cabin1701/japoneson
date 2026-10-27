@@ -69,11 +69,11 @@ For those who wish to delve deeper into the history of the 24th Infantry Divisio
 
 This chapter was created by AI-Vega, based on the materials and archives collected by Seina.
 
-[David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
+[David Valley](https://japoneson.com/en/mystery/macarthur/david-valley/)
 
 Donald Versaw
 
-[Korean War](https://en.japoneson.com/mystery/macarthur/korea)
+[Korean War](https://japoneson.com/en/mystery/macarthur/korea/)
 
 The Pacific War
 

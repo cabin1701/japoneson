@@ -11,7 +11,7 @@ I had been... far from the Angels Swing project that was about music and the war
 
 Things related to wars are complicated. My feelings had been complicated, and things were not going well. I couldn't face them. So, I almost closed Angels Swing. I had been in Cuba for some years. I needed to be there to know another side of the world and also escaped.  
   
-[David (Valley),](https://tour.crystallize.jp/for-the-boys#david) I am sorry I couldn't keep in touch.
+David (Valley), I am sorry I couldn't keep in touch.
 
 Today, I found [the poem on the General MacArthur Honor Guard Association's website](http://generalmacarthurshonorguard.com/wordpress/).
 

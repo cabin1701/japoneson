@@ -21,23 +21,23 @@ Ryu ha escrito extensamente sobre TOSCO en sus notas de álbum y sus ensayos. Lo
 
 Creo que la amistad y la colaboración entre estos dos se convirtieron en una pieza vital de la historia de la música cubana de los años 90. Espero que puedas sentir el profundo vínculo que existió entre ellos.
 
-[![](/images/wp/2024/02/03-e1707925750233.jpg)](https://en.japoneson.com/murakami/flute)
+[![](/images/wp/2024/02/03-e1707925750233.jpg)](https://japoneson.com/en/murakami/tosco/flute/)
 
-### [FLAUTA](https://en.japoneson.com/murakami/flute)
+### [FLAUTA](https://japoneson.com/en/murakami/tosco/flute/)
 
 **Azul casi transparente (1976)**  
 "Tú solo ve y toca la flauta, que yo vendo algo de caballo y con ese dinero te compro una buena flauta."
 
-[![](/images/wp/2024/01/1994-jose-luis_500.jpg)](https://en.japoneson.com/murakami/the-man-who-called-tosco)
+[![](/images/wp/2024/01/1994-jose-luis_500.jpg)](https://japoneson.com/en/murakami/music/the-man-who-called-tosco/)
 
-### [El "hombre" al que llamaban "TOSCO"](https://en.japoneson.com/murakami/the-man-who-called-tosco)
+### [El "hombre" al que llamaban "TOSCO"](https://japoneson.com/en/murakami/music/the-man-who-called-tosco/)
 
 José Luis Cortés  
 （1994）
 
-[![](/images/wp/2026/05/kyoko05-1024x697.jpg)](https://en.japoneson.com/murakami/tosco/kyoko)
+[![](/images/wp/2026/05/kyoko05-1024x697.jpg)](https://japoneson.com/en/murakami/tosco/kyoko-02/)
 
-### [TOSCO ⊂ MURAKAMI = "KYOKO"](https://en.japoneson.com/murakami/tosco/kyoko)
+### [TOSCO ⊂ MURAKAMI = "KYOKO"](https://japoneson.com/en/murakami/tosco/kyoko-02/)
 
 Tosco, KYOKO y Ryu Murakami — historias todas conectadas.
 Tosco vive dentro de Murakami; Murakami vive dentro de la música de Tosco.

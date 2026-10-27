@@ -39,6 +39,6 @@ Studying? No, thanks! A cool, naughty girl who leads the boys by the nose while 
 
 ![](/images/wp/2026/06/en0922a-e1677590034846.jpg)
 
-## [001 – “Mom!! Who is he?”](https://en.japoneson.com/mom-who-is-he/ "001 – “Mom!! Who is he?”")
+## 001 – “Mom!! Who is he?”
 
-[Seina](https://en.japoneson.com/author/seina/ "Posts by Seina")09/22/2022
+[Seina](https://japoneson.com/en/author/seina/ "Posts by Seina")09/22/2022

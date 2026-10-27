@@ -39,6 +39,6 @@ Una chica con alma, aficionada al yoga, la filosofía india, recorrer templos y 
 
 ![](/images/wp/2026/06/en0922a-e1677590034846.jpg)
 
-## [001 – "Mom!! Who is he?"](https://en.japoneson.com/mom-who-is-he/ "001 – "Mom!! Who is he?"")
+## 001 – "Mom!! Who is he?"
 
-[Seina](https://en.japoneson.com/author/seina/ "Posts by Seina")22/09/2022
+[Seina](https://japoneson.com/en/author/seina/ "Posts by Seina")22/09/2022

@@ -45,27 +45,27 @@ In this chapter, I introduce these three overlooked stories of the Korean War an
 
 ## The Korean War
 
-[![](/images/wp/2026/04/blacksoldiers-600x573.jpg)](https://en.japoneson.com/mystery/macarthur/korea-black-soldiers)
+[![](/images/wp/2026/04/blacksoldiers-600x573.jpg)](https://japoneson.com/en/mystery/macarthur/korea-black-soldiers/)
 
-### [The Shadow of Kokura - The Black Soldiers](https://en.japoneson.com/mystery/macarthur/korea-black-soldiers)
+### [The Shadow of Kokura - The Black Soldiers](https://japoneson.com/en/mystery/macarthur/korea-black-soldiers/)
 
 A quiet prayer for the soldiers who crossed the Kanmon Strait, and never came home.
 
-[![](/images/wp/2026/04/TL-WINTER-13-D-1-600x600.jpg)](https://en.japoneson.com/mystery/macarthur/korea-24th)
+[![](/images/wp/2026/04/TL-WINTER-13-D-1-600x600.jpg)](https://japoneson.com/en/mystery/macarthur/korea-24th/)
 
-### [The 24th Infantry Division](https://en.japoneson.com/mystery/macarthur/korea-24th)
+### [The 24th Infantry Division](https://japoneson.com/en/mystery/macarthur/korea-24th/)
 
 For the boys who left Kyushu and never looked back—this is a prayer for what they carried.
 
-[![](/images/wp/2026/04/IMG_2028-02-600x601.jpg)](https://en.japoneson.com/mystery/macarthur/david-valley)
+[![](/images/wp/2026/04/IMG_2028-02-600x601.jpg)](https://japoneson.com/en/mystery/macarthur/david-valley/)
 
-### [David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
+### [David Valley](https://japoneson.com/en/mystery/macarthur/david-valley/)
 
 The last guardian of a fading era—who passed the invisible baton to a maverick from Japan.
 
-[![](/images/wp/2026/04/korea1.jpg)](https://en.japoneson.com/swing/for-the-boys/)
+[![](/images/wp/2026/04/korea1.jpg)](https://japoneson.com/en/swing/for-the-boys/)
 
-### [Monica Lewis](https://en.japoneson.com/swing/for-the-boys/)
+### [Monica Lewis](https://japoneson.com/en/swing/for-the-boys/)
 
 In 1951, my friend Ms. Monica Lewis (1922-2015) entertained “for the boys” who served in the Korean War with Danny Kaye.
 
@@ -77,9 +77,9 @@ In 1951, my friend Ms. Monica Lewis (1922-2015) entertained “for the boys” w
 
 In 1999, I encountered an ex-POW who was captured in the Philippines.
 
-[![](/images/wp/2026/06/ac40077afcfee4ce63b0bbc49b90b460-scaled-1-1-1-600x600.jpg)](https://en.japoneson.com/swing/remember/moji#pow)
+[![](/images/wp/2026/06/ac40077afcfee4ce63b0bbc49b90b460-scaled-1-1-1-600x600.jpg)](https://japoneson.com/en/swing/remember/moji/#moji-port-and-allied-pows)
 
-### [POWs of the Pacific War](https://en.japoneson.com/swing/remember/moji#pow)
+### [POWs of the Pacific War](https://japoneson.com/en/swing/remember/moji/#moji-port-and-allied-pows)
 
 Kanmon was the gate of Allied POWs from south battlefields.
 
@@ -93,7 +93,7 @@ Kanmon was the gate of Allied POWs from south battlefields.
 
 ### **Kokura Memorial Cross**
 
-After the Pacific War, the 24th Infantry Division, commanded by [Major General William F. Dean,](https://en.wikipedia.org/wiki/William_F._Dean) was stationed in Kokura. Due to Kokura's proximity to South Korea, this Division was among the first sent to the Korean War **([the first sent regiment](https://tour.crystallize.jp/archives/937#21st) )**. The division suffered 3,602 dead and wounded, and 2,962 captured, including its commander, Major General Dean.
+After the Pacific War, the 24th Infantry Division, commanded by [Major General William F. Dean,](https://en.wikipedia.org/wiki/William_F._Dean) was stationed in Kokura. Due to Kokura's proximity to South Korea, this Division was among the first sent to the Korean War. The division suffered 3,602 dead and wounded, and 2,962 captured, including its commander, Major General Dean.
 
 North Korean forces proved extremely tough, and the UN forces faced significant challenges. Fallen soldiers who were temporarily buried in South Korea often had to be exhumed when the situation changed. Consequently, Kokura was chosen as the location for transporting these casualties for processing and returning them to their home countries. This led to a large number of casualties passing through Kokura, prompting the construction of the Korean War Memorial, the “Memorial Cross,” in 1951.
 

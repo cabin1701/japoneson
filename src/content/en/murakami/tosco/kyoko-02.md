@@ -8,7 +8,7 @@ wp_parent: 19824
 
 ![](/images/wp/2024/02/01b-e1707982539922.jpg)
 
-A few months after I started working on this site, on an impulse, I tried fitting “Ryu Murakami” into the role of [“Kyoko.”](https://en.japoneson.com/murakami/kyoko) At that moment, I felt as though a puzzle piece had fallen into place.
+A few months after I started working on this site, on an impulse, I tried fitting “Ryu Murakami” into the role of [“Kyoko.”](https://japoneson.com/en/murakami/kyoko/) At that moment, I felt as though a puzzle piece had fallen into place.
 
 I had thought of Kyoko as a heroine “created” by Ryu Murakami. So a thought like that had never even crossed my mind.
 

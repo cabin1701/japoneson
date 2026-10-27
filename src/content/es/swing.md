@@ -31,36 +31,36 @@ Pero con los años, al conocer a "Ángeles" legendarios como Leonard Gaskin, Gra
 
 Estos ángeles ya han fallecido y están en el cielo. Y aun así, siento que siguen haciendo swing aquí mismo, conmigo.
 
-[![](/images/wp/2026/05/yomiuri-1024x1009.jpg)](https://en.japoneson.com/swing/dream/)
+[![](/images/wp/2026/05/yomiuri-1024x1009.jpg)](https://japoneson.com/en/swing/dream/)
 
-### ["I Have a Dream...Seina" The Songs for Nursing Homes in The U.S. - 1999](https://en.japoneson.com/swing/dream/)
+### ["I Have a Dream...Seina" The Songs for Nursing Homes in The U.S. - 1999](https://japoneson.com/en/swing/dream/)
 
 Un proyecto de CD regalado a 3500 asilos de ancianos en todo Estados Unidos.
 
-[![](/images/wp/2026/05/letters.jpg)](https://en.japoneson.com/swing/dream/letters/)
+[![](/images/wp/2026/05/letters.jpg)](https://japoneson.com/en/swing/dream/letters/)
 
-### [Thanks Letters From Nursing Homes](https://en.japoneson.com/swing/dream/letters/)
+### [Thanks Letters From Nursing Homes](https://japoneson.com/en/swing/dream/letters/)
 
 Estas palabras son preciosas para mi vida. Cartas de los asilos de ancianos, incluso cuando escribí mal mi dirección de correo. Gracias por escribirme.
 
-[![](/images/wp/2026/05/leonard.jpg)](https://en.japoneson.com/swing/leonard-gaskin)
+[![](/images/wp/2026/05/leonard.jpg)](https://japoneson.com/en/swing/leonard-gaskin/)
 
-### [I'll Be Seeing You - 2008](https://en.japoneson.com/swing/leonard-gaskin)
+### [I'll Be Seeing You - 2008](https://japoneson.com/en/swing/leonard-gaskin/)
 
 Es una historia ocho años después de "I Have a Dream..Seina". Sobre visitar al Sr. Leonard Gaskin, un legendario contrabajista y su mentor.
 
-[![](/images/wp/2026/05/omote2-1024x1024.jpg)](https://en.japoneson.com/swing/memory)
+[![](/images/wp/2026/05/omote2-1024x1024.jpg)](https://japoneson.com/en/swing/memory/)
 
-### [Thanks for the Memory - 2011](https://en.japoneson.com/swing/memory)
+### [Thanks for the Memory - 2011](https://japoneson.com/en/swing/memory/)
 
 Bob Cranshaw, gracias por los encuentros y los recuerdos. Este álbum se hizo realidad con recuerdos de ti.
 
-[![](/images/wp/2026/05/kitakyushuu.jpg)](https://en.japoneson.com/swing/remember)
+[![](/images/wp/2026/05/kitakyushuu.jpg)](https://japoneson.com/en/swing/remember/)
 
-### ["We Remember You" Wartime and Postwar Kitakyushu - 2013](https://en.japoneson.com/swing/remember)
+### ["We Remember You" Wartime and Postwar Kitakyushu - 2013](https://japoneson.com/en/swing/remember/)
 
-[![](/images/wp/2026/05/monica.jpg)](https://en.japoneson.com/swing/for-the-boys)
+[![](/images/wp/2026/05/monica.jpg)](https://japoneson.com/en/swing/for-the-boys/)
 
-### ["For The Boys" Tribute to Ms. Monica Lewis](https://en.japoneson.com/swing/for-the-boys)
+### ["For The Boys" Tribute to Ms. Monica Lewis](https://japoneson.com/en/swing/for-the-boys/)
 
 En 1951, mi amiga la Sra. Monica Lewis (1922-2015) entretuvo "para los muchachos" que sirvieron en la Guerra de Corea junto a Danny Kaye.

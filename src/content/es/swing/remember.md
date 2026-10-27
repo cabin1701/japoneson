@@ -16,7 +16,7 @@ En 1963, las cinco ciudades de Moji, Kokura, Tobata, Yawata y Wakamatsu se fusio
 
 [Leer el folleto original (en japonés, PDF)](https://media.cabin1701.com/japoneson/pdf/mirai2013.pdf)
 
-A través de mi proyecto “[I Have a Dream… Seina](https://en.japoneson.com/swing/dream "I Have a Dream… Seina")“, conocí a un veterano de la Marina de EE. UU. que había sido capturado en Filipinas durante la Segunda Guerra Mundial. Fue llevado al puerto de Moji y obligado a trabajar como prisionero de guerra en una mina de carbón de la prefectura de Fukuoka.
+A través de mi proyecto “[I Have a Dream… Seina](https://japoneson.com/en/swing/dream/ "I Have a Dream… Seina")“, conocí a un [veterano de la Marina de EE. UU.](https://japoneson.com/es/mystery/macarthur/donald-versaw/) que había sido capturado en Filipinas durante la Segunda Guerra Mundial. Fue llevado al puerto de Moji y obligado a trabajar como prisionero de guerra en una mina de carbón de la prefectura de Fukuoka.
 
 Moji es mi ciudad natal. Fue gracias a este anciano estadounidense que aprendí las partes ocultas de la historia de la ciudad donde nací y crecí.
 
@@ -28,16 +28,16 @@ Este es mi mensaje para el futuro: nunca debemos olvidar esta historia.
 
 ## Índice
 
-* [Introducción](https://en.japoneson.com/swing/remember/preface "Introducción ~ Historia de la guerra y eventos en torno a la ciudad de Kitakyushu")
-* [**CRONOLOGÍA:** guerra y eventos en torno a la ciudad de Kitakyushu](https://en.japoneson.com/swing/remember/preface#timeline)
-* [KOKURA: Arsenal del Ejército](https://en.japoneson.com/swing/remember/kokura "Arsenal del Ejército de Kokura")
-* [MOJI: Partida, bombardeos aéreos y prisioneros aliados](https://en.japoneson.com/swing/remember/moji "MOJI | Hacia el frente, bombardeo aéreo, prisioneros de guerra")
-* [El gran bombardeo aéreo de Yahata (8 de agosto de 1945)](https://en.japoneson.com/swing/remember/yahata "Bombardeo aéreo de YAHATA, 1945.8.8")
-* [La bomba atómica sobre Kokura: 9 de agosto de 1945](https://en.japoneson.com/swing/remember/atomicbomb "KOKURA | Bomba atómica sobre Kokura, 1945.8.9")
-* [CRUZ CONMEMORATIVA DE KOKURA | Por los soldados caídos en la Guerra de Corea](https://en.japoneson.com/swing/remember/memorial_cross "CRUZ CONMEMORATIVA | Por los soldados caídos en la Guerra de Corea")
-* [MOJI: Pagoda de la Paz Mundial](https://en.japoneson.com/swing/remember/pagoda "MOJI | Pagoda de la Paz Mundial")
-* [La amistad entre los ex prisioneros de guerra neerlandeses y la ciudad de Mizumaki](https://en.japoneson.com/swing/remember/mizumaki "La amistad entre los ex prisioneros de guerra neerlandeses y la ciudad de Mizumaki")
-* [Hacia el futuro / Seina](https://en.japoneson.com/swing/remember/future "Hacia el futuro / Seina")
+* [Introducción](https://japoneson.com/en/swing/remember/preface/ "Introducción ~ Historia de la guerra y eventos en torno a la ciudad de Kitakyushu")
+* [**CRONOLOGÍA:** guerra y eventos en torno a la ciudad de Kitakyushu](https://japoneson.com/en/swing/remember/preface/#timeline)
+* [KOKURA: Arsenal del Ejército](https://japoneson.com/en/swing/remember/kokura/ "Arsenal del Ejército de Kokura")
+* [MOJI: Partida, bombardeos aéreos y prisioneros aliados](https://japoneson.com/en/swing/remember/moji/ "MOJI | Hacia el frente, bombardeo aéreo, prisioneros de guerra")
+* [El gran bombardeo aéreo de Yahata (8 de agosto de 1945)](https://japoneson.com/en/swing/remember/yahata/ "Bombardeo aéreo de YAHATA, 1945.8.8")
+* [La bomba atómica sobre Kokura: 9 de agosto de 1945](https://japoneson.com/en/swing/remember/atomicbomb/ "KOKURA | Bomba atómica sobre Kokura, 1945.8.9")
+* [CRUZ CONMEMORATIVA DE KOKURA | Por los soldados caídos en la Guerra de Corea](https://japoneson.com/en/swing/remember/memorial_cross/ "CRUZ CONMEMORATIVA | Por los soldados caídos en la Guerra de Corea")
+* [MOJI: Pagoda de la Paz Mundial](https://japoneson.com/en/swing/remember/pagoda/ "MOJI | Pagoda de la Paz Mundial")
+* [La amistad entre los ex prisioneros de guerra neerlandeses y la ciudad de Mizumaki](https://japoneson.com/en/swing/remember/mizumaki/ "La amistad entre los ex prisioneros de guerra neerlandeses y la ciudad de Mizumaki")
+* [Hacia el futuro / Seina](https://japoneson.com/en/swing/remember/future/ "Hacia el futuro / Seina")
 
 ---
 

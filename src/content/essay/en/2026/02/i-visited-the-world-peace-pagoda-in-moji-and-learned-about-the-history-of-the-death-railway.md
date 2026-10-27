@@ -7,7 +7,7 @@ category: ["Angels Swing", "History"]
 tags: ["WWII", "War History"]   
 ---
 
-Yesterday, I visited The Moji World Peace Pagoda, which [I wrote about a little bit the other day](https://tour.crystallize.jp/archives/1078#pagoda). My last visit was two years ago.
+Yesterday, I visited The Moji World Peace Pagoda, which I wrote about a little bit the other day. My last visit was two years ago.
 
 The pagoda was built through the efforts and dedication of those who survived the Burma Campaign, their bereaved families, the then Mayor of Moji City, and cooperation with the Burmese government.
 

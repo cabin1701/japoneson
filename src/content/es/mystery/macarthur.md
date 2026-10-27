@@ -45,27 +45,27 @@ En este capítulo, presento estas tres historias olvidadas de la Guerra de Corea
 
 ## La Guerra de Corea
 
-[![](/images/wp/2026/04/blacksoldiers-600x573.jpg)](https://en.japoneson.com/mystery/macarthur/korea-black-soldiers)
+[![](/images/wp/2026/04/blacksoldiers-600x573.jpg)](https://japoneson.com/en/mystery/macarthur/korea-black-soldiers/)
 
-### [La Sombra de Kokura - Los Soldados Negros](https://en.japoneson.com/mystery/macarthur/korea-black-soldiers)
+### [La Sombra de Kokura - Los Soldados Negros](https://japoneson.com/en/mystery/macarthur/korea-black-soldiers/)
 
 Una oración silenciosa por los soldados que cruzaron el Estrecho de Kanmon y nunca volvieron a casa.
 
-[![](/images/wp/2026/04/TL-WINTER-13-D-1-600x600.jpg)](https://en.japoneson.com/mystery/macarthur/korea-24th)
+[![](/images/wp/2026/04/TL-WINTER-13-D-1-600x600.jpg)](https://japoneson.com/en/mystery/macarthur/korea-24th/)
 
-### [La 24.ª División de Infantería](https://en.japoneson.com/mystery/macarthur/korea-24th)
+### [La 24.ª División de Infantería](https://japoneson.com/en/mystery/macarthur/korea-24th/)
 
 Por los muchachos que dejaron Kyushu y nunca miraron atrás — esta es una oración por lo que llevaron consigo.
 
-[![](/images/wp/2026/04/IMG_2028-02-600x601.jpg)](https://en.japoneson.com/mystery/macarthur/david-valley)
+[![](/images/wp/2026/04/IMG_2028-02-600x601.jpg)](https://japoneson.com/en/mystery/macarthur/david-valley/)
 
-### [David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
+### [David Valley](https://japoneson.com/en/mystery/macarthur/david-valley/)
 
 El último guardián de una era que se desvanece — quien pasó el testigo invisible a un espíritu libre llegado de Japón.
 
-[![](/images/wp/2026/04/korea1.jpg)](https://en.japoneson.com/swing/for-the-boys/)
+[![](/images/wp/2026/04/korea1.jpg)](https://japoneson.com/en/swing/for-the-boys/)
 
-### [Monica Lewis](https://en.japoneson.com/swing/for-the-boys/)
+### [Monica Lewis](https://japoneson.com/en/swing/for-the-boys/)
 
 En 1951, mi amiga la Sra. Monica Lewis (1922-2015) entretuvo "para los muchachos" que sirvieron en la Guerra de Corea junto a Danny Kaye.
 
@@ -77,9 +77,9 @@ En 1951, mi amiga la Sra. Monica Lewis (1922-2015) entretuvo "para los muchachos
 
 En 1999, conocí a un ex prisionero de guerra que había sido capturado en Filipinas.
 
-[![](/images/wp/2026/06/ac40077afcfee4ce63b0bbc49b90b460-scaled-1-1-1-600x600.jpg)](https://en.japoneson.com/swing/remember/moji#pow)
+[![](/images/wp/2026/06/ac40077afcfee4ce63b0bbc49b90b460-scaled-1-1-1-600x600.jpg)](https://japoneson.com/es/swing/remember/moji/#el-puerto-de-moji-y-los-prisioneros-de-guerra-aliados)
 
-### [Prisioneros de Guerra del Pacífico](https://en.japoneson.com/swing/remember/moji#pow)
+### [Prisioneros de Guerra del Pacífico](https://japoneson.com/es/swing/remember/moji/#el-puerto-de-moji-y-los-prisioneros-de-guerra-aliados)
 
 Kanmon fue la puerta de entrada de los prisioneros aliados provenientes de los frentes del sur.
 
@@ -93,7 +93,7 @@ Kanmon fue la puerta de entrada de los prisioneros aliados provenientes de los f
 
 ### **Kokura Memorial Cross**
 
-Después de la Guerra del Pacífico, la 24.ª División de Infantería, comandada por [el Mayor General William F. Dean,](https://en.wikipedia.org/wiki/William_F._Dean) estuvo destacada en Kokura. Debido a la proximidad de Kokura a Corea del Sur, esta división fue una de las primeras enviadas a la Guerra de Corea **([el primer regimiento enviado](https://tour.crystallize.jp/archives/937#21st) )**. La división sufrió 3.602 muertos y heridos, y 2.962 capturados, incluyendo a su comandante, el Mayor General Dean.
+Después de la Guerra del Pacífico, la 24.ª División de Infantería, comandada por [el Mayor General William F. Dean,](https://en.wikipedia.org/wiki/William_F._Dean) estuvo destacada en Kokura. Debido a la proximidad de Kokura a Corea del Sur, esta división fue una de las primeras enviadas a la Guerra de Corea. La división sufrió 3.602 muertos y heridos, y 2.962 capturados, incluyendo a su comandante, el Mayor General Dean.
 
 Las fuerzas norcoreanas resultaron extremadamente duras, y las fuerzas de la ONU enfrentaron desafíos considerables. Los soldados caídos que eran enterrados temporalmente en Corea del Sur a menudo tenían que ser exhumados cuando la situación cambiaba. En consecuencia, Kokura fue elegida como el lugar para trasladar a estas víctimas para su procesamiento y repatriación. Esto provocó que un gran número de bajas pasara por Kokura, lo que impulsó la construcción del Memorial de la Guerra de Corea, la "Memorial Cross," en 1951.
 

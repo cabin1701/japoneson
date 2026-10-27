@@ -23,17 +23,17 @@ https://youtu.be/yPEICcvPreQ?si=zfp0XDBT5G0Y2DT9
 
 ## Gallery
 
-[![](/images/wp/2018/04/QPD160.jpg)](https://en.japoneson.com/cupie/gallery-01)
+[![](/images/wp/2018/04/QPD160.jpg)](https://cupiedanny.com/en/gallery-01/)
 
-### [Musicians & Celebrities](https://en.japoneson.com/cupie/gallery-01)
+### [Musicians & Celebrities](https://cupiedanny.com/en/gallery-01/)
 
-[![](/images/wp/2018/04/QPD074.jpg)](https://en.japoneson.com/cupie/gallery-02)
+[![](/images/wp/2018/04/QPD074.jpg)](https://cupiedanny.com/en/gallery-02/)
 
-### [Friends & Family](https://en.japoneson.com/cupie/gallery-02)
+### [Friends & Family](https://cupiedanny.com/en/gallery-02/)
 
-[![](/images/wp/2026/06/bath-1-1-1024x1024.jpg)](https://en.japoneson.com/cupie/gallery-03)
+[![](/images/wp/2026/06/bath-1-1-1024x1024.jpg)](https://cupiedanny.com/en/gallery-03/)
 
-### [Travels & Aventure](https://en.japoneson.com/cupie/gallery-03)
+### [Travels & Aventure](https://cupiedanny.com/en/gallery-03/)
 
 In November 2013, while staying in East Harlem (Spanish Harlem), New York, I met Danny Rojo performing at a restaurant near where I was staying.
 
@@ -65,10 +65,10 @@ Please raise the “fireworks of fan” together that can be seen from the sky.
 
 ![](/images/wp/2026/05/IMG_3917.mov)
 
-# [\*Cupie❤︎Danny Theater\*](https://en.japoneson.com/cupie/theater/)
+# [\*Cupie❤︎Danny Theater\*](https://cupiedanny.com/en/theater/)
 
 ![](/images/wp/2026/06/en0922a-e1677590034846.jpg)
 
-## [001 – “Mom!! Who is he?”](https://en.japoneson.com/mom-who-is-he/ "001 – “Mom!! Who is he?”")
+## 001 – “Mom!! Who is he?”
 
-[Seina](https://en.japoneson.com/author/seina/ "Posts by Seina")09/22/2022
+[Seina](https://japoneson.com/en/author/seina/ "Posts by Seina")09/22/2022

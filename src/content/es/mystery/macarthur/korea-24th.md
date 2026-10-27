@@ -69,11 +69,11 @@ Para quienes deseen profundizar en la historia de la 24.ª División de Infanter
 
 Este capítulo fue creado por AI-Vega, basado en los materiales y archivos recopilados por Seina.
 
-[David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
+[David Valley](https://japoneson.com/en/mystery/macarthur/david-valley/)
 
 Donald Versaw
 
-[Korean War](https://en.japoneson.com/mystery/macarthur/korea)
+[Korean War](https://japoneson.com/en/mystery/macarthur/korea/)
 
 The Pacific War
 

@@ -30,26 +30,26 @@ https://youtu.be/GfLskO6\_oYw?si=e4hIXgaLcVxUrr4T
 
 "A giant of modern Japanese literature. From the Showa to the Heisei era, Ryu Murakami was the definitive voice of a changing nation—a legendary icon who carved out the truth from the heart of chaos."
 
-[![](/images/wp/2024/02/01b-e1707982539922.jpg)](https://en.japoneson.com/murakami/tosco)
+[![](/images/wp/2024/02/01b-e1707982539922.jpg)](https://japoneson.com/en/murakami/tosco/)
 
-### [Tosco & Murakami](https://en.japoneson.com/murakami/tosco)
+### [Tosco & Murakami](https://japoneson.com/en/murakami/tosco/)
 
 I wanted José Luis to play a flute that could produce good sounds, and the thought of this genius continuing to play on the instrument I gave him made me feel like I had hope for survival./ Ryu Murakami
 
-[![](/images/wp/2024/02/1993NG.jpg)](https://en.japoneson.com/murakami/music)
+[![](/images/wp/2024/02/1993NG.jpg)](https://japoneson.com/en/murakami/music/)
 
-### [Cuban Music](https://en.japoneson.com/murakami/music)
+### [Cuban Music](https://japoneson.com/en/murakami/music/)
 
 Murakami Label
 
-[![](/images/wp/2024/02/kyoko02.jpg)](https://en.japoneson.com/murakami/kyoko)
+[![](/images/wp/2024/02/kyoko02.jpg)](https://japoneson.com/en/murakami/kyoko/)
 
-### [KYOKO(1995)](https://en.japoneson.com/murakami/kyoko)
+### [KYOKO(1995)](https://japoneson.com/en/murakami/kyoko/)
 
 From New York, we traveled along the East Coast of the United States to Miami and
 then to Cuba, the “land of music and dance”.
 
-### **Thanks to Mr. Ryu Murakami. It's all because of you. [Your words](https://en.japoneson.com/swing/dream/ryu) saved my heart.**
+### **Thanks to Mr. Ryu Murakami. It's all because of you. [Your words](https://japoneson.com/en/swing/dream/ryu/) saved my heart.**
 
 ### **The Writer Ryu Murakami and My 2000**
 
@@ -75,7 +75,7 @@ Ryu’s words back then became the words of my only true witness. They became my
 
 In 2013, over ten years after that letter, I met Danny Rojo, a Cuban musician who had left Cuba, in New York. That meeting opened the door to Cuba for me.
 
-The following year, I crafted a "Cupie" doll from a dollar store to look like Danny—with his rainbow beard and tattoos—and named it ["CupieDanny."](https://japoneson.com/en/cupie/)
+The following year, I crafted a "Cupie" doll from a dollar store to look like Danny—with his rainbow beard and tattoos—and named it ["CupieDanny."](https://cupiedanny.com/en/)
 Danny was overjoyed. **We started a "game"** of making many dolls and distributing them to his friends in New York and Havana.
 
 Danny left Cuba and has never gone back. He sent me a list of his friends via Messenger. It included members of famous bands like Los Van Van and Havana D'Primera. I knew none of them. With almost no Spanish, I ran around Havana with that list, phone numbers, and those dolls. Most of them turned out to be legendary musicians.

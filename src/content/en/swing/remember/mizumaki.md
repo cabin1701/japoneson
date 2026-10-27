@@ -9,13 +9,13 @@ During the Pacific War (Great East Asia War), many prisoners of war were forced 
 
 ![](/images/wp/2024/04/adf3679deedf4acae1b94e272d7007df-1024x682.jpg)
 
-**■ The Bond Between a Dutch Survivor and the Local Community**
+### The Bond Between a Dutch Survivor and the Local Community
 
 Dolf Winkler, a Dutch survivor and former prisoner at the camp, suffered from severe nightmares for 40 years after the war—what we now recognize as PTSD. Following the advice of a mental health counselor to face the source of his suffering, he decided to visit Mizumaki in 1985. Guided by author Eidai Hayashi, Mr. Winkler was led to the neglected and dilapidated cross. When he initially approached the town office for help, he was turned away because the cross was a religious symbol.
 
 Eventually, he sought help from Shoji Kurokawa, who then consulted his older brother, Hiroshi. Hiroshi said, "It’s wrong for no one to take care of it since it's here in Mizumaki. Let’s do it ourselves, as brothers." The Kurokawa brothers took over the management of the memorial. When the weathered cross required repair, a local construction company owner stepped forward, saying, "My own brother died in the war; let me do this as a memorial service." The restoration was completed, and the names of the 53 men who died in Mizumaki, as well as the 871 Dutch prisoners who perished in camps across Japan, are now engraved on the monument.
 
-**■ From Resentment to Exchange**
+### From Resentment to Exchange
 
 Since 1987, a flower-laying ceremony has been held annually. Mr. Winkler visited Mizumaki many times, and many others followed from the Netherlands. Visitors included former POWs and bereaved families with strong anti-Japanese sentiments, individuals born to Japanese fathers and Dutch mothers during the war, and those who were forced into internment camps in Indonesia. Gradually, the town office also began to actively cooperate in the memorial services and international exchanges.
 
@@ -25,7 +25,7 @@ The friendship cultivated by Mr. Winkler and Hiroshi Kurokawa continues to serve
 
 ---
 
-**■ Personal Reflections (2012)**
+### Personal Reflections (2012)
 
 In 2011, I learned about the Memorial Cross in Mizumaki, and in 2012, I visited the current representative, Hidetoshi Kurokawa, to participate in the flower-laying ceremony and exchange events. I served as a volunteer interpreter for the exchange program at an elementary school and was struck by the incredible energy of the children. Second graders greeted me in English and peppered me with endless questions during lunch.
 

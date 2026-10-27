@@ -9,13 +9,13 @@ wp_parent: 1022
 
 The target was a residential area where many employees of the Yawata Steel Works and their families lived. The areas currently known as Edamitsu, Chuo, Ogura, and Maeda in Yahatahigashi Ward were reduced to ashes. According to the *Yawata City History (Sequel)* and *Kitakyushu City History*, there were approximately 2,500 casualties, 52,562 people affected, and approximately 14,000 homes damaged or destroyed. According to the *Japanese Urban War Damage Map* (edited by the First Ministry of Demobilization), the death toll was 1,785. (Source:  [Nishinippon Shimbun Word Box](https://www.nishinippon.co.jp/wordbox/6295/))
 
-**[Photo Captions]**
+### [Photo Captions]
 
 * **Left:** The Yahata Air Raid on August 8.
 * **Center:** Yahata city area following the air raid (white areas indicate scorched earth).
 * **Right:** An incendiary bomb dropped on the premises of the Yahata Steel Works (September 14, 1945).
 
-![](/images/wp/2024/04/yahata01-1024x283.jpg)
+![Three photographs of Yahata: the air raid on August 8, the city area after the raid, and an incendiary bomb on the premises of the Yahata Steel Works (September 14, 1945)](/images/wp/2024/04/yahata01-1024x283.jpg)
 
 Target Information Sheet
 
@@ -37,9 +37,11 @@ The total population of this region is approximately 650,000. Destroying the res
 
 ---
 
-**[List of Numbered Objectives within Urban Area Objective 3630]** *(Note: Preserving the original names and designations as recorded in the documents)*
+### [List of Numbered Objectives within Urban Area Objective 3630]
 
-* 168 - Kokura Arsenal
+*(Note: Preserving the original names and designations as recorded in the documents)*
+
+* 168 - [Kokura Arsenal](https://japoneson.com/en/swing/remember/kokura/)
 * 184 - Kokura Railway Factory
 * 2173 - Higashi Kokura Railway Yard
 * 1127 - Kokura Thermal Power Station No. 1

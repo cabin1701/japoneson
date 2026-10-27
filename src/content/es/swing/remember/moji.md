@@ -41,10 +41,10 @@ En aquella época, la ciudad estaba tan desbordada de soldados a la espera de em
 
 ---
 
-**■ Bombardeo aéreo de la ciudad de Moji: 29 de junio de 1945**  
+### Bombardeo aéreo de la ciudad de Moji: 29 de junio de 1945
 Las zonas urbanas de Moji y Shimonoseki funcionan como puertas de transporte entre Kitakyushu y el sur de Honshu, con un fuerte impacto en la producción industrial. Al ser objetivos urbanos altamente concentrados e inflamables, fueron designados como objetivos prioritarios. Atacar estos centros buscaba paralizar la capacidad económica de todo el complejo industrial en un radio de 10 millas (16 km).
 
-![](/images/wp/2024/04/moji02-1-1024x394.jpg)
+![Izquierda: la zona urbana de Moji antes del bombardeo aéreo. Derecha: fotografía de reconocimiento del ejército estadounidense de Moji, tomada el 29 de junio de 1945; las áreas blancas indican tierra calcinada](/images/wp/2024/04/moji02-1-1024x394.jpg)
 
 *Pies de foto: izquierda, la zona urbana de Moji antes del bombardeo aéreo; derecha, fotografía de reconocimiento tomada por el ejército estadounidense el 29 de junio de 1945 para evaluar los efectos del ataque. Las áreas blancas indican tierra calcinada.* (Archivo Histórico de la Base Aérea Maxwell)
 
@@ -66,7 +66,7 @@ Durante la Segunda Guerra Mundial, el ejército japonés capturó como prisioner
 
 
 
-![](/images/wp/2024/04/bdc2957c1cb038467124b44d9d9535c8-230x300.jpg)
+![El puerto de Moji justo después del fin de la guerra (Archivos Nacionales de EE. UU.)](/images/wp/2024/04/bdc2957c1cb038467124b44d9d9535c8-230x300.jpg)
 
 El puerto de Moji justo después del fin de la guerra (Archivos Nacionales de EE. UU.)
 
@@ -86,7 +86,7 @@ Este campo abrió el 27 de noviembre de 1942, utilizando el edificio del YMCA en
 
 
 
-![](/images/wp/2024/04/POWMoji_500-300x257.jpg)
+![El campo de prisioneros de Moji inmediatamente después del fin de la guerra, en el YMCA de Moji](/images/wp/2024/04/POWMoji_500-300x257.jpg)
 
 El campo de prisioneros de Moji inmediatamente después del fin de la guerra | YMCA de Moji
 
@@ -102,7 +102,5 @@ Inmediatamente después del fin de la guerra, la ciudad de Moji quedó reducida 
 
 A finales de noviembre de 1944, cuatro "barcos infernales" llegaron a Moji al mismo tiempo. Cerca de 60 prisioneros que padecían enfermedades infecciosas, incluida la disentería, fueron internados en el pabellón de aislamiento de la Estación de Cuarentena de Shimonoseki, en Enoura-chō, Hikoshima, al otro lado del estrecho frente a Moji. Esta instalación funcionaba como una dependencia del campo de Moji, aunque no está claro durante cuánto tiempo estuvo en operación. Según recuerdan los vecinos de la zona, tras un período de relativa calma los prisioneros fueron trasladados a un segundo campo cerca de Hikoshima, pero no se conocen más detalles.
 
-Ruinas de la Estación de Cuarentena de Shimonoseki (2006)
-
-![](/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg)
+![Ruinas de la Estación de Cuarentena de Shimonoseki (2006)](/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg)
 *Ruinas de la Estación de Cuarentena de Shimonoseki (2006)*

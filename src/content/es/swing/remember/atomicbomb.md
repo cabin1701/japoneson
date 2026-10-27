@@ -9,11 +9,9 @@ wp_parent: 1022
 
 **A las 9:45 de la mañana del 9 de agosto**, el bombardero B-29 "Bockscar", con la bomba de plutonio "**Fat Man**" a bordo, llegó sobre Kokura. "**Fat Man**" era un arma completamente distinta y mucho más potente que "**Little Boy**", la bomba de uranio lanzada sobre Hiroshima.
 
-El objetivo principal de esta segunda bomba atómica era el Arsenal del Ejército de Kokura y su zona urbana circundante. Sin embargo, debido a varios factores —el humo del bombardeo de Yahata del día anterior, densas nubes y cortinas de humo creadas intencionalmente por los trabajadores de las Acerías de Yawata (quemando alquitrán de hulla)— el "Bockscar" no pudo confirmar visualmente el objetivo. Tras tres intentos de bombardeo fallidos, la aeronave se desvió hacia su objetivo secundario, Nagasaki, donde finalmente se lanzó la bomba.
+El objetivo principal de esta segunda bomba atómica era el [Arsenal del Ejército de Kokura](https://japoneson.com/es/swing/remember/kokura/) y su zona urbana circundante. Sin embargo, debido a varios factores —el humo del [bombardeo de Yahata](https://japoneson.com/es/swing/remember/yahata/) del día anterior, densas nubes y cortinas de humo creadas intencionalmente por los trabajadores de las Acerías de Yawata (quemando alquitrán de hulla)— el "Bockscar" no pudo confirmar visualmente el objetivo. Tras tres intentos de bombardeo fallidos, la aeronave se desvió hacia su objetivo secundario, Nagasaki, donde finalmente se lanzó la bomba.
 
-![](/images/wp/2024/04/nagasaki.jpg)
-
-La bomba atómica sobre Kokura, en la mañana del 9 de agosto de 1945
+![Tres fotografías: la bomba de plutonio "Fat Man", un hongo atómico y el morro del bombardero B-29 Bockscar](/images/wp/2024/04/nagasaki.jpg)
 
 De [*War's End: An Eyewitness Account of America's Last Atomic Mission*](https://www.amazon.com/Wars-End-Eyewitness-Account-Americas/dp/0380788748), de Charles W. Sweeney, James A. Antonucci y Marion K. Antonucci:
 
@@ -49,14 +47,14 @@ Volví a inclinar bruscamente el avión para ponernos rumbo sur, hacia nuestro o
 
 **La réplica de la "Campana de Nagasaki"** En el parque Katsuyama, antiguo emplazamiento del Arsenal del Ejército de Kokura, se alza una réplica de la "**Campana de Nagasaki**", obsequiada por la ciudad de Nagasaki. Cada año, el **9 de agosto**, se celebra allí un servicio conmemorativo en honor a las víctimas y para orar por la paz.
 
-![](/images/wp/2024/04/8b562a72b78400543d86a87809689380-e1713415887609.jpg)
+![La réplica de la Campana de Nagasaki en el parque Katsuyama, Kokura, junto a un monumento con grullas de papel de colores](/images/wp/2024/04/8b562a72b78400543d86a87809689380-e1713415887609.jpg)
 
 ---
 
-**■ El Proyecto Manhattan**  
+### El Proyecto Manhattan
 En 1942, Estados Unidos puso en marcha el Proyecto Manhattan para desarrollar la bomba atómica. Tras la muerte del presidente Roosevelt en abril de 1945, el vicepresidente Harry S. Truman asumió la presidencia de Estados Unidos. El 16 de julio de 1945 se realizó en Nuevo México la primera prueba nuclear de la historia (la prueba Trinity). En agosto, se lanzaron bombas atómicas sobre Hiroshima y Nagasaki.
 
-**■ La visita del nieto del presidente Truman**  
+### La visita del nieto del presidente Truman
 En 2012, Clifton Truman Daniel, nieto del presidente Truman, visitó Hiroshima y Nagasaki para asistir a las ceremonias conmemorativas de la paz. Fue la primera vez que un descendiente de la familia Truman participaba en estas ceremonias desde los bombardeos atómicos.
 
-![](/images/wp/2024/04/cb21c53e01edf9fb25f6ab527a681e99-e1713416580285-762x1024.jpg)
+![Clifton Truman Daniel, nieto del presidente Truman, junto a Seina en 2012](/images/wp/2024/04/cb21c53e01edf9fb25f6ab527a681e99-e1713416580285-762x1024.jpg)

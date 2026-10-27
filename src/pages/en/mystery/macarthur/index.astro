@@ -100,7 +100,7 @@ const trail = [
 
         <p>
           In late 2012, I created a booklet titled 
-          <strong>"Kitakyushu: Wartime and Post-Wartime—We Remember You."</strong> 
+          <strong><a href={`${base}en/swing/remember/`}>"Kitakyushu: Wartime and Post-Wartime—We Remember You."</a></strong> 
           I distributed it in February 2023 at an event celebrating the 50th 
           anniversary of Kitakyushu City. My motivation was simple: although 
           Kitakyushu's modern technology and economy were built upon a 
@@ -109,7 +109,7 @@ const trail = [
         </p>
 
         <p>
-          While researching the "Memorial Cross"—a Korean War monument in 
+          While researching the <a href={`${base}en/swing/remember/memorial_cross/`}>"Memorial Cross"</a>—a Korean War monument in 
           Kokura—I discovered that the 24th Infantry Division had been 
           stationed there. When I contacted their veterans' association, I was 
           introduced to <strong>Mr. David Valley</strong>, who expressed a 
@@ -174,19 +174,19 @@ const trail = [
         </p>
 
         <p>
-          Those very prisoners were eventually shipped to the port of 
-          <strong>Moji</strong>.
+          Those very prisoners were eventually <a href={`${base}en/swing/remember/moji/`}>shipped to the port of 
+          <strong>Moji</strong></a>.
         </p>
 
         <p>
-          Furthermore, when the Korean War broke out, the 24th Infantry 
-          Division—stationed closest to Korea—was the first to be sent to the 
+          Furthermore, when the Korean War broke out, <a href={`${base}en/mystery/macarthur/korea-24th/`}>the 24th Infantry 
+          Division</a>—stationed closest to Korea—was the first to be sent to the 
           front under MacArthur's command.
         </p>
 
         <p>
           In Kokura, there is a dark, unspoken history known as the 
-          <strong>"Kokura Riot"</strong> (the model for Seicho Matsumoto's 
+          <strong><a href={`${base}en/mystery/macarthur/korea-black-soldiers/`}>"Kokura Riot"</a></strong> (the model for Seicho Matsumoto's 
           <em>'Kuroji no E'</em>). Black American soldiers, arriving by train 
           from Gifu, were pushed to a breaking point by the combination of 
           racial discrimination and the terror of being sent to a "land of 
@@ -228,7 +228,7 @@ const trail = [
           <h3 class="pw-cardtitle">Emails from an old G.I. — Donald Versaw</h3>
           <p class="pw-desc">In 1999, I encountered an ex-POW who was captured in the Philippines.</p>
         </a>
-        <a class="pw-card" href="https://en.japoneson.com/swing/remember/moji#pow">
+        <a class="pw-card" href={`${base}en/swing/remember/moji/#moji-port-and-allied-pows`}>
           <div class="pw-image"><img src={IMG('2026/06/ac40077afcfee4ce63b0bbc49b90b460-scaled-1-1-1-600x600.jpg')} alt="POWs of the Pacific War" loading="lazy" /></div>
           <h3 class="pw-cardtitle">POWs of the Pacific War</h3>
           <p class="pw-desc">Kanmon was the gate of Allied POWs from south battlefields.</p>
@@ -253,8 +253,7 @@ const trail = [
             After the Pacific War, the 24th Infantry Division, commanded by
             <a href="https://en.wikipedia.org/wiki/William_F._Dean" target="_blank" rel="noopener">Major General William F. Dean</a>,
             was stationed in Kokura. Due to Kokura's proximity to South Korea,
-            this Division was among the first sent to the Korean War
-            (<a href="https://tour.crystallize.jp/archives/937#21st" target="_blank" rel="noopener">the first sent regiment</a>).
+            this Division was among the first sent to the Korean War.
             The division suffered 3,602 dead and wounded, and 2,962 captured,
             including its commander, Major General Dean.
           </p>
@@ -276,7 +275,7 @@ const trail = [
             <li><a href="https://24thida.com/" target="_blank" rel="noopener">The 24th Infantry Division Association</a></li>
           </ul>
 
-          <h4 class="mem-sub">Access Information</h4>
+          <h4 class="mem-sub" id="memorial-cross-access">Access Information</h4>
           <p>
             Taking a taxi is recommended. Please ask the driver to wait while
             you are visiting. You will not be able to catch a cab at the spot.
@@ -298,7 +297,7 @@ const trail = [
             At the end of November 1945, four "hell ships" arrived
             simultaneously. Approximately 60 patients with infectious
             diseases, including dysentery, were placed in the isolation ward
-            of the Shimonoseki Quarantine Station in Enoura-cho, Hikoshima,
+            of the <a href={`${base}en/swing/remember/moji/#shimonoseki-quarantine-station`}>Shimonoseki Quarantine Station</a> in Enoura-cho, Hikoshima,
             Shimonoseki City, located opposite Moji. This facility served as a
             branch of the Moji camp, though its operational period is unclear.
             Residents recall that POWs, after a period of relative calm, were
@@ -390,6 +389,7 @@ const trail = [
   .intro-inner em { font-style: italic; }
   .intro-inner strong { font-weight: 400; color: var(--color-navy); }
   .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a strong { color: inherit; }
   .intro-inner a:hover { color: var(--color-navy); }
 
   .war-block {

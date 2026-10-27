@@ -42,11 +42,11 @@ At that time, the city was so overwhelmed with soldiers awaiting deployment that
 
 ---
 
-**■ Moji City Air Raid: June 29, 1945**  
+### Moji City Air Raid: June 29, 1945
 The urban areas of Moji and Shimonoseki serve as transportation gateways between Kitakyushu and southern Honshu, significantly impacting industrial production. As highly concentrated and flammable urban targets, they were designated as high-priority objectives. Striking these centers was intended to cripple the economic capacity of the entire industrial complex within a 10-mile radius.
 
 
-[![](/images/wp/2024/04/moji02-1-1024x394.jpg)](/images/wp/2024/04/moji02-1.jpg)
+[![Left: Moji city area before the air raid. Right: U.S. military reconnaissance photograph of Moji taken on June 29, 1945; white areas indicate scorched earth](/images/wp/2024/04/moji02-1-1024x394.jpg)](/images/wp/2024/04/moji02-1.jpg)
 
 *Photo Captions: Left - Moji city area before the air raid / Right - U.S. military reconnaissance photograph taken on June 29, 1945, to assess the effectiveness of the raid. The white areas indicate scorched earth.* (owned by the Maxwell Air Force Base Historical Archives)
 
@@ -68,7 +68,7 @@ During World War II, the Japanese military captured approximately 130,000 Allied
 
 
 
-![](/images/wp/2024/04/bdc2957c1cb038467124b44d9d9535c8-230x300.jpg)
+![Moji Port just after the end of the war (U.S. National Archives)](/images/wp/2024/04/bdc2957c1cb038467124b44d9d9535c8-230x300.jpg)
 
 Moji Port just after the end of the war (U.S. National Archives)
 
@@ -88,7 +88,7 @@ This camp opened on November 27, 1942, utilizing the YMCA building in Kusunoki-c
 
 Moji POW camp immediately after the end of the war | Moji YMCA
 
-![](/images/wp/2024/04/POWMoji_500-300x257.jpg)
+![Moji POW camp immediately after the end of the war, at the Moji YMCA](/images/wp/2024/04/POWMoji_500-300x257.jpg)
 
 Moji POW camp immediately after the end of the war | Moji YMCA　
 
@@ -104,7 +104,5 @@ Immediately after the end of the war, the town of Moji became a burnt-out ruin. 
 
 In late November 1944, four "Hell Ships" arrived at Moji simultaneously. Approximately 60 prisoners suffering from infectious diseases, including dysentery, were placed in the isolation ward of the Shimonoseki Quarantine Station in Enoura-cho, Hikoshima, located across the strait from Moji. This facility operated as a branch of the Moji camp, though its exact period of operation remains unclear. Local residents recall that after a period of relative calm, the POWs were transferred to a second camp near Hikoshima, but further details remain unknown.
 
-Shimonoseki Quarantine Station Ruins (2006)
-
-![](/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg)
+![Shimonoseki Quarantine Station ruins (2006)](/images/wp/2024/04/1d250126dca6c25351e8e542292d7355-300x205.jpg)
 *Shimonoseki Quarantine Station Ruins (2006)*

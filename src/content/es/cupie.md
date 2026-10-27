@@ -23,17 +23,17 @@ https://youtu.be/yPEICcvPreQ?si=zfp0XDBT5G0Y2DT9
 
 ## Galería
 
-[![](/images/wp/2018/04/QPD160.jpg)](https://en.japoneson.com/cupie/gallery-01)
+[![](/images/wp/2018/04/QPD160.jpg)](https://cupiedanny.com/en/gallery-01/)
 
-### [Músicos y Celebridades](https://en.japoneson.com/cupie/gallery-01)
+### [Músicos y Celebridades](https://cupiedanny.com/en/gallery-01/)
 
-[![](/images/wp/2018/04/QPD074.jpg)](https://en.japoneson.com/cupie/gallery-02)
+[![](/images/wp/2018/04/QPD074.jpg)](https://cupiedanny.com/en/gallery-02/)
 
-### [Amigos y Familia](https://en.japoneson.com/cupie/gallery-02)
+### [Amigos y Familia](https://cupiedanny.com/en/gallery-02/)
 
-[![](/images/wp/2026/06/bath-1-1-1024x1024.jpg)](https://en.japoneson.com/cupie/gallery-03)
+[![](/images/wp/2026/06/bath-1-1-1024x1024.jpg)](https://cupiedanny.com/en/gallery-03/)
 
-### [Viajes y Aventuras](https://en.japoneson.com/cupie/gallery-03)
+### [Viajes y Aventuras](https://cupiedanny.com/en/gallery-03/)
 
 En noviembre de 2013, mientras me alojaba en East Harlem (Spanish Harlem), Nueva York, conocí a Danny Rojo tocando en un restaurante cerca de donde me hospedaba.
 
@@ -65,10 +65,10 @@ Por favor, levanten juntos los "fuegos artificiales de abanico" que se pueden ve
 
 ![](/images/wp/2026/05/IMG_3917.mov)
 
-# [\*Cupie❤︎Danny Theater\*](https://en.japoneson.com/cupie/theater/)
+# [\*Cupie❤︎Danny Theater\*](https://cupiedanny.com/en/theater/)
 
 ![](/images/wp/2026/06/en0922a-e1677590034846.jpg)
 
-## [001 – "Mom!! Who is he?"](https://en.japoneson.com/mom-who-is-he/ "001 – "Mom!! Who is he?"")
+## 001 – "Mom!! Who is he?"
 
-[Seina](https://en.japoneson.com/author/seina/ "Posts by Seina")22/09/2022
+[Seina](https://japoneson.com/en/author/seina/ "Posts by Seina")22/09/2022

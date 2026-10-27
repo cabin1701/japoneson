@@ -9,7 +9,7 @@ tags: ["Cuba", "War History"]
 
 Everybody wonders why I went to Cuba so suddenly.
 
-In 2013, the first half of the year was wonderful. I published a booklet, ["The War History of Kitakyushu-City | We Remember You"](https://en.japoneson.com/en/angelsswing/remember).
+In 2013, the first half of the year was wonderful. I published a booklet, ["The War History of Kitakyushu-City | We Remember You"](https://japoneson.com/en/swing/remember/).
 
 Then, I visited **[Battleship Missouri Memorial](http://Then, in 2013, CUBA started...)** in Hawaii, then New York, then Norfolk, Virginia, and sang at the convention of **[the American Defenders of Bataan Corregidor Memorial Society](https://www.adbcmemorialsociety.org/)**. I also visited [**the MacArthur Memorial**](https://macarthurmemorial.org/) in Norfolk. After Norfolk, I visited San Diego to see Mr. David Valley, then up to Los Angeles to see Ms. Monica Lewis. In Los Angeles, I visited [**the Japanese American National Museum**](https://www.janm.org/).
 

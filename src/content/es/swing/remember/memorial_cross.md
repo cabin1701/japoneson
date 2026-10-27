@@ -7,24 +7,29 @@ wp_parent: 1022
 
 ## Por los soldados caídos en la Guerra de Corea
 
-Donald Versaw (véase "Introducción"), cuyo encuentro fue lo que originalmente me inspiró a crear este folleto, pertenecía a la American Descendants of Bataan & Corregidor Memorial Society. Ese año, por una extraña coincidencia, su convención se celebró en Norfolk, Virginia —ciudad hermanada con Kitakyushu—, así que participé como cantante y como amiga de antiguos prisioneros de guerra.
+[Donald Versaw](https://japoneson.com/es/mystery/macarthur/donald-versaw/) (véase "Introducción"), cuyo encuentro fue lo que originalmente me inspiró a crear este folleto, pertenecía a la American Descendants of Bataan & Corregidor Memorial Society. Ese año, por una extraña coincidencia, su convención se celebró en Norfolk, Virginia —ciudad hermanada con Kitakyushu—, así que participé como cantante y como amiga de antiguos prisioneros de guerra.
 
-Gracias a la presentación de la asociación de veteranos de la 24.ª División de Infantería que se encontraba allí, conocí al Sr. David Valley. El Sr. Valley había servido como guardia del general Douglas MacArthur, quien comandó el GHQ como Comandante Supremo. Norfolk alberga también el Memorial MacArthur, donde el general descansa junto a su esposa. Gracias a la presentación del Sr. Valley, conocí también al director del museo y a sus conservadores.
+Gracias a la presentación de la asociación de veteranos de la [24.ª División de Infantería](https://japoneson.com/es/mystery/macarthur/korea-24th/) que se encontraba allí, conocí al Sr. [David Valley](https://japoneson.com/es/mystery/macarthur/david-valley/). El Sr. Valley había servido como guardia del general Douglas MacArthur, quien comandó el GHQ como Comandante Supremo. Norfolk alberga también el Memorial MacArthur, donde el general descansa junto a su esposa. Gracias a la presentación del Sr. Valley, conocí también al director del museo y a sus conservadores.
 
 Después de Norfolk, visité de nuevo al Sr. Valley en San Diego, California. Más tarde, en Los Ángeles, conocí también a la Sra. Monica Lewis. Aquel viaje —a través de Hawái, Nueva York, Virginia y California, recorriendo el lado estadounidense de la Segunda Guerra Mundial y de la Guerra de Corea como mujer japonesa— se convirtió en una experiencia extraña y profunda, como si me guiaran almas invisibles.
 
 Espero poder escribir sobre ese viaje en otra ocasión. Esta introducción se ha hecho larga, pero a partir de aquí comienza el contenido del folleto.
 
+
+Cómo llegar a la Cruz Conmemorativa: [Información de acceso](https://japoneson.com/es/mystery/macarthur/#memorial-cross-access)
+
 ---
 
-![](/images/wp/2024/04/memorial-cross-scaled-e1713441095325.jpg)
+### El estallido de la Guerra de Corea
 
-**El estallido de la Guerra de Corea**  El 25 de junio de 1950 estalló la Guerra de Corea.
+<p style="text-align: center;">El 25 de junio de 1950 estalló la Guerra de Corea.</p>
 
-**Fukuoka como base estratégica**  
-La prefectura de Fukuoka se convirtió en una base logística de primera línea para las fuerzas de las Naciones Unidas. Enormes cantidades de suministros y personal fueron transportados a Corea del Sur desde los puertos y bases aéreas de Ashiya, Tsuiki, Itazuke y Moji. Las tropas estadounidenses estacionadas por todo Japón también se trasladaron al frente pasando por Kokura.
+![La Cruz Conmemorativa, una cruz alta vista contra el cielo entre las ramas de los árboles](/images/wp/2024/04/memorial-cross-scaled-e1713441095325.jpg)
 
-**La 24.ª División de Infantería**  
+### Fukuoka como base estratégica
+La prefectura de Fukuoka se convirtió en una base logística de primera línea para las fuerzas de las Naciones Unidas. Enormes cantidades de suministros y personal fueron transportados a Corea del Sur desde los puertos y bases aéreas de Ashiya, Tsuiki, Itazuke y [Moji](https://japoneson.com/es/swing/remember/moji/). Las tropas estadounidenses estacionadas por todo Japón también se trasladaron al frente pasando por Kokura.
+
+### La 24.ª División de Infantería
 La 24.ª División de Infantería, con sede en Kokura, fue enviada a Corea del Sur inmediatamente después de comenzar la guerra. Sin embargo, fue prácticamente diezmada por la abrumadora ofensiva inicial del ejército norcoreano. En las primeras etapas del conflicto, la fuerza norcoreana obligó a las tropas de la ONU a una lucha brutal, y un enorme número de bajas fue trasladado de vuelta a Kitakyushu. A la Guerra de Corea también se la conoce como "**La Guerra Olvidada**".
 
 ---
@@ -124,9 +129,9 @@ Descanse en paz y cante para la gente en el cielo.
 La veré en cada hermosa canción que usted cante.  
 Angels Swing / Seina
 
-[![](/images/wp/2026/05/monica.jpg)](https://en.japoneson.com/swing/for-the-boys)
+[![](/images/wp/2026/05/monica.jpg)](https://japoneson.com/en/swing/for-the-boys/)
 
-### ["For The Boys" — Tributo a la Sra. Monica Lewis](https://en.japoneson.com/swing/for-the-boys)
+### ["For The Boys" — Tributo a la Sra. Monica Lewis](https://japoneson.com/en/swing/for-the-boys/)
 
 En 1951, mi amiga la Sra. Monica Lewis (1922-2015) entretuvo "for the boys" a quienes sirvieron en la Guerra de Corea, junto con Danny Kaye.
 

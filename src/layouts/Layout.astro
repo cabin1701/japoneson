@@ -931,6 +931,14 @@ const pageJsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [w
     color: var(--color-muted);
     margin-top: -0.5rem;
   }
+  /* Introduction, Kokura: the paragraph after the photo is body text, not a caption */
+  main.page-booklet.page-preface article p:has(> img:only-child) + p,
+  main.page-booklet.page-kokura article p:has(> img:only-child) + p {
+    text-align: unset;
+    font-size: unset;
+    color: unset;
+    margin-top: unset;
+  }
   /* Section headings (h5) and intro lines (h6): browser defaults are tiny.
      Original WP theme rendered these at readable size (h5 navy bold sections). */
   main.page-booklet article h5 {

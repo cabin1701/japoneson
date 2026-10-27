@@ -72,11 +72,11 @@ I dedicate this chapter to the victims in Kokura, to **Bob Cranshaw**, and to al
 
 These two photographs were taken in 2013 at the MacArthur Memorial in Norfolk, Virginia. Looking at them, a thought crossed my mind... Perhaps the General had not forgotten them after all. Perhaps he held onto the memory of those Black soldiers—the ones he had sent into the harshest, most brutal battlefields of the war. That feeling stayed with me as I captured these images of the exhibition.
 
-[David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
+[David Valley](https://japoneson.com/en/mystery/macarthur/david-valley/)
 
 Donald Versaw
 
-[Korean War](https://en.japoneson.com/mystery/macarthur/korea)
+[Korean War](https://japoneson.com/en/mystery/macarthur/korea/)
 
 The Pacific War
 

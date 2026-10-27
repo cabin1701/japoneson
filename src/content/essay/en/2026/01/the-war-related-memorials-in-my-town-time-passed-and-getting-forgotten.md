@@ -19,7 +19,7 @@ It is one of the dating or walking spots. I realized that they didn't care much 
 
 No, even Japanese lives of the Pacific War, much. already.
 
-In Mojiko, there is [the Moji World Peace Pagoda](https://en.japoneson.com/en/angelsswing/remember/pagoda), which was built in 1958. When I visited the Pagoda in 2012, I realized that the Pagoda had been supported by veterans and their family of the Burma front of the Pacific War. Yes, I didn't know it, even though I often saw the pagoda while driving.
+In Mojiko, there is [the Moji World Peace Pagoda](https://japoneson.com/en/swing/remember/pagoda/), which was built in 1958. When I visited the Pagoda in 2012, I realized that the Pagoda had been supported by veterans and their family of the Burma front of the Pacific War. Yes, I didn't know it, even though I often saw the pagoda while driving.
 
 ![](https://media.cabin1701.com/japoneson/essay/wp/2026/01/IMG_0968-768x1024.jpg)
 

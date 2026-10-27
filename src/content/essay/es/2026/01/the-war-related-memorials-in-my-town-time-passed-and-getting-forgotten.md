@@ -19,7 +19,7 @@ Es uno de esos lugares de citas o de paseo. Me di cuenta de que a la gente no le
 
 No, ni siquiera las vidas japonesas de la Guerra del Pacífico, mucho. ya.
 
-En Mojiko está [la Pagoda de la Paz Mundial de Moji](https://en.japoneson.com/en/angelsswing/remember/pagoda), construida en 1958. Cuando visité la Pagoda en 2012, me di cuenta de que había sido sostenida por veteranos y sus familias del frente de Birmania en la Guerra del Pacífico. Sí, no lo sabía, aunque a menudo veía la pagoda mientras conducía.
+En Mojiko está [la Pagoda de la Paz Mundial de Moji](https://japoneson.com/en/swing/remember/pagoda/), construida en 1958. Cuando visité la Pagoda en 2012, me di cuenta de que había sido sostenida por veteranos y sus familias del frente de Birmania en la Guerra del Pacífico. Sí, no lo sabía, aunque a menudo veía la pagoda mientras conducía.
 
 ![](https://media.cabin1701.com/japoneson/essay/wp/2026/01/IMG_0968-768x1024.jpg)
 

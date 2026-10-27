@@ -33,7 +33,7 @@ Very truly yours, Shoko "Seina" Shiraishi
 
 The plan began at 4,300 nursing homes and was scaled to 3,500 because of the cost of postage and production. The recording was made in New York with musicians who had lived through the era. The 1999 project was covered widely in the Japanese press — Mainichi, Asahi, Nikkei, Nishinippon, Yomiuri America, Shukan Yomiuri and others between July 1999 and February 2000 — an unusual amount of attention for a project started by one private individual.
 
-Leonard Gaskin (bass),
+[Leonard Gaskin](https://japoneson.com/en/swing/leonard-gaskin/) (bass),
 
 Artie Baker (Clarinet & Tenor Sax),
 
@@ -47,14 +47,14 @@ Howard Kimbo (Tenor Sax)
 
 Seina (Vocals)
 
-[![](/images/wp/2026/05/ryu-1.jpg)](https://en.japoneson.com/swing/dream/ryu)
+[![](/images/wp/2026/05/ryu-1.jpg)](https://japoneson.com/en/swing/dream/ryu/)
 
-### [From Ryu Murakami](https://en.japoneson.com/swing/dream/ryu)
+### [From Ryu Murakami](https://japoneson.com/en/swing/dream/ryu/)
 
 https://youtu.be/FY-yB9-tC8U?si=-kLkV7\_CG5rtAtjY
-[![](/images/wp/2026/05/letters.jpg)](https://en.japoneson.com/swing/dream/letters)
+[![](/images/wp/2026/05/letters.jpg)](https://japoneson.com/en/swing/dream/letters/)
 
-### [Letters From Nursing Homes](https://en.japoneson.com/swing/dream/letters)
+### [Letters From Nursing Homes](https://japoneson.com/en/swing/dream/letters/)
 
 .
 

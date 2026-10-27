@@ -27,22 +27,22 @@ Hace doce años, José, un soldado estadounidense y bailarín, le enseñó a bai
 
 ## Nueva York · Cuba · Japón
 
-[![](/images/wp/2026/05/kyoko01-e1779687767424-600x600.jpg)](https://en.japoneson.com/murakami/kyoko/newother)
+[![](/images/wp/2026/05/kyoko01-e1779687767424-600x600.jpg)](https://japoneson.com/en/murakami/kyoko/newother/)
 
-### [El nuevo otro, Cuba](https://en.japoneson.com/murakami/kyoko/newother)
+### [El nuevo otro, Cuba](https://japoneson.com/en/murakami/kyoko/newother/)
 
 Llegamos a conocernos a nosotros mismos a través de nuestras relaciones con los demás, y con otro nuevo otro, nuestras relaciones anteriores se vuelven objetivas. | Ryu Murakami
 de "La trayectoria de KYOKO"
 
-[![](/images/wp/2026/05/IMAGE0047-e1779688101635-768x768.jpg)](https://en.japoneson.com/murakami/kyoko/me)
+[![](/images/wp/2026/05/IMAGE0047-e1779688101635-768x768.jpg)](https://japoneson.com/en/murakami/kyoko/me/)
 
-### [El "japonés herido" que hay en mí](https://en.japoneson.com/murakami/kyoko/me)
+### [El "japonés herido" que hay en mí](https://japoneson.com/en/murakami/kyoko/me/)
 
 El "japonés herido que hay en mí" era un "japonés" que, como ciudadano de un país derrotado, cargaba con un sentimiento de culpa, no podía sentirse orgulloso de su país y no podía amarlo. Un ensayo que conecta con "El nuevo otro, Cuba."
 
-[![](/images/wp/2026/05/kyoko-dancin-BW-e1779687636421-768x768.jpg)](https://en.japoneson.com/murakami/kyoko/boku/)
+[![](/images/wp/2026/05/kyoko-dancin-BW-e1779687636421-768x768.jpg)](https://japoneson.com/en/murakami/kyoko/boku/)
 
-### ["KYOKO" es la historia del propio Ryu Murakami.](https://en.japoneson.com/murakami/kyoko/boku/)
+### ["KYOKO" es la historia del propio Ryu Murakami.](https://japoneson.com/en/murakami/kyoko/boku/)
 
 Sentí que regresaba al "espíritu" que tenía cuando escribí "Azul casi transparente." | Ryu Murakami
 

@@ -9,13 +9,13 @@ Durante la Guerra del Pacífico (la Gran Guerra del Asia Oriental), numerosos pr
 
 ![](/images/wp/2024/04/adf3679deedf4acae1b94e272d7007df-1024x682.jpg)
 
-**■ El vínculo entre un superviviente neerlandés y la comunidad local**
+### El vínculo entre un superviviente neerlandés y la comunidad local
 
 Dolf Winkler, superviviente neerlandés y antiguo prisionero del campo, sufrió durante 40 años después de la guerra pesadillas severas —lo que hoy reconocemos como TEPT (trastorno de estrés postraumático)—. Siguiendo el consejo de un psicólogo de enfrentarse al origen de su sufrimiento, decidió visitar Mizumaki en 1985. Guiado por el escritor Eidai Hayashi, el Sr. Winkler fue conducido hasta la cruz, entonces abandonada y en ruinas. Cuando acudió primero a la oficina municipal en busca de ayuda, fue rechazado porque la cruz era un símbolo religioso.
 
 Finalmente, buscó la ayuda de Shoji Kurokawa, quien a su vez consultó a su hermano mayor, Hiroshi. Hiroshi dijo: "Está mal que nadie se ocupe de ella, estando aquí en Mizumaki. Hagámoslo nosotros, como hermanos." Los hermanos Kurokawa se hicieron cargo del mantenimiento del memorial. Cuando la cruz, ya deteriorada por la intemperie, necesitó reparación, el dueño de una constructora local se ofreció diciendo: "Mi propio hermano murió en la guerra; déjenme hacer esto como un servicio conmemorativo." Se completó la restauración, y hoy están grabados en el monumento los nombres de los 53 hombres que murieron en Mizumaki, así como los de los 871 prisioneros neerlandeses que perecieron en campos de toda Japón.
 
-**■ Del resentimiento al intercambio**
+### Del resentimiento al intercambio
 
 Desde 1987 se celebra anualmente una ceremonia de ofrenda floral. El Sr. Winkler visitó Mizumaki muchas veces, y muchos otros lo siguieron desde los Países Bajos. Entre los visitantes hubo antiguos prisioneros de guerra y familiares con fuertes sentimientos antijaponeses, personas nacidas de padre japonés y madre neerlandesa durante la guerra, y quienes habían sido forzados a campos de internamiento en Indonesia. Poco a poco, la oficina municipal también comenzó a colaborar activamente en los servicios conmemorativos y los intercambios internacionales.
 
@@ -27,7 +27,7 @@ La amistad cultivada por el Sr. Winkler y Hiroshi Kurokawa sigue sirviendo de pu
 
 ![](/images/wp/2024/04/IMG_1324-e1713448175376.jpg)
 
-**■ Reflexiones personales (2012)**
+### Reflexiones personales (2012)
 
 En 2011 supe de la Cruz Conmemorativa en Mizumaki, y en 2012 visité al entonces representante, Hidetoshi Kurokawa, para participar en la ceremonia de ofrenda floral y en los eventos de intercambio. Serví como intérprete voluntaria en el programa de intercambio de una escuela primaria, y me sorprendió la increíble energía de los niños. Los alumnos de segundo grado me saludaron en inglés y me llenaron de preguntas sin parar durante el almuerzo.
 

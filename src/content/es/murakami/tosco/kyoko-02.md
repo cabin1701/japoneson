@@ -8,7 +8,7 @@ wp_parent: 19824
 
 ![](/images/wp/2024/02/01b-e1707982539922.jpg)
 
-Unos meses después de empezar a trabajar en este sitio, de pronto probé a encajar a “Ryu Murakami” en el papel de [“Kyoko.”](https://en.japoneson.com/murakami/kyoko) En ese momento sentí como si una pieza de un rompecabezas encajara en su lugar.
+Unos meses después de empezar a trabajar en este sitio, de pronto probé a encajar a “Ryu Murakami” en el papel de [“Kyoko.”](https://japoneson.com/en/murakami/kyoko/) En ese momento sentí como si una pieza de un rompecabezas encajara en su lugar.
 
 Yo había pensado que Kyoko era una heroína “creada” por Ryu Murakami. Por eso una idea así jamás se me había pasado por la cabeza.
 

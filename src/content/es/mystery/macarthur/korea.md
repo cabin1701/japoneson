@@ -9,7 +9,7 @@ wp_parent: 18809
 
 ## 1950 - 1953
 
-I dedicate this chapter to my dear friends: Dedicated to Mr. David Valley, the last Executive Director of the MacArthur Honor Guard Association, who adopted me as his "Army Daughter" and entrusted me with the untold truths of history, and Mr. Donald Versaw, who was captured in the Philippines after the General was forced to leave them behind.
+I dedicate this chapter to my dear friends: Dedicated to Mr. [David Valley](https://japoneson.com/es/mystery/macarthur/david-valley/), the last Executive Director of the MacArthur Honor Guard Association, who adopted me as his "Army Daughter" and entrusted me with the untold truths of history, and Mr. [Donald Versaw](https://japoneson.com/es/mystery/macarthur/donald-versaw/), who was captured in the Philippines after the General was forced to leave them behind.
 
 ## Why MacArthur? Why here, in the Kanmon Straits?
 
@@ -21,13 +21,13 @@ It all began with a 'screening trouble' at the MacArthur Memorial in Norfolk. A 
 
 In late 2012, I created a booklet titled **"Kitakyushu: Wartime and Post-Wartime—We Remember You."** I distributed it in February 2023 at an event celebrating the 50th anniversary of Kitakyushu City. My motivation was simple: although Kitakyushu's modern technology and economy were built upon a foundation of military history since the Meiji era, that history is rarely discussed.
 
-While researching the "Memorial Cross"—a Korean War monument in Kokura—I discovered that the 24th Infantry Division had been stationed there. When I contacted their veterans' association, I was introduced to **Mr. David Valley**, who expressed a strong wish to connect with me.
+While researching the "[Memorial Cross](https://japoneson.com/es/swing/remember/memorial_cross/)"—a Korean War monument in Kokura—I discovered that the 24th Infantry Division had been stationed there. When I contacted their veterans' association, I was introduced to **Mr. David Valley**, who expressed a strong wish to connect with me.
 
 Around the same time, I learned that a convention for the **American Defenders of Bataan and Corregidor Memorial Society** (ADBCMS), to which my friend **Mr. Donald Versaw** belonged, was being held in Norfolk, Virginia—a sister city of Kitakyushu. Feeling a mysterious pull, I traveled to Norfolk in May as a representative of Donald (who could not attend) and was invited to sing at the convention.
 
 When I told David about this, he insisted: *"The MacArthur Memorial is in Norfolk. I will contact them myself; you must visit it."*
 
-This journey took me to New York (my second home), Norfolk for the convention, San Diego to visit David Valley, and Los Angeles to see Monica Lewis. Looking back, it feels as though I was being guided by the **General** himself.
+This journey took me to New York (my second home), Norfolk for the convention, San Diego to visit David Valley, and Los Angeles to see [Monica Lewis](https://japoneson.com/es/swing/for-the-boys/). Looking back, it feels as though I was being guided by the **General** himself.
 
 My departure began at Fukuoka Airport—located on the former site of Itazuke Air Base, where the **Smith Force** first deployed to Korea. My first stop was Hawaii, where I visited the **USS Missouri**, the battleship where Japan signed the surrender documents.
 
@@ -35,7 +35,7 @@ In New York, I stayed with my friend **Bob Cranshaw**, a legendary jazz bassist 
 
 The most striking moment occurred in Norfolk. The MacArthur Memorial hosted a screening of a documentary about POWs created by veterans and their families. As we sat in the hall, a technical glitch suddenly stopped the film. The reaction from the former POWs and their families was intense—an overwhelming, visceral anger. It was then I truly understood: these were the men left behind in the Philippines when MacArthur made his famous escape, promising *"I shall return."* They were the ones who became prisoners of Japan.
 
-Those very prisoners were eventually shipped to the port of **Moji**.
+Those very prisoners were eventually shipped to the port of **[Moji](https://japoneson.com/es/swing/remember/moji/)**.
 
 Furthermore, when the Korean War broke out, the 24th Infantry Division—stationed closest to Korea—was the first to be sent to the front under MacArthur’s command.
 
@@ -43,11 +43,11 @@ In Kokura, there is a dark, unspoken history known as the **"Kokura Riot"** (the
 
 In this chapter, I introduce these three overlooked stories of the Korean War and invite you to walk with me through my journey—and my blog—as we uncover the truth together.
 
-[David Valley](https://en.japoneson.com/mystery/macarthur/david-valley)
+[David Valley](https://japoneson.com/en/mystery/macarthur/david-valley/)
 
 Donald Versaw
 
-[Korean War](https://en.japoneson.com/mystery/macarthur/korea)
+[Korean War](https://japoneson.com/en/mystery/macarthur/korea/)
 
 The Pacific War
 

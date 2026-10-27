@@ -117,11 +117,11 @@ Va a La Habana vía Cancún.
 
 ## 2014.12 — Nace Cupie Danny
 Hace 100 a mano y pone en marcha un plan para llevarlos a Nueva York, Cancún, Guatemala y Cuba.
-https://japoneson.com/en/cupie/
+https://cupiedanny.com/en/
 
 ## 2015.3 — Cumpleaños en La Habana. Concierto de Los Van Van
 Con casi nada de español, entrega los Cupie Danny a los músicos en persona.
-→ https://japoneson.com/en/cupie/gallery-01/
+→ https://cupiedanny.com/en/gallery-01/
 
 ## 2015 — Conoce al papá de Danny
 

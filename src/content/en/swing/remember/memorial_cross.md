@@ -7,24 +7,29 @@ wp_parent: 1022
 
 ## For Fallen Soldiers of the Korean War
 
-Donald Versaw (see "Introduction"), whose encounter first inspired me to create this booklet, belonged to the American Descendants of Bataan & Corregidor Memorial Society. That year, by a strange coincidence, their convention was held in Norfolk, Virginia — a sister city of Kitakyushu — so I took part as both a singer and a friend of former POWs.
+[Donald Versaw](https://japoneson.com/en/mystery/macarthur/donald-versaw/) (see "Introduction"), whose encounter first inspired me to create this booklet, belonged to the American Descendants of Bataan & Corregidor Memorial Society. That year, by a strange coincidence, their convention was held in Norfolk, Virginia — a sister city of Kitakyushu — so I took part as both a singer and a friend of former POWs.
 
-Through an introduction from the 24th Infantry Division veterans' association there, I met Mr. David Valley. Mr. Valley had served as a guard for General Douglas MacArthur, who commanded GHQ as Supreme Commander. Norfolk is also home to the MacArthur Memorial, where General MacArthur rests together with his wife. Through Mr. Valley's introduction, I also met the museum's director and curators.
+Through an introduction from the [24th Infantry Division](https://japoneson.com/en/mystery/macarthur/korea-24th/) veterans' association there, I met Mr. [David Valley](https://japoneson.com/en/mystery/macarthur/david-valley/). Mr. Valley had served as a guard for General Douglas MacArthur, who commanded GHQ as Supreme Commander. Norfolk is also home to the MacArthur Memorial, where General MacArthur rests together with his wife. Through Mr. Valley's introduction, I also met the museum's director and curators.
 
 After Norfolk, I visited Mr. Valley again in San Diego, California. Later, in Los Angeles, I also met Ms. Monica Lewis. That journey — through Hawaii, New York, Virginia, and California, tracing America's side of World War II and the Korean War as a Japanese woman — became a strange and profound experience, as if I were being guided by unseen souls.
 
 I hope to write about that journey on another occasion. This introduction has grown long, but from here begins the content of the booklet.
 
+
+Access to the Memorial Cross: [Access Information](https://japoneson.com/en/mystery/macarthur/#memorial-cross-access)
+
 ---
 
-![](/images/wp/2024/04/memorial-cross-scaled-e1713441095325.jpg)
+### The Outbreak of the Korean War
 
-**The Outbreak of the Korean War**On June 25, 1950, the Korean War broke out.
+<p style="text-align: center;">On June 25, 1950, the Korean War broke out.</p>
 
-**Fukuoka as a Strategic Base**  
-Fukuoka Prefecture became a frontline logistics base for the United Nations forces. Massive amounts of supplies and personnel were transported to South Korea from the ports and airbases of Ashiya, Tsuiki, Itazuke, and Moji. U.S. troops stationed across Japan also moved to the battlefield via Kokura.
+![The Memorial Cross, a tall cross seen against the sky through tree branches](/images/wp/2024/04/memorial-cross-scaled-e1713441095325.jpg)
 
-**The 24th Infantry Division**  
+### Fukuoka as a Strategic Base
+Fukuoka Prefecture became a frontline logistics base for the United Nations forces. Massive amounts of supplies and personnel were transported to South Korea from the ports and airbases of Ashiya, Tsuiki, Itazuke, and [Moji](https://japoneson.com/en/swing/remember/moji/). U.S. troops stationed across Japan also moved to the battlefield via Kokura.
+
+### The 24th Infantry Division
 The 24th Infantry Division, stationed in Kokura, was deployed to South Korea immediately after the war began. However, they were virtually decimated by the overwhelming initial offensive of the North Korean army. In the early stages of the conflict, the strength of the North Korean forces forced the UN troops into a brutal struggle, and a vast number of casualties were transported back to Kitakyushu. The Korean War is also referred to as "**The Forgotten War**."
 
 ---
@@ -125,9 +130,9 @@ Rest in peace and sing for people in heaven.
 I'll be seeing you in every lovely song that you sing.  
 Angels Swing / Seina
 
-[![](/images/wp/2026/05/monica.jpg)](https://en.japoneson.com/swing/for-the-boys)
+[![](/images/wp/2026/05/monica.jpg)](https://japoneson.com/en/swing/for-the-boys/)
 
-### ["For The Boys" Tribute to Ms. Monica Lewis](https://en.japoneson.com/swing/for-the-boys)
+### ["For The Boys" Tribute to Ms. Monica Lewis](https://japoneson.com/en/swing/for-the-boys/)
 
 In 1951, my friend Ms. Monica Lewis (1922-2015) entertained “for the boys” who served in the Korean War with Danny Kaye.
 

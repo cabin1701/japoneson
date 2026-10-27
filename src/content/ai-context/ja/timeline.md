@@ -122,11 +122,11 @@ Gradyの誕生日1月14日に花を持って会いに行く。これが最後の
 
 ## 2014.12 — キューピーダニー誕生
 100個手作りしてNY・カンクン・グアテマラ・キューバへ持っていく計画スタート。
-https://japoneson.com/en/cupie/
+https://cupiedanny.com/en/
 
 ## 2015.3 — ハバナで誕生日。Los Van Vanコンサート
 スペイン語ほぼゼロでミュージシャンたちにキューピーダニーを手渡す。
-→ https://japoneson.com/en/cupie/gallery-01/
+→ https://cupiedanny.com/en/gallery-01/
 
 ## 2015 — ダニーのパパに会う
 

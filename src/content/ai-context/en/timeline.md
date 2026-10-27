@@ -117,11 +117,11 @@ Goes to Havana via Cancún.
 
 ## 2014.12 — Cupie Danny is born
 Hand-makes 100 of them and starts a plan to bring them to New York, Cancún, Guatemala, and Cuba.
-https://japoneson.com/en/cupie/
+https://cupiedanny.com/en/
 
 ## 2015.3 — Birthday in Havana. Los Van Van concert
 With almost no Spanish, hands Cupie Dannys to the musicians herself.
-→ https://japoneson.com/en/cupie/gallery-01/
+→ https://cupiedanny.com/en/gallery-01/
 
 ## 2015 — Meets Danny's father
 

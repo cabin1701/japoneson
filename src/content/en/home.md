@@ -9,8 +9,8 @@ wp_parent: 0
 
 ## Shoko "Seina" Shiraishi
 
-[About Seina](https://en.japoneson.com/about)
-[Timeline](https://en.japoneson.com/about/timeline)
+[About Seina](https://japoneson.com/en/about/)
+Timeline
 
 ## Projects
 
@@ -39,33 +39,33 @@ The logs are primary sources. The encounters are real. The territory is unmapped
 
 ## Loading the Mystery...
 
-[![](/images/wp/2026/05/CDjacket-1024x1024.jpg)](https://en.japoneson.com/swing)
+[![](/images/wp/2026/05/CDjacket-1024x1024.jpg)](https://japoneson.com/en/swing/)
 
-### [🇺🇸Angels Swing](https://en.japoneson.com/swing)
+### [🇺🇸Angels Swing](https://japoneson.com/en/swing/)
 
 **Jazz and War History: A Destiny Guided by Music.**  
   
 Through the shadow of defeat and the melodies of a bygone era, encounters with legendary musicians opened a path to the truth.
 
-[![](/images/wp/2026/05/jk-400.jpg)](https://en.japoneson.com/japoneson)
+[![](/images/wp/2026/05/jk-400.jpg)](https://japoneson.com/en/japoneson/)
 
-### [🇨🇺JAPONÉSON \*Por La Chocolate\*](https://en.japoneson.com/japoneson)
+### [🇨🇺JAPONÉSON \*Por La Chocolate\*](https://japoneson.com/en/japoneson/)
 
 **The miracle session of 18 musicians in Havana.**   
   
 Discover the raw, unscripted bond forged through music beyond language, born from heartfelt tears.
 
-[![](/images/wp/2026/05/murakami02-1024x1020.jpg)](https://en.japoneson.com/murakami)
+[![](/images/wp/2026/05/murakami02-1024x1020.jpg)](https://japoneson.com/en/murakami/)
 
-### [🇨🇺MURAKAMI MAMBO!!](https://en.japoneson.com/murakami)
+### [🇨🇺MURAKAMI MAMBO!!](https://japoneson.com/en/murakami/)
 
 **Ryu Murakami (Almost Transparent Blue) — The novelist who supported José Luis Cortés of NG La Banda, and sustained Cuban music through the "Special Period".**  
   
 Discover how a wounded Japanese writer broke free from the post-war chains through the explosive power of a "New Other"—Cuba.
 
-[![](/images/wp/2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg)](https://en.japoneson.com/cupie)
+[![](/images/wp/2026/02/raibowd03-1-scaled-e1771762858743-1-600x567.jpg)](https://cupiedanny.com/en/)
 
-### [🇨🇺 Cupie Danny](https://en.japoneson.com/cupie)
+### [🇨🇺 Cupie Danny](https://cupiedanny.com/en/)
 
 A wild, unscripted trail of smiles and raw encounters across the Americas and Cuba—all sparked by a single, cheap plastic doll that refused to let the music die.
 

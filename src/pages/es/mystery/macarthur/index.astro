@@ -103,7 +103,7 @@ const trail = [
 
         <p>
           A finales de 2012, creé un folleto titulado
-          <strong>"Kitakyushu: Tiempos de guerra y posguerra — Los recordamos."</strong>
+          <strong><a href={`${base}es/swing/remember/`}>"Kitakyushu: Tiempos de guerra y posguerra — Los recordamos."</a></strong>
           Lo distribuí en febrero de 2023 en un evento que celebraba el
           50.º aniversario de la ciudad de Kitakyushu. Mi motivación era
           simple: aunque la tecnología moderna y la economía de Kitakyushu
@@ -112,7 +112,7 @@ const trail = [
         </p>
 
         <p>
-          Mientras investigaba la "Memorial Cross" — un monumento de la
+          Mientras investigaba la <a href={`${base}es/swing/remember/memorial_cross/`}>"Memorial Cross"</a> — un monumento de la
           Guerra de Corea en Kokura — descubrí que la 24.ª División de
           Infantería había estado destacada allí. Cuando contacté a su
           asociación de veteranos, me presentaron al
@@ -181,19 +181,19 @@ const trail = [
         </p>
 
         <p>
-          Esos mismos prisioneros fueron finalmente trasladados en barco al
-          puerto de <strong>Moji</strong>.
+          Esos mismos prisioneros fueron finalmente <a href={`${base}es/swing/remember/moji/`}>trasladados en barco al
+          puerto de <strong>Moji</strong></a>.
         </p>
 
         <p>
-          Además, cuando estalló la Guerra de Corea, la 24.ª División de
-          Infantería — la más cercana a Corea — fue la primera enviada al
+          Además, cuando estalló la Guerra de Corea, <a href={`${base}es/mystery/macarthur/korea-24th/`}>la 24.ª División de
+          Infantería</a> — la más cercana a Corea — fue la primera enviada al
           frente bajo el mando de MacArthur.
         </p>
 
         <p>
           En Kokura existe una historia oscura y silenciada conocida como el
-          <strong>"Motín de Kokura"</strong> (el modelo para
+          <strong><a href={`${base}es/mystery/macarthur/korea-black-soldiers/`}>"Motín de Kokura"</a></strong> (el modelo para
           <em>'Kuroji no E'</em> de Seicho Matsumoto). Soldados
           afroamericanos, llegados en tren desde Gifu, fueron llevados al
           límite por la combinación de la discriminación racial y el terror
@@ -237,7 +237,7 @@ const trail = [
           <h3 class="pw-cardtitle">Correos de un viejo G.I. — Donald Versaw</h3>
           <p class="pw-desc">En 1999, conocí a un ex prisionero de guerra que había sido capturado en Filipinas.</p>
         </a>
-        <a class="pw-card" href="https://en.japoneson.com/swing/remember/moji#pow">
+        <a class="pw-card" href={`${base}es/swing/remember/moji/#el-puerto-de-moji-y-los-prisioneros-de-guerra-aliados`}>
           <div class="pw-image"><img src={IMG('2026/06/ac40077afcfee4ce63b0bbc49b90b460-scaled-1-1-1-600x600.jpg')} alt="Prisioneros de Guerra del Pacífico" loading="lazy" /></div>
           <h3 class="pw-cardtitle">Prisioneros de Guerra del Pacífico</h3>
           <p class="pw-desc">Kanmon fue la puerta de entrada de los prisioneros aliados provenientes de los frentes del sur.</p>
@@ -264,8 +264,7 @@ const trail = [
             <a href="https://en.wikipedia.org/wiki/William_F._Dean" target="_blank" rel="noopener">Mayor General William F. Dean</a>,
             estuvo destacada en Kokura. Debido a la proximidad de Kokura a
             Corea del Sur, esta división fue una de las primeras enviadas a
-            la Guerra de Corea
-            (<a href="https://tour.crystallize.jp/archives/937#21st" target="_blank" rel="noopener">el primer regimiento enviado</a>).
+            la Guerra de Corea.
             La división sufrió 3.602 muertos y heridos, y 2.962 capturados,
             incluyendo a su comandante, el Mayor General Dean.
           </p>
@@ -288,7 +287,7 @@ const trail = [
             <li><a href="https://24thida.com/" target="_blank" rel="noopener">The 24th Infantry Division Association</a></li>
           </ul>
 
-          <h4 class="mem-sub">Información de acceso</h4>
+          <h4 class="mem-sub" id="memorial-cross-access">Información de acceso</h4>
           <p>
             Se recomienda tomar un taxi. Pide al conductor que espere
             mientras visitas el lugar. No podrás conseguir un taxi en el
@@ -311,8 +310,8 @@ const trail = [
             A finales de noviembre de 1945, llegaron simultáneamente cuatro
             "barcos infernales." Aproximadamente 60 pacientes con
             enfermedades infecciosas, incluida la disentería, fueron
-            ubicados en el pabellón de aislamiento de la Estación de
-            Cuarentena de Shimonoseki, en Enoura-cho, Hikoshima, ciudad de
+            ubicados en el pabellón de aislamiento de la <a href={`${base}es/swing/remember/moji/#estación-de-cuarentena-de-shimonoseki`}>Estación de
+            Cuarentena de Shimonoseki</a>, en Enoura-cho, Hikoshima, ciudad de
             Shimonoseki, frente a Moji. Esta instalación funcionó como una
             sucursal del campo de Moji, aunque su período de operación no
             está claro. Los residentes recuerdan que los prisioneros de
@@ -404,6 +403,7 @@ const trail = [
   .intro-inner em { font-style: italic; }
   .intro-inner strong { font-weight: 400; color: var(--color-navy); }
   .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a strong { color: inherit; }
   .intro-inner a:hover { color: var(--color-navy); }
 
   .war-block {

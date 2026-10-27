@@ -30,25 +30,25 @@ https://youtu.be/GfLskO6\_oYw?si=e4hIXgaLcVxUrr4T
 
 "Un gigante de la literatura japonesa moderna. Desde la era Showa hasta la Heisei, Ryu Murakami fue la voz definitiva de una nación en transformación: un ícono legendario que talló la verdad desde el corazón del caos."
 
-[![](/images/wp/2024/02/01b-e1707982539922.jpg)](https://en.japoneson.com/murakami/tosco)
+[![](/images/wp/2024/02/01b-e1707982539922.jpg)](https://japoneson.com/en/murakami/tosco/)
 
-### [Tosco & Murakami](https://en.japoneson.com/murakami/tosco)
+### [Tosco & Murakami](https://japoneson.com/en/murakami/tosco/)
 
 Quería que José Luis tocara una flauta capaz de producir buenos sonidos, y pensar que este genio seguiría tocando el instrumento que le regalé me hacía sentir que tenía una esperanza de sobrevivir. / Ryu Murakami
 
-[![](/images/wp/2024/02/1993NG.jpg)](https://en.japoneson.com/murakami/music)
+[![](/images/wp/2024/02/1993NG.jpg)](https://japoneson.com/en/murakami/music/)
 
-### [Música cubana](https://en.japoneson.com/murakami/music)
+### [Música cubana](https://japoneson.com/en/murakami/music/)
 
 Sello MURAKAMI
 
-[![](/images/wp/2024/02/kyoko02.jpg)](https://en.japoneson.com/murakami/kyoko)
+[![](/images/wp/2024/02/kyoko02.jpg)](https://japoneson.com/en/murakami/kyoko/)
 
-### [KYOKO (1995)](https://en.japoneson.com/murakami/kyoko)
+### [KYOKO (1995)](https://japoneson.com/en/murakami/kyoko/)
 
 Desde Nueva York, por la costa este de los Estados Unidos hasta Miami y luego hasta Cuba, la "tierra de la música y la danza."
 
-### **Gracias, señor Ryu Murakami. Todo es gracias a usted. [Sus palabras](https://en.japoneson.com/swing/dream/ryu) salvaron mi corazón.**
+### **Gracias, señor Ryu Murakami. Todo es gracias a usted. [Sus palabras](https://japoneson.com/en/swing/dream/ryu/) salvaron mi corazón.**
 
 ### **El escritor Ryu Murakami y mi 2000**
 
@@ -74,7 +74,7 @@ Aquellas palabras que Ryu me dio entonces se convirtieron en las palabras de mi 
 
 En 2013, más de diez años después de aquella carta, conocí en Nueva York a Danny Rojo, un músico cubano que había dejado Cuba. Ese encuentro abrió para mí las puertas de Cuba.
 
-Al año siguiente, hice una muñeca "Cupie" de una tienda de todo a un dólar, le puse la barba arcoíris y los tatuajes de Danny, y la llamé ["CupieDanny"]([Cupie Danny ▾](https://japoneson.com/es/cupie/)). Danny se puso feliz. **Empezamos un "juego"** de hacer muchas muñecas y repartirlas a sus amigos en Nueva York y La Habana.
+Al año siguiente, hice una muñeca "Cupie" de una tienda de todo a un dólar, le puse la barba arcoíris y los tatuajes de Danny, y la llamé ["CupieDanny"]([Cupie Danny ▾](https://cupiedanny.com/es/)). Danny se puso feliz. **Empezamos un "juego"** de hacer muchas muñecas y repartirlas a sus amigos en Nueva York y La Habana.
 
 Danny dejó Cuba y nunca ha vuelto. Me envió una lista de sus amigos por Messenger. Incluía nombres de bandas como Los Van Van o Havana D'Primera. Yo no conocía a nadie. Casi sin hablar español, recorrí La Habana con esa lista, los números de teléfono y las muñecas. La mayoría resultaron ser músicos legendarios.
 
