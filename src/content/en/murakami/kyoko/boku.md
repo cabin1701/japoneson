@@ -1,6 +1,7 @@
 ---
 title: "\"KYOKO\" is the story of Ryu Murakami, himself."
 slug: boku
+description: "An essay on Ryu Murakami's novel and film \"KYOKO\" — read through his own words in The Complete Essays 1987–1991, where he called it \"the story of myself.\""
 hero_image: "/images/murakami/hero_boku.jpg"
 hero_kicker: "THE BARBED WIRE FENCE"
 hero_subtitle: "The endless fence that covered my memories has disappeared."

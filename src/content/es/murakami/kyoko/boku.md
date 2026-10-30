@@ -1,6 +1,7 @@
 ---
 title: "\"KYOKO\" es la historia del propio Ryu Murakami."
 slug: boku
+description: "Un ensayo sobre la novela y la película \"KYOKO\" de Ryu Murakami, leída a través de sus propias palabras en Todos los ensayos 1987–1991, donde la llamó \"la historia de mí mismo\"."
 hero_image: "/images/murakami/hero_boku.jpg"
 hero_kicker: "LA ALAMBRADA DE PÚAS"
 hero_subtitle: "La alambrada interminable que cubría mis recuerdos ha desaparecido."

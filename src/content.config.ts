@@ -18,6 +18,7 @@ const en = defineCollection({
     wp_parent: z.union([z.string(), z.number()]).optional(),
     date: z.union([z.string(), z.date()]).optional(),
     source_url: z.string().optional(),
+    description: z.string().optional(), // 検索結果の説明文。なければ本文から作る
     // Optional hero block — set hero_image to enable.
     hero_image: z.string().optional(),
     hero_image_alt: z.string().optional(),
@@ -51,6 +52,7 @@ const es = defineCollection({
     wp_parent: z.union([z.string(), z.number()]).optional(),
     date: z.union([z.string(), z.date()]).optional(),
     source_url: z.string().optional(),
+    description: z.string().optional(), // 検索結果の説明文。なければ本文から作る
     hero_image: z.string().optional(),
     hero_image_alt: z.string().optional(),
     hero_kicker: z.string().optional(),
