@@ -11,7 +11,7 @@ wp_parent: 19793
 
 ## The Story of "Hope" & "Rebirth"
 
-My only goal was to see him again, to say thank you and to dance with him, to hear him say that he had made progress. | Kyoko
+My only goal was to see him again, to say thank you, to dance with him, and to hear him say, 'You've improved.' | Kyoko
 
 \* \* \* \* \* \* \*
 

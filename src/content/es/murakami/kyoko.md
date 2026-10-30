@@ -11,7 +11,7 @@ wp_parent: 19793
 
 ## La historia de la "Esperanza" y la "Regeneración"
 
-Mi único objetivo era volver a verlo, darle las gracias y bailar con él, oírle decir que había progresado. | Kyoko
+Mi único objetivo era volver a verlo, darle las gracias, bailar con él y escucharlo decir: 'Has mejorado'. | Kyoko
 
 \* \* \* \* \* \* \*
 
