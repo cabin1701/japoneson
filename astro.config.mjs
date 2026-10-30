@@ -8,7 +8,7 @@ export default defineConfig({
   site: 'https://japoneson.com',
   // Astro 7 は、タグの間の空白（インライン要素の間の半角スペース）を消す。文字がくっつくので、空白をそのまま出す（2026-10-13）
   compressHTML: false,
-  integrations: [sitemap({ filter: (page) => !/\/(en|es)\/cupie\//.test(page) })], // Cupie は cupiedanny.com に引っ越した（2026-10-16）
+  integrations: [sitemap({ filter: (page) => !/\/(en|es)\/cupie\/.+/.test(page) })], // Cupie の話のページは japoneson に残す。ギャラリーとシアターは cupiedanny.com（2026-10-30）
   redirects: {
     '/en/contact/': '/contact/',
     '/es/contact/': '/contact/',

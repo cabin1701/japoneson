@@ -34,6 +34,8 @@ interface Props {
   // （[...slug].astro は HERO がある時、自分の h1 を出さないため）。
   // 本文の見出しを # にして h1 にする運用とセットで使う。
   titleHidden?: boolean;
+  // 2026-10-30 追加。'bottom' で文字を HERO の下に寄せる（写真の顔に文字がかぶる時）
+  valign?: 'center' | 'bottom';
 }
 const {
   kicker,
@@ -45,6 +47,7 @@ const {
   titleHidden = false,
   align = 'left',
   height = 560,
+  valign = 'center',
   fit = 'cover',
   titleFont,
   titleWeight,
@@ -75,7 +78,7 @@ const titleStyle = [
 ].join(' ');
 ---
 
-<section class="p-hero" data-align={align} data-fit={fit} data-glow={glow} style={`${image && !imageAlt ? `background-image: url('${image}');` : ''} min-height: ${height}px;`}>
+<section class="p-hero" data-align={align} data-fit={fit} data-glow={glow} data-valign={valign} style={`${image && !imageAlt ? `background-image: url('${image}');` : ''} min-height: ${height}px;`}>
   {image && imageAlt && <img class="p-hero-photo" src={image} alt={imageAlt} />}
   {hasSlideshow && (
     <div class="slideshow-bg" data-duration={slideshowDuration} aria-hidden="true">
@@ -127,6 +130,10 @@ const titleStyle = [
     color: #fff;
     display: flex;
     align-items: center;
+  }
+  .p-hero[data-valign="bottom"] {
+    align-items: flex-end;
+    padding-bottom: 5vh;
   }
   .p-hero[data-fit="contain"] {
     background-size: contain;

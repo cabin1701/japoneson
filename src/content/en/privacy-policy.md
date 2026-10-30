@@ -38,5 +38,4 @@ This platform does not address anyone under the age of 13, and personal data fro
 ### 07. CONTACT
 For any questions regarding this manifest, you can reach out directly:
 
-**Email:** cats[@]cabin1701.com
-delete [ ] when you email me.
+**Contact form:** [https://japoneson.com/contact/](https://japoneson.com/contact/)

@@ -18,17 +18,17 @@ const gallery: GCard[] = [
   {
     title: 'Musicians & Celebrities',
     image: IMG('2018/04/QPD160.jpg'),
-    href: `${base}en/cupie/gallery-01/`,
+    href: `https://cupiedanny.com/en/gallery-01/`,
   },
   {
     title: 'Friends & Family',
     image: IMG('2018/04/QPD074.jpg'),
-    href: `${base}en/cupie/gallery-02/`,
+    href: `https://cupiedanny.com/en/gallery-02/`,
   },
   {
     title: 'Travels & Aventure',
     image: IMG('2026/06/bath-1-1-1024x1024.jpg'),
-    href: `${base}en/cupie/gallery-03/`,
+    href: `https://cupiedanny.com/en/gallery-03/`,
   },
 ];
 
@@ -41,13 +41,13 @@ const trail = [
   <Header lang="en" />
   <main>
     <ProjectHero
-      title="I Love Cupie Danny"
-      subtitle="Danny Rojo & Seina"
+      title="Cupie Danny"
+      valign="bottom"
       titleFont="'Fredoka', sans-serif"
       titleWeight={600}
       titleSize="70px"
       titleColor="var(--color-accent)"
-      image={`${base}images/cupie/hero_cupie.jpg`}
+      image={`${base}images/cupie/hero_cupie_nochain.jpg`}
       align="center"
       height={860}
       fit="cover"
@@ -66,7 +66,7 @@ const trail = [
         </p>
 
         <div class="trio">
-          <figure><img src={IMG('2026/05/IMG_6001-600x800.jpg')} alt="" loading="lazy" /></figure>
+          <figure><img src={IMG('2026/05/IMG_6001-600x800.jpg')} alt="Shoko Seina Shiraishi and Danny Rojo in Martin Cohen's Congahead studio with Cupie Danny" loading="lazy" /></figure>
           <div class="trio-video">
             <iframe
               src="https://www.youtube.com/embed/yPEICcvPreQ"
@@ -76,22 +76,8 @@ const trail = [
               allowfullscreen
             ></iframe>
           </div>
-          <figure><img src={IMG('2026/05/IMG_7346-600x800.jpg')} alt="" loading="lazy" /></figure>
+          <figure><img src={IMG('2026/05/IMG_7346-600x800.jpg')} alt="Photos and memories of Cupie Danny displayed on the refrigerator in Cuba" loading="lazy" /></figure>
         </div>
-      </div>
-    </section>
-
-    <hr class="cupie-divider" />
-
-    <section class="gallery-block">
-      <h2 class="big-h">Gallery</h2>
-      <div class="gallery-grid">
-        {gallery.map((c) => (
-          <a class="gallery-card" href={c.href}>
-            <div class="gallery-image"><img src={c.image} alt={c.title} loading="lazy" /></div>
-            <h3 class="gallery-title">{c.title}</h3>
-          </a>
-        ))}
       </div>
     </section>
 
@@ -149,19 +135,20 @@ const trail = [
       </div>
     </section>
 
+
     <hr class="cupie-divider" />
 
-    <section class="theater-block">
-      <a class="theater-link" href={`${base}en/cupie/theater/`}>
-        <h2 class="theater-h">*Cupie❤︎Danny Theater*</h2>
-      </a>
-      <figure class="theater-photo">
-        <img src={IMG('2026/06/en0922a-e1677590034846.jpg')} alt="Cupie Danny Theater" loading="lazy" />
-      </figure>
-      <p class="theater-post">
-        001 – "Mom!! Who is he?"
-      </p>
-      <p class="theater-meta">Seina — 09/22/2022</p>
+    <section class="gallery-block">
+      <p class="cupie-home-note">The galleries, the Theater and Cupie Danny's new activities continue at <a href="https://cupiedanny.com/en/">cupiedanny.com</a>.</p>
+      <h2 class="big-h">Gallery</h2>
+      <div class="gallery-grid">
+        {gallery.map((c) => (
+          <a class="gallery-card" href={c.href}>
+            <div class="gallery-image"><img src={c.image} alt={c.title} loading="lazy" /></div>
+            <h3 class="gallery-title">{c.title}</h3>
+          </a>
+        ))}
+      </div>
     </section>
   </main>
   <Footer lang="en" />
@@ -203,11 +190,11 @@ const trail = [
 
   .trio {
     display: grid;
-    grid-template-columns: 265fr 550fr 265fr;
-    gap: 0;
+    grid-template-columns: 265fr 199fr 265fr; /* 動画は縦（ショート）。三つの高さをそろえる */
+    gap: 12px;
     align-items: center;
     margin: 2rem auto;
-    max-width: 1080px;
+    max-width: 960px;
   }
   .trio figure {
     margin: 0;
@@ -223,7 +210,7 @@ const trail = [
   }
   .trio-video {
     width: 100%;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 9 / 16;
     background: #000;
   }
   .trio-video iframe {
@@ -332,6 +319,12 @@ const trail = [
   }
 
   /* navy divider band — WP Elementor pattern */
+  .cupie-home-note {
+    text-align: center;
+    margin: 0 auto 2rem;
+    max-width: 640px;
+  }
+  .cupie-home-note a { color: var(--color-accent); }
   hr.cupie-divider {
     border: 0;
     height: 6px;

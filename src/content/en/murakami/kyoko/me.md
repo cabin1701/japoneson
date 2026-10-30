@@ -17,7 +17,7 @@ I was born in Kitakyushu City, Fukuoka Prefecture in 1969, 17 years after Ryu Mu
 
 I became involved in the history of World War II and the music of that era when I saw the movie "The Glenn Miller Story" in junior high school. I admired America and American music, so I went to New York when I was twenty. So I started studying singing. I lived in New York for most of the 1990s.
 
-"Angels Swing" was a project of World War II and American music. I met people through "Angels Swing", including American veterans and former honor guards of General MacArthur who was Supreme Commander for the Allied Powers during occupied Japan. and I became involved in POW (Prisoner of War) activities related to prisoners of war, I sang at a convention of the U.S. POWs who were captured in the Philippines, and I participated in several meetings. I also created a booklet about the war history of my hometown.
+"[Angels Swing](/en/swing/)" was a project of World War II and American music. I met people through "Angels Swing", including American veterans and [former honor guards of General MacArthur](/en/mystery/macarthur/david-valley/) who was Supreme Commander for the Allied Powers during occupied Japan. and I became involved in POW (Prisoner of War) activities related to prisoners of war, I sang at a convention of the U.S. POWs who were captured in the Philippines, and I participated in several meetings. I also created [a booklet about the war history of my hometown](/en/swing/remember/).
 
 Through these activities, I gradually came to realize the "wounded Japanese" within me. The "wounded Japanese inside me" was a "Japanese" who felt a deep sense of guilt over the Pacific War, was unable to feel proud of his country, and was unable to love it.
 

@@ -36,5 +36,4 @@ Nos reservamos el derecho de modificar o reemplazar estos Términos en cualquier
 ### 08. CONTACTO
 Si tiene alguna pregunta sobre estos Términos y Condiciones, por favor contáctenos:
 
-**Correo electrónico:** cats[@]cabin1701.com
-elimine los [ ] al enviarme un correo.
+**Formulario de contacto:** [https://japoneson.com/contact/](https://japoneson.com/contact/)
