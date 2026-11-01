@@ -113,9 +113,9 @@ The element indispensable to “hope,” I think, is “trust.”
 
 *Because the dance José taught me is there, in my body, as if it were a living thing.*
 
-*These words, I think, are about Ryu Murakami himself — found on the “way” of the life in which he made “KYOKO.”*
 
 ---
+These words, I think, are about Ryu Murakami himself — found on the “way” of the life in which he made “KYOKO.”
 
 I had thought, “KYOKO overlapped with my own life,” but this is the story of Ryu Murakami’s life. And yet, if you can see your “highest priority,” choose it, and walk forward, anyone can be “KYOKO.”
 

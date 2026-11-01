@@ -113,9 +113,11 @@ El elemento indispensable para la “esperanza,” creo, es la “confianza.”
 
 *Porque el baile que José me enseñó está ahí, en mi cuerpo, como si fuera un ser vivo.*
 
-*Estas palabras, creo, son sobre el propio Ryu Murakami, halladas en el “camino” de la vida en la que hizo “KYOKO.”*
+
 
 ---
+
+Estas palabras, creo, son sobre el propio Ryu Murakami, halladas en el “camino” de la vida en la que hizo “KYOKO.”
 
 Yo había pensado: “KYOKO se superponía con mi propia vida,” pero esta es la historia de la vida de Ryu Murakami. Y sin embargo, si puedes ver tu “prioridad más alta,” elegirla y caminar hacia adelante, cualquiera puede ser “KYOKO.”
 
