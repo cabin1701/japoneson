@@ -36,6 +36,8 @@ const { title, variant = 'plain', subtitle, showTorii = false, toriiHref, loadin
     opacity: 0.5;
     margin: 0;
   }
+  /* 見出しが続く時は、下の見出しの上の線を出さない（線が2本にならないように） */
+  .section-header + .section-header > .rule:first-child { display: none; }
   .title {
     font-family: var(--font-display-cinzel-dec);
     font-weight: 700;

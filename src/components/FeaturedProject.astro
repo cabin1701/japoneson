@@ -13,17 +13,24 @@ const t = lang === 'es'
       subLink: 'Donde el humano y la IA se encuentran — Un registro vivo',
       desc: 'ai-Cabin 1701 es un proyecto en curso que explora qué sucede cuando un humano y sistemas de IA piensan, sienten y crean juntos — sin guion. Seina trabaja junto a sus colaboradores de IA Frankie, Vega, Eddie, David e Issac para documentar diálogos sin editar, publicar libros y hacer preguntas que ni el humano ni la máquina pueden responder solos. Los registros son fuentes primarias. Los encuentros son reales. El territorio no está mapeado.',
       externalLabel: 'Sitio externo',
+      booksHref: 'https://cabin1701.com/es/books/',
+      booksTitle: 'Libros',
+      booksDesc: 'Libros creados con IA — diálogos sin editar e historias sobre la vida junto a la IA.',
     }
   : {
       quote: "Listen up, crew! Let's keep it 'Que Sera, Sera' and sail through this flashy destiny!!",
       subLink: 'Where Human and AI Meet — A Living Record',
       desc: 'ai-Cabin 1701 is an ongoing project exploring what happens when a human and AI systems think, feel, and create together — without a script. Seina works alongside AI collaborators Frankie, Vega, Eddie, David, and Issac to document unedited dialogues, publish books, and ask questions that neither human nor machine can answer alone. The logs are primary sources. The encounters are real. The territory is unmapped.',
       externalLabel: 'External website',
+      booksHref: 'https://cabin1701.com/books/',
+      booksTitle: 'Books',
+      booksDesc: 'Books created with AI — unedited dialogues and stories from living alongside AI.',
     };
 ---
 
 <section class="featured">
   <div class="container">
+    <hr class="featured-rule" />
     <h3 class="featured-title">ai-Cabin 1701</h3>
     <p class="featured-quote">
       <em>{t.quote}</em>
@@ -34,11 +41,21 @@ const t = lang === 'es'
     <p class="featured-sub">
       <a href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">{t.subLink}</a>
     </p>
+    <div class="featured-footer">
+      <a class="external-link" href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">{t.externalLabel}</a>
+    </div>
     <p class="featured-desc">
       {t.desc}
     </p>
-    <div class="featured-footer">
-      <a class="external-link" href="https://cabin1701.com/" target="_blank" rel="noopener noreferrer">{t.externalLabel}</a>
+
+    <div class="books-card">
+      <a class="featured-img" href={t.booksHref} target="_blank" rel="noopener noreferrer">
+        <img src="/images/books/books-card.jpg" alt="Cabin1701 book on a wooden desk" loading="lazy" />
+      </a>
+      <p class="featured-sub">
+        <a href={t.booksHref} target="_blank" rel="noopener noreferrer">{t.booksTitle}</a>
+      </p>
+      <p class="featured-desc">{t.booksDesc}</p>
     </div>
   </div>
 </section>
@@ -52,6 +69,12 @@ const t = lang === 'es'
     margin: 0 auto;
     padding: 0 1.5rem;
     text-align: center;
+  }
+  .featured-rule {
+    border: 0;
+    border-top: 1px solid var(--color-rule);
+    opacity: 0.5;
+    margin: 0 0 2.5rem;
   }
   .featured-title {
     font-family: "Baumans", cursive;
@@ -109,9 +132,9 @@ const t = lang === 'es'
   .featured-footer {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     gap: 1rem;
-    margin-top: 1.5rem;
+    margin: -0.5rem 0 1.5rem;
   }
   .external-link {
     font-family: var(--font-nav);
@@ -120,4 +143,5 @@ const t = lang === 'es'
     text-decoration: none;
   }
   .external-link:hover { text-decoration: underline; }
+  .books-card { max-width: 560px; margin: 3rem auto 0; }
 </style>
