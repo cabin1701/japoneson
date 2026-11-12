@@ -75,6 +75,7 @@ const personJsonLd = isHome
         'https://inori.japoneson.com/',
         'https://cat.japoneson.com/',
         'https://rock.japoneson.com/',
+        'https://cupiedanny.com/',
       ],
     }
   : null;
@@ -88,6 +89,8 @@ const webPageJsonLd = {
   description,
   url: canonicalURL.href,
   inLanguage: lang,
+  // 書き手は Seina。cabin1701.com と同じ @id を指して、同じ人だとつなぐ
+  author: { '@type': 'Person', '@id': 'https://cabin1701.com/#person', name: 'Shoko "Seina" Shiraishi' },
   isPartOf: { '@type': 'WebSite', name: 'Japonéson', url: 'https://japoneson.com/' },
 };
 const pageJsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [webPageJsonLd];
