@@ -11,7 +11,25 @@ interface Props {
 const { trail, lang = 'en' } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const home = `${base}${lang}/`;
+// 画面のパンくずと同じ中身を、構造化データ（BreadcrumbList）でも出す。
+// AI や検索エンジンに「どのセクションの中のページか」を伝えるため（2026-11-13）
+const abs = (p: string) => new URL(p, Astro.site).href;
+const breadcrumbJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'HOME', item: abs(home) },
+    ...trail.map((c, i) => ({
+      '@type': 'ListItem',
+      position: i + 2,
+      name: c.title,
+      item: i === trail.length - 1 ? abs(Astro.url.pathname) : abs(c.path),
+    })),
+  ],
+};
 ---
+
+<script type="application/ld+json" set:html={JSON.stringify(breadcrumbJsonLd)} />
 
 <nav class="breadcrumb" aria-label="Breadcrumb" data-pagefind-ignore>
   <ol>
