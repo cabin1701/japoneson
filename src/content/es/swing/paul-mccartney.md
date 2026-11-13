@@ -2,6 +2,7 @@
 title: "Otro Ángel — Paul McCartney ｜ 2026"
 slug: paul-mccartney
 wp_parent: 108
+description: "Del padre de Paul McCartney, Jim, y la gira de Leonard Gaskin por el Reino Unido en 1957, a la licencia gratuita de MPL en 1999 para Angels Swing."
 hero_image: "/images/swing/hero_paul-mccartney.jpg"
 hero_image_alt: "Los Beatles —John Lennon, Paul McCartney, George Harrison y Ringo Starr— saludan a sus fans tras llegar al Aeropuerto Internacional John F. Kennedy de Nueva York, el 7 de febrero de 1964. Detrás de ellos se agolpan empleados del aeropuerto y policías."
 hero_height: 1000
@@ -21,7 +22,7 @@ Una vez más, sentí como una extraordinaria coincidencia el hecho de que la mú
 Decidimos dar la bienvenida a Paul como uno de nuestros ángeles.
 
 <figure style="margin:1.8rem 0;text-align:center">
-  <img src="/images/swing/paul-linda-mccartney.jpg" alt="Fotografía en blanco y negro de Paul McCartney, con barba y un suéter de cuello alto, abrazando a Linda McCartney al aire libre, con árboles sin hojas y edificios al fondo." loading="lazy" style="width:100%;height:auto;max-width:560px" data-zoom />
+  <img src="https://media.cabin1701.com/japoneson/swing/paul-mccartney/paul-linda-mccartney.jpg" alt="Fotografía en blanco y negro de Paul McCartney, con barba y un suéter de cuello alto, abrazando a Linda McCartney al aire libre, con árboles sin hojas y edificios al fondo." loading="lazy" style="width:100%;height:auto;max-width:560px" data-zoom />
   <figcaption style="font-size:0.9em;margin-top:0.5rem">Paul y Linda McCartney, hacia 1969–1970. Fotografía promocional del álbum <em>McCartney</em> (1970). (Apple Records, vía Wikimedia Commons)</figcaption>
 </figure>
 
