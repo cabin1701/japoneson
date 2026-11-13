@@ -27,9 +27,17 @@ Angels Swing es un proyecto pensado como muestra de mi gratitud hacia la vieja m
 
 Angels Swing comenzó en 1996, cuando me paré frente a mi sueño. Antes de convertirse en "Angels Swing," era un proyecto completamente solitario. Si le quitas la "s" a "Swing," se convierte en "Angel's Wing" (el ala del ángel). Si le quitas la "w" a "Swing," se convierte en "Angel's Sing" (el canto del ángel).
 
-Pero con los años, al conocer a "Ángeles" legendarios como Leonard Gaskin, Grady Tate y Bob Cranshaw, el proyecto evolucionó hacia "Angels Swing" — es decir, ángeles en plural, haciendo swing juntos.
+Pero con los años, al conocer a "Ángeles" legendarios como [Leonard Gaskin](https://japoneson.com/es/swing/leonard-gaskin/), [Grady Tate](https://japoneson.com/es/about/#grady-tate) y [Bob Cranshaw](https://japoneson.com/es/swing/memory/), el proyecto evolucionó hacia "Angels Swing" — es decir, ángeles en plural, haciendo swing juntos.
 
 Estos ángeles ya han fallecido y están en el cielo. Y aun así, siento que siguen haciendo swing aquí mismo, conmigo.
+
+Y ahora, en noviembre de 2026, me gustaría sumar un Ángel más a este círculo, con veintisiete años de gratitud tardía.
+
+En 1999, cuando yo no era nadie —solo una cantante completamente desconocida de Japón dando mi primer paso con Angels Swing a través de un proyecto personal titulado *["I Have a Dream... Seina"](https://japoneson.com/es/swing/dream/)*—, MPL Communications [me concedió permiso](https://japoneson.com/es/swing/dream/evidence/#mpl) para utilizar cuatro canciones clásicas de forma totalmente gratuita. En aquel momento, no tenía ni idea de quién estaba detrás de aquel gesto extraordinario y desinteresado.
+
+Veintisiete años después, por fin me di cuenta de que MPL es la compañía de Paul McCartney. Ya sea que él conociera personalmente mi pequeño proyecto o que fuera simplemente el espíritu de generosidad que construyó dentro de su empresa, aquella bondad tan poco común le dio alas a mi sueño cuando yo no tenía nada que ofrecer a cambio.
+
+Para Paul McCartney, junto a Leonard, Grady y Bob: gracias por el sueño, y gracias por hacer *swing* conmigo.
 
 [![](/images/wp/2026/05/yomiuri-1024x1009.jpg)](https://japoneson.com/en/swing/dream/)
 

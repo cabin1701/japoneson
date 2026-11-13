@@ -27,9 +27,17 @@ Angels Swing is a project planned as a token of my gratitude to the old American
 
 Angels Swing started in 1996, when I stood in front of my dream. Before it became "Angels Swing," it was a completely solitary project. If you take the "s" out of "Swing," it becomes "Angel's Wing." If you take the "w" out of "Swing," it becomes "Angel's Sing."
 
-But over the years, as I met legendary "Angels" like Leonard Gaskin, Grady Tate, and Bob Cranshaw, the project evolved into "Angels Swing"—meaning plural angels swinging together.
+But over the years, as I met legendary "Angels" like [Leonard Gaskin](https://japoneson.com/en/swing/leonard-gaskin/), [Grady Tate](https://japoneson.com/en/about/#grady-tate), and [Bob Cranshaw](https://japoneson.com/en/swing/memory/), the project evolved into "Angels Swing"—meaning plural angels swinging together.
 
 These angels have now passed away and are in heaven. Yet, I feel they are still swinging right here with me.
+
+And now, in November 2026, I would like to add one more Angel to this circle—with twenty-seven years of belated gratitude.
+
+Back in 1999, when I was nobody—just a completely unknown singer from Japan, taking my first step with Angels Swing through a personal project titled *["I Have a Dream... Seina,"](https://japoneson.com/en/swing/dream/)* MPL Communications [granted me permission](https://japoneson.com/en/swing/dream/evidence/#mpl) to use four classic songs completely free of charge. At the time, I had no idea who was behind that extraordinary, selfless gesture.
+
+Twenty-seven years later, I finally realized that MPL is Paul McCartney's company. Whether he knew of my small project personally or whether it was simply the spirit of generosity he built within his company, that rare kindness gave wings to my dream when I had nothing to offer in return.
+
+To Paul McCartney, alongside Leonard, Grady, and Bob—thank you for the dream, and thank you for swinging with me.
 
 [![](/images/wp/2026/05/yomiuri-1024x1009.jpg)](https://japoneson.com/en/swing/dream/)
 

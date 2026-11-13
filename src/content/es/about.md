@@ -335,6 +335,8 @@ Así que decidí grabar con los 1.500 dólares que había logrado juntar.
 
 "Seina, hay un saxofonista perfecto para tu voz: Howard Kimbo. Y necesitas batería."
 
+<a id="grady-tate"></a>
+
 "¿Batería? No... no necesito batería. No tengo dinero, y hay bateristas que no conocen la historia y la destruyen. Si fuera un baterista capaz de contar la historia de la canción, un Grady Tate, sería otra cosa."
 
 "Seina, llama a Grady. Espera — creo que su teléfono está en el directorio del sindicato."

@@ -304,6 +304,8 @@ By 1998, New York rents had climbed beyond reach. But I had four tracks from the
 
 I was crying. I told him I had $1,500 and wanted to record again. He said: "I know a saxophone player whose sound is perfect for your voice. Howard Kimbo. And you need drums."
 
+<a id="grady-tate"></a>
+
 "Drums — I don't need drums. Not unless it's someone like Grady Tate, someone who can tell the story of a song with his playing. Otherwise they'll just break what's there."
 
 "Seina. Call Grady. Hold on — I think I have his number in the union directory."
