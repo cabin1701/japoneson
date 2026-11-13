@@ -47,7 +47,7 @@ From around that time, I became unable to sing.
 
 When I reunited with Leonard in 2006 after seven years apart, I had already become someone who couldn't sing anymore. Whenever I tried to sing, my heart felt constricted, and my voice simply wouldn't come out.
 
-The 2008 tribute concert for Leonard at Ozanam Hall was the first time I held a microphone in eight years. I did it because there was something I desperately had to convey—and I knew it could only be delivered through music.
+[The 2008 tribute concert](/en/swing/leonard-gaskin/) for Leonard at Ozanam Hall was the first time I held a microphone in eight years. I did it because there was something I desperately had to convey—and I knew it could only be delivered through music.
 
 I truly believe that the story of these Brooklyn Bop Brothers is something we must pass down and keep alive for the future.
 

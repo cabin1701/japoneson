@@ -7,7 +7,7 @@ category: ["Brooklyn Bop Bros"]
 tags: ["Leonard Gaskin", "Max Roach", "Randy Weston", "Cecil Payne", "Duke Jordan", "Bebop"]
 ---
 
-Ayer, en el cumpleaños de Wade Barnes, publiqué la página de [The Brooklyn Bop Brothers](https://japoneson.com/en/swing/leonard-gaskin/brooklyn-bop/).
+Ayer, en el cumpleaños de Wade Barnes, publiqué la página de [The Brooklyn Bop Brothers](/es/swing/leonard-gaskin/brooklyn-bop/).
 
 Por lo general, no suelo escuchar mucho bebop. Una de las razones principales era que tenía muy arraigada la imagen de músicos que se destruían por las drogas o los problemas económicos y morían jóvenes. Tenía ese filtro de que tal vez los músicos de bebop eran así.
 
@@ -47,7 +47,7 @@ A partir de ese momento, fui incapaz de cantar.
 
 Cuando me reencontré con Leonard en 2006 tras siete años de separación, ya me había convertido en alguien que no podía cantar. Cada vez que intentaba hacerlo, sentía una profunda opresión en el pecho y la voz simplemente no salía.
 
-El concierto tributo a Leonard en Ozanam Hall en 2008 fue la primera vez en ocho años que volví a tomar un micrófono. Lo hice porque había algo que necesitaba transmitir desesperadamente, y sabía que solo a través de la música podía entregarlo.
+[El concierto tributo a Leonard en Ozanam Hall en 2008](/es/swing/leonard-gaskin/) fue la primera vez en ocho años que volví a tomar un micrófono. Lo hice porque había algo que necesitaba transmitir desesperadamente, y sabía que solo a través de la música podía entregarlo.
 
 Creo firmemente que la historia de estos hermanos del bebop de Brooklyn es algo que debemos transmitir y preservar para las futuras generaciones.
 
