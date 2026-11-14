@@ -35,7 +35,7 @@ And now, in November 2026, I would like to add one more Angel to this circle—w
 
 Back in 1999, when I was nobody—just a completely unknown singer from Japan, taking my first step with Angels Swing through a personal project titled *["I Have a Dream... Seina,"](https://japoneson.com/en/swing/dream/)* MPL Communications [granted me permission](https://japoneson.com/en/swing/dream/evidence/#mpl) to use four classic songs completely free of charge. At the time, I had no idea who was behind that extraordinary, selfless gesture.
 
-Twenty-seven years later, I finally realized that MPL is Paul McCartney's company. Whether he knew of my small project personally or whether it was simply the spirit of generosity he built within his company, that rare kindness gave wings to my dream when I had nothing to offer in return.
+Twenty-seven years later, I finally realized that MPL is [Paul McCartney](/en/swing/paul-mccartney/)'s company. Whether he knew of my small project personally or whether it was simply the spirit of generosity he built within his company, that rare kindness gave wings to my dream when I had nothing to offer in return.
 
 To Paul McCartney, alongside Leonard, Grady, and Bob—thank you for the dream, and thank you for swinging with me.
 
