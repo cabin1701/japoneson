@@ -44,6 +44,12 @@ Aquí he trazado el hilo musical que parte del padre de Paul McCartney, Jim, qui
   article h3 { font-size: 1.45rem; color: var(--color-navy); }
 </style>
 
+<div style="max-width:560px;margin:1.5rem auto;">
+
+<iframe src="https://www.youtube.com/embed/videoseries?list=OLAK5uy_nKHC3Tfx867EMZemLdWSHmv14SawXi764" title="Kisses on the Bottom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;aspect-ratio:16/9;height:auto;display:block;"></iframe>
+
+</div>
+
 ---
 
 <a id="origin"></a>
