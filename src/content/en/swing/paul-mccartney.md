@@ -19,7 +19,7 @@ I wondered deeply why Paul held the rights to songs from the World War II era. T
 
 Once again, it felt like a remarkable coincidence where [Leonard Gaskin’s](/en/swing/leonard-gaskin/) music and career served as the bridge.
 
-We decided to welcome Paul as one of our angels.
+I decided to call Paul one of our angels.
 
 <figure style="margin:1.8rem 0;text-align:center">
   <img src="https://media.cabin1701.com/japoneson/swing/paul-mccartney/paul-linda-mccartney.jpg" alt="Black-and-white photograph of Paul McCartney, bearded and wearing a ribbed turtleneck sweater, embracing Linda McCartney outdoors, with bare trees and buildings behind them." loading="lazy" style="width:100%;height:auto;max-width:560px" data-zoom />

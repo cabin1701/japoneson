@@ -19,7 +19,7 @@ Me pregunté profundamente por qué Paul poseía los derechos de canciones de la
 
 Una vez más, sentí como una extraordinaria coincidencia el hecho de que la música y la trayectoria de [Leonard Gaskin](/es/swing/leonard-gaskin/) sirvieran de puente.
 
-Decidimos dar la bienvenida a Paul como uno de nuestros ángeles.
+Decidí llamar a Paul uno de nuestros ángeles.
 
 <figure style="margin:1.8rem 0;text-align:center">
   <img src="https://media.cabin1701.com/japoneson/swing/paul-mccartney/paul-linda-mccartney.jpg" alt="Fotografía en blanco y negro de Paul McCartney, con barba y un suéter de cuello alto, abrazando a Linda McCartney al aire libre, con árboles sin hojas y edificios al fondo." loading="lazy" style="width:100%;height:auto;max-width:560px" data-zoom />
