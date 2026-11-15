@@ -1,0 +1,454 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+interface KCard {
+  title: string;
+  image: string;
+  alt: string;
+  desc: string;
+  href: string;
+}
+
+const koreanWar: KCard[] = [
+  {
+    title: 'La Sombra de Kokura — Los Soldados Negros',
+    image: IMG('2026/04/blacksoldiers-600x573.jpg'),
+    alt: 'Los Soldados Negros',
+    desc: 'Una oración silenciosa por los soldados que cruzaron el Estrecho de Kanmon y nunca volvieron a casa.',
+    href: `${base}es/mystery/macarthur/korea-black-soldiers/`,
+  },
+  {
+    title: 'La 24.ª División de Infantería',
+    image: IMG('2026/04/TL-WINTER-13-D-1-600x600.jpg'),
+    alt: 'La 24.ª División de Infantería',
+    desc: 'Por los muchachos que dejaron Kyushu y nunca miraron atrás — esta es una oración por lo que llevaron consigo.',
+    href: `${base}es/mystery/macarthur/korea-24th/`,
+  },
+  {
+    title: 'David Valley',
+    image: IMG('2026/04/IMG_2028-02-600x601.jpg'),
+    alt: 'David Valley',
+    desc: 'El último guardián de una era que se desvanece — quien pasó el testigo invisible a un espíritu libre llegado de Japón.',
+    href: `${base}es/mystery/macarthur/david-valley/`,
+  },
+  {
+    title: 'Monica Lewis',
+    image: IMG('2026/04/korea1.jpg'),
+    alt: 'Monica Lewis',
+    desc: 'En 1951, mi amiga la Sra. Monica Lewis (1922-2015) entretuvo "para los muchachos" que sirvieron en la Guerra de Corea junto a Danny Kaye.',
+    href: `${base}es/swing/for-the-boys/`,
+  },
+];
+
+const trail = [
+  { slug: 'rock', title: 'MENTAI ROCK', path: `${base}es/rock/` },
+  { slug: 'voices', title: 'VOCES DE LA ESCENA', path: `${base}es/rock/voices/` },
+];
+---
+
+<Layout title="Voces de la Escena — Japonéson" description={`Testimonios de la escena del rock de Kitakyushu y Fukuoka: recuerdos y reflexiones de Seina, Dobb y el pionero del rock de Kitakyushu, Juntaro Fukuda.`} lang="es" ogImage="images/rock/voices-hero-crowd.jpg">
+  <Header lang="es" />
+  <main class="rock-main">
+    <ProjectHero
+      title="Voces de la Escena"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="60px"
+      titleColor="#e02a46"
+      image={`${base}images/rock/voices-hero-crowd.jpg`}
+      imageAlt={`El público levantando las manos frente al escenario en Takatoyama, Wakamatsu, Kitakyushu. Foto de FU.`}
+      align="center"
+      height={1000}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <div class="voice-cards">
+      <a class="voice-card" href="#seina">
+        <img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-seina.jpg`} alt={`Retrato de Shoko «Seina» Shiraishi`} loading="lazy" />
+        <div class="vc-body"><p class="vc-name">Seina</p><p class="vc-line">De Kitakyushu a Nueva York y La Habana — Por qué una cantante de jazz preserva el Mentai Rock</p></div>
+      </a>
+      <a class="voice-card" href="#dobb">
+        <img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-dobb.jpg`} alt={`Retrato de Dobb, músico e historiador del rock de Kitakyushu`} loading="lazy" />
+        <div class="vc-body"><p class="vc-name">Dobb</p><p class="vc-line">“Si quieres conocer la historia del rock de Kitakyushu, pregúntale a él.”</p></div>
+      </a>
+      <a class="voice-card" href="#juntaro">
+        <img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-juntaro.jpg`} alt={`Retrato de Juntaro Fukuda, pionero del rock de Kitakyushu`} loading="lazy" />
+        <div class="vc-body"><p class="vc-name">Juntaro Fukuda</p><p class="vc-line">“El rock de Kitakyushu comienza con Juntaro.”</p></div>
+      </a>
+    </div>
+
+    <section class="voice" id="seina">
+      <div class="voice-inner">
+        <div class="voice-photo"><img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-seina.jpg`} alt={`Retrato de Shoko «Seina» Shiraishi`} loading="lazy" /></div>
+        <div class="voice-text">
+          <h2 class="voice-name">Seina</h2>
+          <p>Mucho gusto.</p>
+          <p>Soy cantante de jazz. Nací y crecí en Kitakyushu. Escuché rock hasta los dieciséis años. Después, atraída por la música estadounidense de las décadas de 1930 y 1940, pasé la mayor parte de mis veintes en Nueva York. Entonces, en el verano de 2011, un amigo me regaló una entrada para un concierto de Sheena & The Rokkets; era mi primer concierto de rock en veinticinco años.</p>
+          <p>A través de su sonido, sentí el espíritu y la entrega de Sheena y Makoto Ayukawa.</p>
+          <p>Al crecer en Kitakyushu, me parecía lo más natural pasar de las canciones pop e ídolos juveniles directamente al Mentai Rock. Para mí, cuando estaba en la secundaria, Sheena & The Rokkets, Sonhouse, The Roosters y The Rockers eran las estrellas que admirábamos.</p>
+          <p>Estoy convencida de que Kitakyushu es una ciudad de rock.</p>
+          <p>Como viví en Nueva York, tuve la oportunidad de escuchar todo tipo de música en muchos lugares distintos. El jazz está impregnado en la tierra, el aire y el tiempo mismo de Nueva York. La Ópera Metropolitana de Nueva York es verdaderamente maravillosa, pero siempre sentí una ligera distancia entre esa música y el aire de la calle.</p>
+          <p>En Kitakyushu, el rock está impregnado en la tierra misma.</p>
+          <p>Cuando escuchas en vivo a Sheena & The Rokkets o a The Roosters, sientes un blues que pertenece únicamente a esta ciudad. Y cuando los músicos jóvenes tocan Mentai Rock hoy en día, sigue presente ese mismo amor, respeto y blues heredado de los pioneros.</p>
+          <p>El "Mentai Rock" que Makoto Ayukawa cultivó entre Kurume, Fukuoka y Kitakyushu es el blues de la prefectura de Fukuoka. Por eso elegí usar el nombre "Fukuoka" en nuestro lema principal. Así como el blues de Chicago o el jazz de Nueva Orleans siguen vivos en el mundo, bauticé este archivo con el deseo de que la palabra y la música del "Mentai Rock" —el rock de Fukuoka— sigan vivas para siempre.</p>
+          <p>Con la colaboración de quienes hicieron crecer la escena musical de Fukuoka, espero seguir reuniendo la historia y las anécdotas únicas de esta tierra.</p>
+          <p>Me alejé del rock a los dieciséis años, empecé a cantar jazz a los veinte, conocí la calidez humana de grandes maestros del jazz como Grady Tate y Bob Cranshaw, y desde 2014 viví en Cuba. Conocer músicas tan alejadas de mis propias raíces me hizo comprender algo esencial: cada músico transmite de manera inconsciente, dentro de su sonido, la esencia del entorno y la tierra donde creció. Esa revelación fue el detonante y el motor para crear este archivo.</p>
+          <p>La música es un lenguaje universal. Más allá de las palabras, nos enseña muchísimo.</p>
+          <p>Que la llama del blues llamado "Mentai Rock" siga encendida en Fukuoka y Kitakyushu.</p>
+          <p class="voice-more"><a href={`${base}es/about/`}>Sobre Shoko "Seina" Shiraishi →</a></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="voice" id="dobb">
+      <div class="voice-inner">
+        <div class="voice-photo"><img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-dobb.jpg`} alt={`Retrato de Dobb, músico e historiador del rock de Kitakyushu`} loading="lazy" /></div>
+        <div class="voice-text">
+          <h2 class="voice-name">Dobb</h2>
+          <p>Ella trajo la idea de este sitio web de la nada. Lo primero que sentí fue que la sensibilidad de quien quería crearlo era completamente distinta a la de toda la gente de mi entorno.</p>
+          <p>Además, ella era alguien que no vivió la época en la que creció el Mentai Rock. Me pareció fascinante que alguien proveniente de un género musical totalmente diferente captara algo especial aquí y decidiera construir esto. Quienes estuvimos inmersos en el rock de Fukuoka a veces tenemos un orgullo que nos hace darle demasiadas vueltas a las cosas. Tal vez ella esté viendo algo que nosotros no podemos ver.</p>
+          <p>La conocí en 2011, en un evento local de charla con Sheena y Makoto Ayukawa. Llegó acompañada de Juntaro, tomándose fotos con Ayukawa y los demás, emocionada como una fan. Sin intimidarse ante nadie y diciendo cosas aparentemente descabelladas, va haciendo realidad cada uno de sus deseos con total seguridad. Desde ese año empezó a venir al festival Takatoyama Jam y a quedarse a las fiestas posteriores. Lo que ella decía —"¡Quiero brindar con Ayukawa-san!"— se hizo realidad enseguida (risas).</p>
+          <p>"Visto desde fuera, ¡rock de Fukuoka es igual a Mentai Rock! ¡Para un extranjero, un japonés es un japonés!" Su punto de vista es amplio y sin rodeos, en el mejor sentido. Es cierto que la gente entra primero por una imagen general y poco a poco va descubriendo los detalles. De los detalles finos nos encargamos nosotros.</p>
+          <p>Tal vez sea un viento nuevo; un torbellino repentino. Y quizá ese torbellino se convierta en el impulso que lleve el Mentai Rock a los jóvenes de hoy, e incluso al mundo entero.</p>
+          <h3 class="voice-h3">Perfil</h3>
+          <p>Nacido en Wakamatsu, Kitakyushu, en 1958. Fundador y bajista de NEW DOBB, banda que debutó en un sello discográfico importante (Teichiku Records) desde Kitakyushu en 1986. En paralelo a su actividad con la banda, ha sido locutor de programas de rock en Cross FM (<em>Dobb's Rock Juku</em>), FM Fukuoka y KBC Radio. También es el productor del festival Takatoyama Jam, que celebró su décimo aniversario. Habiendo compartido la misma época con bandas locales como Sheena & The Rokkets y The Roosters, mantiene una amplia red de amistad y camaradería con los músicos del llamado Mentai Rock. Actualmente dirige T-Jam Live & Bar frente a la estación de Kokura y dedica gran parte de su labor a la formación de nuevas generaciones mediante conferencias en institutos de todo Kyushu.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="voice" id="juntaro">
+      <div class="voice-inner">
+        <div class="voice-photo"><img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-juntaro.jpg`} alt={`Retrato de Juntaro Fukuda, pionero del rock de Kitakyushu`} loading="lazy" /></div>
+        <div class="voice-text">
+          <h2 class="voice-name">Juntaro Fukuda (1946–2022)</h2>
+          <p>Cuando escuché esta idea por primera vez, pensé: "¿Por qué diablos alguien se metería en algo tan complicado?"</p>
+          <p>Con esta chica (Seina), justo cuando piensas que ha desaparecido, resulta que se ha ido a Estados Unidos, lanzándose de cabeza a hacerse amiga de músicos de jazz de talla mundial y logrando que la acompañen; nunca se puede predecir lo que hará después. Y de repente me contactó diciendo que quería lanzar un sitio web sobre el "Mentai Rock".</p>
+          <p>Para mí, hablar del rock de Kitakyushu es recordar a Koji Minami (vocalista de Ningen Club, la banda precursora de The Roosters, fallecido en 2010 a los 49 años). Desde que Koji murió, tanto mi esposa como yo teníamos un vacío en el corazón. Si colaborar con este sitio de Mentai Rock sirve para dejar el rock de Koji y los suyos a la siguiente generación, quizá Koji, desde el cielo, también se alegre.</p>
+          <p>Nuestra generación no sabe muy bien qué es eso del "Mentai Rock". Si los jóvenes quieren llamarlo "Mentai Rock", por mí está bien. Y un proyecto que busca transmitir a las próximas generaciones el rock de Fukuoka que cultivaron Shibayama y Ayukawa —quienes crecieron viéndonos tocar— tampoco me parece mala idea.</p>
+          <h3 class="voice-h3">Perfil</h3>
+          <p>Nacido en Fukuoka en 1946. Dejó la Universidad Seinan Gakuin para lanzarse de lleno al mundo del rock mientras preparaba sus exámenes universitarios. Formó parte de la legendaria banda Viking, tocando en bases militares estadounidenses durante la época de la guerra de Vietnam. Tras pasar por Love Machine, formó la Viking Band y se trasladó a Tokio, pero rechazó un debut con una gran discográfica al chocar con la línea comercial de la agencia, regresando a Kitakyushu para hacer la música que realmente quería. Más tarde se unió como vocalista a Nashika cuando la banda dio el salto profesional, hasta que se desplomó en el escenario tras desarrollar osificación del ligamento longitudinal posterior (OPLL). Posteriormente regentó un bar en Kokura, Kitakyushu, desde donde siguió apoyando a los músicos locales. Fue un respetado mentor para Toshiyuki Shibayama y Makoto Ayukawa, profundamente venerado en toda la escena local. Con motivo de su sexagésimo cumpleaños (<em>kanreki</em>), su amigo Masao Ijima compuso canciones para él, dando lugar al álbum <em>My Own Ways</em>.</p>
+          <p><em>Falleció el 29 de diciembre de 2022.</em></p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .voice-text .voice-h3 { font-family: var(--font-section); font-weight: 700; font-size: 20px; color: #020450; margin: 2rem 0 0.6rem; }
+  .voice-text p.voice-more a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .voice-cards { max-width: 1000px; margin: 1rem auto 2rem; padding: 0 1.25rem; display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .voice-card { display: block; text-decoration: none; color: inherit; background: #000; }
+  .voice-card img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: center top; display: block; }
+  .voice-card .vc-body { padding: 14px 16px 18px; }
+  .voice-card .vc-name { font-family: var(--font-display-cinzel); font-weight: 700; font-size: 22px; color: var(--color-accent); margin: 0 0 6px; }
+  .voice-card .vc-line { font-family: Helvetica, Arial, sans-serif; font-style: italic; font-size: 15px; line-height: 1.5; color: #eee; margin: 0; }
+  .voice-card:hover img { filter: brightness(1.1); }
+  @media (max-width: 640px) { .voice-cards { grid-template-columns: 1fr; } }
+  .voice { padding: 2.5rem 1.25rem; border-bottom: 1px solid #ccc; }
+  .voice-inner { max-width: 900px; margin: 0 auto; display: grid; grid-template-columns: 260px 1fr; gap: 2rem; align-items: start; }
+  .voice-photo { aspect-ratio: 4 / 5; background: #ddd; }
+  .voice-photo img { width: 100%; height: 100%; object-fit: cover; object-position: center top; display: block; }
+  .voice-name { font-family: var(--font-display-cinzel); font-weight: 700; font-size: 30px; color: var(--color-accent); margin: 0 0 1rem; }
+  .voice-text p { font-family: Helvetica, Arial, sans-serif; font-size: 17px; line-height: 1.75; color: #2a2a2a; }
+  @media (max-width: 640px) { .voice-inner { grid-template-columns: 1fr; } }
+  .industrial { padding: 0 1.25rem 2rem; }
+  .industrial .intro-inner p.ind-sub { font-family: var(--font-display-cinzel); font-weight: 600; font-size: 22px; color: #020450; text-align: center; margin: -0.8rem 0 0.8rem; }
+  .industrial .ind-h3 { font-family: var(--font-section); font-weight: 700; font-size: 22px; color: var(--color-accent); margin: 2rem 0 0.8rem; }
+  .ind-table-wrap { overflow-x: auto; margin: 0 0 1.5rem; }
+  .ind-table { width: 100%; border-collapse: collapse; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: #2a2a2a; }
+  .ind-table th { background: #020450; color: #fff; text-align: left; padding: 8px 10px; font-weight: 700; }
+  .ind-table td { border-bottom: 1px solid #ccc; padding: 10px; vertical-align: top; }
+  .ind-table tr:last-child td { background: rgba(224,42,70,0.08); }
+  .rock-maps { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 0 0 2rem; }
+  .rock-maps img { width: 100%; height: auto; display: block; }
+  @media (max-width: 640px) { .rock-maps { grid-template-columns: 1fr; } }
+  .intro-inner p.signature { text-align: right; font-style: italic; }
+  .rock-main { --color-accent: #e02a46; }
+  :global(.p-hero .subtitle) { text-shadow: 0 0 6px rgba(0,0,0,0.9), 0 2px 4px rgba(0,0,0,0.9); }
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 2rem;
+  }
+  .intro-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+  }
+  .intro-inner p.dedication {
+    font-size: 16px;
+    color: #4a4a4a;
+    text-align: center;
+    margin: 0.5rem auto 2rem;
+    max-width: 720px;
+  }
+
+  .intro-inner hr.navy-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.2rem 0;
+  }
+
+  .intro-inner h2.section-q {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    line-height: 1.3;
+    margin: 1rem 0 1.5rem;
+  }
+  .intro-inner p.sub-q {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0.3rem 0;
+  }
+  .intro-inner p.lead-quote {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #2a2a2a;
+    text-align: center;
+    max-width: 720px;
+    margin: 1.5rem auto 0;
+  }
+
+  .intro-inner em { font-style: italic; }
+  .intro-inner strong { font-weight: 400; color: var(--color-navy); }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a strong { color: inherit; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .war-block {
+    padding: 3rem 1.5rem 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .war-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 1rem 0 2rem;
+    letter-spacing: 0.03em;
+  }
+
+  .kw-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .kw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .kw-card:hover { transform: translateY(-2px); }
+  .kw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .kw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: filter 0.25s ease;
+  }
+  .kw-card:hover .kw-image img { filter: brightness(1.05); }
+  .kw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .kw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+
+  .pw-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .pw-card.pw-card-static { cursor: default; }
+  .pw-card.pw-card-static:hover { transform: none; }
+  .pw-card.pw-card-static:hover .pw-image img { filter: none; }
+  .pw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .pw-card:hover { transform: translateY(-2px); }
+  .pw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .pw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .pw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .pw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+  hr.section-divider {
+    border: none;
+    border-top: 6px solid #8a8b6a;
+    max-width: 1280px;
+    margin: 1rem auto;
+    opacity: 0.7;
+  }
+
+  .memorials {
+    padding: 3rem 1.5rem 4rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .mem-tagline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0 0 3rem;
+  }
+
+  .mem-item {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 2.5rem;
+    margin: 0 0 4rem;
+    align-items: start;
+  }
+  .mem-item.mem-item-reverse {
+    grid-template-columns: 1fr 320px;
+  }
+  .mem-item.mem-item-reverse .mem-image { order: 2; }
+  .mem-item.mem-item-reverse .mem-body { order: 1; }
+
+  .mem-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+  .mem-body p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .mem-body a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .mem-body a:hover { color: var(--color-navy); }
+  .mem-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 22px;
+    color: var(--color-accent);
+    margin: 0 0 1.2rem;
+    letter-spacing: 0.02em;
+  }
+  .mem-sub {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 17px;
+    color: var(--color-navy);
+    margin: 1.8rem 0 0.6rem;
+    letter-spacing: 0.04em;
+  }
+  .mem-links {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #2a2a2a;
+    padding-left: 1.2rem;
+    margin: 0 0 1.2rem;
+  }
+  .mem-aux {
+    margin: 1rem 0 0;
+    max-width: 360px;
+  }
+  .mem-aux img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+
+  @media (max-width: 900px) {
+    .kw-grid { grid-template-columns: repeat(2, 1fr); }
+    .pw-grid { grid-template-columns: 1fr; }
+    .mem-item,
+    .mem-item.mem-item-reverse {
+      grid-template-columns: 1fr;
+    }
+    .mem-item.mem-item-reverse .mem-image { order: 0; }
+    .mem-item.mem-item-reverse .mem-body { order: 0; }
+  }
+  @media (max-width: 600px) {
+    .kw-grid { grid-template-columns: 1fr; }
+    .intro-inner h2.section-q { font-size: 26px; }
+    .war-title { font-size: 28px; }
+  }
+</style>

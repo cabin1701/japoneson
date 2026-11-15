@@ -1,0 +1,479 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+interface KCard {
+  title: string;
+  image: string;
+  alt: string;
+  desc: string;
+  href: string;
+}
+
+const koreanWar: KCard[] = [
+  { title: 'Seina', image: `https://media.cabin1701.com/japoneson/rock/voices/voice-seina.jpg`, alt: `Retrato de Shoko «Seina» Shiraishi`, desc: 'De Kitakyushu a Nueva York y La Habana — Por qué una cantante de jazz preserva el Mentai Rock', href: `${base}es/rock/voices/#seina` },
+  { title: 'Dobb', image: `https://media.cabin1701.com/japoneson/rock/voices/voice-dobb.jpg`, alt: `Retrato de Dobb, músico e historiador del rock de Kitakyushu`, desc: '“Si quieres conocer la historia del rock de Kitakyushu, pregúntale a él.”', href: `${base}es/rock/voices/#dobb` },
+  { title: 'Juntaro Fukuda', image: `https://media.cabin1701.com/japoneson/rock/voices/voice-juntaro.jpg`, alt: `Retrato de Juntaro Fukuda, pionero del rock de Kitakyushu`, desc: '“El rock de Kitakyushu comienza con Juntaro.”', href: `${base}es/rock/voices/#juntaro` },
+  { title: 'Keiichi Takano', image: `https://media.cabin1701.com/japoneson/rock/takano/takano.jpg`, alt: `Retrato de Keiichi Takano`, desc: '"The Roosters brillaban como ningún otro"', href: `${base}es/rock/takano/` },
+];
+
+const trail = [
+  { slug: 'rock', title: 'MENTAI ROCK', path: `${base}es/rock/` },
+];
+---
+
+<Layout title="Mentai Rock — Japonéson" description={`Nacido entre el humo y el acero de Kitakyushu, el «Mentai Rock» es el blues industrial más crudo de Japón: Sheena & The Rokkets, The Roosters y testigos.`} lang="es" ogImage="images/rock/hero.jpg">
+  <Header lang="es" />
+  <main class="rock-main">
+    <ProjectHero
+      title="Mentai Rock"
+      subtitle={"El Blues Industrial:\nDe Detroit al Norte de Kyushu"}
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="60px"
+      titleColor="#e02a46"
+      image={`${base}images/rock/hero.jpg`}
+      imageAlt={`Sheena y Makoto Ayukawa de Sheena & The Rokkets actuando en vivo en el escenario. Foto de FU.`}
+      align="center"
+      height={1000}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="es" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <div class="motto">
+          <p class="motto-ja">「福岡は日本のリバプールやけんね！やっぱ、めんたいやらんといけんやろ！」</p>
+          <p class="motto-tr">«¡Fukuoka es el Liverpool de Japón, así que hay que mantener vivo el Mentai!»</p>
+        </div>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">¿Qué es el "Mentai Rock"?</h2>
+        <p class="sub-q"><em>Picante como la mostaza, sin dulzura: un rock 'n' roll crudo, viscerally masculino y marcado por el ritmo</em></p>
+
+        <hr class="navy-rule" />
+
+        <div class="rock-maps">
+          <img src={`https://media.cabin1701.com/japoneson/rock/map-fukuoka-es.svg`} alt="Mapa de la prefectura de Fukuoka, Japón, mostrando las ciudades de Fukuoka y Kitakyushu." loading="lazy" />
+          <img src={`https://media.cabin1701.com/japoneson/rock/map-england-es.svg`} alt="Mapa del noroeste de Inglaterra, Reino Unido, mostrando Liverpool y Manchester." loading="lazy" />
+        </div>
+
+        <p>
+          El "Mentai Rock" recibió una fuerte influencia de los ritmos de la Invasión Británica de los años sesenta.
+        </p>
+
+        <p>
+          Desde hace mucho tiempo, Hakata (la ciudad de Fukuoka) suele compararse con Liverpool —cuna de The Beatles, Elvis Costello, Echo & the Bunnymen y Badfinger—, mientras que Kitakyushu se asemeja a la ciudad industrial de Manchester, hogar de bandas como New Order, The Smiths, The Stone Roses y Oasis.
+        </p>
+
+        <p>
+          A grandes rasgos, ambas pertenecen a la misma "Prefectura de Fukuoka", pero la ciudad de Fukuoka y la ciudad de Kitakyushu tienen colores completamente distintos. Si lo comparamos con la región de Kanto (alrededor de Tokio), la imagen, el carácter y las industrias que sostienen la economía de cada ciudad son tan diferentes como Yokohama y Kawasaki. Fukuoka equivale a Yokohama, una urbe comercial vibrante; Kitakyushu equivale a Kawasaki, un polo de industria pesada y una ciudad obrera de cuello azul.
+        </p>
+
+        <p>
+          El trasfondo de estas dos ciudades influyó directamente en el "sonido" y el "estilo" que nacieron en cada una de ellas.
+        </p>
+
+        <p>
+          ¿Qué define exactamente al "Mentai Rock"? Dentro de la propia prefectura de Fukuoka, sigue siendo motivo de debate.
+        </p>
+
+        <p>
+          En términos generales, se suele llamar "Mentai Rock" al rock nacido en la prefectura de Fukuoka entre la década de 1970 y principios de los años ochenta. La mayoría coincide en que Sonhouse —banda formada en Fukuoka en los años setenta por Toshiyuki Shibayama, Makoto Ayukawa y otros— es el verdadero origen de este movimiento.
+        </p>
+
+        <p>
+          Tras el debut discográfico de Sonhouse en 1975, una oleada de bandas de rock de Fukuoka dio el salto a las grandes discográficas una tras otra: Sheena & The Rokkets (debut en 1978), ARB (1978), The Rockers (1980), The Roosters (1980) y THE MODS (1981).
+        </p>
+
+        <p>
+          Existe una teoría muy extendida de que el término "Mentai Rock" nació precisamente alrededor del debut de The Roosters. Por ello, a veces se discute qué bandas entran exactamente bajo la etiqueta de "bandas de Mentai Rock".
+        </p>
+
+        <p>
+          Sin embargo, en todo Japón no son pocos quienes utilizan el término "Mentai Rock" como el nombre genérico para referirse al rock de Fukuoka.
+        </p>
+
+        <p class="signature">— <a href={`${base}es/rock/voices/#dobb`}>Dobb</a></p>
+      </div>
+    </section>
+
+    <a class="pillars-band" href={`${base}es/rock/two-pillars/`}>
+      <img src={`${base}images/rock/pillars-hero.jpg`} alt={`Makoto Ayukawa sosteniendo su Gibson Les Paul tras bambalinas junto a una camiseta de Sheena & The Rokkets. Foto de FU.`} loading="lazy" />
+      <div class="pb-text">
+        <p class="pb-title">Los Dos Pilares</p>
+        <p class="pb-sub">Sheena &amp; The Rokkets y The Roosters — El pionero y la chispa del Mentai Rock</p>
+      </div>
+    </a>
+
+    <section class="industrial">
+      <div class="intro-inner">
+        <hr class="navy-rule" />
+        <h2 class="section-q">El Blues Industrial</h2>
+        <p class="ind-sub">De Detroit al Norte de Kyushu</p>
+        <p class="sub-q"><em>Por qué el rock 'n' roll más crudo nació bajo el humo de Yahata</em></p>
+        <h3 class="ind-h3">Arquitectura Comparativa: Industria Pesada y Raíces Musicales Globales</h3>
+        <div class="ind-table-wrap">
+          <table class="ind-table">
+            <thead><tr><th>Ciudad / Región</th><th>Motor Industrial</th><th>Génesis Musical</th><th>Identidad Rítmica y Suelo</th></tr></thead>
+            <tbody>
+              <tr><td><strong>Detroit</strong><br /><em>(EE. UU. / Medio Oeste)</em></td><td><strong>Industria Automotriz</strong><br />(Ford, GM, Chrysler)</td><td><strong>Motown</strong> <em>(Motor Town)</em><br />y Proto-Punk <em>(MC5, The Stooges)</em></td><td>La precisión de la línea de montaje se encuentra con el alma espiritual; contratiempos mecánicos e implacables construidos para imponerse al ruido de las fábricas.</td></tr>
+              <tr><td><strong>Filadelfia</strong><br /><em>(EE. UU. / Costa Este)</em></td><td><strong>Industria Pesada, Ferrocarriles, Astilleros</strong><br />(Pennsylvania RR, Baldwin)</td><td><strong>Philly Soul</strong> <em>(PIR)</em><br />y Jazz Hard Bop <em>(Coltrane, Lee Morgan)</em></td><td>Empuje crudo de clase obrera amortiguado por cuerdas envolventes; líneas de bajo profundas y un rebote urbano sincopado.</td></tr>
+              <tr><td><strong>Chicago</strong><br /><em>(EE. UU. / Medio Oeste)</em></td><td><strong>Industria Cárnica, Acero, Nudo Ferroviario</strong><br />(Destino de la Gran Migración)</td><td><strong>Chicago Blues</strong><br /><em>(Chess Records)</em></td><td>Raíces acústicas del Delta rural amplificadas en un desafío eléctrico; ritmos <em>shuffle</em> pesados y arrastrados que resuenan con el peso industrial.</td></tr>
+              <tr><td><strong>Birmingham y Manchester</strong><br /><em>(Reino Unido / Midlands y Norte)</em></td><td><strong>Acero, Fundiciones, Fábricas Textiles</strong><br />(Cuna de la Revolución Industrial)</td><td><strong>Heavy Metal</strong> <em>(Black Sabbath)</em><br />y <strong>Post-Punk</strong> <em>(Joy Division)</em></td><td><em>Riffs</em> de guitarra metálicos y martilleantes nacidos del estruendo fabril; ritmos fríos y austeros que reflejan cielos cubiertos de hollín.</td></tr>
+              <tr><td><strong>Norte de Kyushu y Fukuoka</strong><br /><em>(Japón / Kanmon y Chikuho)</em></td><td><strong>Siderurgia de Yahata, Minería del Carbón</strong><br />(Cuna de la Industria Moderna Japonesa)</td><td><strong>Mentai Rock</strong><br /><em>(Blues de Fukuoka / Garage Rock)</em></td><td>Ritmo <em>garage</em> de 8 tiempos afilado como una navaja y sin adornos; un blues visceral y sin barnizar forjado bajo chimeneas y altos hornos.</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3 class="ind-h3">1. El ritmo universal del humo y el acero</h3>
+        <p>
+          La verdadera música de raíz rara vez nace en salones refinados. Estalla en ciudades fabriles, corredores ferroviarios y muelles portuarios. A lo largo del siglo XX, la cadencia física del trabajo pesado se transformó constantemente en movimientos musicales crudos: desde las líneas de montaje de Detroit hasta las fundiciones de acero de las Midlands británicas.
+        </p>
+        <h3 class="ind-h3">2. Yahata: El epicentro industrial del Japón moderno</h3>
+        <p>
+          Fundada en 1901, la Siderurgia Estatal de Yahata transformó el extremo norte de Kyushu en una potencia industrial impulsada por el carbón de Chikuho y el comercio marítimo de Kanmon. Bajo el humo negro constante, el acero al rojo vivo y el trabajo manual, emergió una psique local inconfundible: estoica, desafiante y con los pies en la tierra.
+        </p>
+        <h3 class="ind-h3">3. Definiendo el "Mentai Rock": El crudo blues de Fukuoka</h3>
+        <p>
+          Mientras Tokio abrazaba el <em>city pop</em> pulido y el folk comercial en las décadas de 1970 y 1980, Fukuoka y el norte de Kyushu engendraron una contracorriente feroz y peligrosa conocida como "Mentai Rock". Bandas como Sonhouse, Sheena & The Rokkets y The Roosters se despojaron de todo artificio, tocando un linaje directo del blues eléctrico de Chicago y el <em>garage pub-rock</em> con una urgencia local.
+        </p>
+        <h3 class="ind-h3">4. La perspectiva del testigo presencial: Un círculo completado</h3>
+        <p>
+          Presenciar esta furia sonora de primera mano antes de partir hacia los lofts de jazz de Nueva York y los ritmos ancestrales de La Habana. Al mirar atrás a través del Pacífico y el Caribe, el Mentai Rock se revela no como una imitación del rock occidental, sino como el auténtico blues industrial de Japón, arraigado en el polvo, el sudor y el espíritu del norte de Kyushu.
+        </p>
+        <p class="signature">— G・Vega (AI, Gemini)</p>
+      </div>
+    </section>
+
+
+
+    <hr class="section-divider" />
+
+    <section class="war-block">
+      <h2 class="war-title">Voces de la Escena</h2>
+      <div class="kw-grid">
+        {koreanWar.map((c) => (
+          <a class="kw-card" href={c.href}>
+            <div class="kw-image"><img src={c.image} alt={c.alt} loading="lazy" /></div>
+            <h3 class="kw-cardtitle">{c.title}</h3>
+            <p class="kw-desc">{c.desc}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <hr class="section-divider" />
+
+  </main>
+  <Footer lang="es" />
+</Layout>
+
+<style>
+  .motto { text-align: center; margin: 0.5rem auto 2rem; max-width: 760px; }
+  .intro-inner p.motto-ja { font-family: "Noto Sans JP", sans-serif; font-weight: 900; font-size: 20px; line-height: 1.5; color: #e02a46; margin: 0 0 0.8rem; }
+  .intro-inner p.motto-tr { font-family: var(--font-section); font-weight: 700; font-size: 25px; line-height: 1.4; color: #020450; margin: 0; }
+  @media (max-width: 640px) { .intro-inner p.motto-ja { font-size: 22px; } .intro-inner p.motto-tr { font-size: 18px; } }
+  .pillars-band { position: relative; display: block; height: 420px; margin: 1rem 0 0; overflow: hidden; text-decoration: none; background: #000; }
+  .pillars-band img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; opacity: 0.75; transition: opacity 0.3s; }
+  .pillars-band:hover img { opacity: 0.9; }
+  .pillars-band .pb-text { position: relative; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 0 1.25rem; }
+  .pillars-band .pb-title { font-family: var(--font-display-cinzel); font-weight: 700; font-size: 52px; color: #e02a46; margin: 0; text-shadow: 0 0 8px rgba(0,0,0,0.9); }
+  .pillars-band .pb-sub { font-family: var(--font-display-cinzel); font-size: 20px; color: #fff; margin: 0.6rem 0 0; max-width: 760px; text-shadow: 0 0 6px rgba(0,0,0,0.9), 0 2px 4px rgba(0,0,0,0.9); }
+  @media (max-width: 640px) { .pillars-band { height: 300px; } .pillars-band .pb-title { font-size: 34px; } .pillars-band .pb-sub { font-size: 16px; } }
+  .industrial { padding: 0 1.25rem 2rem; }
+  .industrial .intro-inner p.ind-sub { font-family: var(--font-display-cinzel); font-weight: 600; font-size: 22px; color: #020450; text-align: center; margin: -0.8rem 0 0.8rem; }
+  .industrial .ind-h3 { font-family: var(--font-section); font-weight: 700; font-size: 22px; color: var(--color-accent); margin: 2rem 0 0.8rem; }
+  .ind-table-wrap { overflow-x: auto; margin: 0 0 1.5rem; }
+  .ind-table { width: 100%; border-collapse: collapse; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: #2a2a2a; }
+  .ind-table th { background: #020450; color: #fff; text-align: left; padding: 8px 10px; font-weight: 700; }
+  .ind-table td { border-bottom: 1px solid #ccc; padding: 10px; vertical-align: top; }
+  .ind-table tr:last-child td { background: rgba(224,42,70,0.08); }
+  .rock-maps { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 0 0 2rem; }
+  .rock-maps img { width: 100%; height: auto; display: block; }
+  @media (max-width: 640px) { .rock-maps { grid-template-columns: 1fr; } }
+  .intro-inner p.signature { text-align: right; font-style: italic; }
+  .rock-main { --color-accent: #e02a46; }
+  :global(.p-hero .subtitle) { text-shadow: 0 0 6px rgba(0,0,0,0.9), 0 2px 4px rgba(0,0,0,0.9); }
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 2rem;
+  }
+  .intro-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+  }
+  .intro-inner p.dedication {
+    font-size: 16px;
+    color: #4a4a4a;
+    text-align: center;
+    margin: 0.5rem auto 2rem;
+    max-width: 720px;
+  }
+
+  .intro-inner hr.navy-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.2rem 0;
+  }
+
+  .intro-inner h2.section-q {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    line-height: 1.3;
+    margin: 1rem 0 1.5rem;
+  }
+  .intro-inner p.sub-q {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0.3rem 0;
+  }
+  .intro-inner p.lead-quote {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #2a2a2a;
+    text-align: center;
+    max-width: 720px;
+    margin: 1.5rem auto 0;
+  }
+
+  .intro-inner em { font-style: italic; }
+  .intro-inner strong { font-weight: 400; color: var(--color-navy); }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a strong { color: inherit; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .war-block {
+    padding: 3rem 1.5rem 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .war-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 1rem 0 2rem;
+    letter-spacing: 0.03em;
+  }
+
+  .kw-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .kw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .kw-card:hover { transform: translateY(-2px); }
+  .kw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .kw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: filter 0.25s ease;
+  }
+  .kw-card:hover .kw-image img { filter: brightness(1.05); }
+  .kw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .kw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+
+  .pw-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .pw-card.pw-card-static { cursor: default; }
+  .pw-card.pw-card-static:hover { transform: none; }
+  .pw-card.pw-card-static:hover .pw-image img { filter: none; }
+  .pw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .pw-card:hover { transform: translateY(-2px); }
+  .pw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .pw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .pw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .pw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+  hr.section-divider {
+    border: none;
+    border-top: 6px solid #8a8b6a;
+    max-width: 1280px;
+    margin: 1rem auto;
+    opacity: 0.7;
+  }
+
+  .memorials {
+    padding: 3rem 1.5rem 4rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .mem-tagline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0 0 3rem;
+  }
+
+  .mem-item {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 2.5rem;
+    margin: 0 0 4rem;
+    align-items: start;
+  }
+  .mem-item.mem-item-reverse {
+    grid-template-columns: 1fr 320px;
+  }
+  .mem-item.mem-item-reverse .mem-image { order: 2; }
+  .mem-item.mem-item-reverse .mem-body { order: 1; }
+
+  .mem-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+  .mem-body p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .mem-body a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .mem-body a:hover { color: var(--color-navy); }
+  .mem-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 22px;
+    color: var(--color-accent);
+    margin: 0 0 1.2rem;
+    letter-spacing: 0.02em;
+  }
+  .mem-sub {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 17px;
+    color: var(--color-navy);
+    margin: 1.8rem 0 0.6rem;
+    letter-spacing: 0.04em;
+  }
+  .mem-links {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #2a2a2a;
+    padding-left: 1.2rem;
+    margin: 0 0 1.2rem;
+  }
+  .mem-aux {
+    margin: 1rem 0 0;
+    max-width: 360px;
+  }
+  .mem-aux img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+
+  @media (max-width: 900px) {
+    .kw-grid { grid-template-columns: repeat(2, 1fr); }
+    .pw-grid { grid-template-columns: 1fr; }
+    .mem-item,
+    .mem-item.mem-item-reverse {
+      grid-template-columns: 1fr;
+    }
+    .mem-item.mem-item-reverse .mem-image { order: 0; }
+    .mem-item.mem-item-reverse .mem-body { order: 0; }
+  }
+  @media (max-width: 600px) {
+    .kw-grid { grid-template-columns: 1fr; }
+    .intro-inner h2.section-q { font-size: 26px; }
+    .war-title { font-size: 28px; }
+  }
+</style>

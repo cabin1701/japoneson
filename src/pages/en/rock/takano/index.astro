@@ -1,0 +1,455 @@
+---
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+interface KCard {
+  title: string;
+  image: string;
+  alt: string;
+  desc: string;
+  href: string;
+}
+
+const koreanWar: KCard[] = [
+  {
+    title: 'The Shadow of Kokura — The Black Soldiers',
+    image: IMG('2026/04/blacksoldiers-600x573.jpg'),
+    alt: 'The Black Soldiers',
+    desc: 'A quiet prayer for the soldiers who crossed the Kanmon Strait, and never came home.',
+    href: `${base}en/mystery/macarthur/korea-black-soldiers/`,
+  },
+  {
+    title: 'The 24th Infantry Division',
+    image: IMG('2026/04/TL-WINTER-13-D-1-600x600.jpg'),
+    alt: 'The 24th Infantry Division',
+    desc: 'For the boys who left Kyushu and never looked back—this is a prayer for what they carried.',
+    href: `${base}en/mystery/macarthur/korea-24th/`,
+  },
+  {
+    title: 'David Valley',
+    image: IMG('2026/04/IMG_2028-02-600x601.jpg'),
+    alt: 'David Valley',
+    desc: 'The last guardian of a fading era—who passed the invisible baton to a maverick from Japan.',
+    href: `${base}en/mystery/macarthur/david-valley/`,
+  },
+  {
+    title: 'Monica Lewis',
+    image: IMG('2026/04/korea1.jpg'),
+    alt: 'Monica Lewis',
+    desc: 'In 1951, my friend Ms. Monica Lewis (1922-2015) entertained "for the boys" who served in the Korean War with Danny Kaye.',
+    href: `${base}en/swing/for-the-boys/`,
+  },
+];
+
+const trail = [
+  { slug: 'rock', title: 'MENTAI ROCK', path: `${base}en/rock/` },
+  { slug: 'takano', title: 'KEIICHI TAKANO', path: `${base}en/rock/takano/` },
+];
+---
+
+<Layout title="Keiichi Takano — Japonéson" description={`A dialogue with Keiichi Takano, former editor of Kitakyushu's "Oira no Machi," on Shinya Oe and The Roosters, and why their sound still echoes today.`} lang="en" ogImage="images/rock/takano-hero.jpg">
+  <Header lang="en" />
+  <main class="rock-main">
+    <ProjectHero
+      title={`"The Roosters Shone Like No Other"`}
+      subtitle="Keiichi Takano"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="60px"
+      titleColor="#e02a46"
+      image={`${base}images/rock/takano-hero.jpg`}
+      imageAlt="Shinya Oe of The Roosters. Photo by FU."
+      align="center"
+      height={1000}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="en" />
+    </div>
+
+    <section class="takano">
+      <div class="tk-inner">
+        <div class="tk-lead">
+          <img src={`https://media.cabin1701.com/japoneson/rock/takano/takano.jpg`} alt={`Portrait of Keiichi Takano`} loading="lazy" />
+          <p>Keiichi Takano is the former editor-in-chief of <em>Oira no Machi</em>, a beloved local town magazine in Kitakyushu. Those of us born around 1969 bought this magazine every single month to check upcoming gigs and learn about our local bands. We originally met for a completely different reason, yet the conversation naturally turned to The Roosters—and he shared invaluable firsthand memories from those days (2012).</p>
+        </div>
+        <h2 class="tk-h2">1. Where the Name "Mentai Rock" Began</h2>
+        <p><strong>Takano:</strong> The term "Mentai Rock" actually started with The Roosters. Before them, Makoto Ayukawa's bands weren't called Mentai Rock.</p>
+        <p><strong>Seina:</strong> Dobb mentioned the exact same thing the other day—that it was a label attached later on. It really began around Sonhouse, and by the time The Roosters came along, people started calling it "Mentai."</p>
+        <p><strong>Takano:</strong> Right. When people started saying "Mentai," they lumped The Roosters together with The Rockers and The Mods because they were all bands from Fukuoka Prefecture. Before that, the phrase "Mentai Rock" didn't even exist. To my eyes, "Mentai Rock" referred more to bands like The Rockers or The Mods. Bands from Fukuoka City and bands from Kitakyushu were completely different breeds. Even though people called The Roosters "Mentai Rock," their attitude was more like, <em>"That label has nothing to do with us."</em></p>
+        <p><strong>Seina:</strong> Yes! Exactly! Everyone from that generation—who knew The Roosters when they were still just kids starting out—says the exact same thing.</p>
+        <p><strong>Takano:</strong> And <em>sonically, The Roosters shone like no other</em>.</p>
+        <p><strong>Seina:</strong> Last year (2013), I went to Fukuoka to see The Roosters live. Seeing the original four members together for the first time, I was blown away by the sheer power of the sound those four created.</p>
+        <p><strong>Takano:</strong> Back then, Shinya Oe was in full force, so they were truly extraordinary—a band that embodied Kitakyushu to the core.</p>
+        <div style="max-width:560px;margin:1.5rem auto 2rem;">
+          <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+            <iframe src="https://www.youtube.com/embed/-cTgqVHYmuc" title="The Roosters — Koi wo Shiyouyo" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+          </div>
+        </div>
+        <h2 class="tk-h2">2. Kitakyushu: A Working-Class Town That Refuses Commercialism</h2>
+        <p><strong>Seina:</strong> What do you mean by "a band that embodied Kitakyushu"?</p>
+        <p><strong>Takano:</strong> Simply put, it's a working-class, industrial town—so it's not commercial rock. It has a kind of blues infused into it. Because this is a city that rejects commercial rock.</p>
+        <p><strong>Seina:</strong> Aha! I see!</p>
+        <p><strong>Takano:</strong> For instance, Takanori Jinnai of The Rockers became a mainstream TV star, right? Fundamentally, he's someone capable of adapting and transforming like that. People from Kitakyushu aren't really able to bend like that. When it's music, it's pure devotion to music—single-minded.</p>
+        <p><strong>Seina:</strong> That's why someone like Junji Ikehata (the original drummer of The Roosters) has remained so single-mindedly devoted to music, too?</p>
+        <p><strong>Takano:</strong> Yes, exactly. Basically, the people forming bands here were anti-TV, anti-stardom.</p>
+        <p><strong>Seina:</strong> Are they unpolished—stubbornly straight-arrow?</p>
+        <p><strong>Takano:</strong> They just hate that kind of commercial, televised showbiz stuff. At its root, this was a town where blues and jazz thrived. There's a certain ruggedness—a masculine grit—to it. To me, even when people say "Mentai Rock," I don't mean Sheena & The Rokkets before Shinya Oe's generation came along; true "Mentai Rock" is...</p>
+        <p><strong>Seina:</strong> ...and at the very pinnacle of that stood The Roosters?</p>
+        <p><strong>Takano:</strong> Yes, precisely.</p>
+        <h2 class="tk-h2">3. The Local Blues: From Chicago to Kitakyushu</h2>
+        <p><strong>Seina:</strong> Still, even with all that history, I think most people use the phrase "Mentai Rock" to mean "the rock of Fukuoka." I've traveled to many countries and listened to all kinds of music, yet whenever I come back to Kitakyushu, the only show I ever want to go to is Takatoyama Jam. And when I saw The Roosters the other day, I felt it again: this is the blues of this city.</p>
+        <p><strong>Takano:</strong> Yeah. It truly is.</p>
+        <p><strong>Seina:</strong> That's why I want to preserve it—I want it to live on, and I want people to recognize it for what it is: <em>"This is the blues of this city."</em> Even if you go to the Metropolitan Opera in New York, the air, the soil, and the human energy are completely different. Inside that driving beat of Mentai Rock lies the authentic blues of this land. Looking at it from the outside, having immersed myself in completely different genres, there are things I can clearly see. Musically, it's a treasure of this city. And since so much time has passed—and to younger generations today, all of those bands probably feel like part of the same lineage—I want to keep the phrase "Mentai Rock" alive as the name for "Fukuoka rock," just like Chicago Blues or New Orleans Jazz.</p>
+        <p>Yet even for our generation—who grew up saying "Mentai, Mentai" only because we read <em>Oira no Machi</em>—we didn't actually know why it was called "Mentai" or how rock took root and grew here in Fukuoka. I want to gather and preserve those stories inside this website, too.</p>
+        <p><strong>Takano:</strong> Whenever a band from Kitakyushu goes to play in Tokyo or elsewhere, they'll often cover a Roosters song for their encore. That's how deeply respected The Roosters are among true rock fans.</p>
+        <h2 class="tk-h2">4. Love vs. Destruction: Sheena & The Rokkets and Shinya Oe</h2>
+        <p><strong>Seina:</strong> I think Shinya Oe is a very delicate, sensitive person. I've never met him, yet I want to send a cheer from his hometown to say how deeply this city loves your music—and loves Shinya Oe.</p>
+        <p><strong>Takano:</strong> Oe's sensibility was truly extraordinary.</p>
+        <p><strong>Seina:</strong> When I saw them in Fukuoka last year—having stopped listening to rock at sixteen—hearing songs like <em>Whispering in Nuremberg</em> and <em>C.M.C.</em> as an adult genuinely astonished me.</p>
+        <p><strong>Takano:</strong> When you talk about The Roosters, it really comes down to Oe—and Ikehata.</p>
+        <p><strong>Seina:</strong> Oh! When I was in my first year of high school, I saw Zero Spectres (the band Ikehata formed after leaving The Roosters) at In & Out, a live house in Kokura about thirty years ago. That was the first time I realized how incredible drums could be. So when I went to see The Roosters last year, my eyes were glued to Ikehata-san! Watching how he balanced his body and channeled his energy—I couldn't take my eyes off him (laughs).</p>
+        <p><strong>Takano:</strong> It really is Ikehata. And on guitar, Oe. In Japan, there aren't many guitarists who can stand on a world stage—so in the end, it's the vocals. Vocals and rhythm.</p>
+        <p><strong>Seina:</strong> I don't know if this is true, but I once heard that Hiroyuki Hanada (guitarist of The Roosters) said, <em>"At the end of the day, Oe is a better guitarist—I can't beat him."</em> So when I watched The Roosters, I stared closely at Oe's playing, and I realized every single note he plays has a clear intention. He isn't just playing guitar; there is a message and an intention behind every phrase.</p>
+        <p><strong>Takano:</strong> That comes from Oe's innate sensibility—nobody else can replicate it. It's not about flashy technical virtuosity; it's guitar driven purely by raw sensibility. The sound of The Roosters is completely different from Sheena & The Rokkets, too.</p>
+        <p><strong>Seina:</strong> Sheena & The Rokkets feel like a band of "love." How can I put it—The Roosters feel born out of inner conflict, pain, destruction, and creation, whereas Sheena & The Rokkets are pure "love." Do you know what I mean?</p>
+        <p><strong>Takano:</strong> Yeah. That's right. I get that. When you listen to all kinds of bands and genres of music, The Roosters have a quality that transcends genre. Bands like that are rare.</p>
+        <p><strong>Seina:</strong> Listening to <em>C.M.C.</em> and <em>Whispering in Nuremberg</em> again, they really are extraordinary.</p>
+        <p><strong>Takano:</strong> When I first met The Roosters, Oe shone the brightest of all. He radiated an aura like a young John Lennon—I remember thinking, <em>"This guy is definitely going to make it."</em></p>
+        <p><strong>Seina:</strong> Oe-san truly is special. I think people often find him hard to understand. Yet whenever I hear stories about him suddenly saying he couldn't sing, somehow I feel like I understand. I couldn't sing for a long time either. Unless my heart opens and I have something I truly need to convey, I can't sing. So when I hear that Oe-san struggled and couldn't force himself to sing, I feel I understand that feeling—and precisely because of that, he creates something real.</p>
+        <p><strong>Takano:</strong> Because Oe's sensitivity is so intense, I think it must be very hard on him personally.</p>
+        <p><strong>Seina:</strong> Yet precisely because of that, their music isn't just a commercial product. He was carving away his very soul to make it—that's what I feel.</p>
+      </div>
+    </section>
+
+  </main>
+  <Footer lang="en" />
+</Layout>
+
+<style>
+  .takano { padding: 1.5rem 1.25rem 3rem; }
+  .tk-inner { max-width: 780px; margin: 0 auto; font-family: Helvetica, Arial, sans-serif; font-size: 17px; line-height: 1.8; color: #2a2a2a; }
+  .tk-inner p { margin: 0 0 1.1rem; }
+  .tk-inner strong { color: var(--color-accent); font-weight: 700; }
+  .tk-lead { display: grid; grid-template-columns: 180px 1fr; gap: 1.5rem; align-items: start; margin: 0 0 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid #ccc; }
+  .tk-lead img { width: 100%; height: auto; display: block; }
+  .tk-lead p { font-style: italic; color: #020450; }
+  .tk-h2 { font-family: var(--font-section); font-weight: 700; font-size: 24px; color: #020450; margin: 2.5rem 0 1rem; }
+  @media (max-width: 640px) { .tk-lead { grid-template-columns: 1fr; } .tk-lead img { max-width: 200px; } }
+  .voice-text .voice-h3 { font-family: var(--font-section); font-weight: 700; font-size: 20px; color: #020450; margin: 2rem 0 0.6rem; }
+  .voice-text p.voice-more a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .voice-cards { max-width: 1000px; margin: 1rem auto 2rem; padding: 0 1.25rem; display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .voice-card { display: block; text-decoration: none; color: inherit; background: #000; }
+  .voice-card img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: center top; display: block; }
+  .voice-card .vc-body { padding: 14px 16px 18px; }
+  .voice-card .vc-name { font-family: var(--font-display-cinzel); font-weight: 700; font-size: 22px; color: var(--color-accent); margin: 0 0 6px; }
+  .voice-card .vc-line { font-family: Helvetica, Arial, sans-serif; font-style: italic; font-size: 15px; line-height: 1.5; color: #eee; margin: 0; }
+  .voice-card:hover img { filter: brightness(1.1); }
+  @media (max-width: 640px) { .voice-cards { grid-template-columns: 1fr; } }
+  .voice { padding: 2.5rem 1.25rem; border-bottom: 1px solid #ccc; }
+  .voice-inner { max-width: 900px; margin: 0 auto; display: grid; grid-template-columns: 260px 1fr; gap: 2rem; align-items: start; }
+  .voice-photo { aspect-ratio: 4 / 5; background: #ddd; }
+  .voice-photo img { width: 100%; height: 100%; object-fit: cover; object-position: center top; display: block; }
+  .voice-name { font-family: var(--font-display-cinzel); font-weight: 700; font-size: 30px; color: var(--color-accent); margin: 0 0 1rem; }
+  .voice-text p { font-family: Helvetica, Arial, sans-serif; font-size: 17px; line-height: 1.75; color: #2a2a2a; }
+  @media (max-width: 640px) { .voice-inner { grid-template-columns: 1fr; } }
+  .industrial { padding: 0 1.25rem 2rem; }
+  .industrial .intro-inner p.ind-sub { font-family: var(--font-display-cinzel); font-weight: 600; font-size: 22px; color: #020450; text-align: center; margin: -0.8rem 0 0.8rem; }
+  .industrial .ind-h3 { font-family: var(--font-section); font-weight: 700; font-size: 22px; color: var(--color-accent); margin: 2rem 0 0.8rem; }
+  .ind-table-wrap { overflow-x: auto; margin: 0 0 1.5rem; }
+  .ind-table { width: 100%; border-collapse: collapse; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: #2a2a2a; }
+  .ind-table th { background: #020450; color: #fff; text-align: left; padding: 8px 10px; font-weight: 700; }
+  .ind-table td { border-bottom: 1px solid #ccc; padding: 10px; vertical-align: top; }
+  .ind-table tr:last-child td { background: rgba(224,42,70,0.08); }
+  .rock-maps { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 0 0 2rem; }
+  .rock-maps img { width: 100%; height: auto; display: block; }
+  @media (max-width: 640px) { .rock-maps { grid-template-columns: 1fr; } }
+  .intro-inner p.signature { text-align: right; font-style: italic; }
+  .rock-main { --color-accent: #e02a46; }
+  .motto { text-align: center; margin: 0.5rem auto 2rem; max-width: 760px; }
+  .intro-inner p.motto-ja { font-family: "Noto Sans JP", sans-serif; font-weight: 900; font-size: 20px; line-height: 1.5; color: #e02a46; margin: 0 0 0.8rem; }
+  .intro-inner p.motto-tr { font-family: var(--font-section); font-weight: 700; font-size: 25px; line-height: 1.4; color: #020450; margin: 0; }
+  @media (max-width: 640px) { .intro-inner p.motto-ja { font-size: 22px; } .intro-inner p.motto-tr { font-size: 18px; } }
+  :global(.p-hero .subtitle) { text-shadow: 0 0 6px rgba(0,0,0,0.9), 0 2px 4px rgba(0,0,0,0.9); }
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 2rem;
+  }
+  .intro-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+  }
+  .intro-inner p.dedication {
+    font-family: 'Akaya Telivigala', serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #020450;
+    text-align: center;
+    margin: 0.5rem auto 2rem;
+    max-width: 720px;
+  }
+
+  .intro-inner hr.navy-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.2rem 0;
+  }
+
+  .intro-inner h2.section-q {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    line-height: 1.3;
+    margin: 1rem 0 1.5rem;
+  }
+  .intro-inner p.sub-q {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0.3rem 0;
+  }
+  .intro-inner p.lead-quote {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #2a2a2a;
+    text-align: center;
+    max-width: 720px;
+    margin: 1.5rem auto 0;
+  }
+
+  .intro-inner em { font-style: italic; }
+  .intro-inner strong { font-weight: 400; color: var(--color-navy); }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a strong { color: inherit; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .war-block {
+    padding: 3rem 1.5rem 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .war-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 1rem 0 2rem;
+    letter-spacing: 0.03em;
+  }
+
+  .kw-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .kw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .kw-card:hover { transform: translateY(-2px); }
+  .kw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .kw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: filter 0.25s ease;
+  }
+  .kw-card:hover .kw-image img { filter: brightness(1.05); }
+  .kw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .kw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+
+  .pw-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .pw-card.pw-card-static { cursor: default; }
+  .pw-card.pw-card-static:hover { transform: none; }
+  .pw-card.pw-card-static:hover .pw-image img { filter: none; }
+  .pw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .pw-card:hover { transform: translateY(-2px); }
+  .pw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .pw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .pw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .pw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+  hr.section-divider {
+    border: none;
+    border-top: 6px solid #8a8b6a;
+    max-width: 1280px;
+    margin: 1rem auto;
+    opacity: 0.7;
+  }
+
+  .memorials {
+    padding: 3rem 1.5rem 4rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .mem-tagline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0 0 3rem;
+  }
+
+  .mem-item {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 2.5rem;
+    margin: 0 0 4rem;
+    align-items: start;
+  }
+  .mem-item.mem-item-reverse {
+    grid-template-columns: 1fr 320px;
+  }
+  .mem-item.mem-item-reverse .mem-image { order: 2; }
+  .mem-item.mem-item-reverse .mem-body { order: 1; }
+
+  .mem-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+  .mem-body p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .mem-body a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .mem-body a:hover { color: var(--color-navy); }
+  .mem-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 22px;
+    color: var(--color-accent);
+    margin: 0 0 1.2rem;
+    letter-spacing: 0.02em;
+  }
+  .mem-sub {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 17px;
+    color: var(--color-navy);
+    margin: 1.8rem 0 0.6rem;
+    letter-spacing: 0.04em;
+  }
+  .mem-links {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #2a2a2a;
+    padding-left: 1.2rem;
+    margin: 0 0 1.2rem;
+  }
+  .mem-aux {
+    margin: 1rem 0 0;
+    max-width: 360px;
+  }
+  .mem-aux img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+
+  @media (max-width: 900px) {
+    .kw-grid { grid-template-columns: repeat(2, 1fr); }
+    .pw-grid { grid-template-columns: 1fr; }
+    .mem-item,
+    .mem-item.mem-item-reverse {
+      grid-template-columns: 1fr;
+    }
+    .mem-item.mem-item-reverse .mem-image { order: 0; }
+    .mem-item.mem-item-reverse .mem-body { order: 0; }
+  }
+  @media (max-width: 600px) {
+    .kw-grid { grid-template-columns: 1fr; }
+    .intro-inner h2.section-q { font-size: 26px; }
+    .war-title { font-size: 28px; }
+  }
+</style>
