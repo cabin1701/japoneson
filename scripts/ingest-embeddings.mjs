@@ -375,6 +375,11 @@ async function collectCubaAstroPages() {
 const DIST_ASTRO_PAGES = [
   { key: 'swing-dream', path: 'swing/dream/' },
   { key: 'swing-dream-evidence', path: 'swing/dream/evidence/' },
+  // Mentai Rock（2026-11-15）
+  { key: 'rock', path: 'rock/' },
+  { key: 'rock-two-pillars', path: 'rock/two-pillars/' },
+  { key: 'rock-voices', path: 'rock/voices/' },
+  { key: 'rock-takano', path: 'rock/takano/' },
 ];
 function distHtmlToText(html) {
   let m = html.match(/<main[\s\S]*?<\/main>/);
