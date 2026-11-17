@@ -1,4 +1,5 @@
 ---
+import { murakamiJsonLd } from '../../../../data/murakamiJsonLd';
 import Layout from '../../../../layouts/Layout.astro';
 import Header from '../../../../components/Header.astro';
 import Footer from '../../../../components/Footer.astro';
@@ -65,7 +66,7 @@ const trail = [
 ];
 ---
 
-<Layout title='Música cubana — Sello MURAKAMI — Japonéson' description="Los discos que Ryu Murakami produjo en los años noventa, grabando música cubana durante el Período Especial y llenando un vacío en su historia." lang="es" ogImage="images/murakami/hero_music.jpg">
+<Layout jsonLdExtra={murakamiJsonLd("music")} title='Música cubana — Sello MURAKAMI — Japonéson' description="Los discos que Ryu Murakami produjo en los años noventa, grabando música cubana durante el Período Especial y llenando un vacío en su historia." lang="es" ogImage="images/murakami/hero_music.jpg">
   <Header lang="es" />
   <main>
     <ProjectHero

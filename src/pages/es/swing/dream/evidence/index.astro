@@ -1,4 +1,5 @@
 ---
+import { dreamJsonLd } from '../../../../../data/dreamJsonLd';
 import Layout from '../../../../../layouts/Layout.astro';
 import Header from '../../../../../components/Header.astro';
 import Footer from '../../../../../components/Footer.astro';
@@ -21,7 +22,7 @@ const trail = [
 ];
 ---
 
-<Layout title="Archivo y pruebas — Japonéson" description="Documentos del proyecto de CD para residencias de ancianos de 1999: registros de envío masivo del USPS, una licencia de MPL para cuatro canciones y una respuesta de la Casa Blanca." lang="es" ogImage="images/swing/hero_evidence.jpg">
+<Layout jsonLdExtra={dreamJsonLd("evidence")} title="Archivo y pruebas — Japonéson" description="Documentos del proyecto de CD para residencias de ancianos de 1999: registros de envío masivo del USPS, una licencia de MPL para cuatro canciones y una respuesta de la Casa Blanca." lang="es" ogImage="images/swing/hero_evidence.jpg">
   <Header lang="es" />
   <main>
     <ProjectHero

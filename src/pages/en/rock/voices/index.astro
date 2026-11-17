@@ -1,4 +1,5 @@
 ---
+import { rockJsonLd } from '../../../../data/rockJsonLd';
 import Layout from '../../../../layouts/Layout.astro';
 import Header from '../../../../components/Header.astro';
 import Footer from '../../../../components/Footer.astro';
@@ -53,7 +54,7 @@ const trail = [
 ];
 ---
 
-<Layout title="Voices of the Scene — Japonéson" description={`Eyewitness voices from the Kitakyushu and Fukuoka rock scene: memories and reflections from Seina, Dobb, and Kitakyushu rock pioneer Juntaro Fukuda.`} lang="en" ogImage="images/rock/voices-hero-crowd.jpg">
+<Layout title="Voices of the Scene — Japonéson" description={`Eyewitness voices from the Kitakyushu and Fukuoka rock scene: memories and reflections from Seina, Dobb, and Kitakyushu rock pioneer Juntaro Fukuda.`} lang="en" jsonLd={rockJsonLd({ lang: "en", path: "/en/rock/voices/", title: 'Voices of the Scene — Japonéson', description: `Eyewitness voices from the Kitakyushu and Fukuoka rock scene: memories and reflections from Seina, Dobb, and Kitakyushu rock pioneer Juntaro Fukuda.` })} ogImage="images/rock/voices-hero-crowd.jpg">
   <Header lang="en" />
   <main class="rock-main">
     <ProjectHero

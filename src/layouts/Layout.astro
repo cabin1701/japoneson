@@ -10,6 +10,8 @@ interface Props {
   ogImage?: string;
   /** ページ固有の JSON-LD（schema.org）。渡した時は、自動で出す WebPage の代わりにこれを出す。エッセイ（Article）で使う */
   jsonLd?: object | object[];
+  /** 自動で出す WebPage に足す項目（about・mentions・citation など）。村上ページで使う（2026-11-17） */
+  jsonLdExtra?: Record<string, unknown>;
   /** 記事ページのみ。同じ記事の Markdown（URL の後ろに .md）の場所を知らせる */
   markdown?: boolean;
 }
@@ -19,6 +21,7 @@ const {
   lang = 'en',
   ogImage,
   jsonLd,
+  jsonLdExtra,
   markdown = false,
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -92,6 +95,7 @@ const webPageJsonLd = {
   // 書き手は Seina。cabin1701.com と同じ @id を指して、同じ人だとつなぐ
   author: { '@type': 'Person', '@id': 'https://cabin1701.com/#person', name: 'Shoko "Seina" Shiraishi' },
   isPartOf: { '@type': 'WebSite', name: 'Japonéson', url: 'https://japoneson.com/' },
+  ...jsonLdExtra,
 };
 const pageJsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [webPageJsonLd];
 ---

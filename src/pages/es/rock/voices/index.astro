@@ -1,4 +1,5 @@
 ---
+import { rockJsonLd } from '../../../../data/rockJsonLd';
 import Layout from '../../../../layouts/Layout.astro';
 import Header from '../../../../components/Header.astro';
 import Footer from '../../../../components/Footer.astro';
@@ -53,7 +54,7 @@ const trail = [
 ];
 ---
 
-<Layout title="Voces de la Escena — Japonéson" description={`Testimonios de la escena del rock de Kitakyushu y Fukuoka: recuerdos y reflexiones de Seina, Dobb y el pionero del rock de Kitakyushu, Juntaro Fukuda.`} lang="es" ogImage="images/rock/voices-hero-crowd.jpg">
+<Layout title="Voces de la Escena — Japonéson" description={`Testimonios de la escena del rock de Kitakyushu y Fukuoka: recuerdos y reflexiones de Seina, Dobb y el pionero del rock de Kitakyushu, Juntaro Fukuda.`} lang="es" jsonLd={rockJsonLd({ lang: "es", path: "/es/rock/voices/", title: 'Voces de la Escena — Japonéson', description: `Testimonios de la escena del rock de Kitakyushu y Fukuoka: recuerdos y reflexiones de Seina, Dobb y el pionero del rock de Kitakyushu, Juntaro Fukuda.` })} ogImage="images/rock/voices-hero-crowd.jpg">
   <Header lang="es" />
   <main class="rock-main">
     <ProjectHero
