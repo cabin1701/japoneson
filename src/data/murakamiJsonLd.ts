@@ -7,7 +7,7 @@
 
 const SITE = 'https://japoneson.com';
 
-const ryu = {
+export const ryu = {
   '@type': 'Person',
   '@id': `${SITE}/#ryu-murakami`,
   name: 'Ryu Murakami',

@@ -5,7 +5,7 @@
 //   このドラマーと同じ人か確かめられなかったので、LCNAF と VIAF は入れていない。
 // Todd Bryant Weeks：典拠の ID が見つからなかったので、名前だけ。
 
-import { ngLaBanda, issacDelgado } from './murakamiJsonLd';
+import { ngLaBanda, issacDelgado, ryu } from './murakamiJsonLd';
 import { paul, mpl } from './dreamJsonLd';
 
 const gaskin = {
@@ -226,6 +226,35 @@ const sensojiVideo = {
   contentLocation: { '@type': 'Place', name: 'Sensō-ji, Tokyo' },
 };
 
+// From Ryu Murakami（/swing/dream/ryu/）。一次資料は、2000年5月の村上龍さんから Seina へのメールと、JMM の「From the Editor」（ページに全文）
+const glennMillerStory = {
+  '@type': 'Movie',
+  name: 'The Glenn Miller Story',
+  sameAs: ['http://www.wikidata.org/entity/Q698962'],
+};
+const ryuSources = (lang: 'en' | 'es') => [
+  {
+    '@type': 'Message',
+    sender: { '@id': ryu['@id'] },
+    recipient: seina,
+    dateSent: '2000-05',
+  },
+  {
+    '@type': 'Article',
+    name: 'From the Editor',
+    author: { '@id': ryu['@id'] },
+    datePublished: '2000-05',
+    isPartOf: { '@type': 'Periodical', name: 'JMM (Japan Mail Media)', editor: { '@id': ryu['@id'] } },
+    about: {
+      '@type': 'MusicAlbum',
+      description: "Seina's 1999 Christmas CD for nursing homes in the United States",
+      byArtist: seina,
+      url: `https://japoneson.com/${lang}/swing/dream/`,
+      track: ["I'll Walk Alone", 'Sentimental Journey', "It's Been a Long, Long Time", 'White Christmas'].map((name) => ({ '@type': 'MusicRecording', name })),
+    },
+  },
+];
+
 const pages = (lang: 'en' | 'es'): Record<string, Record<string, unknown>> => ({
   'swing/leonard-gaskin': {
     about: [gaskin, concert2008],
@@ -242,6 +271,7 @@ const pages = (lang: 'en' | 'es'): Record<string, Record<string, unknown>> => ({
     mentions: [cranshaw, leroyWilliams, johnColianni, gradyTate, sonnyRollins, gaskin, melTorme, kenPeplowski],
     citation: [memoryAlbum, sensojiVideo],
   },
+  'swing/dream/ryu': { about: [ryu], mentions: [glennMillerStory], citation: ryuSources(lang) },
   'swing/paul-mccartney': { about: [paul], mentions: [mpl] },
   'swing/for-the-boys': { about: [monica], mentions: [dannyKaye], citation: forTheBoysSources(lang) },
   'murakami/music/nueva-generacion': { about: [ngLaBanda], mentions: [issacDelgado] },
