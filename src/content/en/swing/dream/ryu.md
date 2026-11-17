@@ -34,3 +34,8 @@ I find it hard to believe that the meta-message of "an explanation that can be u
 
 May 2000  
 JMM (Japan Mail Media)
+
+<figure style="margin:1.8rem 0;text-align:center">
+  <img src="https://media.cabin1701.com/japoneson/swing/dream/ryu/jmm-weekly-report-p193.jpg" alt="Open page 193 (dated May 2000) and front cover of Ryu Murakami's book &quot;Damasarenai Tame ni, Watashi wa Keizai o Mananda (Weekly Report)&quot;, showing the original Japanese essay about the 1999 charity CD sent to US nursing homes." loading="lazy" style="width:100%;height:auto;max-width:720px" data-zoom />
+  <figcaption style="font-size:0.9em;margin-top:0.5rem">Original Japanese publication in Ryu Murakami's book <em>Damasarenai Tame ni, Watashi wa Keizai o Mananda: Weekly Report</em> (2002, p. 193), recording the May 2000 JMM essay.</figcaption>
+</figure>

@@ -34,3 +34,8 @@ Me resulta muy difícil creer que el metamensaje de "una explicación que pueda 
 
 Mayo de 2000  
  JMM (Japan Mail Media)
+
+<figure style="margin:1.8rem 0;text-align:center">
+  <img src="https://media.cabin1701.com/japoneson/swing/dream/ryu/jmm-weekly-report-p193.jpg" alt="Página 193 abierta (fechada en mayo de 2000) y portada del libro de Ryu Murakami &quot;Damasarenai Tame ni, Watashi wa Keizai o Mananda (Weekly Report)&quot;, que muestra el ensayo original en japonés sobre el CD benéfico de 1999 enviado a residencias de ancianos en EE. UU." loading="lazy" style="width:100%;height:auto;max-width:720px" data-zoom />
+  <figcaption style="font-size:0.9em;margin-top:0.5rem">Publicación original en japonés en el libro de Ryu Murakami <em>Damasarenai Tame ni, Watashi wa Keizai o Mananda: Weekly Report</em> (2002, p. 193), que recoge el ensayo de JMM de mayo de 2000.</figcaption>
+</figure>

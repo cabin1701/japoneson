@@ -232,6 +232,18 @@ const glennMillerStory = {
   name: 'The Glenn Miller Story',
   sameAs: ['http://www.wikidata.org/entity/Q698962'],
 };
+// JMM の文は、本にもなっている。出版年は国立国会図書館で確かめた（2002年4月、ISBN 4-14-080663-X）
+const weeklyReportBook = {
+  '@type': 'Book',
+  name: 'だまされないために、わたしは経済を学んだ : 村上龍 Weekly Report',
+  alternateName: 'Damasarenai Tame ni, Watashi wa Keizai o Mananda: Weekly Report',
+  author: { '@id': ryu['@id'] },
+  publisher: { '@type': 'Organization', name: '日本放送出版協会' },
+  datePublished: '2002-04-01',
+  isbn: '4-14-080663-X',
+  sameAs: ['https://ndlsearch.ndl.go.jp/books/R100000002-I000003058384'],
+  image: 'https://media.cabin1701.com/japoneson/swing/dream/ryu/jmm-weekly-report-p193.jpg',
+};
 const ryuSources = (lang: 'en' | 'es') => [
   {
     '@type': 'Message',
@@ -271,7 +283,11 @@ const pages = (lang: 'en' | 'es'): Record<string, Record<string, unknown>> => ({
     mentions: [cranshaw, leroyWilliams, johnColianni, gradyTate, sonnyRollins, gaskin, melTorme, kenPeplowski],
     citation: [memoryAlbum, sensojiVideo],
   },
-  'swing/dream/ryu': { about: [ryu], mentions: [glennMillerStory], citation: ryuSources(lang) },
+  'swing/dream/ryu': {
+    about: [ryu],
+    mentions: [glennMillerStory],
+    citation: [...ryuSources(lang), { '@type': 'Chapter', pagination: '193', isPartOf: weeklyReportBook, description: 'The May 2000 JMM essay, as printed in the book' }],
+  },
   'swing/paul-mccartney': { about: [paul], mentions: [mpl] },
   'swing/for-the-boys': { about: [monica], mentions: [dannyKaye], citation: forTheBoysSources(lang) },
   'murakami/music/nueva-generacion': { about: [ngLaBanda], mentions: [issacDelgado] },

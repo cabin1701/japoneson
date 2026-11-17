@@ -1,4 +1,5 @@
 ---
+import { korea24JsonLd } from '../../../../../data/korea24JsonLd';
 import Layout from '../../../../../layouts/Layout.astro';
 import Header from '../../../../../components/Header.astro';
 import Footer from '../../../../../components/Footer.astro';
@@ -15,7 +16,7 @@ const trail = [
 ];
 ---
 
-<Layout title="The 24th Infantry Division — Japonéson" description="June 25, 1950: North Korean forces cross the 38th parallel, Seoul falls in three days, and the 24th Infantry Division is the first sent out." lang="en" ogImage="images/mystery/hero_korea-24th.jpg">
+<Layout jsonLdExtra={korea24JsonLd} title="The 24th Infantry Division — Japonéson" description="June 25, 1950: North Korean forces cross the 38th parallel, Seoul falls in three days, and the 24th Infantry Division is the first sent out." lang="en" ogImage="images/mystery/hero_korea-24th.jpg">
   <Header lang="en" />
   <main>
     <ProjectHero
@@ -111,6 +112,11 @@ const trail = [
 
         <h2 class="sec-h sec-h-center">Excerpts from "General Dean's Story"<br />Written by William F. Dean</h2>
 
+        <figure class="book-cover">
+          <img src="https://media.cabin1701.com/japoneson/mystery/macarthur/korea-24th/general-deans-story-cover.jpg" alt="Cover of the book General Dean's Story, with a portrait of General William F. Dean above a red band with the title. A photo of Seina's own copy." loading="lazy" data-zoom />
+          <figcaption>Cover of <em>General Dean's Story</em> (as told to William L. Worden by William F. Dean, first published 1954). Seina's own copy, which she tracked down and ordered.</figcaption>
+        </figure>
+
         <h3 class="num-h">1. Moments on the Battlefield</h3>
 
         <p><strong>[The Reason for the Bazooka]</strong> "I wasn't a general then. I was just a soldier, and I wanted to show my men that these tanks weren't so tough. Even with our old equipment, I believed that showing them we could stand and fight was the only way to take the despair out of those young boys' eyes."</p>
@@ -143,6 +149,60 @@ const trail = [
   </main>
   <Footer lang="en" />
 </Layout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const triggers = document.querySelectorAll<HTMLImageElement>('img[data-zoom]');
+    if (!triggers.length) return;
+    const box = document.createElement('div');
+    box.className = 'letter-lightbox';
+    const big = document.createElement('img');
+    box.appendChild(big);
+    document.body.appendChild(box);
+    triggers.forEach((trigger) => {
+      trigger.addEventListener('click', () => {
+        big.src = trigger.currentSrc || trigger.src;
+        big.alt = trigger.alt;
+        box.classList.add('open');
+      });
+    });
+    box.addEventListener('click', () => box.classList.remove('open'));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') box.classList.remove('open');
+    });
+  });
+</script>
+
+<style is:global>
+  .letter-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.85);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+    padding: 2rem;
+  }
+  .letter-lightbox.open {
+    display: flex;
+  }
+  .letter-lightbox img {
+    max-width: 92vw;
+    max-height: 92vh;
+    width: auto;
+    height: auto;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+  }
+</style>
+
+<style>
+  .book-cover { margin: 1.5rem auto 2rem; max-width: 360px; text-align: center; }
+  .book-cover img { width: 100%; height: auto; cursor: zoom-in; border-radius: 4px; }
+  .book-cover figcaption { font-size: 0.9em; margin-top: 0.5rem; }
+</style>
+
 
 <style>
   .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
