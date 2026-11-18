@@ -3,7 +3,7 @@ title: "グアナボのカリーダ。と、心の味（sabor de corazon)"
 date: 2016-04-29
 lang: ja
 hero: "https://media.cabin1701.com/crystallize/2016/IMG_6992-e1558155235471.jpg"
-category: ["CRYSTALLIZE", "海外の旅・暮らし"]
+category: ["キューバ"]
 tags: ["キューバ"]
 draft: false
 sourceUrl: https://crystallize.jp/archives/11313

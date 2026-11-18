@@ -2,7 +2,7 @@
 title: "報告｜26年の執念｜ありがとうがやっと形になった"
 date: 2026-08-02
 lang: ja
-category: ["CRYSTALLIZE", "音楽"]
+category: ["キューバ"]
 tags: ["生き方・哲学", "キューバ", "村上龍"]
 hero: "https://media.cabin1701.com/blog/2026/08-02-cupie-danny-malecon.jpg"
 crystallize: true

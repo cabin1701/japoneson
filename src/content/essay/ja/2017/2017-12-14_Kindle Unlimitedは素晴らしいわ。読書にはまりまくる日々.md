@@ -3,7 +3,7 @@ title: "Kindle Unlimitedは素晴らしいわ。読書にはまりまくる日�
 date: 2017-12-14
 lang: ja
 hero: "https://media.cabin1701.com/crystallize/2017/04-e1511922028137.jpg"
-category: ["CRYSTALLIZE", "海外の旅・暮らし"]
+category: ["キューバ"]
 tags: ["キューバ"]
 draft: false
 sourceUrl: https://crystallize.jp/archives/12466
