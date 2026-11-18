@@ -164,7 +164,7 @@ const pageJsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [w
   </head>
   <body data-pagefind-filter={`lang:${lang}`}>
     <slot />
-    <JiiChat lang={lang} />
+    {lang !== 'ja' && <JiiChat lang={lang} />}
     <script is:inline>
       // Click a thumbnail to view it enlarged (simple lightbox).
       // Applies to the Press page and to any ".press-block" section on project pages.
