@@ -6,11 +6,11 @@ interface Crumb {
 }
 interface Props {
   trail: Crumb[];
-  lang?: 'en' | 'es';
+  lang?: 'en' | 'es' | 'ja';
 }
 const { trail, lang = 'en' } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const home = `${base}${lang}/`;
+const home = `${base}${lang === 'ja' ? 'en' : lang}/`;
 // 画面のパンくずと同じ中身を、構造化データ（BreadcrumbList）でも出す。
 // AI や検索エンジンに「どのセクションの中のページか」を伝えるため（2026-11-13）
 const abs = (p: string) => new URL(p, Astro.site).href;
@@ -18,10 +18,11 @@ const breadcrumbJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'HOME', item: abs(home) },
+    // 日本語は /ja/ のトップがないので HOME を出さず、めんたいロックから始める（2026-11-18）
+    ...(lang === 'ja' ? [] : [{ '@type': 'ListItem', position: 1, name: 'HOME', item: abs(home) }]),
     ...trail.map((c, i) => ({
       '@type': 'ListItem',
-      position: i + 2,
+      position: i + (lang === 'ja' ? 1 : 2),
       name: c.title,
       item: i === trail.length - 1 ? abs(Astro.url.pathname) : abs(c.path),
     })),
@@ -33,7 +34,7 @@ const breadcrumbJsonLd = {
 
 <nav class="breadcrumb" aria-label="Breadcrumb" data-pagefind-ignore>
   <ol>
-    <li><a href={home}>HOME</a></li>
+    {lang !== 'ja' && <li><a href={home}>HOME</a></li>}
     {trail.slice(0, -1).map((c) => (
       <li><a href={c.path}>{c.title}</a></li>
     ))}

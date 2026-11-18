@@ -79,7 +79,7 @@ const essay = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
-    lang: z.enum(['en', 'es']),
+    lang: z.enum(['en', 'es', 'ja']),
     excerpt: z.string().optional(),
     hero: z.string().optional(),
     category: z.array(z.string()).min(1).max(2).optional(),

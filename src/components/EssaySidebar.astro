@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 
 interface Props {
-  lang: 'en' | 'es';
+  lang: 'en' | 'es' | 'ja';
   currentId?: string;
 }
 
@@ -16,13 +16,15 @@ const recent = all
   .filter((p) => p.id !== currentId)
   .slice(0, 5);
 
-const slugOf = (id: string) => id.replace(/^(en|es)\//, '');
-const essayHref = lang === 'es' ? `${base}es/essay/` : `${base}en/essay/`;
+const slugOf = (id: string) => id.replace(/^(en|es|ja)\//, '');
+const essayHref = `${base}${lang}/essay/`;
 const searchHref = lang === 'es' ? `${base}es/search/` : `${base}en/search/`;
 
 const fmtDate = (d: Date) =>
   lang === 'es'
     ? `${String(d.getDate()).padStart(2, '0')}/${String(d.getMonth() + 1).padStart(2, '0')}/${d.getFullYear()}`
+    : lang === 'ja'
+    ? `${d.getFullYear()}/${String(d.getMonth() + 1).padStart(2, '0')}/${String(d.getDate()).padStart(2, '0')}`
     : `${String(d.getMonth() + 1).padStart(2, '0')}/${String(d.getDate()).padStart(2, '0')}/${d.getFullYear()}`;
 
 const labels = {
@@ -45,6 +47,16 @@ const labels = {
     search: 'Buscar',
     searchPlaceholder: 'Buscar ensayos…',
     searchButton: 'Buscar',
+  },
+  ja: {
+    recent: '最近の記事',
+    categories: 'カテゴリー',
+    tags: 'タグ',
+    archive: 'アーカイブ',
+    archivePick: '月を選択',
+    search: '検索',
+    searchPlaceholder: 'エッセイを検索…',
+    searchButton: '検索',
   },
 }[lang];
 
@@ -81,7 +93,7 @@ const archive = [...archMap.entries()].sort((a, b) => b[0].localeCompare(a[0]));
 const monthLabel = (key: string) => {
   const [y, m] = key.split('-');
   return new Date(Number(y), Number(m) - 1, 1).toLocaleDateString(
-    lang === 'es' ? 'es-ES' : 'en-US',
+    lang === 'es' ? 'es-ES' : lang === 'ja' ? 'ja-JP' : 'en-US',
     { month: 'long', year: 'numeric' }
   );
 };

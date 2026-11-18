@@ -1,12 +1,14 @@
 ---
 interface Props {
-  lang?: 'en' | 'es';
+  lang?: 'en' | 'es' | 'ja';
 }
 const { lang = 'en' } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const prefix = `${base}${lang}/`;
+// 日本語のページは Mentai Rock だけ。メニューは「めんたいROCK!!」と Essay だけ、言語のリンクは出さない（船長、2026-11-18）
+const prefix = `${base}${lang === 'ja' ? 'en' : lang}/`;
 const otherLang = lang === 'en' ? 'es' : 'en';
 const otherLangLabel = lang === 'en' ? 'Español' : 'English';
+const otherLangHref = `${base}${otherLang}/`;
 
 type NavItem = {
   label: string;
@@ -161,8 +163,23 @@ const nav: NavItem[] = [
   { label: 'Essay', labelEs: 'Ensayos', path: 'essay/' },
 ];
 
+const navJa: NavItem[] = nav
+  .filter((n) => n.path === 'rock/' || n.path === 'essay/')
+  .map((n) => (n.path === 'essay/' ? { ...n, label: 'エッセイ' } : n))
+  .map((n) => (n.path === 'rock/'
+    ? {
+        ...n,
+        label: 'めんたいROCK!!',
+        children: n.children?.map((c) => ({
+          ...c,
+          label: ({ 'rock/two-pillars/': '二つの柱', 'rock/voices/': 'はじまりの声', 'rock/takano/': 'ルースターズは特別光っとったんよ' } as Record<string, string>)[c.path ?? ''] ?? c.label,
+        })),
+      }
+    : n));
+
 function resolve(item: NavItem): string {
   if (item.href) return item.href;
+  if (lang === 'ja' && (item.path?.startsWith('rock/') || item.path === 'essay/')) return `${base}ja/${item.path}`;
   return item.path ? `${prefix}${item.path}` : '#';
 }
 
@@ -175,15 +192,15 @@ function label(item: NavItem): string {
 <header class="site-header" data-pagefind-ignore>
   <div class="header-inner">
     <div class="logo-row">
-      <a class="logo" href={prefix}>
+      <a class="logo" href={lang === 'ja' ? `${base}ja/rock/` : prefix}>
         <span class="logo-main">JAPONÉSON</span>
         <span class="logo-sub">Shoko "Seina" Shiraishi</span>
       </a>
-      <a class="lang-link" href={`${base}${otherLang}/`}>{otherLangLabel}</a>
+      {lang !== 'ja' && <a class="lang-link" href={otherLangHref}>{otherLangLabel}</a>}
     </div>
     <nav aria-label="Primary" class="primary-nav">
       <ul class="nav-root">
-        {nav.map((n) => (
+        {(lang === 'ja' ? navJa : nav).map((n) => (
           <li class={n.children ? 'has-sub' : ''}>
             <a href={resolve(n)}>
               {label(n)}{n.children && <span class="caret"> ▾</span>}

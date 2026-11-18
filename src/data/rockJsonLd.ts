@@ -83,8 +83,8 @@ const lp1981 = {
 };
 
 // 当事者の証言（オーラル・ヒストリー）。ページ内の場所を指す
-function oralHistories(lang: 'en' | 'es') {
-  const kind = lang === 'en' ? 'Oral history' : 'Historia oral';
+function oralHistories(lang: 'en' | 'es' | 'ja') {
+  const kind = lang === 'en' ? 'Oral history' : lang === 'es' ? 'Historia oral' : 'オーラル・ヒストリー';
   const v = `${SITE}/${lang}/rock/voices/`;
   const item = (name: string, url: string) => ({
     '@type': 'CreativeWork',
@@ -104,7 +104,7 @@ function oralHistories(lang: 'en' | 'es') {
   ];
 }
 
-export function rockJsonLd(opts: { lang: 'en' | 'es'; path: string; title: string; description: string }) {
+export function rockJsonLd(opts: { lang: 'en' | 'es' | 'ja'; path: string; title: string; description: string }) {
   const { lang, path, title, description } = opts;
   return {
     '@context': 'https://schema.org',

@@ -1,0 +1,461 @@
+---
+import { rockJsonLd } from '../../../../data/rockJsonLd';
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+interface KCard {
+  title: string;
+  image: string;
+  alt: string;
+  desc: string;
+  href: string;
+}
+
+const koreanWar: KCard[] = [
+  {
+    title: 'The Shadow of Kokura — The Black Soldiers',
+    image: IMG('2026/04/blacksoldiers-600x573.jpg'),
+    alt: 'The Black Soldiers',
+    desc: 'A quiet prayer for the soldiers who crossed the Kanmon Strait, and never came home.',
+    href: `${base}en/mystery/macarthur/korea-black-soldiers/`,
+  },
+  {
+    title: 'The 24th Infantry Division',
+    image: IMG('2026/04/TL-WINTER-13-D-1-600x600.jpg'),
+    alt: 'The 24th Infantry Division',
+    desc: 'For the boys who left Kyushu and never looked back—this is a prayer for what they carried.',
+    href: `${base}en/mystery/macarthur/korea-24th/`,
+  },
+  {
+    title: 'David Valley',
+    image: IMG('2026/04/IMG_2028-02-600x601.jpg'),
+    alt: 'David Valley',
+    desc: 'The last guardian of a fading era—who passed the invisible baton to a maverick from Japan.',
+    href: `${base}en/mystery/macarthur/david-valley/`,
+  },
+  {
+    title: 'Monica Lewis',
+    image: IMG('2026/04/korea1.jpg'),
+    alt: 'Monica Lewis',
+    desc: 'In 1951, my friend Ms. Monica Lewis (1922-2015) entertained "for the boys" who served in the Korean War with Danny Kaye.',
+    href: `${base}en/swing/for-the-boys/`,
+  },
+];
+
+const trail = [
+  { slug: 'rock', title: 'めんたいロック', path: `${base}ja/rock/` },
+  { slug: 'voices', title: 'はじまりの声', path: `${base}ja/rock/voices/` },
+];
+---
+
+<Layout title="はじまりの声 — Japonéson" description={`Eyewitness voices from the Kitakyushu and Fukuoka rock scene: memories and reflections from Seina, Dobb, and Kitakyushu rock pioneer Juntaro Fukuda.`} lang="ja" jsonLd={rockJsonLd({ lang: "ja", path: "/ja/rock/voices/", title: 'はじまりの声 — Japonéson', description: `Eyewitness voices from the Kitakyushu and Fukuoka rock scene: memories and reflections from Seina, Dobb, and Kitakyushu rock pioneer Juntaro Fukuda.` })} ogImage="images/rock/voices-hero-crowd.jpg">
+  <Header lang="ja" />
+  <main class="rock-main">
+    <ProjectHero
+      title="はじまりの声"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="60px"
+      titleColor="#e02a46"
+      image={`${base}images/rock/voices-hero-crowd.jpg`}
+      imageAlt={`The audience raising their hands in front of the stage at Takatoyama, Wakamatsu, Kitakyushu. Photo by FU.`}
+      align="center"
+      height={1000}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="ja" />
+    </div>
+
+    <div class="voice-cards">
+      <a class="voice-card" href="#seina">
+        <img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-seina.jpg`} alt={`Portrait of Shoko "Seina" Shiraishi`} loading="lazy" />
+        <div class="vc-body"><p class="vc-name">Seina</p><p class="vc-line">北九州からニューヨーク、ハバナへ ―― ジャズ歌手がめんたいロックを残す理由</p></div>
+      </a>
+      <a class="voice-card" href="#dobb">
+        <img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-dobb.jpg`} alt={`Portrait of Dobb, Kitakyushu rock historian and musician`} loading="lazy" />
+        <div class="vc-body"><p class="vc-name">Dobb</p><p class="vc-line">北九州のロックの歴史を知りたければ、彼に聞け。</p></div>
+      </a>
+      <a class="voice-card" href="#juntaro">
+        <img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-juntaro.jpg`} alt={`Portrait of Juntaro Fukuda, pioneer of Kitakyushu rock`} loading="lazy" />
+        <div class="vc-body"><p class="vc-name">福田純太郎</p><p class="vc-line">北九州のロックは純太郎から始まる。</p></div>
+      </a>
+    </div>
+
+    <section class="voice" id="seina">
+      <div class="voice-inner">
+        <div class="voice-photo"><img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-seina.jpg`} alt={`Portrait of Shoko "Seina" Shiraishi`} loading="lazy" /></div>
+        <div class="voice-text">
+          <h2 class="voice-name">セーナ</h2>
+          <p>はじめまして。</p>
+          <p>私は、ジャズ歌手です。北九州市で生まれ北九州市で育ちました。ロックを聴いていたのは16歳まで。その後は1930〜40年代のアメリカ音楽に憧れ、20代の殆どをニューヨークで過ごしました。2011年の夏、友人からシーナ＆ロケッツのコンサートチケットをもらいコンサートへ行きました。25年ぶりのロックでした。</p>
+          <p>シーナさんと鮎川さんの想いを、音を通じて感じました。</p>
+          <p>北九州で育った私は、歌謡曲やアイドルの次はめんたいロックを聴くのが当たり前だと思っていました。シーナ＆ザロケッツ、サンハウス、ルースターズ、ロッカーズは中学生の私にとって憧れのスターでした。</p>
+          <p>ここ北九州はROCKの街だと思う。</p>
+          <p>私は、ニューヨークで暮らしていたので色々な所で様々な音楽を聴いてきたと思います。JAZZはNYの土地と空気に時間と一緒に染み付いています。ニューヨークでのメトロポリタンオペラは本当に素晴らしいけど、土地や空気にちょっとした違和感を覚えます。</p>
+          <p>北九州にはROCKが染み付いています。</p>
+          <p>シナロケやルースターズを生で聞くと、この街ならではのブルースを感じます。若い子がめんたいをやる時、そこには先人のミュージシャンへの愛と敬意とブルースがありました。</p>
+          <p>鮎川さんが、久留米・福岡・北九州で育ててくれた「めんたいロック」は「福岡県」のブルース。あえてトップページのコピーは「福岡」という地名を使わせて頂きました。シカゴブルースやニューオリンズジャズのように「めんたいロック」（福岡のロック）という言葉と音楽がこれからも生き続けてほしいという思いでサイトのタイトルをつけました。</p>
+          <p>福岡の音楽を育んで下さった方々の協力を得ながら、福岡ならではのロックの歴史やエピソードなどを集めていければと思っています。</p>
+          <p>16歳の頃にロックから離れ、20歳でジャズを歌い始め、偉大なジャズミュージシャン、グレイディ・テイトやボブ・クランショウとの温かな人間的な交流に出会い、2014年からはキューバで暮らしました。私のルーツから最も離れた彼らの音楽を知る事により、ミュージシャンが無意識に発信するそれぞれの音楽の中にあるミュージシャンの育った環境のバックグランドから備わって行く本質に気付いた事がこのサイトを作るきっかけと原動力になりました。</p>
+          <p>音楽はユニバーサル言語。言葉を超えて多くの事を教えてくれます。</p>
+          <p>福岡・北九州で「めんたいロック」というブルースの火がこれからも灯り続けますように。</p>
+          <p class="voice-more"><a href={`${base}en/about/`}>About Shoko "Seina" Shiraishi →</a></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="voice" id="dobb">
+      <div class="voice-inner">
+        <div class="voice-photo"><img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-dobb.jpg`} alt={`Portrait of Dobb, Kitakyushu rock historian and musician`} loading="lazy" /></div>
+        <div class="voice-text">
+          <h2 class="voice-name">Dobb</h2>
+          <p>突然このサイトの話を彼女は持ってきた。まず感じたのは、作ろうと思った人の感性が今まで俺の周りの奴らとは違った。</p>
+          <p>彼女は「時代（めんたいが育った）を知らない人」でもあった。全く違う音楽ジャンルに居た彼女がどこかにピンと来て作ろうと思った所が面白いと思った。福岡でロックの中に居た俺たちは難しく考えすぎる気合もある。俺達には見えない物を彼女は見ているのかもしれない。</p>
+          <p>彼女との出会いは2011年に地元であったシーナさんと鮎川さんのトークショーだった。純太郎さんに連れられて、鮎川さん達と写真を撮ったりしてキャーキャー言っていた。人に臆せず馬鹿らしい事を言いながら、彼女の願いを確実にかなえて行く。その年から高塔山ジャムに来るようになり、打ち上げに来るようになった。彼女が言っていた「鮎川さんと乾杯したいの！」はすぐに現実となった(笑)。</p>
+          <p>「外から見たら、福岡のロック＝めんたいロックでしょ！外国人から見たら日本人は日本人！」彼女の観点は、いい意味で大きくて大雑把だ。確かに人はイメージから入り、徐々にディテールを知って行く。細かい所は俺達がサポートすればいい。</p>
+          <p>新しい風なのかもしれない。突然吹いた「つむじ風」。それが旋風となりめんたいロックを今の若い人に、いや、世界に広げるきっかけになるのかもしれない。</p>
+          <h3 class="voice-h3">プロフィール</h3>
+          <p>1958年北九州市若松生まれ。北九州から1986年にテイチクよりメジャーデビューしたNEW DOBBのベーシストで創始者である。その後もバンド活動と並行して、クロスFM(ドブのROCK塾)やFM福岡、KBCラジオなどでROCK番組のパーソナリティを務める。また、10年目を迎えた高塔山ジャムのプロデューサーでもある。地元出身のシーナ＆ロケッツやルースターズをはじめ、めんたいロックと称されるバンドのメンバーとは、同じ時代を過ごした仲間としての人脈は幅広い。現在、小倉駅前のTーJam Live& Barのプロデューサー、九州各地の高校での講演など、人材育成にも力を注ぐ。</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="voice" id="juntaro">
+      <div class="voice-inner">
+        <div class="voice-photo"><img src={`https://media.cabin1701.com/japoneson/rock/voices/voice-juntaro.jpg`} alt={`Portrait of Juntaro Fukuda, pioneer of Kitakyushu rock`} loading="lazy" /></div>
+        <div class="voice-text">
+          <h2 class="voice-name">福田純太郎（1946–2022）</h2>
+          <p>この話を聞いたとき、「こんな面倒くさい事をよくするな」と思った。</p>
+          <p>この子（セーナ）はどっかおらんと思ったら、アメリカ行っとったり、体当たりで世界の超一流のジャズミュージシャンと親しくなってサポートしてもらっていたり、いつも彼女の行動には予想がつかない。そんな彼女から突然、「めんたいロック」のサイトを立ち上げたいからと連絡があった。</p>
+          <p>俺にとって北九州のロックというと、南浩二（「人間クラブ」ルーズターズの前身のバンドのボーカリスト。2010年永眠。享年49歳）を思い出す。浩二が亡くなってから、家内も俺も心の中にぽっかり穴が空いていた。「めんたいロック」のサイトに協力する事で、浩二たちのロックを次の世代に残せるのなら天国の浩二もきっと喜ぶのかもしれない。</p>
+          <p>「めんたいロック」がなんなのかは俺たちの世代にはわからん。それを若い奴らが「めんたいロック」という呼ぶのなら、それもいい。俺たちを見てきた、柴山、鮎川が育んだ福岡のロックを次の世代に残そうとする、そんなプロジェクトも、悪くないとも思った。</p>
+          <h3 class="voice-h3">プロフィール</h3>
+          <p>1946年福岡生まれ。西南学院大学中退。大学浪人中ロックの世界に飛び込む。幻のバンド「バイキング（ヴァイキング）」に所属しベトナム戦争時の米軍キャンプ等で活動する。その後、「ラブマシーン」を経て「バイキング・バンド」を結成、その後上京するが事務所の売り出す方向性と合わずメジャーデビューを蹴り、やりたい音楽をする為に北九州に拠点を戻す。その後、「なしか」がプロ宣言した際にヴォーカリストとして参加。後縦靭帯骨化症を発症しステージで倒れる。その後は北九州市小倉でバーを経営し地元のミュージシャンを支え続けた。柴山俊之・鮎川誠の先輩にあたり、地元ミュージシャンに深くリスペクトされている人物。還暦祝いに友人井島正雄から曲を送られアルバム「My Own Ways」録音</p>
+          <p><em>2022年12月29日永眠。</em></p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  <Footer lang="ja" />
+</Layout>
+
+<style>
+  .voice-text .voice-h3 { font-family: var(--font-section); font-weight: 700; font-size: 20px; color: #020450; margin: 2rem 0 0.6rem; }
+  .voice-text p.voice-more a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .voice-cards { max-width: 1000px; margin: 1rem auto 2rem; padding: 0 1.25rem; display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .voice-card { display: block; text-decoration: none; color: inherit; background: #000; }
+  .voice-card img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: center top; display: block; }
+  .voice-card .vc-body { padding: 14px 16px 18px; }
+  .voice-card .vc-name { font-family: var(--font-display-cinzel); font-weight: 700; font-size: 22px; color: var(--color-accent); margin: 0 0 6px; }
+  .voice-card .vc-line { font-family: Helvetica, Arial, sans-serif; font-style: italic; font-size: 15px; line-height: 1.5; color: #eee; margin: 0; }
+  .voice-card:hover img { filter: brightness(1.1); }
+  @media (max-width: 640px) { .voice-cards { grid-template-columns: 1fr; } }
+  .voice { padding: 2.5rem 1.25rem; border-bottom: 1px solid #ccc; }
+  .voice-inner { max-width: 900px; margin: 0 auto; display: grid; grid-template-columns: 260px 1fr; gap: 2rem; align-items: start; }
+  .voice-photo { aspect-ratio: 4 / 5; background: #ddd; }
+  .voice-photo img { width: 100%; height: 100%; object-fit: cover; object-position: center top; display: block; }
+  .voice-name { font-family: var(--font-display-cinzel); font-weight: 700; font-size: 30px; color: var(--color-accent); margin: 0 0 1rem; }
+  .voice-text p { font-family: Helvetica, Arial, sans-serif; font-size: 17px; line-height: 1.75; color: #2a2a2a; }
+  @media (max-width: 640px) { .voice-inner { grid-template-columns: 1fr; } }
+  .industrial { padding: 0 1.25rem 2rem; }
+  .industrial .intro-inner p.ind-sub { font-family: var(--font-display-cinzel); font-weight: 600; font-size: 22px; color: #020450; text-align: center; margin: -0.8rem 0 0.8rem; }
+  .industrial .ind-h3 { font-family: var(--font-section); font-weight: 700; font-size: 22px; color: var(--color-accent); margin: 2rem 0 0.8rem; }
+  .ind-table-wrap { overflow-x: auto; margin: 0 0 1.5rem; }
+  .ind-table { width: 100%; border-collapse: collapse; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: #2a2a2a; }
+  .ind-table th { background: #020450; color: #fff; text-align: left; padding: 8px 10px; font-weight: 700; }
+  .ind-table td { border-bottom: 1px solid #ccc; padding: 10px; vertical-align: top; }
+  .ind-table tr:last-child td { background: rgba(224,42,70,0.08); }
+  .rock-maps { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 0 0 2rem; }
+  .rock-maps img { width: 100%; height: auto; display: block; }
+  @media (max-width: 640px) { .rock-maps { grid-template-columns: 1fr; } }
+  .intro-inner p.signature { text-align: right; font-style: italic; }
+  .rock-main { --color-accent: #e02a46; }
+  .motto { text-align: center; margin: 0.5rem auto 2rem; max-width: 760px; }
+  .intro-inner p.motto-ja { font-family: "Noto Sans JP", sans-serif; font-weight: 900; font-size: 20px; line-height: 1.5; color: #e02a46; margin: 0 0 0.8rem; }
+  .intro-inner p.motto-tr { font-family: var(--font-section); font-weight: 700; font-size: 25px; line-height: 1.4; color: #020450; margin: 0; }
+  @media (max-width: 640px) { .intro-inner p.motto-ja { font-size: 22px; } .intro-inner p.motto-tr { font-size: 18px; } }
+  :global(.p-hero .subtitle) { text-shadow: 0 0 6px rgba(0,0,0,0.9), 0 2px 4px rgba(0,0,0,0.9); }
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 2rem;
+  }
+  .intro-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+  }
+  .intro-inner p.dedication {
+    font-family: 'Akaya Telivigala', serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #020450;
+    text-align: center;
+    margin: 0.5rem auto 2rem;
+    max-width: 720px;
+  }
+
+  .intro-inner hr.navy-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.2rem 0;
+  }
+
+  .intro-inner h2.section-q {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    line-height: 1.3;
+    margin: 1rem 0 1.5rem;
+  }
+  .intro-inner p.sub-q {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0.3rem 0;
+  }
+  .intro-inner p.lead-quote {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #2a2a2a;
+    text-align: center;
+    max-width: 720px;
+    margin: 1.5rem auto 0;
+  }
+
+  .intro-inner em { font-style: italic; }
+  .intro-inner strong { font-weight: 400; color: var(--color-navy); }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a strong { color: inherit; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .war-block {
+    padding: 3rem 1.5rem 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .war-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 1rem 0 2rem;
+    letter-spacing: 0.03em;
+  }
+
+  .kw-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .kw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .kw-card:hover { transform: translateY(-2px); }
+  .kw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .kw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: filter 0.25s ease;
+  }
+  .kw-card:hover .kw-image img { filter: brightness(1.05); }
+  .kw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .kw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+
+  .pw-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .pw-card.pw-card-static { cursor: default; }
+  .pw-card.pw-card-static:hover { transform: none; }
+  .pw-card.pw-card-static:hover .pw-image img { filter: none; }
+  .pw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .pw-card:hover { transform: translateY(-2px); }
+  .pw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .pw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .pw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .pw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+  hr.section-divider {
+    border: none;
+    border-top: 6px solid #8a8b6a;
+    max-width: 1280px;
+    margin: 1rem auto;
+    opacity: 0.7;
+  }
+
+  .memorials {
+    padding: 3rem 1.5rem 4rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .mem-tagline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0 0 3rem;
+  }
+
+  .mem-item {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 2.5rem;
+    margin: 0 0 4rem;
+    align-items: start;
+  }
+  .mem-item.mem-item-reverse {
+    grid-template-columns: 1fr 320px;
+  }
+  .mem-item.mem-item-reverse .mem-image { order: 2; }
+  .mem-item.mem-item-reverse .mem-body { order: 1; }
+
+  .mem-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+  .mem-body p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .mem-body a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .mem-body a:hover { color: var(--color-navy); }
+  .mem-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 22px;
+    color: var(--color-accent);
+    margin: 0 0 1.2rem;
+    letter-spacing: 0.02em;
+  }
+  .mem-sub {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 17px;
+    color: var(--color-navy);
+    margin: 1.8rem 0 0.6rem;
+    letter-spacing: 0.04em;
+  }
+  .mem-links {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #2a2a2a;
+    padding-left: 1.2rem;
+    margin: 0 0 1.2rem;
+  }
+  .mem-aux {
+    margin: 1rem 0 0;
+    max-width: 360px;
+  }
+  .mem-aux img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+
+  @media (max-width: 900px) {
+    .kw-grid { grid-template-columns: repeat(2, 1fr); }
+    .pw-grid { grid-template-columns: 1fr; }
+    .mem-item,
+    .mem-item.mem-item-reverse {
+      grid-template-columns: 1fr;
+    }
+    .mem-item.mem-item-reverse .mem-image { order: 0; }
+    .mem-item.mem-item-reverse .mem-body { order: 0; }
+  }
+  @media (max-width: 600px) {
+    .kw-grid { grid-template-columns: 1fr; }
+    .intro-inner h2.section-q { font-size: 26px; }
+    .war-title { font-size: 28px; }
+  }
+</style>

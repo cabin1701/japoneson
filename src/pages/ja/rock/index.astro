@@ -1,0 +1,482 @@
+---
+import { rockJsonLd } from '../../../data/rockJsonLd';
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import Breadcrumb from '../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const IMG = (p: string) => `/images/wp/${p}`;
+
+interface KCard {
+  title: string;
+  image: string;
+  alt: string;
+  desc: string;
+  href: string;
+}
+
+const koreanWar: KCard[] = [
+  { title: 'Seina', image: `https://media.cabin1701.com/japoneson/rock/voices/voice-seina.jpg`, alt: `Portrait of Shoko "Seina" Shiraishi`, desc: '北九州からニューヨーク、ハバナへ ―― ジャズ歌手がめんたいロックを残す理由', href: `${base}ja/rock/voices/#seina` },
+  { title: 'Dobb', image: `https://media.cabin1701.com/japoneson/rock/voices/voice-dobb.jpg`, alt: `Portrait of Dobb, Kitakyushu rock historian and musician`, desc: '北九州のロックの歴史を知りたければ、彼に聞け。', href: `${base}ja/rock/voices/#dobb` },
+  { title: '福田純太郎', image: `https://media.cabin1701.com/japoneson/rock/voices/voice-juntaro.jpg`, alt: `Portrait of Juntaro Fukuda, pioneer of Kitakyushu rock`, desc: '北九州のロックは純太郎から始まる。', href: `${base}ja/rock/voices/#juntaro` },
+  { title: '高野敬市', image: `https://media.cabin1701.com/japoneson/rock/takano/takano.jpg`, alt: `Portrait of Keiichi Takano`, desc: 'ルースターズは特別光っとったんよ', href: `${base}ja/rock/takano/` },
+];
+
+const trail = [
+  { slug: 'rock', title: 'めんたいロック', path: `${base}ja/rock/` },
+];
+---
+
+<Layout title="めんたいロック — Japonéson" description={`Born in the smoke and steel of Kitakyushu, "Mentai Rock" is Japan's rawest industrial blues: Sheena & The Rokkets, The Roosters, and eyewitness voices.`} lang="ja" jsonLd={rockJsonLd({ lang: "ja", path: "/ja/rock/", title: 'めんたいロック — Japonéson', description: `Born in the smoke and steel of Kitakyushu, "Mentai Rock" is Japan's rawest industrial blues: Sheena & The Rokkets, The Roosters, and eyewitness voices.` })} ogImage="images/rock/hero.jpg">
+  <Header lang="ja" />
+  <main class="rock-main">
+    <ProjectHero
+      title="めんたいロック"
+      subtitle={"インダストリアル・ブルース\nデトロイトから北九州へ"}
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="60px"
+      titleColor="#e02a46"
+      image={`${base}images/rock/hero.jpg`}
+      imageAlt={`Sheena and Makoto Ayukawa of Sheena & The Rokkets performing live on stage. Photo by FU.`}
+      align="center"
+      height={1000}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="ja" />
+    </div>
+
+    <section class="intro">
+      <div class="intro-inner">
+        <div class="motto">
+          <p class="motto-ja">「福岡は日本のリバプールやけんね！やっぱ、めんたいやらんといけんやろ！」</p>
+          <p class="motto-tr">"Fukuoka is the Liverpool of Japan, you know—so we've gotta keep Mentai alive!"</p>
+        </div>
+
+        <hr class="navy-rule" />
+
+        <h2 class="section-q">めんたいロックとは</h2>
+        <p class="sub-q"><em>ピリッと辛子の効いた<br />甘くないビートの効いた男くさいロック</em></p>
+
+        <hr class="navy-rule" />
+
+        <div class="rock-maps">
+          <img src={`https://media.cabin1701.com/japoneson/rock/map-fukuoka-en.svg`} alt="Map of Fukuoka Prefecture, Japan, showing Fukuoka City and Kitakyushu." loading="lazy" />
+          <img src={`https://media.cabin1701.com/japoneson/rock/map-england-en.svg`} alt="Map of North West England, UK, showing Liverpool and Manchester." loading="lazy" />
+        </div>
+
+        <p>
+          「めんたいロック」は60年代のブリティッシュインベンションの頃のビートの影響を強く受けている。
+        </p>
+
+        <p>
+          よく昔から博多（福岡市）はビートルズ、エルヴィス・コステロ、エコー＆バニーメン、バッドフィンガーなどが生まれた都市リバプールに例えられ、北九州市はニュー・オーダー、ザ・スミス、ザ・ストーン・ローゼズ、オアシスといったバンドが生れた都市マンチェスターと例えられた。
+        </p>
+
+        <p>
+          大きな目で見ると同じ「福岡県」ではあるが「福岡市」と「北九州市」は全く異なったカラーをもった都市である。関東で言えば「横浜市」と「川崎市」の様に都市の持つイメージや特質、経済を支える産業は全く違う。福岡市は横浜市に当たり商業でにぎわう都市、北九州市は川崎市に当たり工業地帯として栄えブルーカラー（労働者）の街である。
+        </p>
+
+        <p>
+          この二つの都市の背景は其々の街で生れた「音」や「スタイル」に影響を与えている。
+        </p>
+
+        <p>
+          何をもって「めんたいロック」というか。<br />福岡県内では物議を醸す。
+        </p>
+
+        <p>
+          1970から1980年代初頭にかけて福岡県で生れたロックが一般的に「めんたいロック」と言われているのだろう。1970年代に柴山俊之が福岡で鮎川誠らと結成したサンハウスが「めんたいロック」の源流であると多くの人が考えている。
+        </p>
+
+        <p>
+          1975年にサンハウスはメジャーデビューし、その後続々と福岡のロックバンドがメジャーデビューを果たした。（シーナ&ザロケッツ（1978デビュー）、ARB（1978年デビュー）、ロッカーズ（1980年デビュー）、ルースターズ（1980年デビュー）、THE MODS（1981年デビュー））。
+        </p>
+
+        <p>
+          「めんたいロック」という言葉はルースターズデビューの頃に生れた言葉だという説が強い。その為、どのバンドを「めんたいロックバンド」というかは議論になる事もある。
+        </p>
+
+        <p>
+          しかし、全国的には「福岡のロック」の総称として「めんたいロック」と呼ぶ人も少なくない。
+        </p>
+
+        <p class="signature">— <a href={`${base}ja/rock/voices/#dobb`}>Dobb</a></p>
+      </div>
+    </section>
+
+    <a class="pillars-band" href={`${base}ja/rock/two-pillars/`}>
+      <img src={`${base}images/rock/pillars-hero.jpg`} alt={`Makoto Ayukawa holding his Gibson Les Paul backstage beside a Sheena & The Rokkets T-shirt. Photo by FU.`} loading="lazy" />
+      <div class="pb-text">
+        <p class="pb-title">二つの柱</p>
+        <p class="pb-sub">シーナ＆ザ・ロケッツとザ・ルースターズ</p>
+      </div>
+    </a>
+
+    <section class="industrial">
+      <div class="intro-inner">
+        <hr class="navy-rule" />
+        <h2 class="section-q">インダストリアル・ブルース</h2>
+        <p class="ind-sub">デトロイトから北九州へ</p>
+        <p class="sub-q"><em>なぜ最も剥き出しのロックンロールは、八幡の煙の中から生まれたのか</em></p>
+        <h3 class="ind-h3">比較構造：重工業と世界の音楽的ルーツ</h3>
+        <div class="ind-table-wrap">
+          <table class="ind-table">
+            <thead><tr><th>都市・地域</th><th>基幹産業</th><th>音楽的起源</th><th>リズムのアイデンティティと土壌</th></tr></thead>
+            <tbody>
+              <tr><td><strong>デトロイト</strong> <em>（アメリカ／中西部）</em></td><td>自動車産業（フォード、GM、クライスラー）</td><td>モータウン <em>（Motor Town）</em>＆プロト・パンク <em>（MC5、ザ・ストゥージズ）</em></td><td>組み立てラインの精密さとスピリチュアルな魂の融合。工業都市の中で鍛え上げられた、駆動力のある妥協なきバックビート。</td></tr>
+              <tr><td><strong>シカゴ</strong> <em>（アメリカ／中西部）</em></td><td>食肉加工、鉄鋼、鉄道ハブ（グレート・マイグレーションの終着地）</td><td>シカゴ・ブルース <em>（チェス・レコード）</em></td><td>南部デルタのアコースティックなルーツが、エレクトリックな反骨精神へと増幅。都市と重工業の重みを響かせる、重厚で引きずるようなシャッフル。</td></tr>
+              <tr><td><strong>バーミンガム</strong> <em>（イギリス／ミッドランズ）</em></td><td>鉄鋼、鋳造、重金属加工（産業革命の心臓部）</td><td>ヘヴィメタル <em>（ブラック・サバス）</em></td><td>労働者の鋳物の街から生まれた、金属的で叩きつけるようなギターリフ。暗く重いグルーヴ。</td></tr>
+              <tr><td><strong>マンチェスター</strong> <em>（イギリス／北部）</em></td><td>綿紡績工場、倉庫、ポスト工業化の衰退</td><td>ポスト・パンク <em>（ジョイ・ディヴィジョン）</em>＆マッドチェスター</td><td>変わりゆくポスト工業都市の風景から生まれた、張りつめた切迫したリズムと、洞窟のような音の空間。</td></tr>
+              <tr><td><strong>北九州</strong> <em>（日本／関門・筑豊）</em></td><td>八幡製鐵所、炭鉱（日本の近代工業の発祥の地）</td><td>めんたいロック <em>（地域のブルース／ガレージ・ロック）</em></td><td>ブルース、リズム＆ブルース、ロックンロール、ガレージ・ロックを、飾りを削ぎ落として混ぜ合わせた、この地域のシーンの音。</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <h3 class="ind-h3">1. 煙と鉄の普遍的なリズム</h3>
+        <p>
+          本物のルーツ・ミュージックは、洗練されたサロンから始まることはめったにない。それは工場の街、鉄道の沿線、港の波止場から育つ。重工業、人の移動、クラブ、レコード店が、ミュージシャンの出会いと創作を形づくる場所だ。20世紀を通じて、重労働の環境は、デトロイトの自動車工場からイギリスの工業都市まで、何度も剥き出しの音楽のムーブメントを生んできた。
+        </p>
+        <h3 class="ind-h3">2. 八幡：近代日本の工業の中心地</h3>
+        <p>
+          1901年に操業を始めた官営八幡製鐵所は、筑豊の炭田と関門の航路につながり、北九州を近代日本の主要な工業地帯の一つへと変えた。煙と鉄と手仕事の下で、この土地ならではの気質が生まれた。我慢強く、反骨的で、地に足のついた気質だ。
+        </p>
+        <h3 class="ind-h3">3. 「めんたいロック」とは：地方からの逆流</h3>
+        <p>
+          1970年代から80年代、日本の商業音楽産業は東京に大きく集中していた。その中で、福岡と北九州には独自の地域の流れが育ち、のちに「めんたいロック」と結びつけて呼ばれるようになった。サンハウス、シーナ＆ザ・ロケッツ、ザ・ルースターズといったバンドは、ブルース、リズム＆ブルース、ロックンロール、パンク、ガレージ・ロックを取り込み、自分たちの地域のシーンの切迫感を通して、それを作り変えた。
+        </p>
+        <h3 class="ind-h3">4. 証言者の視座：一周して戻った円</h3>
+        <p>
+          この音楽にじかに触れ、その後ニューヨークとハバナの音楽の世界で暮らしたセーナは、太平洋とカリブ海の向こうから振り返り、めんたいロックを西洋のロックの単なる模倣としてではなく、北九州によって形づくられた地域の変容として読む。
+        </p>
+        <p class="signature">— G・Vega（AI、Gemini）</p>
+      </div>
+    </section>
+
+
+
+    <hr class="section-divider" />
+
+    <section class="war-block">
+      <h2 class="war-title">はじまりの声</h2>
+      <div class="kw-grid">
+        {koreanWar.map((c) => (
+          <a class="kw-card" href={c.href}>
+            <div class="kw-image"><img src={c.image} alt={c.alt} loading="lazy" /></div>
+            <h3 class="kw-cardtitle">{c.title}</h3>
+            <p class="kw-desc">{c.desc}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <hr class="section-divider" />
+
+  </main>
+  <Footer lang="ja" />
+</Layout>
+
+<style>
+  .pillars-band { position: relative; display: block; height: 420px; margin: 1rem 0 0; overflow: hidden; text-decoration: none; background: #000; }
+  .pillars-band img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; opacity: 0.75; transition: opacity 0.3s; }
+  .pillars-band:hover img { opacity: 0.9; }
+  .pillars-band .pb-text { position: relative; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; padding: 0 1.25rem; }
+  .pillars-band .pb-title { font-family: var(--font-display-cinzel); font-weight: 700; font-size: 52px; color: #e02a46; margin: 0; text-shadow: 0 0 8px rgba(0,0,0,0.9); }
+  .pillars-band .pb-sub { font-family: var(--font-display-cinzel); font-size: 20px; color: #fff; margin: 0.6rem 0 0; max-width: 760px; text-shadow: 0 0 6px rgba(0,0,0,0.9), 0 2px 4px rgba(0,0,0,0.9); }
+  @media (max-width: 640px) { .pillars-band { height: 300px; } .pillars-band .pb-title { font-size: 34px; } .pillars-band .pb-sub { font-size: 16px; } }
+  .industrial { padding: 0 1.25rem 2rem; }
+  .industrial .intro-inner p.ind-sub { font-family: var(--font-display-cinzel); font-weight: 600; font-size: 22px; color: #020450; text-align: center; margin: -0.8rem 0 0.8rem; }
+  .industrial .ind-h3 { font-family: var(--font-section); font-weight: 700; font-size: 22px; color: var(--color-accent); margin: 2rem 0 0.8rem; }
+  .ind-table-wrap { overflow-x: auto; margin: 0 0 1.5rem; }
+  .ind-table { width: 100%; border-collapse: collapse; font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: #2a2a2a; }
+  .ind-table th { background: #020450; color: #fff; text-align: left; padding: 8px 10px; font-weight: 700; }
+  .ind-table td { border-bottom: 1px solid #ccc; padding: 10px; vertical-align: top; }
+  .ind-table tr:last-child td { background: rgba(224,42,70,0.08); }
+  .rock-maps { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 0 0 2rem; }
+  .rock-maps img { width: 100%; height: auto; display: block; }
+  @media (max-width: 640px) { .rock-maps { grid-template-columns: 1fr; } }
+  .intro-inner p.signature { text-align: right; font-style: italic; }
+  .rock-main { --color-accent: #e02a46; }
+  .motto { text-align: center; margin: 0.5rem auto 2rem; max-width: 760px; }
+  .intro-inner p.motto-ja { font-family: "Noto Sans JP", sans-serif; font-weight: 900; font-size: 20px; line-height: 1.5; color: #e02a46; margin: 0 0 0.8rem; }
+  .intro-inner p.motto-tr { font-family: var(--font-section); font-weight: 700; font-size: 25px; line-height: 1.4; color: #020450; margin: 0; }
+  @media (max-width: 640px) { .intro-inner p.motto-ja { font-size: 22px; } .intro-inner p.motto-tr { font-size: 18px; } }
+  :global(.p-hero .subtitle) { text-shadow: 0 0 6px rgba(0,0,0,0.9), 0 2px 4px rgba(0,0,0,0.9); }
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+
+  .intro {
+    background: var(--color-bg);
+    padding: 3rem 1.5rem 2rem;
+  }
+  .intro-inner {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .intro-inner p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.3rem;
+  }
+  .intro-inner p.dedication {
+    font-family: 'Akaya Telivigala', serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #020450;
+    text-align: center;
+    margin: 0.5rem auto 2rem;
+    max-width: 720px;
+  }
+
+  .intro-inner hr.navy-rule {
+    border: none;
+    border-top: 1px solid #999;
+    opacity: 0.5;
+    margin: 2.2rem 0;
+  }
+
+  .intro-inner h2.section-q {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 28px;
+    color: var(--color-accent);
+    text-align: center;
+    line-height: 1.3;
+    margin: 1rem 0 1.5rem;
+  }
+  .intro-inner p.sub-q {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0.3rem 0;
+  }
+  .intro-inner p.lead-quote {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #2a2a2a;
+    text-align: center;
+    max-width: 720px;
+    margin: 1.5rem auto 0;
+  }
+
+  .intro-inner em { font-style: italic; }
+  .intro-inner strong { font-weight: 400; color: var(--color-navy); }
+  .intro-inner a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .intro-inner a strong { color: inherit; }
+  .intro-inner a:hover { color: var(--color-navy); }
+
+  .war-block {
+    padding: 3rem 1.5rem 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .war-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 30px;
+    color: var(--color-accent);
+    text-align: center;
+    margin: 1rem 0 2rem;
+    letter-spacing: 0.03em;
+  }
+
+  .kw-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .kw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .kw-card:hover { transform: translateY(-2px); }
+  .kw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .kw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: filter 0.25s ease;
+  }
+  .kw-card:hover .kw-image img { filter: brightness(1.05); }
+  .kw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .kw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+
+  .pw-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem 2.5rem;
+  }
+  .pw-card.pw-card-static { cursor: default; }
+  .pw-card.pw-card-static:hover { transform: none; }
+  .pw-card.pw-card-static:hover .pw-image img { filter: none; }
+  .pw-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+    transition: transform 0.25s ease;
+  }
+  .pw-card:hover { transform: translateY(-2px); }
+  .pw-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    margin: 0 auto 1rem;
+    max-width: 240px;
+  }
+  .pw-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .pw-cardtitle {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .pw-desc {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #444;
+    margin: 0;
+  }
+  hr.section-divider {
+    border: none;
+    border-top: 6px solid #8a8b6a;
+    max-width: 1280px;
+    margin: 1rem auto;
+    opacity: 0.7;
+  }
+
+  .memorials {
+    padding: 3rem 1.5rem 4rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .mem-tagline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--color-navy);
+    text-align: center;
+    margin: 0 0 3rem;
+  }
+
+  .mem-item {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 2.5rem;
+    margin: 0 0 4rem;
+    align-items: start;
+  }
+  .mem-item.mem-item-reverse {
+    grid-template-columns: 1fr 320px;
+  }
+  .mem-item.mem-item-reverse .mem-image { order: 2; }
+  .mem-item.mem-item-reverse .mem-body { order: 1; }
+
+  .mem-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+  }
+  .mem-body p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.75;
+    color: #2a2a2a;
+    margin: 0 0 1.2rem;
+  }
+  .mem-body a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .mem-body a:hover { color: var(--color-navy); }
+  .mem-title {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 22px;
+    color: var(--color-accent);
+    margin: 0 0 1.2rem;
+    letter-spacing: 0.02em;
+  }
+  .mem-sub {
+    font-family: var(--font-display-cinzel);
+    font-weight: 600;
+    font-size: 17px;
+    color: var(--color-navy);
+    margin: 1.8rem 0 0.6rem;
+    letter-spacing: 0.04em;
+  }
+  .mem-links {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #2a2a2a;
+    padding-left: 1.2rem;
+    margin: 0 0 1.2rem;
+  }
+  .mem-aux {
+    margin: 1rem 0 0;
+    max-width: 360px;
+  }
+  .mem-aux img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+
+  @media (max-width: 900px) {
+    .kw-grid { grid-template-columns: repeat(2, 1fr); }
+    .pw-grid { grid-template-columns: 1fr; }
+    .mem-item,
+    .mem-item.mem-item-reverse {
+      grid-template-columns: 1fr;
+    }
+    .mem-item.mem-item-reverse .mem-image { order: 0; }
+    .mem-item.mem-item-reverse .mem-body { order: 0; }
+  }
+  @media (max-width: 600px) {
+    .kw-grid { grid-template-columns: 1fr; }
+    .intro-inner h2.section-q { font-size: 26px; }
+    .war-title { font-size: 28px; }
+  }
+</style>

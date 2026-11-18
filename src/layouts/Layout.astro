@@ -5,7 +5,7 @@ import { FEEDS } from '../lib/feed';
 interface Props {
   title?: string;
   description?: string;
-  lang?: 'en' | 'es';
+  lang?: 'en' | 'es' | 'ja';
   /** SNS プレビューに出す画像。そのページの hero を渡す。省略時はトップの hero */
   ogImage?: string;
   /** ページ固有の JSON-LD（schema.org）。渡した時は、自動で出す WebPage の代わりにこれを出す。エッセイ（Article）で使う */
@@ -46,14 +46,20 @@ const ogImageURL = /^https?:\/\//.test(ogImageRaw)
 // ここで en → /en/ と宣言すると英語版が2つある状態を自分で作ってしまうため。
 // /en/ か /es/ の下にいる時だけ、両方を指す。
 const path = Astro.url.pathname;
-const langMatch = path.match(/^\/(en|es)(\/|$)/);
-const barePath = langMatch ? path.replace(/^\/(en|es)/, '') || '/' : null;
-const altUrls = barePath
+const langMatch = path.match(/^\/(en|es|ja)(\/|$)/);
+const barePath = langMatch ? path.replace(/^\/(en|es|ja)/, '') || '/' : null;
+// 日本語は Mentai Rock（/ja/rock/）だけにある（2026-11-18）。rock のページの時だけ ja も指す
+const hasJa = !!barePath && barePath.startsWith('/rock/');
+// 日本語のエッセイ（/ja/essay/）には英語版・スペイン語版がないので、hreflang を出さない
+const altUrls = barePath && (langMatch?.[1] !== 'ja' || hasJa)
   ? {
       en: new URL('/en' + barePath, Astro.site).href,
       es: new URL('/es' + barePath, Astro.site).href,
+      ja: hasJa ? new URL('/ja' + barePath, Astro.site).href : null,
     }
   : null;
+const ogLocale = { en: 'en_US', es: 'es_ES', ja: 'ja_JP' } as const;
+const ogAlternates = altUrls ? (['en', 'es', 'ja'] as const).filter((l) => l !== lang && (l !== 'ja' || hasJa)) : [];
 
 // トップページにだけ Person を出す。
 // @id は cabin1701.com 側と同じ値を使う。別々の人物として2人分作らないため
@@ -115,11 +121,12 @@ const pageJsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [w
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
     <link rel="canonical" href={canonicalURL} />
     {markdown && <link rel="alternate" type="text/markdown" href={`${canonicalURL.href.replace(/\/$/, '')}.md`} />}
-    <link rel="alternate" type="application/rss+xml" title={FEEDS[lang].title} href={FEEDS[lang].href} />
+    {lang !== 'ja' && <link rel="alternate" type="application/rss+xml" title={FEEDS[lang].title} href={FEEDS[lang].href} />}
     {altUrls && (
       <>
         <link rel="alternate" hreflang="en" href={altUrls.en} />
         <link rel="alternate" hreflang="es" href={altUrls.es} />
+        {altUrls.ja && <link rel="alternate" hreflang="ja" href={altUrls.ja} />}
         <link rel="alternate" hreflang="x-default" href={altUrls.en} />
       </>
     )}
@@ -141,10 +148,8 @@ const pageJsonLdList = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [w
       OGP を読む側向けで、別々に要る。2026-08-02 まで一つも出ていなかった。
       /en /es の下にいる時だけ alternate も出す（ルート / は対にならないため）。
     */}
-    <meta property="og:locale" content={lang === 'es' ? 'es_ES' : 'en_US'} />
-    {altUrls && (
-      <meta property="og:locale:alternate" content={lang === 'es' ? 'en_US' : 'es_ES'} />
-    )}
+    <meta property="og:locale" content={ogLocale[lang]} />
+    {ogAlternates.map((l) => <meta property="og:locale:alternate" content={ogLocale[l]} />)}
     <meta property="og:site_name" content="Japonéson" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
