@@ -87,6 +87,9 @@ const articleLd = {
 
   <div class="post-shell">
     <article class="post">
+      {post.data.crystallize && (
+        <p class="origin-note">この記事は、2014年からアロマショップ CRYSTALLIZE のブログに書いてきたものです。キューバでの暮らしの記録として、ここに移しました。</p>
+      )}
       <div class="post-body">
         <Content />
       </div>
@@ -268,6 +271,13 @@ const articleLd = {
 
   .post { min-width: 0; }
 
+  .origin-note {
+    font-size: 0.9rem;
+    color: var(--muted, #888);
+    border-left: 3px solid currentColor;
+    padding: 0.4rem 0 0.4rem 0.9rem;
+    margin: 0 0 2rem;
+  }
   .post-body {
     font-family: var(--font-body);
     font-size: 17px;

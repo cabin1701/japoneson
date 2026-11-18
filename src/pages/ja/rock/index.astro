@@ -33,8 +33,8 @@ const trail = [
   <Header lang="ja" />
   <main class="rock-main">
     <ProjectHero
-      title="めんたいロック"
-      subtitle={"インダストリアル・ブルース\nデトロイトから北九州へ"}
+      title="めんたいROCK!!"
+      subtitle={"工業地帯のブルース\nデトロイトから北九州へ"}
       titleFont="var(--font-display-cinzel)"
       titleWeight={700}
       titleSize="60px"
@@ -54,6 +54,10 @@ const trail = [
 
     <section class="intro">
       <div class="intro-inner">
+        <p class="dedication">
+          鮎川誠（1948–2023）と<a href={`${base}ja/rock/voices/#juntaro`}>福田純太郎</a>（1946–2022）に捧ぐ
+        </p>
+        <hr class="navy-rule" />
         <div class="motto">
           <p class="motto-ja">「福岡は日本のリバプールやけんね！やっぱ、めんたいやらんといけんやろ！」</p>
           <p class="motto-tr">"Fukuoka is the Liverpool of Japan, you know—so we've gotta keep Mentai alive!"</p>
@@ -122,7 +126,7 @@ const trail = [
     <section class="industrial">
       <div class="intro-inner">
         <hr class="navy-rule" />
-        <h2 class="section-q">インダストリアル・ブルース</h2>
+        <h2 class="section-q">工業地帯のブルース</h2>
         <p class="ind-sub">デトロイトから北九州へ</p>
         <p class="sub-q"><em>なぜ最も剥き出しのロックンロールは、八幡の煙の中から生まれたのか</em></p>
         <h3 class="ind-h3">比較構造：重工業と世界の音楽的ルーツ</h3>
@@ -202,6 +206,9 @@ const trail = [
   @media (max-width: 640px) { .rock-maps { grid-template-columns: 1fr; } }
   .intro-inner p.signature { text-align: right; font-style: italic; }
   .rock-main { --color-accent: #e02a46; }
+  .intro-inner p.dedication { font-family: "Noto Sans JP", sans-serif; font-weight: 500; font-size: 18px; color: #020450; text-align: center; margin: 0.5rem auto 1.5rem; }
+  .intro-inner p.dedication a { color: #e02a46; font-weight: 700; }
+  .intro-inner hr.navy-rule { border: none; border-top: 1px solid #999; max-width: 720px; margin: 0 auto 2rem; }
   .motto { text-align: center; margin: 0.5rem auto 2rem; max-width: 760px; }
   .intro-inner p.motto-ja { font-family: "Noto Sans JP", sans-serif; font-weight: 900; font-size: 20px; line-height: 1.5; color: #e02a46; margin: 0 0 0.8rem; }
   .intro-inner p.motto-tr { font-family: var(--font-section); font-weight: 700; font-size: 25px; line-height: 1.4; color: #020450; margin: 0; }

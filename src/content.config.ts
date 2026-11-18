@@ -85,6 +85,8 @@ const essay = defineCollection({
     category: z.array(z.string()).min(1).max(2).optional(),
     tags: z.array(z.string()).optional(),
     author: z.string().optional(),
+    // 元は CRYSTALLIZE のブログの記事。記事の頭に断り書きを出す（2026-11-18、船長）
+    crystallize: z.boolean().optional(),
     draft: z.boolean().optional(),
   }),
 });
