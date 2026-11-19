@@ -1,0 +1,241 @@
+---
+import { youMayDreamJsonLd } from '../../../../data/rockJsonLd';
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const M = (f: string) => `https://media.cabin1701.com/japoneson/rock/you-may-dream/${f}`;
+const title = 'You May Dream —— サンハウス前夜の1ページ — Japonéson';
+const description = '2011年の若松のステージから、純太郎さん、鮎川さんとシーナさん、柴山さんへ。サンハウス結成前にあった福岡の音楽シーンの1ページ。';
+
+const trail = [
+  { slug: 'rock', title: 'めんたいROCK!!', path: `${base}ja/rock/` },
+  { slug: 'you-may-dream', title: 'You May Dream', path: `${base}ja/rock/you-may-dream/` },
+];
+---
+
+<Layout title={title} description={description} lang="ja" jsonLd={youMayDreamJsonLd({ lang: "ja", path: "/ja/rock/you-may-dream/", title, description })} ogImage="images/rock/you-may-dream-hero.jpg">
+  <Header lang="ja" />
+  <main class="rock-main">
+    <ProjectHero
+      title="You May Dream"
+      subtitle="サンハウス前夜の1ページ"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="60px"
+      titleColor="#e02a46"
+      image={`${base}images/rock/you-may-dream-hero.jpg`}
+      imageAlt="柴山俊之"
+      align="center"
+      height={1000}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="ja" />
+    </div>
+
+    <section class="ymd">
+      <div class="ymd-inner">
+
+        <nav class="page-toc" id="contents" aria-label="目次">
+          <p class="page-toc-head">目次</p>
+          <ol>
+            <li><a href="#wakamatsu-2011">2011年、若松で見たステージ</a></li>
+            <li><a href="#junjii-and-the-note">純爺と「この子よろしく」の紙切れ</a></li>
+            <li><a href="#mentai-rock-stalled">「めんたいRock!!」の立ち上げと頓挫</a></li>
+            <li><a href="#i-cant-give-you">花束と、シーナさんの言葉</a></li>
+            <li><a href="#you-may-dream">You May Dream——点と線がつながる</a></li>
+          </ol>
+        </nav>
+        <hr class="toc-rule" />
+
+        <h2 class="ymd-h2" id="wakamatsu-2011">1. 2011年、若松で見たステージ</h2>
+        <p>2011年東日本大震災をきっかけに、横浜から故郷の北九州に引っ越しました。<br />その年、友人がコンサートに行けないからと、若松で行われるコンサートチケットをもらいました。</p>
+        <figure class="ymd-fig">
+          <img src={M('ticket.jpg')} alt="東日本大震災復興支援チャリティーライブのチケット。若松市民会館、2011年7月31日" loading="lazy" data-zoom />
+          <figcaption>東日本大震災復興支援チャリティーライブのチケット。若松市民会館（2011年7月31日）</figcaption>
+        </figure>
+        <p>子供の頃に憧れていたシーナ&ザロケッツを初めて生で見ました。<br />ポリープの手術を経た彼女の声はお世辞にも美しい声でもなく、歌手の私から見て上手い歌手でもなかった。だけど彼女のステージは絶対的で、非常に肯定的でした。ニューヨークでいくつものコンサートやライブを見てきた私にとってそれは驚きでした。</p>
+        <figure class="ymd-fig">
+          <img src={M('wakamatsu.jpg')} alt="若松市民会館のステージのシーナ＆ザ・ロケッツ、Sheena と鮎川誠。2011年7月31日" loading="lazy" data-zoom />
+          <figcaption>若松市民会館にて、シーナ＆ザ・ロケッツ（2011年7月31日）</figcaption>
+        </figure>
+        <p>長い間眠っていた子供の頃の憧れが、現実と交差し始めました。</p>
+
+        <p class="toc-back"><a href="#contents">↑ 目次</a></p>
+
+        <h2 class="ymd-h2" id="junjii-and-the-note">2. 純爺と「この子よろしく」の紙切れ</h2>
+        <p><a href={`${base}ja/rock/voices/#juntaro`}>福田純太郎</a> さんは、私が初めて小倉で歌の仕事をしていた頃のピアニスト（デイブちゃん）のお兄さんでした。お店のママの計らいで、私は二人が出演するお店で時々お手伝いをしてました。</p>
+        <p>純太郎さんは自分のことを純爺と言っていたので、私は純太郎さんを純爺と呼びました。足が悪く、体の痛みもよくあったようで、お店に来れない日もよくありました。</p>
+        <p>それでも「純太郎さん！」と言って古くからの友達・・・ファン？が、その老耄を訪ねてよくお店にやってきました。</p>
+        <p>シナロケのコンサートの後、純爺に、シナロケがすげかったと、鮎川さんとシーナさんが子供の頃の憧れだったというと、鮎川さんは後輩だと言う。以前も言っていたけど、意味が分かってなかったの。</p>
+        <p>近くのショッピングモールでシーナさんと鮎川さんの高塔山JAMの告知をかねたトークライブがあると知り、純爺に一緒に行ってくれ、鮎川さんに紹介してくれ、というと。紙に「この子よろしく」と書いて、これを持って行けといった。</p>
+        <p>「は。。。これ持って行ったらいいの？は・・・」</p>
+        <p>でも、当日、純爺は奥さんと、杖をついてショッピングモールに来てくれて鮎川さんとシーナさんに紹介してくれた。</p>
+        <figure class="ymd-fig">
+          <img src={M('shoppingmall.jpg')} alt="Sheena、福田純太郎、Seina、鮎川誠。チャチャタウンにて、2011年8月" loading="lazy" data-zoom />
+          <figcaption>ショッピングモール、チャチャタウンにて。2011年8月</figcaption>
+        </figure>
+        <p>私は、なんでか、どうしても、私のCDを渡さないとと思い、それを持って行って渡した。私は第二次世界大戦時代のアメリカの歌で綴ったアルバムを作ってたの。これを書いてる（2026年11月）数日前に、AIとの検索で鮎川さんの音楽のルーツが、お父様の持っていたビングクロスビーやフランクシナトラにありVディスクという軍が作っていた音楽ディスクを聴いていたと知りました。（私の活動は英語サイト）</p>
+        <p>高塔山JAMに行きたいと純爺と話してると、終わったら恒例の打ち上げがあるという。<br />「純爺！それはなんだ！行きたい！行きたい！連れてって！！！！」というと、脚も悪いので、高塔山に行くのは厳しいと言った。</p>
+        <p>でも、当日、ライブが終わる頃に、純爺は杖をついて奥さんと来てくれた。そして打ち上げに連れて行ってくれた。</p>
+        <p>打ち上げで、鮎川さんとシーナさんに会えた。一緒に飲めた。タバコも吸えた。</p>
+        <p>中学生の頃に聴いていたサンハウスの柴山さんにも会えた。純爺に写真撮りたい、話しかけていい？って聞くと、行ってこいと言った。だけど、純爺は柴山さんに近づかなかったし、言葉を濁してた。</p>
+        <p>柴山さんは思ってたより可愛い顔をした優しそうな人だった。</p>
+        <figure class="ymd-fig">
+          <img src={M('junjy-shibayama.jpg')} alt="福田純太郎と柴山俊之。高塔山JAM打ち上げにて、2012年9月" loading="lazy" data-zoom />
+          <figcaption>高塔山JAM打ち上げにて　福田純太郎、柴山俊之（2012年9月）</figcaption>
+        </figure>
+
+        <p class="toc-back"><a href="#contents">↑ 目次</a></p>
+
+        <h2 class="ymd-h2" id="mentai-rock-stalled">3. 「めんたいRock!!」の立ち上げと頓挫</h2>
+        <p>私は、北九州のロックはこの街の音、ブルースだと感じ、これは残さないとと思い、この「めんたいRock!!」のサイトを作りたいと動き始めました。</p>
+        <p>私はロック畑じゃない。ましてや地元のミュージシャンとのつながりもなく、ジャズのミュージシャンにはちょっと嫌われていました。だからまず、純爺に相談に行き、後ろ盾的に、一筆書いてくれと言いました。</p>
+        <p>純爺は南浩二が死んでから、そう言う連中との付き合いはないから紹介できる奴はいないが、<a href={`${base}ja/rock/voices/#dobb`}>Dobb</a>のとこに行けといった。</p>
+        <p>Dobbさんが働いてる店に行って、サイトのことを話すと、ちょっと引いた感じもあったけど、協力してくれると言った。</p>
+        <p>鮎川さんにも伝えました。</p>
+        <p>でも、周りはあまり快く思ってなかったようだった。</p>
+        <p>そして、「めんたいロック」という言葉に異議をとなえるひともいた。鼻で笑う人もいた。</p>
+        <p>「この言葉がもう代名詞になっててわかりやすいの。この言葉を使うのがいいのよ。」</p>
+        <p>そう、言い返した。</p>
+        <p>でも、結局このサイトは、「はじまりの言葉」とDobbさんのめんたいロックの説明だけで、頓挫しました。</p>
+
+        <p class="toc-back"><a href="#contents">↑ 目次</a></p>
+
+        <h2 class="ymd-h2" id="i-cant-give-you">4. 花束と、シーナさんの言葉</h2>
+        <p>それから半年ほどしたある日、純太郎さんが、鮎川が店に来とると。<br />でも純爺は体調が良くなくてお店に行けないと悔しそうにFBに投稿していました。</p>
+        <p>私はそれを見て、即座に、すっぴんのまま、自転車に乗り、花屋でお花を買って、お店に行きました。</p>
+        <figure class="ymd-fig">
+          <img src={M('junjy-mise.jpg')} alt="ひまわりの花束を持つ Sheena と鮎川誠。なしかde Saion、2012年5月15日" loading="lazy" data-zoom />
+          <figcaption>なしかde Saion ひまわりの花束を持って。Sheenaと鮎川誠2012年5月15日</figcaption>
+        </figure>
+        <p>お店のママが、一曲歌わせなさいとデイブちゃんに目配せをしました。デイブちゃんがイントロを弾き始めました。</p>
+        <p>I Can’t Give You Anything But Love。</p>
+        <p>私にはお金も何もあげられないけど、愛だけはあげられる。</p>
+        <p>「あなたみたいなワイルドな子が、こんなとこにいるなんてね」</p>
+        <p>シーナさんがぼそっと言いました。</p>
+        <p>翌年の高塔山JAMでは純太郎さんは私が参加できるようにと、打ち上げだけ来てくれました。</p>
+        <p>鮎川さんとシーナさんは、すぐに純爺のそばにきました。</p>
+        <p>シーナさんは、私に元気にしてたかと聞きました。<br />私は、きついんだ、と言いました。</p>
+        <p>「あなたみたいなへんちくりんな子はここでは大変なのよ」</p>
+        <p>「私・・・へんちくりん、なんですか？」</p>
+        <p>「そうよ、あなたは」</p>
+        <p>「なんでわかるんですか」</p>
+        <p>「私がそうだったから」</p>
+        <p>そして力強く抱きしめてくれました。</p>
+        <figure class="ymd-fig">
+          <img src={M('henchikurin.jpg')} alt="鮎川誠と、Seina の肩を抱く Sheena。高塔山JAM打ち上げにて、2012年9月" loading="lazy" data-zoom />
+          <figcaption>高塔山JAM打ち上げにて　鮎川誠、Seinaの肩を抱くSheena（2012年9月）</figcaption>
+        </figure>
+        <p>純爺は「柴山と話してくる」と席を立ちました。そして嬉しそうに戻ってきました。</p>
+        <p>2015年2月14日、シーナさんがお亡くなりになりました。ニューヨークにいた私は、献花ができることを知りインターネットから申し込みました。これで、私も葬儀に参加できると。</p>
+        <figure class="ymd-fig ymd-fig-narrow">
+          <img src={M('sheena-kenka.jpg')} alt="Sheena への献花者の名前の一覧" loading="lazy" data-zoom />
+          <figcaption>鮎川さんが献花した人の名前をサイトで残してくれました。（最下段右から3番目）</figcaption>
+        </figure>
+        <p>2017年。長期滞在中のキューバから一時帰国して東京にいた私は、鮎川さんが横浜のライブハウスに出演すると知った。シーナさんが亡くなって以来、初めて鮎川さんに会いました。お金がなかったからライブが終わる頃にライブハウスに行き、鮎川さんに会いたいと伝えました。</p>
+        <p>楽屋で鮎川さんに、サイトが全くうまくいかず、放置状態になってること。<br />「ごめんなさい」といった。</p>
+        <p>鮎川さんは、「あれ、よう書けとーけ、そのまんまにしとき」といった。</p>
+
+        <p class="toc-back"><a href="#contents">↑ 目次</a></p>
+
+        <h2 class="ymd-h2" id="you-may-dream">5. You May Dream——点と線がつながる</h2>
+        <p>2022年12月29日、純爺が亡くなり、それからちょうど1ヶ月後の2023年1月29日鮎川さんが亡くなりました。</p>
+        <p>デイブちゃんと純爺の<a href={`${base}ja/essay/1002/`}>追悼ライブ</a>をすることにしました。</p>
+        <p>2026年11月、Wordpressのサイトの整理の必要もあり、めんたいロックのことは日本語では多くの人が書いてるので、「めんたいRock!!」の日本語サイトは閉鎖し、内容を英語とスペイン語にして残すことにしました。</p>
+        <p>英語でどう書くと伝わりやすいかと、模索していた時に、You May Dreamという曲が当時の日本のロックの二つの大きな流れが見事にクロスしている作品だと気づきました。</p>
+        <div class="ymd-video">
+          <div class="ymd-video-box">
+            <iframe src="https://www.youtube.com/embed/JtjQ9Bk_lCg" title="You May Dream" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+          </div>
+        </div>
+        <p class="ymd-credit">作詞　柴山俊之, Chris Mosdell<br />作曲　鮎川誠, 細野晴臣</p>
+        <p>その流れの元を辿っていた時、サンハウスのベースの浜田卓という人が、純太郎さんが歌ってたバイキングというバンドのベースで、そのバイキングというバンドは、当時福岡でナンバーワンのバンドで一番巧かったと。</p>
+        <p>そして、純爺が柴山さんに言葉を濁し、その翌年、話をして嬉しそうな顔をしていたことの意味も、鮎川さんがいつも「純太郎さんは？」といつも一声目にいい、いつも気にかけて大切にしていた意味も。</p>
+        <p>そして、このサイトを残す意味も。<br />サンハウス結成前にあった福岡の音楽シーンの１ページを残すために。</p>
+        <div class="ymd-video">
+          <div class="ymd-video-box">
+            <iframe src="https://www.youtube.com/embed/LY6jXuBAlDI" title="サンハウス『レモン・ティー』" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+          </div>
+        </div>
+
+        <p class="toc-back"><a href="#contents">↑ 目次</a></p>
+      </div>
+    </section>
+  </main>
+  <Footer lang="ja" />
+</Layout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const triggers = document.querySelectorAll<HTMLImageElement>('img[data-zoom]');
+    if (!triggers.length) return;
+    const box = document.createElement('div');
+    box.className = 'letter-lightbox';
+    const big = document.createElement('img');
+    box.appendChild(big);
+    document.body.appendChild(box);
+    triggers.forEach((trigger) => {
+      trigger.addEventListener('click', () => {
+        big.src = trigger.currentSrc || trigger.src;
+        big.alt = trigger.alt;
+        box.classList.add('open');
+      });
+    });
+    box.addEventListener('click', () => box.classList.remove('open'));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') box.classList.remove('open');
+    });
+  });
+</script>
+
+<style is:global>
+  .letter-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.85);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+    padding: 2rem;
+  }
+  .letter-lightbox.open {
+    display: flex;
+  }
+  .letter-lightbox img {
+    max-width: 92vw;
+    max-height: 92vh;
+    width: auto;
+    height: auto;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+  }
+</style>
+
+
+<style>
+  .rock-main { --color-accent: #e02a46; }
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+  :global(.p-hero .subtitle) { text-shadow: 0 0 6px rgba(0,0,0,0.9), 0 2px 4px rgba(0,0,0,0.9); }
+  .ymd { padding: 1.5rem 1.25rem 3rem; }
+  .ymd-inner { max-width: 780px; margin: 0 auto; font-family: Helvetica, Arial, sans-serif; font-size: 17px; line-height: 1.8; color: #2a2a2a; }
+  .ymd-inner p { margin: 0 0 1.1rem; }
+  .ymd-inner p a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .ymd-h2 { font-family: var(--font-section); font-weight: 700; font-size: 24px; color: #020450; margin: 2.5rem 0 1rem; scroll-margin-top: 80px; }
+  .ymd-fig { margin: 1.5rem auto 2rem; }
+  .ymd-fig img { width: 100%; height: auto; display: block; cursor: zoom-in; }
+  .ymd-fig figcaption { font-size: 14px; color: #666; margin-top: 0.5rem; text-align: center; }
+  .ymd-fig-narrow { max-width: 560px; }
+  .ymd-video { max-width: 560px; margin: 1.5rem auto 1rem; }
+  .ymd-video-box { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }
+  .ymd-video-box iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+  .ymd-inner p.ymd-credit { text-align: center; font-size: 15px; color: #555; }
+</style>

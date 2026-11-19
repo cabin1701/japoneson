@@ -120,3 +120,50 @@ export function rockJsonLd(opts: { lang: 'en' | 'es' | 'ja'; path: string; title
     citation: [lp1981, ...oralHistories(lang)],
   };
 }
+
+// You May Dream（/rock/you-may-dream/）。2026-11-19、Eddie
+// 柴山俊之：Wikidata Q11534660 と VIAF 257940042（VIAF の側で「柴山, 俊之, 1947-」を確かめた）。
+// ISNI は VIAF からは確かめられなかったので入れていない。細野晴臣は Wikidata の番号だけ。
+// 福田純太郎・浜田卓・バイキングは、典拠の記録が見つからないので、名前だけ。
+// 曲「You May Dream」の Wikidata（Q17215470）はテレビ番組の項目だったので入れていない。
+const shibayama = {
+  '@type': 'Person',
+  '@id': `${SITE}/#toshiyuki-shibayama`,
+  name: 'Toshiyuki Shibayama',
+  alternateName: '柴山俊之',
+  memberOf: [{ '@id': sonhouse['@id'] }],
+  sameAs: ['http://www.wikidata.org/entity/Q11534660', 'http://viaf.org/viaf/257940042'],
+};
+
+const juntaro = {
+  '@type': 'Person',
+  name: 'Juntaro Fukuda',
+  alternateName: '福田純太郎',
+  memberOf: [{ '@type': 'MusicGroup', name: 'Viking' }],
+};
+
+const youMayDreamSong = {
+  '@type': 'MusicComposition',
+  name: 'You May Dream',
+  lyricist: [{ '@id': shibayama['@id'] }, { '@type': 'Person', name: 'Chris Mosdell' }],
+  composer: [
+    { '@id': ayukawa['@id'] },
+    { '@type': 'Person', name: 'Haruomi Hosono', alternateName: '細野晴臣', sameAs: ['http://www.wikidata.org/entity/Q705221'] },
+  ],
+};
+
+export function youMayDreamJsonLd(opts: { lang: 'en' | 'es' | 'ja'; path: string; title: string; description: string }) {
+  const { lang, path, title, description } = opts;
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: title,
+    description,
+    url: `${SITE}${path}`,
+    inLanguage: lang,
+    author: { '@type': 'Person', '@id': 'https://cabin1701.com/#person', name: 'Shoko "Seina" Shiraishi' },
+    isPartOf: { '@type': 'WebSite', name: 'Japonéson', url: `${SITE}/` },
+    about: [sonhouse, sheenaRokkets, youMayDreamSong],
+    mentions: [ayukawa, shibayama, juntaro, mentaiRock],
+  };
+}

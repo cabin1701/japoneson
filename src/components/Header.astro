@@ -156,6 +156,7 @@ const nav: NavItem[] = [
     path: 'rock/',
     children: [
       { label: 'The Two Pillars', labelEs: 'Los Dos Pilares', path: 'rock/two-pillars/' },
+      { label: 'You May Dream | Before Sonhouse', labelEs: 'You May Dream | Antes de Sonhouse', path: 'rock/you-may-dream/' },
       { label: 'Voices of the Scene', labelEs: 'Voces de la Escena', path: 'rock/voices/' },
       { label: 'The Roosters Shone Like No Other', labelEs: 'The Roosters brillaban como ningún otro', path: 'rock/takano/' },
     ],
@@ -172,7 +173,7 @@ const navJa: NavItem[] = nav
         label: 'めんたいROCK!!',
         children: n.children?.map((c) => ({
           ...c,
-          label: ({ 'rock/two-pillars/': '二つの柱', 'rock/voices/': 'はじまりの声', 'rock/takano/': 'ルースターズは特別光っとったんよ' } as Record<string, string>)[c.path ?? ''] ?? c.label,
+          label: ({ 'rock/two-pillars/': '二つの柱', 'rock/you-may-dream/': 'You May Dream | サンハウス前夜', 'rock/voices/': 'はじまりの声', 'rock/takano/': 'ルースターズは特別光っとったんよ' } as Record<string, string>)[c.path ?? ''] ?? c.label,
         })),
       }
     : n));

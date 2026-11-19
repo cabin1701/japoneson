@@ -1,0 +1,224 @@
+---
+import { youMayDreamJsonLd } from '../../../../data/rockJsonLd';
+import Layout from '../../../../layouts/Layout.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+import Breadcrumb from '../../../../components/Breadcrumb.astro';
+import ProjectHero from '../../../../components/ProjectHero.astro';
+
+const base = import.meta.env.BASE_URL;
+const M = (f: string) => `https://media.cabin1701.com/japoneson/rock/you-may-dream/${f}`;
+const title = 'You May Dream — Before Sonhouse — Japonéson';
+const description = 'From a 2011 stage in Wakamatsu to Juntaro Fukuda, Makoto Ayukawa and Sheena, and Toshiyuki Shibayama: a page of the Fukuoka music scene before Sonhouse.';
+
+const trail = [
+  { slug: 'rock', title: 'MENTAI ROCK', path: `${base}en/rock/` },
+  { slug: 'you-may-dream', title: 'YOU MAY DREAM', path: `${base}en/rock/you-may-dream/` },
+];
+---
+
+<Layout title={title} description={description} lang="en" jsonLd={youMayDreamJsonLd({ lang: "en", path: "/en/rock/you-may-dream/", title, description })} ogImage="images/rock/you-may-dream-hero.jpg">
+  <Header lang="en" />
+  <main class="rock-main">
+    <ProjectHero
+      title="You May Dream"
+      subtitle="Before Sonhouse"
+      titleFont="var(--font-display-cinzel)"
+      titleWeight={700}
+      titleSize="60px"
+      titleColor="#e02a46"
+      image={`${base}images/rock/you-may-dream-hero.jpg`}
+      imageAlt="Toshiyuki Shibayama"
+      align="center"
+      height={1000}
+      fit="cover"
+      overlayTop={0}
+      overlayBottom={0}
+    />
+
+    <div class="container breadcrumb-wrap">
+      <Breadcrumb trail={trail} lang="en" />
+    </div>
+
+    <section class="ymd">
+      <div class="ymd-inner">
+
+        <nav class="page-toc" id="contents" aria-label="Contents">
+          <p class="page-toc-head">Contents</p>
+          <ol>
+            <li><a href="#wakamatsu-2011">2011: The Stage in Wakamatsu</a></li>
+            <li><a href="#junjii-and-the-note">Junjy and the Scrap of Paper Saying "Take Care of This Girl"</a></li>
+            <li><a href="#mentai-rock-stalled">Launching and Stalling of "Mentai Rock!!"</a></li>
+            <li><a href="#i-cant-give-you">A Bouquet of Flowers, and Sheena-san's Words</a></li>
+            <li><a href="#you-may-dream">You May Dream — Connecting the Dots</a></li>
+          </ol>
+        </nav>
+        <hr class="toc-rule" />
+
+        <h2 class="ymd-h2" id="wakamatsu-2011">1. 2011: The Stage in Wakamatsu</h2>
+        <p>After the 2011 Great East Japan Earthquake, I moved from Yokohama back to my hometown of Kitakyushu. That year, a friend couldn’t make it to a show and gave me their ticket for a concert in Wakamatsu.</p>
+        <figure class="ymd-fig">
+          <img src={M('ticket.jpg')} alt="Ticket for the Great East Japan Earthquake reconstruction charity live. Wakamatsu Civic Hall, July 31, 2011" loading="lazy" data-zoom />
+          <figcaption>Ticket for the Great East Japan Earthquake reconstruction charity live. Wakamatsu Civic Hall (July 31, 2011)</figcaption>
+        </figure>
+        <p>For the first time, I saw Sheena & The Rokkets—the band I had idolized as a child—perform live. After undergoing surgery for vocal cord polyps, Sheena’s voice was by no means conventionally pretty, nor was she a technically "skilled" singer from my perspective as a vocalist myself. Yet her presence on stage was absolute, radiating an overwhelming, unconditional affirmation. Having seen countless concerts and live shows in New York, I was stunned.</p>
+        <figure class="ymd-fig">
+          <img src={M('wakamatsu.jpg')} alt="Sheena and Makoto Ayukawa of Sheena & The Rokkets on stage at Wakamatsu Civic Hall, July 31, 2011" loading="lazy" data-zoom />
+          <figcaption>Sheena & The Rokkets at Wakamatsu Civic Hall (July 31, 2011)</figcaption>
+        </figure>
+        <p>A childhood longing that had slept inside me for years began to cross paths with reality.</p>
+        <p class="toc-back"><a href="#contents">↑ Contents</a></p>
+
+        <h2 class="ymd-h2" id="junjii-and-the-note">2. Junjy and the Scrap of Paper Saying "Take Care of This Girl"</h2>
+        <p><a href={`${base}en/rock/voices/#juntaro`}>Juntaro Fukuda</a> was the older brother of Dave-chan, the pianist I played with when I first started singing professionally in Kokura. Thanks to the kindness of the bar’s mama-san, I occasionally helped out at the club where the two of them performed.</p>
+        <p>Since Juntaro called himself "Junjy" (Old Man Jun), I called him Junjy too. He had a bad leg and often seemed to be in physical pain, so there were many days he couldn’t make it to the club. Even so, old friends—or perhaps fans?—would frequently drop by the bar looking for that frail old man, calling out, "Juntaro-san!"</p>
+        <p>After the Sheena & The Rokkets concert, I told Junjy how incredible they had been, and how Makoto Ayukawa and Sheena had been my childhood idols. Junjy replied that Ayukawa was his junior from the same local music scene. He had mentioned that before, though I hadn’t really grasped what he meant.</p>
+        <p>When I heard that Sheena and Ayukawa were going to hold a talk and live event at a nearby shopping mall to promote the Takatoyama JAM festival, I asked Junjy to come with me and introduce me to Ayukawa. He scribbled "Take care of this girl" on a scrap of paper and told me to take it with me.</p>
+        <p>Yet when the day came, Junjy showed up at the shopping mall with his wife, leaning on his cane, and introduced me to Ayukawa and Sheena.</p>
+        <figure class="ymd-fig">
+          <img src={M('shoppingmall.jpg')} alt="Sheena, Juntaro Fukuda, Seina and Makoto Ayukawa at Chacha Town, August 2011" loading="lazy" data-zoom />
+          <figcaption>At Chacha Town shopping mall. August 2011</figcaption>
+        </figure>
+        <p>For some reason, I felt I absolutely had to give them my CD, so I brought it along and handed it to them. I had recorded an <a href={`${base}en/swing/dream/`}>album woven from American songs of the World War II era</a>. Just a few days before writing this (in November 2026), while researching with AI, I discovered that Ayukawa’s musical roots traced back to the Bing Crosby and Frank Sinatra records his father owned, and that he used to listen to <a href={`${base}en/swing/beginning/#bg-4`}>V-Discs—the military-produced records</a> created for U.S. troops.</p>
+        <p>When I told Junjy that I wanted to go to Takatoyama JAM, he mentioned that there was an annual after-party once the show ended. "Junjy! What is that?! I want to go! I want to go! Take me with you!!!!" I said. Because of his bad leg, however, he told me that making the trip up to Takatoyama would be tough for him.</p>
+        <p>Yet when the day came, just as the show was wrapping up, Junjy arrived with his wife, leaning on his cane. And he took me to the after-party.</p>
+        <p>At the after-party, I got to meet Ayukawa-san and Sheena-san. I drank with them. I even smoked with them. I also met Shibayama-san of Sonhouse, the band I had listened to back in junior high school. When I asked Junjy if I could take a photo with him and go talk to him, he told me, "Go on." Still, Junjy didn’t walk over to Shibayama-san himself, and his words remained vague. Shibayama-san turned out to have a much cuter face and a gentler air than I had imagined.</p>
+        <figure class="ymd-fig">
+          <img src={M('junjy-shibayama.jpg')} alt="Juntaro Fukuda and Toshiyuki Shibayama at the Takatoyama JAM after-party, September 2012" loading="lazy" data-zoom />
+          <figcaption>At the Takatoyama JAM after-party: Juntaro Fukuda and Toshiyuki Shibayama (September 2012)</figcaption>
+        </figure>
+        <p class="toc-back"><a href="#contents">↑ Contents</a></p>
+
+        <h2 class="ymd-h2" id="mentai-rock-stalled">3. Launching and Stalling of "Mentai Rock!!"</h2>
+        <p>Feeling that Kitakyushu’s rock was the sound of this city—its very blues—and determined that it had to be preserved, I set out to create a website called "Mentai Rock!!"</p>
+        <p>I didn’t come from a rock background. Worse yet, I had no connections with local musicians, and I was even slightly disliked by the jazz musicians in town. So first, I went to consult Junjy and asked him to write a brief endorsement to back me up. Junjy told me that ever since Koji Minami passed away, he hadn’t kept in touch with that crowd and had no one he could introduce me to—but he told me to go see <a href={`${base}en/rock/voices/#dobb`}>Dobb</a>.</p>
+        <p>When I visited the bar where Dobb-san worked and told him about the website, he seemed a bit taken aback at first, yet he agreed to cooperate.</p>
+        <p>I also told Ayukawa-san about it. However, the people around us didn't seem too pleased with the idea. And some even objected to the term "Mentai Rock." Some sneered at it. "This word has already become synonymous with the scene, so it's easy to understand. It's good to use this word," I shot back. Still, in the end, the site stalled out with nothing more than an opening message and Dobb-san’s explanation of Mentai Rock.</p>
+        <p class="toc-back"><a href="#contents">↑ Contents</a></p>
+
+        <h2 class="ymd-h2" id="i-cant-give-you">4. A Bouquet of Flowers, and Sheena-san's Words</h2>
+        <p>About six months later, Juntaro-san posted on Facebook that Ayukawa was visiting the bar—sounding frustrated that he wasn't feeling well enough to go himself.</p>
+        <p>Seeing that, I immediately hopped on my bicycle just as I was, without a stitch of makeup, bought flowers at a florist, and headed straight to the bar.</p>
+        <figure class="ymd-fig">
+          <img src={M('junjy-mise.jpg')} alt="Sheena and Makoto Ayukawa holding a bouquet of sunflowers at なしかde Saion, May 15, 2012" loading="lazy" data-zoom />
+          <figcaption>At なしかde Saion, holding a bouquet of sunflowers: Sheena and Makoto Ayukawa, May 15, 2012</figcaption>
+        </figure>
+        <p>The bar’s mama-san caught Dave-chan’s eye, signaling him to let me sing a song. Dave-chan began playing the intro.</p>
+        <p><em>I Can’t Give You Anything But Love.</em></p>
+        <p>I have no money or anything else to give, only love.</p>
+        <p>"To think a wild girl like you is around here," Sheena-san murmured.</p>
+        <p>At the following year's Takatoyama Jam, Juntaro-san showed up just for the after-party so that I could attend.</p>
+        <p>Ayukawa-san and Sheena-san immediately came over to sit beside Junjy.</p>
+        <p>Sheena-san asked me how I had been doing.<br />I told her that things had been really tough.</p>
+        <p>"It's hard around here for a quirky misfit like you."</p>
+        <p>"Me... a quirky misfit?"</p>
+        <p>"Yes, you are."</p>
+        <p>"How can you tell?"</p>
+        <p>"Because I was just like that."</p>
+        <p>And then she held me in a tight, powerful embrace.</p>
+        <figure class="ymd-fig">
+          <img src={M('henchikurin.jpg')} alt="Makoto Ayukawa, and Sheena with her arm around Seina, at the Takatoyama JAM after-party, September 2012" loading="lazy" data-zoom />
+          <figcaption>At the Takatoyama JAM after-party: Makoto Ayukawa, and Sheena with her arm around Seina (September 2012)</figcaption>
+        </figure>
+        <p>"I'll go talk to Shibayama," Junjy said, standing up, and came back looking delighted.</p>
+        <p>On February 14, 2015, Sheena-san passed away. I was in New York at the time, and when I learned that it was possible to send flowers online, I placed an order—thinking that this way, I too could take part in her funeral.</p>
+        <figure class="ymd-fig ymd-fig-narrow">
+          <img src={M('sheena-kenka.jpg')} alt="List of the names of those who sent flowers for Sheena" loading="lazy" data-zoom />
+          <figcaption>Ayukawa-san preserved the names of everyone who sent flowers on the website (bottom row, third from the right).</figcaption>
+        </figure>
+        <p>In 2017, I was temporarily back in Tokyo from my extended stay in Cuba when I learned that Ayukawa-san was performing at a live house in Yokohama. It was the first time I had seen him since Sheena-san passed away. Since I didn't have much money, I went to the venue just as the show was wrapping up and asked if I could see him. Backstage, I told Ayukawa-san that the website hadn't gone well at all and had been left untouched. "I'm sorry," I said.</p>
+        <p>Ayukawa-san replied in his Hakata dialect, "That's well written, just leave it as it is."</p>
+        <p class="toc-back"><a href="#contents">↑ Contents</a></p>
+
+        <h2 class="ymd-h2" id="you-may-dream">5. You May Dream — Connecting the Dots</h2>
+        <p>Junjy passed away on December 29, 2022, and just one month later, on January 29, 2023, Ayukawa-san passed away as well. Dave-chan and I decided to hold a <a href={`${base}ja/essay/1002/`}>memorial live show</a>(Japanese post) for Junjy.</p>
+        <p>In November 2026, with the need to reorganize my WordPress sites—and because plenty of people already write about Mentai Rock in Japanese—I decided to close the Japanese "Mentai Rock!!" site and preserve its content in English and Spanish instead.</p>
+        <p>When I was searching for how to write this in English so it would be easy to understand, I realized that the song "You May Dream" is a piece where two major currents of Japanese rock at the time intersected magnificently.</p>
+        <div class="ymd-video">
+          <div class="ymd-video-box">
+            <iframe src="https://www.youtube.com/embed/JtjQ9Bk_lCg" title="You May Dream" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+          </div>
+        </div>
+        <p class="ymd-credit">Lyrics: Toshiyuki Shibayama, Chris Mosdell<br />Music: Makoto Ayukawa, Haruomi Hosono</p>
+        <p>Tracing those currents back to their roots, I learned that Sonhouse’s bassist, Taku Hamada, had played bass in a band called Viking where Juntaro-san was the vocalist—and that Viking was the number-one, most skilled band in Fukuoka at the time.</p>
+        <p>And then everything clicked: why Junjy had been hesitant to speak directly to Shibayama-san at first, why he looked so delighted after finally talking with him the following year, why Ayukawa-san’s very first words were always "How’s Juntaro-san?" and why he always looked out for him and held him so dear.</p>
+        <p>And also, the meaning of keeping this site alive:<br />To preserve a single page of the Fukuoka music scene that existed before Sonhouse was formed.</p>
+        <div class="ymd-video">
+          <div class="ymd-video-box">
+            <iframe src="https://www.youtube.com/embed/LY6jXuBAlDI" title="Sonhouse – Lemon Tea" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+          </div>
+        </div>
+        <p class="toc-back"><a href="#contents">↑ Contents</a></p>
+
+      </div>
+    </section>
+  </main>
+  <Footer lang="en" />
+</Layout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const triggers = document.querySelectorAll<HTMLImageElement>('img[data-zoom]');
+    if (!triggers.length) return;
+    const box = document.createElement('div');
+    box.className = 'letter-lightbox';
+    const big = document.createElement('img');
+    box.appendChild(big);
+    document.body.appendChild(box);
+    triggers.forEach((trigger) => {
+      trigger.addEventListener('click', () => {
+        big.src = trigger.currentSrc || trigger.src;
+        big.alt = trigger.alt;
+        box.classList.add('open');
+      });
+    });
+    box.addEventListener('click', () => box.classList.remove('open'));
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') box.classList.remove('open');
+    });
+  });
+</script>
+
+<style is:global>
+  .letter-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.85);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    cursor: zoom-out;
+    padding: 2rem;
+  }
+  .letter-lightbox.open {
+    display: flex;
+  }
+  .letter-lightbox img {
+    max-width: 92vw;
+    max-height: 92vh;
+    width: auto;
+    height: auto;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+  }
+</style>
+
+
+<style>
+  .rock-main { --color-accent: #e02a46; }
+  .breadcrumb-wrap { padding-top: 1rem; padding-bottom: 0; }
+  :global(.p-hero .subtitle) { text-shadow: 0 0 6px rgba(0,0,0,0.9), 0 2px 4px rgba(0,0,0,0.9); }
+  .ymd { padding: 1.5rem 1.25rem 3rem; }
+  .ymd-inner { max-width: 780px; margin: 0 auto; font-family: Helvetica, Arial, sans-serif; font-size: 17px; line-height: 1.8; color: #2a2a2a; }
+  .ymd-inner p { margin: 0 0 1.1rem; }
+  .ymd-inner p a { color: var(--color-accent); text-decoration: none; border-bottom: 1px solid currentColor; }
+  .ymd-h2 { font-family: var(--font-section); font-weight: 700; font-size: 24px; color: #020450; margin: 2.5rem 0 1rem; scroll-margin-top: 80px; }
+  .ymd-fig { margin: 1.5rem auto 2rem; }
+  .ymd-fig img { width: 100%; height: auto; display: block; cursor: zoom-in; }
+  .ymd-fig figcaption { font-size: 14px; color: #666; margin-top: 0.5rem; text-align: center; }
+  .ymd-fig-narrow { max-width: 560px; }
+  .ymd-video { max-width: 560px; margin: 1.5rem auto 1rem; }
+  .ymd-video-box { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }
+  .ymd-video-box iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+  .ymd-inner p.ymd-credit { text-align: center; font-size: 15px; color: #555; }
+</style>
