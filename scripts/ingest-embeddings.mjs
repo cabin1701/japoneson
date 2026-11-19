@@ -380,6 +380,7 @@ const DIST_ASTRO_PAGES = [
   { key: 'rock-two-pillars', path: 'rock/two-pillars/' },
   { key: 'rock-voices', path: 'rock/voices/' },
   { key: 'rock-takano', path: 'rock/takano/' },
+  { key: 'rock-you-may-dream', path: 'rock/you-may-dream/' },
 ];
 function distHtmlToText(html) {
   let m = html.match(/<main[\s\S]*?<\/main>/);
