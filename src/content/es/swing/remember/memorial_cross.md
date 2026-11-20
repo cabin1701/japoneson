@@ -44,9 +44,9 @@ Soy cantante y amo profundamente las canciones estadounidenses de los años 1930
 
 Consulté el sitio web de la 24.ª División de Infantería y llamé al Sr. Donald E. Maggio, quien me dio su información de contacto.
 
-En mi ciudad natal, Kokura, tenemos el Memorial de la Guerra de Corea (la Cruz Conmemorativa), construido por las Naciones Unidas.
+En mi ciudad natal, Kokura, tenemos el Memorial de la Guerra de Corea (la Cruz Conmemorativa), construido por las fuerzas de las Naciones Unidas.
 
-Sabía que estaba allí desde que era niña, pero no sabía por qué se encontraba en mi ciudad natal. Le pregunté a la gente al respecto, pero no pude obtener ningún detalle. Fui a la oficina municipal y a la biblioteca, pero tampoco había detalles. Un funcionario de la oficina municipal me dijo que las Naciones Unidas lo habían construido y no dejaron más información.
+Sabía que estaba allí desde que era niña, pero no sabía por qué se encontraba en mi ciudad natal. Le pregunté a la gente al respecto, pero no pude obtener ningún detalle. Fui a la oficina municipal y a la biblioteca, pero tampoco había detalles. Un funcionario de la oficina municipal me dijo que las fuerzas de las Naciones Unidas lo habían construido y no dejaron más información.
 
 Me gustaría saber por qué se construyó la Cruz Conmemorativa en Kokura.  
 ¿Cuántos soldados partieron hacia Corea desde Kokura y nunca regresaron?

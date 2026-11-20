@@ -45,9 +45,9 @@ especially the WWII era and also I am working with ex-POWs of the Pacific War. W
 
 I checked 24th Infantry Division's website and I called Mr. Donald E. Maggio and he gave me your contact information.
 
-In my hometown, Kokura, we have the Korean War Memorial(Memorial Cross) which was built United Nations.
+In my hometown, Kokura, we have the Korean War Memorial(Memorial Cross) which was built by the United Nations forces.
 
-I knew it had been there since I was a child but I didn't know why in my hometown. I asked the people about it but I couldn't get any details. I went to the city office and library but no details. A staff of city office told me the United Nations built and left no further information.
+I knew it had been there since I was a child but I didn't know why in my hometown. I asked the people about it but I couldn't get any details. I went to the city office and library but no details. A staff of city office told me the United Nations forces built it and left no further information.
 
 I'd like to know why the Memorial Cross was built in Kokura.  
 How many soldiers left for Korea from Kokura and never came back?
